@@ -2,7 +2,7 @@
 
 Landlord: Julian and Susan Glasgow  
 
-[Rightmove Listing](https://www.rightmove.co.uk/properties/164433530#/?channel=RES_LET)
+[Rightmove Listing](https://www.rightmove.co.uk/properties/164433530#/?channel=RES_LET) 
 
 ![[floor-plan-westgate.png]]
 

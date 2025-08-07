@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "goog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +206,7 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "f025317cbf976c2d",
+  "active": "1e40955334926c4f",
   "lastOpenFiles": [
     "daily/Daily Note - 7th Aug 2025.md",
     "Westgate/19 Westgate.md",
