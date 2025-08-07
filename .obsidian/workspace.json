@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Standard Template.md",
+                "file": "daily/Daily Note - 6th Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Template"
+              "title": "Daily Note - 6th Aug 2025"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Standard Template.md",
+                "file": "daily/Daily Note - 6th Aug 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Standard Template"
+              "title": "Backlinks for Daily Note - 6th Aug 2025"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Standard Template.md",
+                "file": "daily/Daily Note - 6th Aug 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Standard Template"
+              "title": "Outgoing links from Daily Note - 6th Aug 2025"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/Standard Template.md",
+                "file": "daily/Daily Note - 6th Aug 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Standard Template"
+              "title": "Outline of Daily Note - 6th Aug 2025"
             }
           },
           {
@@ -160,9 +160,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ae6257a254428279",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -181,11 +191,16 @@
   },
   "active": "57044a0d341c9974",
   "lastOpenFiles": [
+    "daily/Daily Note - 7th Aug 2025.md",
+    "daily/Daily Note - 6th Aug 2025.md",
+    "templates/Daily Note.md",
+    "daily/2025-08-06.md",
+    "daily/2025-08-07.md",
+    "templates/Standard Template.md",
     "media/floor-plan-westgate.png",
     "README.md",
     "Finances.md",
     "Westgate/19 Westgate.md",
-    "daily/2025-08-06.md",
     "media"
   ]
 }

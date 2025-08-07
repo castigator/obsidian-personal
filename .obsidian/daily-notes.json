@@ -1,4 +1,6 @@
 {
   "folder": "daily",
-  "autorun": true
+  "autorun": true,
+  "format": "\\D\\a\\i\\l\\y\\ \\N\\o\\t\\e\\ \\- Do MMM YYYY",
+  "template": "templates/Daily Note"
 }
