@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/Daily Note - 7th Aug 2025.md",
+                "file": "Westgate/19 Westgate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note - 7th Aug 2025"
+              "title": "19 Westgate"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/Daily Note - 7th Aug 2025.md",
+                "file": "Westgate/19 Westgate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Note - 7th Aug 2025"
+              "title": "Backlinks for 19 Westgate"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/Daily Note - 7th Aug 2025.md",
+                "file": "Westgate/19 Westgate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Note - 7th Aug 2025"
+              "title": "Outgoing links from 19 Westgate"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/Daily Note - 7th Aug 2025.md",
+                "file": "Westgate/19 Westgate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Note - 7th Aug 2025"
+              "title": "Outline of 19 Westgate"
             }
           },
           {
@@ -207,9 +207,9 @@
   },
   "active": "f025317cbf976c2d",
   "lastOpenFiles": [
-    "daily/Daily Note - 6th Aug 2025.md",
-    "daily/Daily Note - 7th Aug 2025.md",
     "templates/Daily Note.md",
+    "daily/Daily Note - 7th Aug 2025.md",
+    "daily/Daily Note - 6th Aug 2025.md",
     "Finances.md",
     "media/calendar.jpeg",
     "Untitled.md",
