@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "goog",
+                "query": "c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
