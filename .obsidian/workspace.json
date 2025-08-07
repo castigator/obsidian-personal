@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finances.md",
+                "file": "templates/Standard Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Standard Template"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "right": {
     "id": "5744ff3d2d928c92",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finances.md",
+                "file": "templates/Standard Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Finances"
+              "title": "Backlinks for Standard Template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finances.md",
+                "file": "templates/Standard Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Finances"
+              "title": "Outgoing links from Standard Template"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finances.md",
+                "file": "templates/Standard Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Finances"
+              "title": "Outline of Standard Template"
             }
           },
           {
@@ -181,6 +181,9 @@
   },
   "active": "57044a0d341c9974",
   "lastOpenFiles": [
+    "media/floor-plan-westgate.png",
+    "README.md",
+    "Finances.md",
     "Westgate/19 Westgate.md",
     "daily/2025-08-06.md",
     "media"
