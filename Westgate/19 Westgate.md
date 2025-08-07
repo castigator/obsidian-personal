@@ -1,6 +1,6 @@
 19 WESTGATE STREET, LONG MELFORD, SUDBURY, SUFFOLK, CO10 9DS
 
-Landlords: Julian and Susan Glasgow
+Landlord: Julian and Susan Glasgow  
 
 [Rightmove Listing](https://www.rightmove.co.uk/properties/164433530#/?channel=RES_LET)
 

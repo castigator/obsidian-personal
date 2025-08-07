@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +208,9 @@
   },
   "active": "f025317cbf976c2d",
   "lastOpenFiles": [
-    "templates/Daily Note.md",
     "daily/Daily Note - 7th Aug 2025.md",
+    "Westgate/19 Westgate.md",
+    "templates/Daily Note.md",
     "daily/Daily Note - 6th Aug 2025.md",
     "Finances.md",
     "media/calendar.jpeg",
@@ -218,7 +220,6 @@
     "daily/2025-08-06.md",
     "daily/2025-08-07.md",
     "README.md",
-    "Westgate/19 Westgate.md",
     "media"
   ]
 }
