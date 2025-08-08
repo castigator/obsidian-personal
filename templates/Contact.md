@@ -6,6 +6,7 @@ created: ["{{date}} {{time}}"]
 --- 
 
 # {{firstname}} {{lastname}}
+{{primaryPhoto}} 
 
 #person #person/
 
@@ -20,4 +21,4 @@ Phone: {{phones}}
 
 [open in Google Contacts]({{link}}) 
 
-{{primaryPhoto}} 
+
