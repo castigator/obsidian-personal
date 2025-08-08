@@ -1,8 +1,9 @@
 {
   "client_redirect_uri_port": "42601",
-  "folder_person": "",
+  "folder_person": "/people",
   "rename_person_file": true,
   "client_id": "983670051824-a8jgf2re9cetr2d24ck303eshvr7mqr9.apps.googleusercontent.com",
   "client_secret": "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",
-  "template_file_person": "/templates/Contact"
+  "template_file_person": "/templates/Contact",
+  "person_filename_format": "{{firstname}} {{lastname}}"
 }

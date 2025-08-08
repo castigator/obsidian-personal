@@ -7,7 +7,7 @@ created: ["{{date}} {{time}}"]
 
 # {{firstname}} {{lastname}}
 
-#person #person/{{source}}
+#person #person/
 
 {{addresses}}
 
@@ -21,8 +21,3 @@ Phone: {{phones}}
 [open in Google Contacts]({{link}}) 
 
 {{primaryPhoto}} 
-
----- 
-
-## Log 
-### [[{{date}}]] {{time}} - Created
