@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,11 +234,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d10523a7accc1d2",
+  "active": "f025317cbf976c2d",
   "lastOpenFiles": [
-    "people/Untitled.md",
-    "templates/Contact.md",
     "templates/Daily Note.md",
+    "templates/Contact.md",
+    "people/Untitled.md",
     "people/Glasgow, Julian.md",
     "templates/This.md",
     "Westgate/19 Westgate.md",
