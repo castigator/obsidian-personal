@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Daily Note.md",
+                "file": "templates/Contact.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Daily Note"
+              "title": "Contact"
             }
           }
         ],
@@ -236,9 +236,11 @@
   },
   "active": "2d10523a7accc1d2",
   "lastOpenFiles": [
-    "templates/This.md",
+    "people/Untitled.md",
+    "templates/Contact.md",
     "templates/Daily Note.md",
     "people/Glasgow, Julian.md",
+    "templates/This.md",
     "Westgate/19 Westgate.md",
     "people",
     "daily/Daily Note - 7th Aug 2025.md",
