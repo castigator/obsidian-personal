@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Westgate/19 Westgate.md",
+                "file": "Finances.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Westgate"
+              "title": "Finances"
             }
           }
         ],
@@ -262,10 +262,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22de113cc69f5af6",
+  "active": "344232d896255340",
   "lastOpenFiles": [
-    "people/Glasgow, Julian.md",
     "Westgate/19 Westgate.md",
+    "bed-receipt_2025-08-10_152948.pdf",
+    "people/Glasgow, Julian.md",
     "people/Julian Glasgow.md",
     "people/Mandy Zimmer.md",
     "templates/Contact.md",

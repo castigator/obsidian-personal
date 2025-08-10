@@ -15,3 +15,4 @@ Agreed to meet landlord [[2025-08-07]]
 
 [[Checklist]]
 
+![[bed-receipt_2025-08-10_152948.pdf]]
