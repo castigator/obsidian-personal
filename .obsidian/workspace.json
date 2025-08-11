@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finances.md",
+                "file": "daily/Daily Note - 11th Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Daily Note - 11th Aug 2025"
             }
           }
         ],
@@ -264,6 +264,8 @@
   },
   "active": "344232d896255340",
   "lastOpenFiles": [
+    "Finances.md",
+    "daily/Daily Note - 11th Aug 2025.md",
     "Westgate/19 Westgate.md",
     "bed-receipt_2025-08-10_152948.pdf",
     "people/Glasgow, Julian.md",
@@ -278,7 +280,6 @@
     "people",
     "daily/Daily Note - 7th Aug 2025.md",
     "daily/Daily Note - 6th Aug 2025.md",
-    "Finances.md",
     "media/calendar.jpeg",
     "media/floor-plan-westgate.png",
     "templates/Standard Template.md",
