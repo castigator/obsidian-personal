@@ -18,4 +18,4 @@ RBS Customer Number - 1906660295
 
 ## To Do
 
-Cancel / Transfer Tesco+ #todo 
+Cancel / Transfer Tesco+  - cancelled 12/08
