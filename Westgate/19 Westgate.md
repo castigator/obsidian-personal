@@ -14,6 +14,14 @@ content-start: 151
 
 ## Important and To Do
 
+- Complete [[Checklist]] #todo 
+
+## Links
+
+- [[Checklist]]
+- [[Bed]]
+- [[Broadband]]
+- [[Council Tax]]
 
 ## General Notes
 
@@ -27,6 +35,3 @@ Landlord: [[Julian Glasgow]] and Susan Glasgow  
 Email exchanges [[2025-08-06]]
 Agreed to meet landlord [[2025-08-07]] 
 
-[[Checklist]]
-
-![[bed-receipt_2025-08-10_152948.pdf]]

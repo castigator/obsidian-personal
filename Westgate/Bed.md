@@ -12,9 +12,12 @@ content-start: 151
 
 ## Important and To Do
 
+- Arrange delivery #todo 
+
 
 ## General Notes
 
-[[bed-receipt_2025-08-10_152948.pdf]]
+![[bed-receipt_2025-08-10_152948.pdf]]
+
 ## Links
 
