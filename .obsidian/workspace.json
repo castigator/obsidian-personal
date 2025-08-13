@@ -165,14 +165,12 @@
             "id": "724300075ade43ae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "source",
-                "source": false
+                "file": "media/52651_334699_IMG_00_0000.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
+              "icon": "lucide-image",
+              "title": "52651_334699_IMG_00_0000"
             }
           }
         ],
@@ -348,16 +346,20 @@
   },
   "active": "724300075ade43ae",
   "lastOpenFiles": [
+    "media/documents/EICR 2020.pdf",
+    "media/documents/Tenancy Agreement Signed 2025.pdf",
+    "media/documents/mydeposits-Custodial-Info-for-Tenants-Sep-24.pdf",
+    "media/documents",
+    "Westgate/19 Westgate.md",
+    "media/documents/mydeposits-Scheme-Rules-Custodial.pdf",
+    "media/documents/Legionnaires - Tenant Guide.pdf",
     "Westgate/Contract.md",
     "contract.pdf",
-    "media/Tenancy Agreement Signed 2025.pdf",
     "Westgate/Energy Performance Certificate (EPC).md",
     "Finance/Pensions.md",
     "Untitled",
-    "Westgate/19 Westgate.md",
-    "media/EPC - June 2019.pdf",
+    "media/documents/EPC - June 2019.pdf",
     "Westgate/Electrical Installation Condition Report.md",
-    "media/EICR 2020.pdf",
     "people/Julian Glasgow.md",
     "Finance/Finances.md",
     "Finance",
@@ -370,7 +372,6 @@
     "Westgate/Checklist.md",
     "media/52651_334699_IMG_00_0000.jpeg",
     "media/barn house.svg",
-    "pixel-banner-images",
     "templates/Daily Note.md",
     "templates/Standard Template.md",
     "daily/Daily Note - 11th Aug 2025.md",
@@ -381,11 +382,9 @@
     "people/Untitled.md",
     "Glasgow, Julian.md",
     "templates/This.md",
-    "people",
     "daily/Daily Note - 7th Aug 2025.md",
     "daily/Daily Note - 6th Aug 2025.md",
     "media/calendar.jpeg",
-    "media/floor-plan-westgate.png",
-    "media"
+    "media/floor-plan-westgate.png"
   ]
 }
