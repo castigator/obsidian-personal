@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finances.md",
+                "file": "people/Julian Glasgow.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Julian Glasgow"
             }
           }
         ],
@@ -306,6 +306,7 @@
   },
   "active": "87a45f58bc8891eb",
   "lastOpenFiles": [
+    "Finances.md",
     "Pensions.md",
     "Finance",
     "daily/Daily Note - 12th Aug 2025.md",
@@ -322,7 +323,6 @@
     "templates/Daily Note.md",
     "templates/Standard Template.md",
     "daily/Daily Note - 11th Aug 2025.md",
-    "Finances.md",
     "people/Glasgow, Julian.md",
     "people/Julian Glasgow.md",
     "people/Mandy Zimmer.md",
