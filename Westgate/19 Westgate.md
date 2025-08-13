@@ -35,3 +35,8 @@ Landlord: [[Julian Glasgow]] and Susan Glasgow  
 Email exchanges [[2025-08-06]]
 Agreed to meet landlord [[2025-08-07]] 
 
+## Documents
+
+- [[Electrical Installation Condition Report]]
+- [[Energy Performance Certificate (EPC)]]
+- 
