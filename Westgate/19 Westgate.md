@@ -39,4 +39,5 @@ Agreed to meet landlord [[2025-08-07]]
 
 - [[Electrical Installation Condition Report]]
 - [[Energy Performance Certificate (EPC)]]
+- [[Contract]]
 - 

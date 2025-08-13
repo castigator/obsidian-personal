@@ -167,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contract.md",
+                "file": "Westgate/19 Westgate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contract"
+              "title": "19 Westgate"
             }
           }
         ],
@@ -346,12 +346,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65b5746dbcacf49e",
+  "active": "724300075ade43ae",
   "lastOpenFiles": [
-    "media/Tenancy Agreement Signed 2025.pdf",
+    "Westgate/Contract.md",
     "contract.pdf",
+    "media/Tenancy Agreement Signed 2025.pdf",
     "Westgate/Energy Performance Certificate (EPC).md",
-    "Contract.md",
     "Finance/Pensions.md",
     "Untitled",
     "Westgate/19 Westgate.md",
