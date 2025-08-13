@@ -165,12 +165,14 @@
             "id": "724300075ade43ae",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "media/52651_334699_IMG_00_0000.jpeg"
+                "file": "daily/Daily Note - 13th Aug 2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "52651_334699_IMG_00_0000"
+              "icon": "lucide-file",
+              "title": "Daily Note - 13th Aug 2025"
             }
           }
         ],
@@ -346,6 +348,8 @@
   },
   "active": "724300075ade43ae",
   "lastOpenFiles": [
+    "media/52651_334699_IMG_00_0000.jpeg",
+    "daily/Daily Note - 13th Aug 2025.md",
     "media/documents/EICR 2020.pdf",
     "media/documents/Tenancy Agreement Signed 2025.pdf",
     "media/documents/mydeposits-Custodial-Info-for-Tenants-Sep-24.pdf",
@@ -368,9 +372,7 @@
     "Westgate/Council Tax.md",
     "templates/Westgate.md",
     "Westgate/Bed.md",
-    "media/bed-receipt_2025-08-10_152948.pdf",
     "Westgate/Checklist.md",
-    "media/52651_334699_IMG_00_0000.jpeg",
     "media/barn house.svg",
     "templates/Daily Note.md",
     "templates/Standard Template.md",
@@ -383,7 +385,6 @@
     "Glasgow, Julian.md",
     "templates/This.md",
     "daily/Daily Note - 7th Aug 2025.md",
-    "daily/Daily Note - 6th Aug 2025.md",
     "media/calendar.jpeg",
     "media/floor-plan-westgate.png"
   ]
