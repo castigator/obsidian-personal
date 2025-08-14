@@ -17,6 +17,7 @@ created: ["2025-08-08 14:24"]
 ## Contact Info 
 
 Email: mandy07941@aol.com 
+Gmail: mandy07941@gmail.com
 Phone: +44 7305 838189 
 
 [open in Google Contacts](https://contacts.google.com/person/c3606883726142411485) 
