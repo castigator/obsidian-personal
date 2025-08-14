@@ -17,4 +17,6 @@ icon: 🏡
 ## General Notes
 
  Council Tax B - £1736.90
- 
+Babergh Account number: 42214538
+
+![[Pasted image 20250814112800.png]]
