@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-- Arrange delivery #todo 
+- Arrange delivery 
 
 
 ## General Notes
