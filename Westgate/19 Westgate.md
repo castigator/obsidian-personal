@@ -22,6 +22,7 @@ content-start: 151
 - [[Bed]]
 - [[Broadband]]
 - [[Council Tax]]
+- [[Insurance]]
 
 ## General Notes
 
