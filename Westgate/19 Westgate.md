@@ -14,7 +14,7 @@ content-start: 151
 
 ## Important and To Do
 
-- Complete [[Checklist]] #todo 
+- [ ] Complete [[Checklist]] 
 
 ## Links
 

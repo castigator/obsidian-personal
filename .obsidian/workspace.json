@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Westgate/19 Westgate.md",
+                "file": "daily/Daily Note - 15th Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Westgate"
+              "title": "Daily Note - 15th Aug 2025"
             }
           }
         ],
@@ -257,7 +257,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -376,16 +377,18 @@
   },
   "active": "622ac63b090d6468",
   "lastOpenFiles": [
+    "Westgate/Council Tax.md",
+    "daily/Daily Note - 15th Aug 2025.md",
+    "Westgate/19 Westgate.md",
+    "templates/Daily Note.md",
     "media/Pasted image 20250814112736.png",
     "media/Pasted image 20250814112800.png",
     "media/Pasted image 20250815144930.png",
-    "Westgate/Council Tax.md",
     "Westgate/Insurance.md",
     "Westgate/Bed.md",
     "Westgate/Checklist.md",
     "WU11 RYM.md",
     "media/wu11rym.jpg",
-    "Westgate/19 Westgate.md",
     "people/Julian Glasgow.md",
     "people/Mandy Zimmer.md",
     "Westgate/Broadband.md",
@@ -409,7 +412,6 @@
     "daily/Daily Note - 12th Aug 2025.md",
     "templates/Westgate.md",
     "media/barn house.svg",
-    "templates/Daily Note.md",
     "templates/Standard Template.md",
     "daily/Daily Note - 11th Aug 2025.md",
     "people/Glasgow, Julian.md",
