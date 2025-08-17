@@ -4,221 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cd53491eb328a5a8",
+        "id": "5bdeb71b2fd5a548",
         "type": "tabs",
         "children": [
           {
-            "id": "57044a0d341c9974",
+            "id": "eb42662a2d31915b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Contact.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Contact"
-            }
-          },
-          {
-            "id": "c02a0d33ff658c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Contact.md",
+                "file": "xx_daily/Daily Note - 17th Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Contact"
-            }
-          },
-          {
-            "id": "492f9c9910448e4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "people/Mandy Zimmer.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mandy Zimmer"
-            }
-          },
-          {
-            "id": "93f45ef8b19b1c05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
-            }
-          },
-          {
-            "id": "2d10523a7accc1d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/Contact.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Contact"
-            }
-          },
-          {
-            "id": "344232d896255340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
-            }
-          },
-          {
-            "id": "f1601d2752c30091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
-            }
-          },
-          {
-            "id": "88fe4a4372a7adb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/Daily Note - 12th Aug 2025.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note - 12th Aug 2025"
-            }
-          },
-          {
-            "id": "87a45f58bc8891eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
-            }
-          },
-          {
-            "id": "15f2841690440464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/Electrical Installation Condition Report.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electrical Installation Condition Report"
-            }
-          },
-          {
-            "id": "89b5af035463b7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/Energy Performance Certificate (EPC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Energy Performance Certificate (EPC)"
-            }
-          },
-          {
-            "id": "724300075ade43ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/19 Westgate.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "19 Westgate"
-            }
-          },
-          {
-            "id": "a9d3b33c2b789367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Westgate/Bed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bed"
-            }
-          },
-          {
-            "id": "622ac63b090d6468",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WU11 RYM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WU11 RYM"
-            }
-          },
-          {
-            "id": "402b5e36de77a05b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Daily Note - 17th Aug 2025"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Westgate/19 Westgate.md",
+                "file": "xx_daily/Daily Note - 17th Aug 2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 19 Westgate"
+              "title": "Backlinks for Daily Note - 17th Aug 2025"
             }
           },
           {
@@ -310,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Westgate/19 Westgate.md",
+                "file": "xx_daily/Daily Note - 17th Aug 2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 19 Westgate"
+              "title": "Outgoing links from Daily Note - 17th Aug 2025"
             }
           },
           {
@@ -378,21 +183,25 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
+      "pinned-daily-notes:Open today's daily note (Pinned)": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "daily-notes:Open today's daily note": false
     }
   },
-  "active": "402b5e36de77a05b",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
-    "WU11 RYM.md",
-    "README.md",
+    "xx_daily/Daily Note - 17th Aug 2025.md",
+    "xx_daily/Daily Note - 16th Aug 2025.md",
     "xx_templates/Daily Note.md",
+    "aa_today.md",
+    "README.md",
+    "WU11 RYM.md",
     "xx_templates/Westgate.md",
     "xx_templates/Contact.md",
     "Westgate/Insurance.md",
@@ -408,14 +217,11 @@
     "people/Julian Glasgow.md",
     "Finance/Pensions.md",
     "Finance/Finances.md",
-    "_daily/Daily Note - 17th Aug 2025.md",
-    "_daily/Daily Note - 16th Aug 2025.md",
-    "_daily/Daily Note - 15th Aug 2025.md",
-    "_daily/Daily Note - 13th Aug 2025.md",
-    "_daily/Daily Note - 12th Aug 2025.md",
-    "_daily/Daily Note - 11th Aug 2025.md",
-    "_daily/Daily Note - 7th Aug 2025.md",
-    "Westgate/Test Note.md",
+    "xx_daily/Daily Note - 15th Aug 2025.md",
+    "xx_daily/Daily Note - 13th Aug 2025.md",
+    "xx_daily/Daily Note - 12th Aug 2025.md",
+    "xx_daily/Daily Note - 11th Aug 2025.md",
+    "xx_daily/Daily Note - 7th Aug 2025.md",
     "xx_media/Pasted image 20250814112736.png",
     "xx_media/Pasted image 20250814112800.png",
     "xx_media/Pasted image 20250815144930.png",

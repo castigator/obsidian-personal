@@ -7,5 +7,6 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-linter",
-  "auto-note-mover"
+  "auto-note-mover",
+  "pinned-daily-notes"
 ]
