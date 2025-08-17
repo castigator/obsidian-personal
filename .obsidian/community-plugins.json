@@ -5,5 +5,7 @@
   "pexels-banner",
   "obsidian-google-lookup",
   "templater-obsidian",
-  "obsidian-tasks-plugin"
+  "obsidian-tasks-plugin",
+  "obsidian-linter",
+  "auto-note-mover"
 ]

@@ -32,8 +32,7 @@ Landlord: [[Julian Glasgow]] and Susan Glasgow  
 
 ![[floor-plan-westgate.png]]
 
-
-Email exchanges [[2025-08-06]]
+Email exchanges [[2025-08-06]]  
 Agreed to meet landlord [[2025-08-07]] 
 
 ## Documents
