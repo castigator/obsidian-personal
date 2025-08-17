@@ -202,9 +202,23 @@
               "icon": "lucide-file",
               "title": "WU11 RYM"
             }
+          },
+          {
+            "id": "402b5e36de77a05b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -374,27 +388,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "622ac63b090d6468",
+  "active": "402b5e36de77a05b",
   "lastOpenFiles": [
+    "WU11 RYM.md",
     "README.md",
-    "Untitled.md",
+    "xx_templates/Daily Note.md",
+    "xx_templates/Westgate.md",
+    "xx_templates/Contact.md",
+    "Westgate/Insurance.md",
+    "Westgate/Energy Performance Certificate (EPC).md",
+    "Westgate/Electrical Installation Condition Report.md",
+    "Westgate/Council Tax.md",
+    "Westgate/Contract.md",
+    "Westgate/Checklist.md",
+    "Westgate/Broadband.md",
+    "Westgate/Bed.md",
     "Westgate/19 Westgate.md",
+    "people/Mandy Zimmer.md",
+    "people/Julian Glasgow.md",
+    "Finance/Pensions.md",
+    "Finance/Finances.md",
+    "_daily/Daily Note - 17th Aug 2025.md",
     "_daily/Daily Note - 16th Aug 2025.md",
     "_daily/Daily Note - 15th Aug 2025.md",
-    "Westgate/Council Tax.md",
-    "xx_templates/Daily Note.md",
+    "_daily/Daily Note - 13th Aug 2025.md",
+    "_daily/Daily Note - 12th Aug 2025.md",
+    "_daily/Daily Note - 11th Aug 2025.md",
+    "_daily/Daily Note - 7th Aug 2025.md",
+    "Westgate/Test Note.md",
     "xx_media/Pasted image 20250814112736.png",
     "xx_media/Pasted image 20250814112800.png",
     "xx_media/Pasted image 20250815144930.png",
-    "Westgate/Insurance.md",
-    "Westgate/Bed.md",
-    "Westgate/Checklist.md",
-    "WU11 RYM.md",
     "xx_media/wu11rym.jpg",
-    "people/Julian Glasgow.md",
-    "people/Mandy Zimmer.md",
-    "Westgate/Broadband.md",
-    "_daily/Daily Note - 13th Aug 2025.md",
     "xx_media/52651_334699_IMG_00_0000.jpeg",
     "xx_media/documents/EICR 2020.pdf",
     "xx_media/documents/Tenancy Agreement Signed 2025.pdf",
@@ -402,22 +427,11 @@
     "xx_media/documents",
     "xx_media/documents/mydeposits-Scheme-Rules-Custodial.pdf",
     "xx_media/documents/Legionnaires - Tenant Guide.pdf",
-    "Westgate/Contract.md",
     "contract.pdf",
-    "Westgate/Energy Performance Certificate (EPC).md",
-    "Finance/Pensions.md",
     "Untitled",
     "xx_media/documents/EPC - June 2019.pdf",
-    "Westgate/Electrical Installation Condition Report.md",
-    "Finance/Finances.md",
     "Finance",
-    "_daily/Daily Note - 12th Aug 2025.md",
-    "xx_templates/Westgate.md",
     "xx_media/barn house.svg",
-    "templates/Standard Template.md",
-    "_daily/Daily Note - 11th Aug 2025.md",
-    "people/Glasgow, Julian.md",
-    "xx_templates/Contact.md",
     "xx_media/calendar.jpeg",
     "xx_media/floor-plan-westgate.png"
   ]

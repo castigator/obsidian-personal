@@ -14,7 +14,6 @@ content-start: 151
 
 - Arrange delivery 
 
-
 ## General Notes
 
 ![[bed-receipt_2025-08-10_152948.pdf]]

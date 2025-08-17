@@ -10,6 +10,4 @@ banner-display: cover
 content-start: 151
 ---
 
-
-
 ![[Tenancy Agreement Signed 2025.pdf]]

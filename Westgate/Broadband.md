@@ -12,8 +12,6 @@ content-start: 151
 
 ## Important and To Do
 
-
 ## General Notes
 
 *  [Fibrely](https://www.fibrely.co.uk/order/51e00c75-ba16-45fa-99a7-045c85b24d1d/personal-details)
-*

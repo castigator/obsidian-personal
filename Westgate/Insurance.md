@@ -12,7 +12,6 @@ content-start: 151
 
 ## Important and To Do
 
-
 ## General Notes
 
 ![[Pasted image 20250815144930.png]]

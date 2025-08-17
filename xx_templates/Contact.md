@@ -5,7 +5,7 @@ created: ["{{date}} {{time}}"]
 
 --- 
 
-# {{firstname}} {{lastname}}
+## {{firstname}} {{lastname}}
 {{primaryPhoto}} 
 
 #person #person/
@@ -14,11 +14,10 @@ created: ["{{date}} {{time}}"]
 
 ---- 
 
-## Contact Info 
+### Contact Info
 
-Email: {{emails}} 
+Email: {{emails}}  
 Phone: {{phones}} 
 
 [open in Google Contacts]({{link}}) 
-
 

@@ -11,6 +11,16 @@ banner-display: cover
 content-start: 151
 ---
 
-## Important and To Do
+## Tasks
+
+### Blockers
+```tasks
+is blocking
+```
+
+### All Tasks
+```tasks
+not done
+```
 
 ## General Notes
