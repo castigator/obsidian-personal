@@ -1,6 +1,7 @@
 ---
 tags:
   - westgate
+  - utility
 banner: "![[media/52651_334699_IMG_00_0000.jpeg]]"
 banner-height: 150
 banner-x: 5

@@ -1,6 +1,9 @@
 ---
 tags:
   - westgate
+  - "#gas"
+  - "#electricity"
+  - "#utility"
 banner: "![[media/52651_334699_IMG_00_0000.jpeg]]"
 banner-height: 150
 banner-x: 5
@@ -22,16 +25,10 @@ content-start: 151
 The electricity supplier for this address is **Octopus Energy**. Please contact them on [02035427020](tel:02035427020).
 
 MPAN : **1012979919366**
-
-## Water
-
-Anglian Water: **03457 919 155**
-
-Set up DD for 8th Month Not receie
-
 ## Important and To Do
 
 ## General Notes
 
+![[Pasted image 20250818133426.png]]
 ## Links
 
