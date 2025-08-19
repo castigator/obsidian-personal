@@ -12,7 +12,7 @@ content-start: 151
 ---
 
 ## Tasks
- - [x] Sort out finances for Car ✅ 2025-08-19
+
 ### Blockers
 ```tasks
 is blocking

@@ -1,5 +1,5 @@
 ---
-date: 2025-08-07
+date: {{date}}
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"

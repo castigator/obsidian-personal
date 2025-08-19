@@ -12,16 +12,19 @@ banner-display: cover
 content-start: 151
 ---
 
-- [ ] Check for Anglian Water details
-- [ ] Set up Anglian Water online account
+- [x] Check for Anglian Water details ✅ 2025-08-19
+- [x] Set up Anglian Water online account ✅ 2025-08-19
 ## Important and To Do
 
 ## General Notes
 
 Anglian Water: **03457 919 155**
 
+Account Number: **174718965**
+
 Estimated annual usage £528
 
 Set up DD for 8th Month Not received details yet.
 ## Links
 
+- [Online Account](https://myaccount.anglianwater.co.uk/home)
