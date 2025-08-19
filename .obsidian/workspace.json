@@ -134,8 +134,47 @@
               "icon": "lucide-file",
               "title": "Energy Performance Certificate (EPC)"
             }
+          },
+          {
+            "id": "3629b290a706a5e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Westgate/Bed.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bed"
+            }
+          },
+          {
+            "id": "2fbff492c486443c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "b712b0df6f44eebd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Westgate/Checklist.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Checklist"
+            }
           }
-        ]
+        ],
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -306,10 +345,12 @@
       "pinned-daily-notes:Open today's daily note (Pinned)": false
     }
   },
-  "active": "eb42662a2d31915b",
+  "active": "b712b0df6f44eebd",
   "lastOpenFiles": [
-    "Westgate/Energy Performance Certificate (EPC).md",
+    "Westgate/Bed.md",
+    "Pasted image 20250819162045.png",
     "xx_daily/Daily Note - 19th Aug 2025.md",
+    "Westgate/Energy Performance Certificate (EPC).md",
     "Westgate/Council Tax.md",
     "Westgate/Utilities/Water.md",
     "xx_media/Pasted image 20250819115238.png",
@@ -331,7 +372,6 @@
     "Westgate/Insurance.md",
     "Westgate/Electrical Installation Condition Report.md",
     "Westgate/Checklist.md",
-    "Westgate/Bed.md",
     "People/Mandy Zimmer.md",
     "People/Julian Glasgow.md",
     "Finance/Pensions.md",
@@ -351,7 +391,6 @@
     "Untitled",
     "xx_media/documents/EPC - June 2019.pdf",
     "xx_media/barn house.svg",
-    "xx_media/calendar.jpeg",
-    "xx_media/floor-plan-westgate.png"
+    "xx_media/calendar.jpeg"
   ]
 }
