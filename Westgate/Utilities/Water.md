@@ -25,6 +25,9 @@ Account Number: **174718965**
 Estimated annual usage £528
 
 Set up DD for 8th Month Not received details yet.
+
+![[Pasted image 20250819115238.png]]
+
 ## Links
 
 - [Online Account](https://myaccount.anglianwater.co.uk/home)
