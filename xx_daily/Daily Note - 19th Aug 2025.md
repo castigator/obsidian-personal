@@ -13,6 +13,7 @@ content-start: 151
 
 ## Tasks
 
+- [ ] Set up online access for Tesco Loan
 ### Blockers
 ```tasks
 is blocking
