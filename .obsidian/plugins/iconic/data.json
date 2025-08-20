@@ -91,21 +91,6 @@
       ],
       "enabled": true,
       "icon": "🏡"
-    },
-    {
-      "id": "A5H7K",
-      "name": "People",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "name",
-          "operator": "contains",
-          "value": "People"
-        }
-      ],
-      "enabled": true,
-      "icon": "🧑",
-      "color": "orange"
     }
   ]
 }
