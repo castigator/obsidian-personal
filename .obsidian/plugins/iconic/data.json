@@ -1,5 +1,5 @@
 {
-  "biggerIcons": "mobile",
+  "biggerIcons": "on",
   "clickableIcons": "desktop",
   "showAllFileIcons": false,
   "showAllFolderIcons": true,
@@ -23,12 +23,55 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": true,
+    "emojiMode": false,
     "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "010_Westgate": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "010_Westgate/Utilities": {
+      "icon": "lucide-circle-power",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "020_Finance": {
+      "icon": "lucide-piggy-bank",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "cyan"
+    },
+    "025_Car": {
+      "icon": "lucide-car",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "yellow"
+    },
+    "030_Mapletree": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "#ffbdf6"
+    },
+    "090_People": {
+      "icon": "lucide-smile",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "#e6f85d"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

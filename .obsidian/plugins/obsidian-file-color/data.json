@@ -5,8 +5,70 @@
     {
       "id": "MtdtvCWqmAIdPyIsHRIy9",
       "name": "Green",
-      "value": "#3f8e29"
+      "value": "#b5e6a7"
+    },
+    {
+      "id": "tAMBLnRxtkBN2D9dTaeSV",
+      "name": "Grey",
+      "value": "#8f8a8a"
+    },
+    {
+      "id": "PYdTy2betov-Xa3pcptq3",
+      "name": "Light Orange",
+      "value": "#eec887"
+    },
+    {
+      "id": "QsYRDWbCyl9NgX2_JxZur",
+      "name": "Cyan",
+      "value": "#7ddff2"
+    },
+    {
+      "id": "DkOUcVDdWUpgtenfN9Hd3",
+      "name": "Yellow",
+      "value": "#eef958"
+    },
+    {
+      "id": "ctx1uTEWHzlHZOryjrHHC",
+      "name": "Pink",
+      "value": "#e890f9"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "010_Westgate",
+      "color": "MtdtvCWqmAIdPyIsHRIy9"
+    },
+    {
+      "path": "xx_daily",
+      "color": "tAMBLnRxtkBN2D9dTaeSV"
+    },
+    {
+      "path": "xx_media",
+      "color": "tAMBLnRxtkBN2D9dTaeSV"
+    },
+    {
+      "path": "xx_templates",
+      "color": "tAMBLnRxtkBN2D9dTaeSV"
+    },
+    {
+      "path": "README.md",
+      "color": "tAMBLnRxtkBN2D9dTaeSV"
+    },
+    {
+      "path": "020_Finance",
+      "color": "QsYRDWbCyl9NgX2_JxZur"
+    },
+    {
+      "path": "025_Car",
+      "color": "PYdTy2betov-Xa3pcptq3"
+    },
+    {
+      "path": "090_People",
+      "color": "DkOUcVDdWUpgtenfN9Hd3"
+    },
+    {
+      "path": "030_Mapletree",
+      "color": "ctx1uTEWHzlHZOryjrHHC"
+    }
+  ]
 }
