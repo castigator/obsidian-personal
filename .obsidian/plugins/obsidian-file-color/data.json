@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "MtdtvCWqmAIdPyIsHRIy9",
+      "name": "Green",
+      "value": "#3f8e29"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Westgate",
+      "color": "MtdtvCWqmAIdPyIsHRIy9"
+    }
+  ]
+}
