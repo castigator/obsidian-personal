@@ -8,7 +8,7 @@ Price paid: **£2,295**
 Deposit: **£230**  
 Balance: **£2,065**
 
-- [ ] Transfer **£2,065** for car
+- [x] Transfer **£2,065** for car ✅ 2025-08-21
 
 ## Insurance
 
