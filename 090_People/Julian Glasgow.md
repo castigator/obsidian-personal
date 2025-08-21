@@ -19,9 +19,9 @@ Cranmore Green House, Long Melford, CO109AG, GB
 Email: mail@julianglasgow.co.uk  
 Phone: 01787 371 381, 07931 135 907 
 
-Bank name: Mr J R Glasgow 
-Sort Code: 60-10-30 
-Account No: 60858222 
+Bank name: Mr J R Glasgow  
+Sort Code: 60-10-30  
+Account No: 60858222  
 Ref: 19 Westgate Street
 
 [open in Google Contacts](https://contacts.google.com/person/c5038250513868168262) 

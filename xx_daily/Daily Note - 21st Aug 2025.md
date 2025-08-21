@@ -13,6 +13,8 @@ content-start: 151
 
 ## Tasks
 
+- [ ] Check that the Rental DD settings are correct (see [[Julian Glasgow]])
+
 ### Blockers
 ```tasks
 is blocking
