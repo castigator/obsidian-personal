@@ -12,11 +12,18 @@ content-start: 151
 
 ## Important and To Do
 
-- Arrange delivery 
-
 ## General Notes
 
-![[bed-receipt_2025-08-10_152948.pdf]]  
-![[Pasted image 20250821142801.png]]
 ## Links
 
+![[Winter Guide for Tenants.pdf]]
+
+![[Condensation.pdf]]
+
+![[Gas Safety 2025.pdf]]
+
+![[EPC - June 2019.pdf]]
+
+![[EICR 2020.pdf]]
+
+![[Welcome Pack.pdf]]
