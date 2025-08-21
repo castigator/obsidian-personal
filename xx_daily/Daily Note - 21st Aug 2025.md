@@ -1,5 +1,5 @@
 ---
-date: 2025-08-20
+date: 2025-08-21
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -10,7 +10,7 @@ icon: 📆
 banner-display: cover
 content-start: 151
 ---
-- [ ] 📅 2025-09-15 Send moving in card to [[Daisy]] (moves in approx 15/09)
+
 ## Tasks
 
 ### Blockers

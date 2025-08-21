@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 20th Aug 2025.md",
-                "mode": "source",
-                "source": false
+                "file": "xx_daily/Daily Note - 21st Aug 2025.md",
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 20th Aug 2025"
+              "title": "Daily Note - 21st Aug 2025"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "Insurance"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "urban",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +118,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,12 +238,15 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "11a6331de1e6f6d6",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 21st Aug 2025.md",
+    "Daisy.md",
+    "xx_daily/Daily Note - 20th Aug 2025.md",
+    "010_Westgate/Insurance.md",
     "Untitled.md",
     "010_Westgate/Checklist.md",
     "010_Westgate/19 Westgate.md",
-    "xx_daily/Daily Note - 20th Aug 2025.md",
     "010_Westgate/Utilities/Broadband.md",
     "025_Car/WU11 RYM.md",
     "025_Car",
@@ -269,10 +270,7 @@
     "xx_daily/Daily Note - 16th Aug 2025.md",
     "aa_today.md",
     "xx_templates/Westgate.md",
-    "010_Westgate/Insurance.md",
     "010_Westgate/Electrical Installation Condition Report.md",
-    "090_People/Mandy Zimmer.md",
-    "090_People/Julian Glasgow.md",
     "xx_media/Pasted image 20250814112736.png",
     "xx_media/Pasted image 20250814112800.png",
     "xx_media/Pasted image 20250815144930.png",
