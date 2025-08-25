@@ -15,6 +15,7 @@ content-start: 151
 ## Important and To Do
 
 - [ ] Complete [[Checklist]] 
+- [ ] Arrange Gas/Electricity contract
 
 ## Links
 
@@ -46,3 +47,8 @@ Agreed to meet landlord [[2025-08-07]]
 - [[Gas & Electricity]]
 - [[Water]]
 - [[Broadband]]
+
+## Neighbours
+
+- 1**5 Westgate:** Kev and Celia
+- **17 Westgate:** Sheri
