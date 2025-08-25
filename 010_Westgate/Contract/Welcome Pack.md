@@ -22,8 +22,8 @@ content-start: 151
 
 ![[Gas Safety 2025.pdf]]
 
-![[EPC - June 2019.pdf]]
+![[xx_media/EPC - June 2019.pdf]]
 
-![[EICR 2020.pdf]]
+![[xx_media/EICR 2020.pdf]]
 
 ![[Welcome Pack.pdf]]

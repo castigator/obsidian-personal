@@ -36,6 +36,27 @@
       ],
       "color": "green"
     },
+    "010_Westgate/Contract": {
+      "icon": "lucide-scale",
+      "color": "green",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ]
+    },
+    "010_Westgate/Household": {
+      "icon": "lucide-house-plus",
+      "color": "green",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ]
+    },
+    "010_Westgate/TV Licence": {
+      "icon": "lucide-tv",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
     "010_Westgate/Utilities": {
       "icon": "lucide-circle-power",
       "unsynced": [
