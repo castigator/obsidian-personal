@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 25th Aug 2025.md",
-                "mode": "preview",
-                "source": true
+                "file": "xx_daily/Daily Note - 26th Aug 2025.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 25th Aug 2025"
+              "title": "Daily Note - 26th Aug 2025"
             }
           }
         ]
@@ -198,8 +198,9 @@
   },
   "active": "eb42662a2d31915b",
   "lastOpenFiles": [
-    "010_Westgate/19 Westgate.md",
+    "xx_daily/Daily Note - 26th Aug 2025.md",
     "xx_daily/Daily Note - 25th Aug 2025.md",
+    "010_Westgate/19 Westgate.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "Pasted image 20250825081729.png",
     "xx_media/TV-licence2.png",
