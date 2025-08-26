@@ -16,7 +16,6 @@ content-start: 151
 - [ ] SORN old car
 - [ ] Arrange scrap for old car
 - [ ] Cancel Insurance for old car
-- [ ] 
 ### Blockers
 ```tasks
 is blocking
