@@ -16,3 +16,7 @@ content-start: 151
 ## General Notes
 
 *  [Fibrely](https://www.fibrely.co.uk/order/51e00c75-ba16-45fa-99a7-045c85b24d1d/personal-details)
+
+* **Wifi SSID :** FIBERLY-0X82
+* **Wifi Password:** 089GKxHliTBF
+* **Router IP :** 192.168.1.1
