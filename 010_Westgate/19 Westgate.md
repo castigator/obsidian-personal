@@ -48,9 +48,16 @@ Agreed to meet landlord [[2025-08-07]]
 - [[Water]]
 - [[Broadband]]
 
+## Forwarding Address
+
+Adam Waldon  
+5 Cakeworth Lane  
+Chelsworth  
+Ipswich  
+IP7 7JA
 ## Neighbours
 
 - 1**5 Westgate:** Kev and Celia
 - **17 Westgate:** Sheri
--  18 Westgate: Johnny
-- 20 Westgate: George and Pam
+-  **18 Westgate:** Johnny
+- **20 Westgate:** George and Pam

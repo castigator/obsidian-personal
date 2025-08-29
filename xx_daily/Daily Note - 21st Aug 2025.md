@@ -13,7 +13,7 @@ content-start: 151
 
 ## Tasks
 
-- [ ] Check that the Rental DD settings are correct (see [[Julian Glasgow]])
+- [x] Check that the Rental DD settings are correct (see [[Julian Glasgow]]) ✅ 2025-08-29
 
 ### Blockers
 ```tasks

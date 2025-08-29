@@ -71,16 +71,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Westgate/19 Westgate.md",
+                "file": "010_Westgate/Contract/Contract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "19 Westgate"
+              "title": "Contract"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +252,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "2b9e43bc6a859aa1",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
+    "010_Westgate/Contract/Contract.md",
+    "010_Westgate/19 Westgate.md",
     "xx_daily/Daily Note - 29th Aug 2025.md",
     "EY07 SVL.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
@@ -268,7 +269,6 @@
     "020_Finance/Finances.md",
     "xx_daily/Daily Note - 26th Aug 2025.md",
     "xx_daily/Daily Note - 25th Aug 2025.md",
-    "010_Westgate/19 Westgate.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "Pasted image 20250825081729.png",
     "xx_media/TV-licence2.png",
@@ -297,7 +297,6 @@
     "xx_daily/Daily Note - 19th Aug 2025.md",
     "010_Westgate/Utilities/Water.md",
     "xx_media/Pasted image 20250819115238.png",
-    "010_Westgate/Contract/Contract.md",
     "xx_media/Pasted image 20250818133426.png",
     "xx_media/Pasted image 20250814112736.png",
     "xx_media/Pasted image 20250814112800.png"
