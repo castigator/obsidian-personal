@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 26th Aug 2025.md",
+                "file": "xx_daily/Daily Note - 29th Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 26th Aug 2025"
+              "title": "Daily Note - 29th Aug 2025"
             }
           },
           {
@@ -65,8 +65,7 @@
               "title": "EY07 SVL"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,15 +238,16 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "cad5c4af243e9a2d",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
+    "EY07 SVL.md",
+    "xx_daily/Daily Note - 29th Aug 2025.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
     "010_Westgate/Utilities/Broadband",
     "010_Westgate/Utilities/Broadband 2/Broadband.md",
     "010_Westgate/Utilities/Broadband 2",
     "010_Westgate/Broadband",
     "010_Westgate/Untitled",
-    "EY07 SVL.md",
     "Pasted image 20250827071716.png",
     "010_Westgate/Insurance.md",
     "020_Finance/Finances.md",
