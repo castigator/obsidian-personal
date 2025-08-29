@@ -52,3 +52,5 @@ Agreed to meet landlord [[2025-08-07]]
 
 - 1**5 Westgate:** Kev and Celia
 - **17 Westgate:** Sheri
+-  18 Westgate: Johnny
+- 20 Westgate: George and Pam
