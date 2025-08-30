@@ -14,11 +14,11 @@ content-start: 151
 ---
 ## Gas
 
-|   |   |
-|---|---|
-|Meter Point Reference Number:|3032477105|
-|Gas Supplier:|Octopus Energy Limited|
-|Gas Transporter:|Cadent Gas Limited|
+|                               |                        |
+| ----------------------------- | ---------------------- |
+| Meter Point Reference Number: | 3032477105             |
+| Gas Supplier:                 | Octopus Energy Limited |
+| Gas Transporter:              | Cadent Gas Limited     |
 
 ## Electricity
 

@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_Finance/Finances.md",
+                "file": "010_Westgate/Utilities/Gas & Electricity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finances"
+              "title": "Gas & Electricity"
             }
           },
           {
@@ -78,8 +78,47 @@
               "icon": "lucide-file",
               "title": "Contract"
             }
+          },
+          {
+            "id": "541831d7818a7a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_Westgate/Utilities/Gas & Electricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gas & Electricity"
+            }
+          },
+          {
+            "id": "36c3c1194877828d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "c74304039f644567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_Westgate/Utilities/Gas & Electricity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gas & Electricity"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,11 +291,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "eb42662a2d31915b",
+  "active": "8cb57aecd66f99b5",
   "lastOpenFiles": [
+    "020_Finance/Finances.md",
+    "xx_daily/Daily Note - 29th Aug 2025.md",
+    "010_Westgate/Utilities/Gas & Electricity.md",
     "010_Westgate/Contract/Contract.md",
     "010_Westgate/19 Westgate.md",
-    "xx_daily/Daily Note - 29th Aug 2025.md",
     "EY07 SVL.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
     "010_Westgate/Utilities/Broadband",
@@ -266,7 +307,6 @@
     "010_Westgate/Untitled",
     "Pasted image 20250827071716.png",
     "010_Westgate/Insurance.md",
-    "020_Finance/Finances.md",
     "xx_daily/Daily Note - 26th Aug 2025.md",
     "xx_daily/Daily Note - 25th Aug 2025.md",
     "010_Westgate/TV Licence/TV Licence.md",
@@ -295,7 +335,6 @@
     "Admonition Test.md",
     "Pasted image 20250819162045.png",
     "xx_daily/Daily Note - 19th Aug 2025.md",
-    "010_Westgate/Utilities/Water.md",
     "xx_media/Pasted image 20250819115238.png",
     "xx_media/Pasted image 20250818133426.png",
     "xx_media/Pasted image 20250814112736.png",
