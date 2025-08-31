@@ -31,11 +31,11 @@ MPAN : **1012979919366**
 
 ![[Pasted image 20250818133426.png]]
 
-# Fuse
+## Fuse
 
 ![[Pasted image 20250830113059.png]]
 
-## Links
+### Links
 
-https://www.uswitch.com/account/track/
+<https://www.uswitch.com/account/track/>
 
