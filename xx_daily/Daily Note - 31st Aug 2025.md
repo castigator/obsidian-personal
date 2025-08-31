@@ -1,5 +1,5 @@
 ---
-date: 2025-08-26
+date: 2025-08-31
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -13,9 +13,6 @@ content-start: 151
 
 ## Tasks
 
-- [x] SORN old car ✅ 2025-08-31
-- [ ] Arrange scrap for old car
-- [ ] Cancel Insurance for old car
 ### Blockers
 ```tasks
 is blocking

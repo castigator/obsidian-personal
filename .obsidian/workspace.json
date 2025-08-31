@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 29th Aug 2025.md",
+                "file": "xx_daily/Daily Note - 31st Aug 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 29th Aug 2025"
+              "title": "Daily Note - 31st Aug 2025"
             }
           },
           {
@@ -123,16 +123,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Westgate/Utilities/Broadband/Broadband.md",
+                "file": "025_Car/EY07 SVL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Broadband"
+              "title": "EY07 SVL"
+            }
+          },
+          {
+            "id": "92904f86f8a10671",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "xx_media/Pasted image 20250825081729.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250825081729"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,8 +197,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -306,27 +317,29 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "6d2e021a5111d9fc",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 31st Aug 2025.md",
+    "025_Car/EY07 SVL.md",
+    "xx_media/Pasted image 20250831212338.png",
     "010_Westgate/Utilities/Broadband/Broadband.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "010_Westgate/Utilities/Gas & Electricity.md",
-    "Pasted image 20250830113059.png",
+    "xx_media/Pasted image 20250830113059.png",
     "020_Finance/Finances.md",
     "xx_daily/Daily Note - 29th Aug 2025.md",
     "010_Westgate/Contract/Contract.md",
     "010_Westgate/19 Westgate.md",
-    "EY07 SVL.md",
     "010_Westgate/Utilities/Broadband",
     "010_Westgate/Utilities/Broadband 2/Broadband.md",
     "010_Westgate/Utilities/Broadband 2",
     "010_Westgate/Broadband",
     "010_Westgate/Untitled",
-    "Pasted image 20250827071716.png",
+    "xx_media/Pasted image 20250827071716.png",
     "010_Westgate/Insurance.md",
     "xx_daily/Daily Note - 26th Aug 2025.md",
     "xx_daily/Daily Note - 25th Aug 2025.md",
-    "Pasted image 20250825081729.png",
+    "xx_media/Pasted image 20250825081729.png",
     "xx_media/TV-licence2.png",
     "xx_media/TV-licence1.png",
     "xx_media/Pasted image 20250821142801.png",
@@ -351,7 +364,6 @@
     "Admonition Test.md",
     "Pasted image 20250819162045.png",
     "xx_media/Pasted image 20250819115238.png",
-    "xx_media/Pasted image 20250818133426.png",
-    "xx_media/Pasted image 20250814112736.png"
+    "xx_media/Pasted image 20250818133426.png"
   ]
 }
