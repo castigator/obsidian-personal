@@ -26,7 +26,10 @@ content-start: 151
 - [ ] Paint interior
 - [ ] Shoes
 - [ ] Pre-painted skirting
-- [ ] Post letters
+- [x] Post letters ✅ 2025-09-01
+- [ ] Toilet Duck
+- [ ] Socks
+- [ ] 
 ### Blockers
 ```tasks
 is blocking
