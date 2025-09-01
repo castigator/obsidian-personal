@@ -15,21 +15,20 @@ content-start: 151
 
 - [x] PCP Website ✅ 2025-09-01
 - [ ] Fix Fascia
-- [ ] Sudafed
+- [x] Sudafed ✅ 2025-09-01
 - [ ] Carpet Tiles
 - [ ] 2 x Slimline light fittings
 - [ ] Bulkhead light fitting
 - [ ] 2x 25mm Cutouts
-- [ ] Smaller screws
-- [ ] Junction box
+- [x] Smaller screws ✅ 2025-09-01
+- [x] Junction box ✅ 2025-09-01
 - [ ] Finish floor
 - [ ] Paint interior
-- [ ] Shoes
-- [ ] Pre-painted skirting
+- [x] Shoes ✅ 2025-09-01
+- [x] Pre-painted skirting ✅ 2025-09-01
 - [x] Post letters ✅ 2025-09-01
-- [ ] Toilet Duck
-- [ ] Socks
-- [ ] 
+- [x] Toilet Duck ✅ 2025-09-01
+- [x] Socks ✅ 2025-09-01
 ### Blockers
 ```tasks
 is blocking
