@@ -13,7 +13,7 @@ content-start: 151
 
 ## Tasks
 
-- [ ] PCP Website
+- [x] PCP Website ✅ 2025-09-01
 - [ ] Fix Fascia
 - [ ] Sudafed
 - [ ] Carpet Tiles
@@ -25,6 +25,8 @@ content-start: 151
 - [ ] Finish floor
 - [ ] Paint interior
 - [ ] Shoes
+- [ ] Pre-painted skirting
+- [ ] Post letters
 ### Blockers
 ```tasks
 is blocking
