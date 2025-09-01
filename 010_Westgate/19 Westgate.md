@@ -15,7 +15,7 @@ content-start: 151
 ## Important and To Do
 
 - [ ] Complete [[Checklist]] 
-- [ ] Arrange Gas/Electricity contract
+- [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 
 ## Links
 

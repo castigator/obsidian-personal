@@ -15,7 +15,7 @@ content-start: 151
 
 - [x] SORN old car ✅ 2025-08-31
 - [ ] Arrange scrap for old car
-- [ ] Cancel Insurance for old car
+- [x] Cancel Insurance for old car ✅ 2025-09-01
 ### Blockers
 ```tasks
 is blocking
