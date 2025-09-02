@@ -11,12 +11,13 @@ banner-display: cover
 content-start: 151
 ---
 - [ ] Pack for Italy
-- [ ] Prescription
-- [ ] Dinner
+- [x] Prescription ✅ 2025-09-02
+- [x] Dinner ✅ 2025-09-02
 - [ ] Research pensions
 - [ ] Subsidence
 - [ ] Divorce
-- [ ] 
+- [ ] Butter
+- [ ] Metal Scourer
 ## Tasks
 
 ### Blockers
