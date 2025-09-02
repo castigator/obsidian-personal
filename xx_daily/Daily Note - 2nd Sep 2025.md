@@ -13,6 +13,10 @@ content-start: 151
 - [ ] Pack for Italy
 - [ ] Prescription
 - [ ] Dinner
+- [ ] Research pensions
+- [ ] Subsidence
+- [ ] Divorce
+- [ ] 
 ## Tasks
 
 ### Blockers
