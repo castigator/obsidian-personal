@@ -39,3 +39,5 @@ MPAN : **1012979919366**
 
 <https://www.uswitch.com/account/track/>
 
+<https://www.fuseenergy.com/app/premises/f4ef22d5-8288-4b27-93d5-5482e3b78e4b/supply/e0580cdf-3b04-40cb-b98c-8a7f3e383903?menu=settings%2Fbank-account>
+
