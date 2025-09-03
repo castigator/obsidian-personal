@@ -37,7 +37,8 @@
               "title": "TV Licence"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,10 +211,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "eb42662a2d31915b",
+  "active": "9b9411c43c0ae1a6",
   "lastOpenFiles": [
-    "010_Westgate/TV Licence/TV Licence.md",
     "xx_daily/Daily Note - 3rd Sep 2025.md",
+    "010_Westgate/TV Licence/TV Licence.md",
     "010_Westgate/Utilities/Water.md",
     "010_Westgate/Utilities/Gas & Electricity.md",
     "010_Westgate/Insurance.md",

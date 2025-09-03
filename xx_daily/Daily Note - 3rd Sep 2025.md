@@ -14,7 +14,7 @@ content-start: 151
 ## Tasks
 
 - [ ] Arrange October payments with Heather
-- [ ] 
+- [ ] Set up Lucy DD
 ### Blockers
 ```tasks
 is blocking
