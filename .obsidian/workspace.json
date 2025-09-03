@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 2nd Sep 2025.md",
+                "file": "xx_daily/Daily Note - 3rd Sep 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 2nd Sep 2025"
+              "title": "Daily Note - 3rd Sep 2025"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "TV Licence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,13 +210,14 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "9b9411c43c0ae1a6",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
+    "010_Westgate/TV Licence/TV Licence.md",
+    "xx_daily/Daily Note - 3rd Sep 2025.md",
     "010_Westgate/Utilities/Water.md",
     "010_Westgate/Utilities/Gas & Electricity.md",
     "010_Westgate/Insurance.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
-    "010_Westgate/TV Licence/TV Licence.md",
     "xx_daily/Daily Note - 2nd Sep 2025.md",
     "010_Westgate/Council Tax.md",
     "xx_daily/Daily Note - 1st Sep 2025.md",
@@ -255,7 +255,6 @@
     "xx_media/EICR 2020.pdf",
     "020_Finance/Pensions.md",
     "Daisy.md",
-    "xx_daily/Daily Note - 20th Aug 2025.md",
     "Pasted image 20250819162045.png",
     "xx_media/Pasted image 20250819115238.png",
     "xx_media/Pasted image 20250818133426.png"
