@@ -10,7 +10,6 @@ icon: 📆
 banner-display: cover
 content-start: 151
 ---
-
 ## Tasks
 
 ### Blockers
