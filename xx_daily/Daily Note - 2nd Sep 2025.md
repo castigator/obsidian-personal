@@ -16,7 +16,7 @@ content-start: 151
 - [ ] Research pensions
 - [ ] Subsidence
 - [ ] Divorce
-- [ ] Butter
+- [x] Butter ✅ 2025-09-05
 - [ ] Metal Scourer
 ## Tasks
 

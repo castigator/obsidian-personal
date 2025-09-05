@@ -14,15 +14,15 @@ content-start: 151
 ## Tasks
 
 - [x] PCP Website ✅ 2025-09-01
-- [ ] Fix Fascia
+- [x] Fix Fascia ✅ 2025-09-05
 - [x] Sudafed ✅ 2025-09-01
 - [ ] Carpet Tiles
 - [ ] 2 x Slimline light fittings
 - [ ] Bulkhead light fitting
-- [ ] 2x 25mm Cutouts
+- [x] 2x 25mm Cutouts ✅ 2025-09-05
 - [x] Smaller screws ✅ 2025-09-01
 - [x] Junction box ✅ 2025-09-01
-- [ ] Finish floor
+- [x] Finish floor ✅ 2025-09-05
 - [ ] Paint interior
 - [x] Shoes ✅ 2025-09-01
 - [x] Pre-painted skirting ✅ 2025-09-01
