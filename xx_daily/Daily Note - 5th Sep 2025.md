@@ -24,3 +24,28 @@ not done
 ```
 
 ## General Notes
+
+- oriana.cooking
+- oriana.courses
+- oriana.eco
+- oriana.estate
+- oriana.farm
+- oriana.food
+- oriana.gold
+- oriana.green
+- oriana.guru
+- oriana.holiday
+- oriana.host
+- oriana.land
+- oriana.living
+- oriana.maison
+- oriana.ninja
+- oriana.organic
+- oriana.place
+- oriana.porn (Carl :wink:)
+- oriana.recipes
+- oriana.rentals
+- oriana.restuarant
+- oriana.vacations
+- oriana.ventures
+- 
