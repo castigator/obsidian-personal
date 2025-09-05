@@ -10,7 +10,7 @@ icon: 📆
 banner-display: cover
 content-start: 151
 ---
-- [ ] Pack for Italy
+- [x] Pack for Italy ✅ 2025-09-05
 - [x] Prescription ✅ 2025-09-02
 - [x] Dinner ✅ 2025-09-02
 - [ ] Research pensions
