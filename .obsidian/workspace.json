@@ -78,9 +78,21 @@
               "icon": "lucide-file",
               "title": "Gas & Electricity"
             }
+          },
+          {
+            "id": "01ab6e1932e1ab2b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "xx_media/Pasted image 20250908101109.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250908101109"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,8 +265,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "120c115337d62e9c",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
+    "010_Westgate/Contract/Deposit.md",
+    "xx_media/Pasted image 20250908101109.png",
+    "xx_media/Prescribed Information.pdf",
+    "010_Westgate/Utilities/Gas & Electricity.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "xx_daily/Daily Note - 6th Sep 2025.md",
     "xx_templates/Contact.md",
@@ -262,7 +278,6 @@
     "xx_daily/Daily Note - 5th Sep 2025.md",
     "xx_daily/Daily Note - 3rd Sep 2025.md",
     "010_Westgate/Council Tax.md",
-    "010_Westgate/Utilities/Gas & Electricity.md",
     "010_Westgate/Utilities/Water.md",
     "010_Westgate/Insurance.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
@@ -292,14 +307,10 @@
     "010_Westgate/Household/Bed.md",
     "010_Westgate/Contract/Electrical Installation Condition Report.md",
     "010_Westgate/Household",
-    "010_Westgate/Contract/Energy Performance Certificate (EPC).md",
-    "010_Westgate/Contract/Welcome Pack.md",
     "010_Westgate/Contract",
     "xx_media/Welcome Pack.pdf",
     "010_Westgate/TV Licence",
-    "xx_media/EICR 2020.pdf",
     "Pasted image 20250819162045.png",
-    "xx_media/Pasted image 20250819115238.png",
-    "xx_media/Pasted image 20250818133426.png"
+    "xx_media/Pasted image 20250819115238.png"
   ]
 }
