@@ -104,9 +104,25 @@
               "icon": "lucide-file",
               "title": "Daily Note - 10th Sep 2025"
             }
+          },
+          {
+            "id": "e745263081b2f773",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 10th Sep 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 10th Sep 2025"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -279,7 +295,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "bc36facf97133601",
+  "active": "e745263081b2f773",
   "lastOpenFiles": [
     "Scripts.md",
     "xx_daily/Daily Note - 10th Sep 2025.md",
