@@ -120,9 +120,19 @@
               "icon": "lucide-file",
               "title": "Daily Note - 10th Sep 2025"
             }
+          },
+          {
+            "id": "7695907f137900d3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -295,10 +305,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "e745263081b2f773",
+  "active": "7695907f137900d3",
   "lastOpenFiles": [
-    "Scripts.md",
     "xx_daily/Daily Note - 10th Sep 2025.md",
+    "Scripts.md",
     "xx_media/Pasted image 20250908101109.png",
     "010_Westgate/Contract/Deposit.md",
     "xx_media/Prescribed Information.pdf",

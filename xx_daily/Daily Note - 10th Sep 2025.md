@@ -12,6 +12,8 @@ content-start: 151
 ---
 ## Tasks
 
+- [ ] Strong wood glue
+
 ### Blockers
 ```tasks
 is blocking
