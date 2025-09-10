@@ -134,9 +134,25 @@
               "icon": "lucide-file",
               "title": "WU11 RYM"
             }
+          },
+          {
+            "id": "a5aade48d8cfb659",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 10th Sep 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 10th Sep 2025"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -309,8 +325,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "7695907f137900d3",
+  "active": "a5aade48d8cfb659",
   "lastOpenFiles": [
+    "025_Car/WU11 RYM.md",
     "xx_daily/Daily Note - 10th Sep 2025.md",
     "Scripts.md",
     "xx_media/Pasted image 20250908101109.png",
@@ -350,7 +367,6 @@
     "xx_media/TV-licence1.png",
     "xx_media/Pasted image 20250821142801.png",
     "xx_media/Condensation.pdf",
-    "010_Westgate/Household/Bed.md",
     "010_Westgate/Household",
     "010_Westgate/Contract",
     "xx_media/Welcome Pack.pdf",
