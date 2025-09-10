@@ -125,10 +125,14 @@
             "id": "7695907f137900d3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 10th Sep 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Daily Note - 10th Sep 2025"
             }
           }
         ],
