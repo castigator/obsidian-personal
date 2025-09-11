@@ -11,7 +11,9 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-
+- [ ] Dinner menu for Mandy
+- [ ] Letter for Mandy
+- [ ] Flowers for Mandy
 
 
 ### Blockers
