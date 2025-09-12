@@ -11,7 +11,10 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-
+- [ ] Book valet
+- [ ] Book tip
+- [ ] Pay Octopus
+- [ ] 
 ### Blockers
 ```tasks
 is blocking
