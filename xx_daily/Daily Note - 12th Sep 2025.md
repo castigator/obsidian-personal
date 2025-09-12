@@ -11,9 +11,9 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-- [ ] Book valet
-- [ ] Book tip
-- [ ] Pay Octopus
+- [x] Book valet ✅ 2025-09-12
+- [x] Book tip ✅ 2025-09-12
+- [x] Pay Octopus ✅ 2025-09-12
 ### Blockers
 ```tasks
 is blocking
