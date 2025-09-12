@@ -14,7 +14,6 @@ content-start: 151
 - [ ] Book valet
 - [ ] Book tip
 - [ ] Pay Octopus
-- [ ] 
 ### Blockers
 ```tasks
 is blocking

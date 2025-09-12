@@ -27,6 +27,11 @@ The electricity supplier for this address is **Octopus Energy**. Please contact
 MPAN : **1012979919366**
 ## Important and To Do
 
+Patment reference for Octopus : pi_3S6SgjIlSsaaFwO90htGaUlG
+
+![[Pasted image 20250912095455.png]]
+Prior balance:
+![[Pasted image 20250912095533.png]]
 ## General Notes
 
 ![[Pasted image 20250818133426.png]]
