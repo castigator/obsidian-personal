@@ -183,14 +183,12 @@
             "id": "642412ec0e57e3d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "010_Westgate/Utilities/Gas & Electricity.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250912095455.png"
               },
-              "icon": "lucide-file",
-              "title": "Gas & Electricity"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250912095455"
             }
           }
         ],
@@ -370,10 +368,10 @@
   "active": "642412ec0e57e3d3",
   "lastOpenFiles": [
     "Pasted image 20250912100314.png",
+    "010_Westgate/Utilities/Gas & Electricity.md",
     "Pasted image 20250912095533.png",
     "Pasted image 20250912095455.png",
     "xx_daily/Daily Note - 6th Sep 2025.md",
-    "010_Westgate/Utilities/Gas & Electricity.md",
     "xx_daily/Daily Note - 12th Sep 2025.md",
     "xx_daily/Daily Note - 11th Sep 2025.md",
     "xx_daily/Daily Note - 10th Sep 2025.md",
@@ -409,7 +407,6 @@
     "xx_media/Pasted image 20250827071716.png",
     "xx_media/TV-licence2.png",
     "xx_media/TV-licence1.png",
-    "xx_media/Pasted image 20250821142801.png",
     "xx_media/Condensation.pdf",
     "010_Westgate/Household",
     "010_Westgate/Contract",
