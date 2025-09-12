@@ -31,7 +31,8 @@ Patment reference for Octopus : pi_3S6SgjIlSsaaFwO90htGaUlG
 
 ![[Pasted image 20250912095455.png]]
 Prior balance:
-![[Pasted image 20250912095533.png]]
+
+![[Pasted image 20250912100314.png]]![[Pasted image 20250912095533.png]]
 ## General Notes
 
 ![[Pasted image 20250818133426.png]]
