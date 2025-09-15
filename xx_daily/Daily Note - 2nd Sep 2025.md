@@ -17,7 +17,7 @@ content-start: 151
 - [ ] Subsidence
 - [ ] Divorce
 - [x] Butter ✅ 2025-09-05
-- [ ] Metal Scourer
+- [x] Metal Scourer ✅ 2025-09-15
 ## Tasks
 
 ### Blockers

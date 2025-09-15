@@ -1,5 +1,5 @@
 ---
-date: 2025-09-10
+date: 2025-09-15
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -11,10 +11,6 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-
-- [x] Strong wood glue ✅ 2025-09-15
-- [ ] DD for Cat Food - £200pcm?
-- [ ] Work out when and where to pay Lucy
 
 ### Blockers
 ```tasks

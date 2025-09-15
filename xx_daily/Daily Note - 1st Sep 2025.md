@@ -16,9 +16,9 @@ content-start: 151
 - [x] PCP Website ✅ 2025-09-01
 - [x] Fix Fascia ✅ 2025-09-05
 - [x] Sudafed ✅ 2025-09-01
-- [ ] Carpet Tiles
-- [ ] 2 x Slimline light fittings
-- [ ] Bulkhead light fitting
+- [x] Carpet Tiles ✅ 2025-09-15
+- [x] 2 x Slimline light fittings ✅ 2025-09-15
+- [x] Bulkhead light fitting ✅ 2025-09-15
 - [x] 2x 25mm Cutouts ✅ 2025-09-05
 - [x] Smaller screws ✅ 2025-09-01
 - [x] Junction box ✅ 2025-09-01
