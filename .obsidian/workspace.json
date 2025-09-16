@@ -54,8 +54,23 @@
               "icon": "lucide-file",
               "title": "Daily Note - 12th Sep 2025"
             }
+          },
+          {
+            "id": "83ef7e85e4663729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "090_People/Mandy Zimmer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Mandy Zimmer"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,8 +243,12 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "eb42662a2d31915b",
+  "active": "83ef7e85e4663729",
   "lastOpenFiles": [
+    "xx_templates/Contact.md",
+    "090_People/Mandy Zimmer.md",
+    "090_People/Julian Glasgow.md",
+    "020_Finance/Finances.md",
     "xx_daily/Daily Note - 16th Sep 2025.md",
     "xx_daily/Daily Note - 15th Sep 2025.md",
     "xx_daily/Daily Note - 12th Sep 2025.md",
@@ -246,7 +265,6 @@
     "010_Westgate/Contract/Deposit.md",
     "xx_media/Prescribed Information.pdf",
     "010_Westgate/TV Licence/TV Licence.md",
-    "xx_templates/Contact.md",
     "xx_templates/Daily Note.md",
     "xx_daily/Daily Note - 5th Sep 2025.md",
     "xx_daily/Daily Note - 3rd Sep 2025.md",
@@ -261,9 +279,6 @@
     "025_Car/EY07 SVL.md",
     "xx_media/Pasted image 20250831212338.png",
     "xx_media/Pasted image 20250830113059.png",
-    "020_Finance/Finances.md",
-    "xx_daily/Daily Note - 29th Aug 2025.md",
-    "010_Westgate/Contract/Contract.md",
     "010_Westgate/Utilities/Broadband",
     "010_Westgate/Utilities/Broadband 2",
     "010_Westgate/Broadband",
