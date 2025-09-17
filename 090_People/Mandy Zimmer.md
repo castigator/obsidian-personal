@@ -1,7 +1,7 @@
 
 --- 
 
-aliases: ["ZimmerMandy", "MandyZimmer", "Mandy.Zimmer", mandy07941@aol.com] 
+aliases: ["ZimmerMandy", "MandyZimmer", "Mandy.Zimmer", mandy07941@aol.com]  
 created: ["2025-08-08 14:24"] 
 
 --- 

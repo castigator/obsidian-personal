@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 16th Sep 2025.md",
+                "file": "xx_daily/Daily Note - 17th Sep 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 16th Sep 2025"
+              "title": "Daily Note - 17th Sep 2025"
             }
           },
           {
@@ -69,8 +69,7 @@
               "title": "Mandy Zimmer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,10 +242,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "83ef7e85e4663729",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
-    "xx_templates/Contact.md",
     "090_People/Mandy Zimmer.md",
+    "xx_daily/Daily Note - 17th Sep 2025.md",
+    "xx_templates/Contact.md",
     "090_People/Julian Glasgow.md",
     "020_Finance/Finances.md",
     "xx_daily/Daily Note - 16th Sep 2025.md",
@@ -276,7 +276,6 @@
     "xx_daily/Daily Note - 1st Sep 2025.md",
     "xx_media/Pasted image 20250825081729.png",
     "xx_daily/Daily Note - 31st Aug 2025.md",
-    "025_Car/EY07 SVL.md",
     "xx_media/Pasted image 20250831212338.png",
     "xx_media/Pasted image 20250830113059.png",
     "010_Westgate/Utilities/Broadband",
