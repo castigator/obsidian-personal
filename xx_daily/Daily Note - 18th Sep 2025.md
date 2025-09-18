@@ -11,6 +11,13 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
+- [ ] Chocolate Biscuits
+- [ ] Blutack
+- [ ] Dinner
+- [ ] Flowers!
+- [ ] Bread
+- [ ] Milk
+- [ ] Lucy - 
 
 ### Blockers
 ```tasks
