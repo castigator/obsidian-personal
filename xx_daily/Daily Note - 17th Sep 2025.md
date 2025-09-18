@@ -13,7 +13,6 @@ content-start: 151
 ## Tasks
 
 - [ ] I owe [[Mandy Zimmer]] 100 Euros!
-- [ ] 
 ### Blockers
 ```tasks
 is blocking

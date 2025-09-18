@@ -23,7 +23,7 @@ content-start: 151
 - [x] Smaller screws ✅ 2025-09-01
 - [x] Junction box ✅ 2025-09-01
 - [x] Finish floor ✅ 2025-09-05
-- [ ] Paint interior
+- [x] Paint interior ✅ 2025-09-17
 - [x] Shoes ✅ 2025-09-01
 - [x] Pre-painted skirting ✅ 2025-09-01
 - [x] Post letters ✅ 2025-09-01
