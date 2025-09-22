@@ -59,14 +59,12 @@
             "id": "c0017b98f11ed550",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lucy - Funding.md",
-                "mode": "source",
-                "source": false
+                "file": "xx_media/52651_334699_IMG_00_0000.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "Lucy - Funding"
+              "icon": "lucide-image",
+              "title": "52651_334699_IMG_00_0000"
             }
           }
         ],
@@ -243,13 +241,15 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "c0017b98f11ed550",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
+    "xx_media/52651_334699_IMG_00_0000 copy.jpeg",
+    "010_Westgate/Contract/Contract.md",
+    "Lucy - Funding.md",
     "090_People/Lucy Thomas.md",
     "xx_daily/Daily Note - 18th Sep 2025.md",
     "README.md",
     "090_People/Mandy Zimmer.md",
-    "Lucy - Funding.md",
     "Pasted image 20250918120515.png",
     "Pasted image 20250918120428.png",
     "xx_daily/Daily Note - 17th Sep 2025.md",
@@ -276,8 +276,6 @@
     "xx_daily/Daily Note - 5th Sep 2025.md",
     "xx_daily/Daily Note - 3rd Sep 2025.md",
     "010_Westgate/Council Tax.md",
-    "010_Westgate/Utilities/Water.md",
-    "010_Westgate/Insurance.md",
     "xx_media/Pasted image 20250825081729.png",
     "xx_media/Pasted image 20250831212338.png",
     "xx_media/Pasted image 20250830113059.png",
