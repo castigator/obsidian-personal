@@ -1,5 +1,5 @@
 ---
-date: 2025-09-03
+date: 2025-09-22
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -10,11 +10,8 @@ icon: 📆
 banner-display: cover
 content-start: 151
 ---
-
 ## Tasks
 
-- [ ] Arrange October payments with Heather
-- [x] Set up Lucy DD ✅ 2025-09-22
 ### Blockers
 ```tasks
 is blocking

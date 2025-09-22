@@ -12,7 +12,7 @@ icon: 🏡
 
 ## Important and To Do
 
-- [ ] [Notify Braintree](https://openportal.braintree.gov.uk/scripts/OPENPortal-Live.wsc/ctax/moveout.p) of moving out - (Account reference: 4301127011) Can't do it just for me..?
+- [x] [Notify Braintree](https://openportal.braintree.gov.uk/scripts/OPENPortal-Live.wsc/ctax/moveout.p) of moving out - (Account reference: 4301127011) Can't do it just for me..? ✅ 2025-09-22
 - Notify Babergh of moving in - <https://www.babergh.gov.uk/moving-home> 
 - [x] [Register online account](https://www.babergh.gov.uk/w/manage-your-council-tax-online) ✅ 2025-09-02
 ## General Notes
