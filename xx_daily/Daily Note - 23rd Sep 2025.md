@@ -1,5 +1,5 @@
 ---
-date: 2025-09-11
+date: 2025-09-23
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -11,9 +11,6 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-- [x] Dinner menu for Mandy ✅ 2025-09-23
-- [x] Letter for Mandy ✅ 2025-09-23
-- [x] Flowers for Mandy ✅ 2025-09-23
 
 ### Blockers
 ```tasks

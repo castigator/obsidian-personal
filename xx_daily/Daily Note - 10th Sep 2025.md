@@ -13,8 +13,8 @@ content-start: 151
 ## Tasks
 
 - [x] Strong wood glue ✅ 2025-09-15
-- [ ] DD for Cat Food - £200pcm?
-- [ ] Work out when and where to pay Lucy
+- [x] DD for Cat Food - £200pcm? ✅ 2025-09-23
+- [x] Work out when and where to pay Lucy ✅ 2025-09-23
 
 ### Blockers
 ```tasks

@@ -13,7 +13,7 @@ content-start: 151
 
 ## Tasks
 
-- [ ] Arrange October payments with Heather
+- [x] Arrange October payments with Heather ✅ 2025-09-23
 - [x] Set up Lucy DD ✅ 2025-09-22
 ### Blockers
 ```tasks
