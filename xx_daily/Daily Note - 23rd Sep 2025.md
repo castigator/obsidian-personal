@@ -23,3 +23,5 @@ not done
 ```
 
 ## General Notes
+
+- [[Google Home Automation]]
