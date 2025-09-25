@@ -1,4 +1,4 @@
-Annual Season Ticket (Sudbury -> Travelcard): **£8,100** - https://www.buytickets.greateranglia.co.uk/season-tickets/fare-selection?annual=true&custom=false&destCode=338&endDate=2025-10-25&flexi=true&monthly=true&oriCode=SUY&passenger=adult&startDate=2025-09-25&tc=standard&weekly=true
+Annual Season Ticket (Sudbury -> Travelcard): **£8,100** - <https://www.buytickets.greateranglia.co.uk/season-tickets/fare-selection?annual=true&custom=false&destCode=338&endDate=2025-10-25&flexi=true&monthly=true&oriCode=SUY&passenger=adult&startDate=2025-09-25&tc=standard&weekly=true>
 
 Home -> Sudbury = 4.2 miles
 
@@ -13,7 +13,7 @@ Home -> Sudbury = 4.2 miles
 | Annual Mileage      | 2192.4 |           |
 | Annual Mileage Cost |        | £986.58   |
 |                     |        |           |
-| Annual Cost         |        | £9,336.58 |
+| Annual Cost         |        | £9,336.58 |  
 Cheaper to get season ticket.
 
 |                       |       |     |        |              |
@@ -26,6 +26,6 @@ Cheaper to get season ticket.
 | Weekly (x3)           | 780   |     | 13.00  | 1.625        |
 | Annual                | 36660 |     | 611.00 | 76.375       |
 
-https://docs.google.com/spreadsheets/d/1eT_pMN_6-gU31_R2t4GP9_6IpOVfCNpdPp4wcOBeznw/edit?gid=699575#gid=699575
+<https://docs.google.com/spreadsheets/d/1eT_pMN_6-gU31_R2t4GP9_6IpOVfCNpdPp4wcOBeznw/edit?gid=699575#gid=699575>
 
 Whilst this policy does not impact employees who have been approved to work in a remote role prior to this new policy being introduced, your leader will have a conversation with you, as all remote roles will be subject to periodic review to confirm ongoing suitability.
