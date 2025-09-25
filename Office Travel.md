@@ -27,3 +27,5 @@ Cheaper to get season ticket.
 | Annual                | 36660 |     | 611.00 | 76.375       |
 
 https://docs.google.com/spreadsheets/d/1eT_pMN_6-gU31_R2t4GP9_6IpOVfCNpdPp4wcOBeznw/edit?gid=699575#gid=699575
+
+Whilst this policy does not impact employees who have been approved to work in a remote role prior to this new policy being introduced, your leader will have a conversation with you, as all remote roles will be subject to periodic review to confirm ongoing suitability.
