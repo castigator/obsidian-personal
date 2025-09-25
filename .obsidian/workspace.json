@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 23rd Sep 2025.md",
+                "file": "xx_daily/Daily Note - 25th Sep 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 23rd Sep 2025"
+              "title": "Daily Note - 25th Sep 2025"
             }
           },
           {
@@ -109,8 +109,7 @@
               "title": "Scripts"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +282,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "65b5746dbcacf49e",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
+    "050_Interesting/Scripts.md",
+    "xx_daily/Daily Note - 25th Sep 2025.md",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
     "050_Interesting/Google Home Automation.md",
@@ -306,7 +307,6 @@
     "xx_daily/Daily Note - 16th Sep 2025.md",
     "xx_daily/Daily Note - 15th Sep 2025.md",
     "xx_daily/Daily Note - 12th Sep 2025.md",
-    "050_Interesting/Scripts.md",
     "xx_media/Pasted image 20250912095455.png",
     "xx_media/Pasted image 20250912100314.png",
     "010_Westgate/Utilities/Gas & Electricity.md",
