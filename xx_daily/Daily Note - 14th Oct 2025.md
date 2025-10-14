@@ -12,6 +12,7 @@ content-start: 151
 ---
 ## Tasks
 
+- [ ] Discuss Netflix/1Passowrd with heather
 ### Blockers
 ```tasks
 is blocking
