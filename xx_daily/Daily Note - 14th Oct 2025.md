@@ -1,5 +1,5 @@
 ---
-date: 2025-10-13
+date: 2025-10-14
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -23,6 +23,3 @@ not done
 ```
 
 ## General Notes
-
-Code Assist to refactor BaseVendor  
-Ireland Atlas - numbers for Mongo. Atlas not Percona....
