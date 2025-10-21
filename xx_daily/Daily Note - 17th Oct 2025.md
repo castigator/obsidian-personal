@@ -12,7 +12,6 @@ content-start: 151
 ---
 ## Tasks
 - [x] Tesco Statement reconciliation ✅ 2025-10-20
-- [ ] 
 ### Blockers
 ```tasks
 is blocking
