@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 17th Oct 2025.md",
+                "file": "xx_daily/Daily Note - 22nd Oct 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 17th Oct 2025"
+              "title": "Daily Note - 22nd Oct 2025"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "Office Travel"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,22 +196,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pinned-daily-notes:Open today's daily note (Pinned)": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "obsidian-git:Open Git source control": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
-      "pinned-daily-notes:Open today's daily note (Pinned)": false,
       "iconic:Open rulebook": false
     }
   },
-  "active": "dc2fcf4d0a3cf022",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
+    "Office Travel.md",
+    "xx_daily/Daily Note - 22nd Oct 2025.md",
     "README.md",
     "020_Finance/Pensions.md",
     "Untitled.md",
@@ -229,7 +230,6 @@
     "010_Westgate/19 Westgate.md",
     "xx_daily/Daily Note - 30th Sep 2025.md",
     "020_Finance/Lucy - Funding.md",
-    "Office Travel.md",
     "050_Interesting/Scripts.md",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
@@ -244,7 +244,6 @@
     "090_People/Lucy Thomas.md",
     "090_People/Mandy Zimmer.md",
     "xx_media/Pasted image 20250918120515.png",
-    "xx_daily/Daily Note - 17th Sep 2025.md",
     "xx_media/Pasted image 20250912095455.png",
     "xx_media/Pasted image 20250912100314.png",
     "xx_media/Pasted image 20250912095533.png",
