@@ -20,3 +20,5 @@ content-start: 151
 * **Wifi SSID :** FIBERLY-0X82
 * **Wifi Password:** 089GKxHliTBF
 * **Router IP :** 192.168.1.1
+
+Static IP cost is £2.49/month
