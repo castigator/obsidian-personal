@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "eb42662a2d31915b",
+  "active": "1e40955334926c4f",
   "lastOpenFiles": [
     "xx_daily/Daily Note - 30th Oct 2025.md",
     "xx_daily/Daily Note - 22nd Oct 2025.md",
