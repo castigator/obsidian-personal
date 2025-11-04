@@ -55,14 +55,12 @@
             "id": "89db4041125856c1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "010_Westgate/TV Licence/TV Licence.md",
-                "mode": "source",
-                "source": false
+                "file": "xx_media/Form.pdf"
               },
-              "icon": "lucide-file",
-              "title": "TV Licence"
+              "icon": "lucide-file-text",
+              "title": "Form"
             }
           }
         ],
@@ -241,12 +239,14 @@
   },
   "active": "89db4041125856c1",
   "lastOpenFiles": [
+    "020_Finance/Pensions.md",
+    "xx_media/Form.pdf",
+    "010_Westgate/TV Licence/TV Licence.md",
     "010_Westgate/Utilities/Broadband/Broadband.md",
     "xx_daily/Daily Note - 30th Oct 2025.md",
     "xx_daily/Daily Note - 22nd Oct 2025.md",
     "Office Travel.md",
     "README.md",
-    "020_Finance/Pensions.md",
     "Untitled.md",
     "xx_daily/Daily Note - 17th Oct 2025.md",
     "xx_daily/Daily Note - 15th Oct 2025.md",
@@ -268,10 +268,8 @@
     "xx_daily/Daily Note - 23rd Sep 2025.md",
     "xx_daily/Daily Note - 18th Sep 2025.md",
     "020_Finance/Finances.md",
-    "xx_daily/Daily Note - 22nd Sep 2025.md",
     "xx_media/52651_334699_IMG_00_0000.jpeg",
     "xx_media/52651_334699_IMG_00_0000 copy.jpeg",
-    "010_Westgate/Contract/Contract.md",
     "xx_media/Pasted image 20250918120515.png",
     "xx_media/Pasted image 20250912095455.png",
     "xx_media/Pasted image 20250912100314.png",
@@ -285,7 +283,6 @@
     "010_Westgate/Untitled",
     "xx_media/Condensation.pdf",
     "010_Westgate/Household",
-    "010_Westgate/Contract",
-    "xx_media/Welcome Pack.pdf"
+    "010_Westgate/Contract"
   ]
 }
