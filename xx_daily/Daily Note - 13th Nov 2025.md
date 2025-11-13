@@ -30,4 +30,5 @@ not done
 - **Task4**: For Target group name: Enter myWPTargetGroup, For Load balancer name: Enter myWPAppALB.
 - **Task5**: For Stack name, WPLaunchConfigStack, For WordPress admin username: wpadmin
 - **Task6**: For Auto Scaling group name: Enter WP-ASG, For Tags: Key: Enter Name, Value - optional: Enter WP-App  
-writer endpoint: mydbcluster-instance-1.c2pufs0ihblh.us-west-2.rds.amazonaws.com
+writer endpoint: mydbcluster.cluster-chkyufnkoby0.us-west-2.rds.amazonaws.com
+fs id [fs-09cd89c71373f5699](https://us-west-2.console.aws.amazon.com/efs/home?region=us-west-2#/file-systems/fs-09cd89c71373f5699)

@@ -91,8 +91,7 @@
               "title": "Buses"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,10 +264,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "68e2a7a340a75903",
+  "active": "eb42662a2d31915b",
   "lastOpenFiles": [
-    "xx_daily/Daily Note - 13th Nov 2025.md",
     "Christmas.md",
+    "xx_daily/Daily Note - 13th Nov 2025.md",
     "xx_daily/Daily Note - 10th Nov 2025.md",
     "Buses.md",
     "Pasted image 20251105142516.png",
