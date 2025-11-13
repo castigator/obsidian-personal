@@ -32,3 +32,6 @@ not done
 - **Task6**: For Auto Scaling group name: Enter WP-ASG, For Tags: Key: Enter Name, Value - optional: Enter WP-App  
 writer endpoint: mydbcluster.cluster-chkyufnkoby0.us-west-2.rds.amazonaws.com
 fs id [fs-09cd89c71373f5699](https://us-west-2.console.aws.amazon.com/efs/home?region=us-west-2#/file-systems/fs-09cd89c71373f5699)
+
+
+myWPAppALB-2063265306.us-west-2.elb.amazonaws.com/wp-login.php
