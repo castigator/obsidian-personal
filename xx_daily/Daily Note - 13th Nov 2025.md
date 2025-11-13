@@ -29,5 +29,5 @@ not done
 - **Task3**: For file system: Name - optional: Enter myWPEFS, For Tag key: Enter Name, Tag value – optional: Enter myWPEFS
 - **Task4**: For Target group name: Enter myWPTargetGroup, For Load balancer name: Enter myWPAppALB.
 - **Task5**: For Stack name, WPLaunchConfigStack, For WordPress admin username: wpadmin
-- **Task6**: For Auto Scaling group name: Enter WP-ASG, For Tags: Key: Enter Name, Value - optional: Enter WP-App
+- **Task6**: For Auto Scaling group name: Enter WP-ASG, For Tags: Key: Enter Name, Value - optional: Enter WP-App  
 writer endpoint: mydbcluster-instance-1.c2pufs0ihblh.us-west-2.rds.amazonaws.com
