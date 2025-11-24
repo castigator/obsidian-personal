@@ -13,7 +13,7 @@ Home -> Sudbury = 4.2 miles
 | Annual Mileage      | 2192.4 |           |
 | Annual Mileage Cost |        | £986.58   |
 |                     |        |           |
-| Annual Cost         |        | £9,336.58 |    
+| Annual Cost         |        | £9,336.58 |      
 Cheaper to get season ticket.
 
 |                       |       |     |        |              |
