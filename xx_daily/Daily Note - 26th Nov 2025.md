@@ -1,5 +1,5 @@
 ---
-date: 2025-10-14
+date: 2025-11-26
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -12,7 +12,6 @@ content-start: 151
 ---
 ## Tasks
 
-- [x] Discuss Netflix/1Passowrd with heather ✅ 2025-11-26
 ### Blockers
 ```tasks
 is blocking

@@ -12,12 +12,12 @@ content-start: 151
 ---
 ## Tasks
 
-- [ ] Birthday card for Bryn
+- [x] Birthday card for Bryn ✅ 2025-11-26
 - [ ] Birthday card for Lucy
 - [ ] Birthday card for Heather
 - [ ] Birthday card for Ruby
 - [ ] Birthday card for Evelyn
-- [ ] ANNIVERSARY CARD FOR HELEN & LANCE
+- [x] ANNIVERSARY CARD FOR HELEN & LANCE ✅ 2025-11-26
 ### Blockers
 ```tasks
 is blocking
