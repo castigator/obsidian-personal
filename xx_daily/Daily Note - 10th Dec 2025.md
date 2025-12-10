@@ -19,7 +19,6 @@ content-start: 151
 - [ ] Lucy present
 - [ ] Mandy present?
 - [ ] Speedware pension - Aegon
-- [ ] 
 
 ### Blockers
 ```tasks

@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Daily Note - 10th Dec 2025"
             }
+          },
+          {
+            "id": "aba8dd9e626c4979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020_Finance/Pensions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pensions"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,15 +211,15 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "6e1bc725b19b6a69",
+  "active": "aba8dd9e626c4979",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 10th Dec 2025.md",
     "xx_daily/Daily Note - 13th Nov 2025.md",
     "050_Interesting/Google Home Automation.md",
     "050_Interesting/Scripts.md",
     "Office Travel.md",
     "Christmas.md",
     "xx_media/Pasted image 20250930164938.png",
-    "xx_daily/Daily Note - 10th Dec 2025.md",
     "xx_daily/Daily Note - 8th Dec 2025.md",
     "xx_daily/Daily Note - 26th Nov 2025.md",
     "010_Westgate/Contract/Deposit.md",
