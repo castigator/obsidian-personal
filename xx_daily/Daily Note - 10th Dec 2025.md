@@ -1,5 +1,5 @@
 ---
-date: 2025-12-08
+date: 2025-12-10
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -12,7 +12,15 @@ content-start: 151
 ---
 ## Tasks
 
-- [ ] Book Holidays 14/01
+- [ ] Set up a monthly automated transfer for Dreamhost 12.5/month
+- [ ] Birthday card for Margaret
+- [ ] Book parking for 27/12
+- [ ] Daisy present
+- [ ] Lucy present
+- [ ] Mandy present?
+- [ ] Speedware pension - Aegon
+- [ ] 
+
 ### Blockers
 ```tasks
 is blocking

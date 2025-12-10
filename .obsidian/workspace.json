@@ -8,121 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb42662a2d31915b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xx_daily/Daily Note - 13th Nov 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Daily Note - 13th Nov 2025"
-            }
-          },
-          {
-            "id": "68e2a7a340a75903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Christmas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Christmas"
-            }
-          },
-          {
-            "id": "e234bf7df6f38aa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_Westgate/Contract/Deposit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deposit"
-            }
-          },
-          {
             "id": "6e1bc725b19b6a69",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 8th Dec 2025.md",
+                "file": "xx_daily/Daily Note - 10th Dec 2025.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 8th Dec 2025"
-            }
-          },
-          {
-            "id": "dc2fcf4d0a3cf022",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Travel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Office Travel"
-            }
-          },
-          {
-            "id": "b104ebd38ab12a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_Westgate/Utilities/Broadband/Broadband.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Broadband"
-            }
-          },
-          {
-            "id": "89db4041125856c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "xx_media/Form.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Form"
-            }
-          },
-          {
-            "id": "d017368baada9f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Buses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buses"
+              "title": "Daily Note - 10th Dec 2025"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,19 +198,23 @@
   },
   "active": "6e1bc725b19b6a69",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 13th Nov 2025.md",
+    "050_Interesting/Google Home Automation.md",
+    "050_Interesting/Scripts.md",
     "Office Travel.md",
+    "Christmas.md",
+    "xx_media/Pasted image 20250930164938.png",
+    "xx_daily/Daily Note - 10th Dec 2025.md",
     "xx_daily/Daily Note - 8th Dec 2025.md",
     "xx_daily/Daily Note - 26th Nov 2025.md",
     "010_Westgate/Contract/Deposit.md",
-    "Pasted image 20251124144333.png",
+    "xx_media/Pasted image 20251124144333.png",
     "010_Westgate/Contract/Contract.md",
     "xx_daily/Daily Note - 24th Nov 2025.md",
     "xx_daily/Daily Note - 14th Nov 2025.md",
-    "xx_daily/Daily Note - 13th Nov 2025.md",
-    "Christmas.md",
     "xx_daily/Daily Note - 10th Nov 2025.md",
     "Buses.md",
-    "Pasted image 20251105142516.png",
+    "xx_media/Pasted image 20251105142516.png",
     "xx_media/Form.pdf",
     "020_Finance/Pensions.md",
     "010_Westgate/TV Licence/TV Licence.md",
@@ -323,10 +228,6 @@
     "xx_daily/Daily Note - 13th Oct 2025.md",
     "xx_daily/Daily Note - 9th Oct 2025.md",
     "xx_daily/Daily Note - 25th Sep 2025.md",
-    "xx_daily/Daily Note - 8th Oct 2025.md",
-    "xx_daily/Daily Note - 1st Oct 2025.md",
-    "xx_daily/Daily Note - 2nd Oct 2025.md",
-    "Pasted image 20250930164938.png",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
     "xx_media/52651_334699_IMG_00_0000.jpeg",
