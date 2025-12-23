@@ -50,9 +50,25 @@
               "icon": "lucide-file",
               "title": "Daily Note - 20th Dec 2025"
             }
+          },
+          {
+            "id": "0252ba187866fa54",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 23rd Dec 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 23rd Dec 2025"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,8 +241,9 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "ff386fa69a34849b",
+  "active": "0252ba187866fa54",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 23rd Dec 2025.md",
     "xx_daily/Daily Note - 20th Dec 2025.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "xx_daily/Daily Note - 19th Dec 2025.md",
@@ -256,7 +273,6 @@
     "xx_daily/Daily Note - 17th Oct 2025.md",
     "xx_daily/Daily Note - 15th Oct 2025.md",
     "xx_daily/Daily Note - 14th Oct 2025.md",
-    "xx_daily/Daily Note - 13th Oct 2025.md",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
     "xx_media/52651_334699_IMG_00_0000.jpeg",
