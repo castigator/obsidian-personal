@@ -12,7 +12,7 @@ content-start: 151
 ---
 ## Tasks
 
-- [ ] Book Holidays 14/01
+- [x] Book Holidays 14/01 ✅ 2025-12-23
 ### Blockers
 ```tasks
 is blocking

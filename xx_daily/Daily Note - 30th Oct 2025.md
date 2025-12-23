@@ -14,7 +14,7 @@ content-start: 151
 
 - [x] Birthday card for Bryn ✅ 2025-11-26
 - [x] Birthday card for Lucy ✅ 2025-12-08
-- [ ] Birthday card for Heather
+- [x] Birthday card for Heather ✅ 2025-12-23
 - [x] Birthday card for Ruby ✅ 2025-12-08
 - [x] Birthday card for Evelyn ✅ 2025-12-08
 - [x] ANNIVERSARY CARD FOR HELEN & LANCE ✅ 2025-11-26

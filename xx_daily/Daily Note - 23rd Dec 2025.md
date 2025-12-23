@@ -12,10 +12,10 @@ content-start: 151
 ---
 ## Tasks
 
-- [ ] Parking
+- [x] Parking ✅ 2025-12-23
 - [ ] Nutloaf - Carl
 - [ ] Ribbons - Carl
-- [ ] Macaroni Cheese
+- [x] Macaroni Cheese ✅ 2025-12-23
 - [ ] 
 ### Blockers
 ```tasks

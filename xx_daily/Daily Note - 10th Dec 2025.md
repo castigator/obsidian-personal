@@ -13,11 +13,11 @@ content-start: 151
 ## Tasks
 
 - [ ] Set up a monthly automated transfer for Dreamhost 12.5/month
-- [ ] Birthday card for Margaret
-- [ ] Book parking for 27/12
-- [ ] Daisy present
-- [ ] Lucy present
-- [ ] Mandy present?
+- [x] Birthday card for Margaret ✅ 2025-12-23
+- [x] Book parking for 27/12 ✅ 2025-12-23
+- [x] Daisy present ✅ 2025-12-23
+- [x] Lucy present ✅ 2025-12-23
+- [x] Mandy present? ✅ 2025-12-23
 - [ ] Speedware pension - Aegon
 
 ### Blockers
