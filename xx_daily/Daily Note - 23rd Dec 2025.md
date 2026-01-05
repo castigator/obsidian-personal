@@ -16,7 +16,6 @@ content-start: 151
 - [ ] Nutloaf - Carl
 - [ ] Ribbons - Carl
 - [x] Macaroni Cheese ✅ 2025-12-23
-- [ ] 
 ### Blockers
 ```tasks
 is blocking
