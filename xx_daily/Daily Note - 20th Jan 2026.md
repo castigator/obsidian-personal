@@ -1,5 +1,5 @@
 ---
-date: 2025-12-23
+date: 2026-01-20
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -12,10 +12,6 @@ content-start: 151
 ---
 ## Tasks
 
-- [x] Parking ✅ 2025-12-23
-- [x] Nutloaf - Carl ✅ 2026-01-20
-- [x] Ribbons - Carl ✅ 2026-01-20
-- [x] Macaroni Cheese ✅ 2025-12-23
 ### Blockers
 ```tasks
 is blocking
