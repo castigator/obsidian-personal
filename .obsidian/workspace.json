@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 23rd Jan 2026.md",
+                "file": "xx_daily/Daily Note - 26th Jan 2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 23rd Jan 2026"
+              "title": "Daily Note - 26th Jan 2026"
             }
           },
           {
@@ -96,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,8 +269,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "8d45ad08667c6ac0",
+  "active": "0252ba187866fa54",
   "lastOpenFiles": [
+    "Office Travel.md",
+    "xx_daily/Daily Note - 26th Jan 2026.md",
     "xx_daily/Daily Note - 23rd Jan 2026.md",
     "010_Westgate/Council Tax.md",
     "xx_daily/Daily Note - 20th Jan 2026.md",
@@ -284,7 +286,6 @@
     "xx_daily/Daily Note - 13th Nov 2025.md",
     "050_Interesting/Google Home Automation.md",
     "050_Interesting/Scripts.md",
-    "Office Travel.md",
     "Christmas.md",
     "xx_media/Pasted image 20250930164938.png",
     "xx_daily/Daily Note - 8th Dec 2025.md",
@@ -301,7 +302,6 @@
     "010_Westgate/Utilities/Broadband/Broadband.md",
     "xx_daily/Daily Note - 30th Oct 2025.md",
     "xx_daily/Daily Note - 22nd Oct 2025.md",
-    "README.md",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
     "xx_media/52651_334699_IMG_00_0000.jpeg",

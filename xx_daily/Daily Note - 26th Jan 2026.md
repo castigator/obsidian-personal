@@ -1,5 +1,5 @@
 ---
-date: 2026-01-23
+date: 2026-01-26
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -11,7 +11,6 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-- [x] Card for Maya ✅ 2026-01-26
 
 ### Blockers
 ```tasks
