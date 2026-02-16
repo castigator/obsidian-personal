@@ -24,34 +24,6 @@
             }
           },
           {
-            "id": "aba8dd9e626c4979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xx_daily/Daily Note - 19th Dec 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note - 19th Dec 2025"
-            }
-          },
-          {
-            "id": "ff386fa69a34849b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xx_daily/Daily Note - 20th Dec 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Daily Note - 20th Dec 2025"
-            }
-          },
-          {
             "id": "0252ba187866fa54",
             "type": "leaf",
             "pinned": true,
@@ -66,65 +38,9 @@
               "icon": "lucide-file",
               "title": "Daily Note - 26th Jan 2026"
             }
-          },
-          {
-            "id": "fabf51d5162d4e40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_Westgate/Council Tax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Council Tax"
-            }
-          },
-          {
-            "id": "8d45ad08667c6ac0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Office Travel.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Office Travel"
-            }
-          },
-          {
-            "id": "2df342f6f3656cc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "020_Finance/Pensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pensions"
-            }
-          },
-          {
-            "id": "02f800a3a4edaa6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "010_Westgate/TV Licence/TV Licence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TV Licence"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,9 +213,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "02f800a3a4edaa6d",
+  "active": "0252ba187866fa54",
   "lastOpenFiles": [
     "020_Finance/Gamesys+Roxor-Hargreaves Lansdowne.md",
+    "010_Westgate/TV Licence/TV Licence.md",
     "020_Finance/Pensions.md",
     "xx_daily/Daily Note - 9th Feb 2026.md",
     "010_Westgate/Council Tax.md",
@@ -308,7 +225,6 @@
     "xx_daily/Daily Note - 23rd Jan 2026.md",
     "xx_daily/Daily Note - 20th Jan 2026.md",
     "xx_media/Account activity - Babergh District Council.pdf",
-    "010_Westgate/TV Licence/TV Licence.md",
     "xx_daily/Daily Note - 23rd Dec 2025.md",
     "xx_daily/Daily Note - 20th Dec 2025.md",
     "xx_daily/Daily Note - 19th Dec 2025.md",
