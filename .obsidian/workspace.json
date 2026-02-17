@@ -14,33 +14,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 10th Dec 2025.md",
+                "file": "xx_daily/Daily Note - 17th Feb 2026.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Daily Note - 10th Dec 2025"
-            }
-          },
-          {
-            "id": "0252ba187866fa54",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "xx_daily/Daily Note - 26th Jan 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Daily Note - 26th Jan 2026"
+              "title": "Daily Note - 17th Feb 2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +196,16 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "0252ba187866fa54",
+  "active": "6e1bc725b19b6a69",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 17th Feb 2026.md",
+    "xx_daily/Daily Note - 10th Dec 2025.md",
+    "xx_daily/Daily Note - 26th Jan 2026.md",
     "020_Finance/Gamesys+Roxor-Hargreaves Lansdowne.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "020_Finance/Pensions.md",
     "xx_daily/Daily Note - 9th Feb 2026.md",
     "010_Westgate/Council Tax.md",
-    "xx_daily/Daily Note - 26th Jan 2026.md",
     "Office Travel.md",
     "xx_daily/Daily Note - 23rd Jan 2026.md",
     "xx_daily/Daily Note - 20th Jan 2026.md",
@@ -228,7 +213,6 @@
     "xx_daily/Daily Note - 23rd Dec 2025.md",
     "xx_daily/Daily Note - 20th Dec 2025.md",
     "xx_daily/Daily Note - 19th Dec 2025.md",
-    "xx_daily/Daily Note - 10th Dec 2025.md",
     "xx_daily/Daily Note - 13th Nov 2025.md",
     "050_Interesting/Google Home Automation.md",
     "050_Interesting/Scripts.md",
@@ -245,7 +229,6 @@
     "Buses.md",
     "xx_media/Pasted image 20251105142516.png",
     "xx_media/Form.pdf",
-    "010_Westgate/Utilities/Broadband/Broadband.md",
     "xx_media/Pasted image 20250918120428.png",
     "050_Interesting",
     "xx_media/52651_334699_IMG_00_0000.jpeg",
