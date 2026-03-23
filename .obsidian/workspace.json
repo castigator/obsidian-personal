@@ -50,9 +50,25 @@
               "icon": "lucide-file",
               "title": "Daily Note - 2nd Mar 2026"
             }
+          },
+          {
+            "id": "e3a879e24286f0a5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 23rd Mar 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 23rd Mar 2026"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +241,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "ab5b6e1b58afb44d",
+  "active": "e3a879e24286f0a5",
   "lastOpenFiles": [
-    "xx_daily/Daily Note - 27th Feb 2026.md",
+    "xx_daily/Daily Note - 23rd Mar 2026.md",
     "xx_daily/Daily Note - 2nd Mar 2026.md",
+    "xx_daily/Daily Note - 27th Feb 2026.md",
     "xx_daily/Daily Note - 26th Feb 2026.md",
     "xx_daily/Daily Note - 23rd Feb 2026.md",
     "Office Travel.md",
@@ -254,7 +271,6 @@
     "Christmas.md",
     "xx_media/Pasted image 20250930164938.png",
     "xx_daily/Daily Note - 8th Dec 2025.md",
-    "xx_daily/Daily Note - 26th Nov 2025.md",
     "xx_media/Pasted image 20251124144333.png",
     "xx_media/Pasted image 20251105142516.png",
     "xx_media/Form.pdf",
