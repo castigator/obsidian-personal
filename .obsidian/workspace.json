@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "xx_daily/Daily Note - 26th Mar 2026.md",
+                "file": "010_Westgate/Utilities/Water.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Note - 26th Mar 2026"
+              "title": "Water"
             }
           }
         ],
@@ -255,10 +255,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "90dfa4e312280fb6",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
-    "050_Interesting/Scripts.md",
+    "xx_media/Pasted image 20260326100417.png",
     "xx_daily/Daily Note - 26th Mar 2026.md",
+    "050_Interesting/Scripts.md",
     "xx_daily/Daily Note - 25th Mar 2026.md",
     "xx_daily/Daily Note - 24th Mar 2026.md",
     "xx_daily/Daily Note - 23rd Mar 2026.md",
@@ -283,7 +284,6 @@
     "xx_daily/Daily Note - 23rd Dec 2025.md",
     "xx_daily/Daily Note - 20th Dec 2025.md",
     "xx_daily/Daily Note - 19th Dec 2025.md",
-    "xx_daily/Daily Note - 13th Nov 2025.md",
     "xx_media/Pasted image 20250930164938.png",
     "xx_media/Pasted image 20251124144333.png",
     "xx_media/Pasted image 20251105142516.png",
