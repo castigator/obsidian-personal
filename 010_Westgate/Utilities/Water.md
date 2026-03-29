@@ -26,7 +26,7 @@ Estimated annual usage £528
 
 Set up DD for 8th Month Not received details yet.
 
-![[Pasted image 20250819115238.png]]
+![[Pasted image 20250819115238.png]]  
 ![[Pasted image 20260326100417.png]]
 ## Links
 
