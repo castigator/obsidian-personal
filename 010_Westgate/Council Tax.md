@@ -23,4 +23,4 @@ Babergh Account number: 42214538
 ![[Pasted image 20250814112800.png]]
 
 Online account: <https://espws.necsws.com/>  
-![[Account activity - Babergh District Council.pdf]]
+![[Account activity - Babergh District Council.pdf]]![[Pasted image 20260407114310.png]]![[Pasted image 20260407114324.png]]![[Pasted image 20260407114347.png]]
