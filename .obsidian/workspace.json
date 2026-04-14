@@ -87,16 +87,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smoking.md",
+                "file": "020_Finance/Gamesys+Roxor-Hargreaves Lansdowne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smoking"
+              "title": "Gamesys+Roxor-Hargreaves Lansdowne"
             }
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "c057424aea11fbba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec81443d04e070f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consolidating Debts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Consolidating Debts"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,10 +289,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "a173eee136f93402",
+  "active": "cec81443d04e070f",
   "lastOpenFiles": [
-    "xx_daily/Daily Note - 8th Apr 2026.md",
+    "020_Finance/Gamesys+Roxor-Hargreaves Lansdowne.md",
+    "Consolidating Debts.md",
+    "020_Finance/Finances.md",
     "Smoking.md",
+    "xx_daily/Daily Note - 8th Apr 2026.md",
     "010_Westgate/TV Licence/TV Licence.md",
     "010_Westgate/Council Tax.md",
     "Pasted image 20260407114347.png",
@@ -296,11 +319,8 @@
     "xx_daily/Daily Note - 18th Feb 2026.md",
     "xx_daily/Daily Note - 10th Dec 2025.md",
     "xx_daily/Daily Note - 26th Jan 2026.md",
-    "020_Finance/Gamesys+Roxor-Hargreaves Lansdowne.md",
     "020_Finance/Pensions.md",
     "xx_daily/Daily Note - 9th Feb 2026.md",
-    "xx_daily/Daily Note - 23rd Jan 2026.md",
-    "xx_daily/Daily Note - 20th Jan 2026.md",
     "xx_media/Account activity - Babergh District Council.pdf",
     "xx_media/Pasted image 20250930164938.png",
     "xx_media/Pasted image 20251124144333.png",
