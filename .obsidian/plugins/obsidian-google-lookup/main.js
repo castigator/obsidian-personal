@@ -30396,7 +30396,8 @@ var insertIntoEditorRange = (app2, content) => {
   if (!editor || !isViewInSourceMode(view)) {
     return;
   }
-  editor.replaceRange(content, editor.getCursor());
+  const cursor = editor.getCursor();
+  editor.replaceRange(content, cursor, cursor);
 };
 var renameFile = (app2, title, folder) => __async(void 0, null, function* () {
   const file = app2.workspace.getActiveFile();
@@ -30416,6 +30417,29 @@ var sanitizeHeading = (text) => {
   text = text.replace(stockIllegalSymbols, "");
   return text.trim();
 };
+var createOrUpdateFile = (app2, title, content, folder) => __async(void 0, null, function* () {
+  const fileName = sanitizeHeading(title);
+  const filePath = (0, import_obsidian.normalizePath)(`${folder}/${fileName}.md`);
+  try {
+    const existingFile = app2.vault.getAbstractFileByPath(filePath);
+    if (existingFile instanceof import_obsidian.TFile) {
+      new import_obsidian.Notice(`File already exists for ${title}, inserting link`);
+    } else {
+      const folderPath = (0, import_obsidian.normalizePath)(folder);
+      const folderExists = app2.vault.getAbstractFileByPath(folderPath);
+      if (!folderExists && folder) {
+        yield app2.vault.createFolder(folderPath);
+      }
+      yield app2.vault.create(filePath, content);
+      new import_obsidian.Notice(`Created new file for ${title}`);
+    }
+    return `[[${fileName}]]`;
+  } catch (err) {
+    console.error("Error creating file:", err);
+    new import_obsidian.Notice(`Error: ${err.message}`, 7e3);
+    return title;
+  }
+});
 
 // src/utils/template.ts
 var import_obsidian2 = __toModule(require("obsidian"));
@@ -30604,7 +30628,7 @@ var _AuthModal = class extends import_obsidian3.Modal {
       const { contentEl } = this;
       const url = yield getAuthURL(GoogleAccount.credentials);
       __privateSet(this, _server, import_http.default.createServer((req, res) => __async(this, null, function* () {
-        const re = /\/\?code=(\d\/[\w|-]*)&/;
+        const re = /[?&]code=([\w/-]+)/;
         if (req.url) {
           const url2 = req.url.replace("%2F", "/");
           const match = url2.match(re);
@@ -30623,7 +30647,7 @@ var _AuthModal = class extends import_obsidian3.Modal {
       contentEl.createEl("h3", {
         text: `login to Google account ${__privateGet(this, _account).accountName === "NEW_ACCOUNT" ? "" : __privateGet(this, _account).accountName}`
       });
-      contentEl.createEl("a", { text: `click here to authenticate`, href: url });
+      contentEl.createEl("button", { text: "Click here to authenticate" }).addEventListener("click", () => window.open(url, "_blank"));
       contentEl.createEl("p", {
         text: "This popup will close automatically if you are successfully authenticated.  Click on the link above and follow instructions to log in."
       });
@@ -30757,6 +30781,7 @@ var import_obsidian5 = __toModule(require("obsidian"));
 
 // src/settings/default-templates.ts
 var DEFAULT_PERSON_FILENAME_FORMAT = "{{lastname}}, {{firstname}}";
+var DEFAULT_EVENT_FILENAME_FORMAT = "{{summary}} - {{start}}";
 var DEFAULT_PERSON_TEMPLATE = `
 ---
 aliases: ["{{lastfirst}}", "{{firstlast}}", "{{firstname}}.{{lastname}}", {{emails}}]
@@ -30786,11 +30811,16 @@ Phone: {{phones}}
 
 `;
 var DEFAULT_EVENT_TEMPLATE = `
-### {{summary}} 
+### {{summary}}
 
-* {{start}}  - [Link]({{link}})
-* organizer {{organizer}}  
-* {{attendees}}  
+* {{start}}-{{end}}: [Link]({{link}})
+* organizer {{organizer}}
+* {{attendees}}
+* {{location}}
+
+{{attachments}}
+
+{{conference}}
 `;
 
 // src/models/Person.ts
@@ -30929,9 +30959,16 @@ var PersonSuggestModal = class extends import_obsidian5.SuggestModal {
     return __async(this, null, function* () {
       new import_obsidian5.Notice(`Inserted info for ${person.firstName}`);
       const p = new Person(person, __privateGet(this, _options).template, __privateGet(this, _options).newFilenameTemplate);
-      insertIntoEditorRange(this.app, yield p.generateFromTemplate(this.app));
-      if (__privateGet(this, _options).renameFile) {
-        yield renameFile(app, p.getTitle(), __privateGet(this, _options).moveToFolder);
+      const content = yield p.generateFromTemplate(this.app);
+      if (__privateGet(this, _options).insertionMode === "link") {
+        const folder = __privateGet(this, _options).moveToFolder || "";
+        const link = yield createOrUpdateFile(this.app, p.getTitle(), content, folder);
+        insertIntoEditorRange(this.app, link);
+      } else {
+        insertIntoEditorRange(this.app, content);
+        if (__privateGet(this, _options).renameFile) {
+          yield renameFile(app, p.getTitle(), __privateGet(this, _options).moveToFolder);
+        }
       }
     });
   }
@@ -30954,7 +30991,7 @@ _ready = new WeakMap();
 _options = new WeakMap();
 
 // src/main.ts
-var import_obsidian10 = __toModule(require("obsidian"));
+var import_obsidian11 = __toModule(require("obsidian"));
 
 // src/api/google/calendar-search.ts
 var import_calendar = __toModule(require_build2());
@@ -30965,6 +31002,63 @@ var getCalendarService = (_0) => __async(void 0, [_0], function* ({ credentials,
     auth
   });
 });
+var buildCalendarEvent = (item, accountSource) => {
+  var _a, _b;
+  const {
+    id,
+    recurringEventId,
+    summary,
+    description,
+    status,
+    eventType,
+    attachments,
+    htmlLink,
+    organizer,
+    attendees,
+    start,
+    end,
+    location,
+    conferenceData
+  } = item;
+  return {
+    id,
+    recurringId: recurringEventId,
+    summary: summary || "",
+    description: description || "",
+    status: status || "",
+    eventType: eventType || "",
+    accountSource,
+    attachments: (attachments == null ? void 0 : attachments.filter((a) => !!a.fileUrl).map((a) => {
+      return {
+        title: a.title,
+        mimeType: a.mimeType,
+        fileUrl: a.fileUrl,
+        iconUrl: a.iconLink
+      };
+    })) || [],
+    htmlLink,
+    organizer: (organizer == null ? void 0 : organizer.email) || "",
+    attendees: (attendees == null ? void 0 : attendees.filter((a) => !!a.email).map((a) => {
+      return {
+        response: a.responseStatus,
+        email: a.email,
+        name: a.displayName
+      };
+    })) || [],
+    startTime: start == null ? void 0 : start.dateTime,
+    endTime: end == null ? void 0 : end.dateTime,
+    location: location || null,
+    conferenceData: {
+      solutionName: (_a = conferenceData == null ? void 0 : conferenceData.conferenceSolution) == null ? void 0 : _a.name,
+      entryPoints: ((_b = conferenceData == null ? void 0 : conferenceData.entryPoints) == null ? void 0 : _b.filter((e) => !!e.entryPointType && !!e.uri).map((e) => ({
+        entryPointType: e.entryPointType,
+        label: e.label,
+        uri: e.uri,
+        password: e.password
+      }))) || []
+    }
+  };
+};
 var searchCalendarEvents = (_0, _1) => __async(void 0, [_0, _1], function* (query, { service, accountName }) {
   var _a, _b, _c;
   try {
@@ -30983,21 +31077,25 @@ var searchCalendarEvents = (_0, _1) => __async(void 0, [_0, _1], function* (quer
     if (!((_a = response.data) == null ? void 0 : _a.items) || ((_c = (_b = response.data) == null ? void 0 : _b.items) == null ? void 0 : _c.length) === 0) {
       return [];
     }
-    return response.data.items.map((item) => {
-      const { summary, description, htmlLink, organizer, start, end, attendees } = item;
-      return {
-        summary: summary || "",
-        description: description || "",
-        accountSource: accountName,
-        htmlLink,
-        organizer: (organizer == null ? void 0 : organizer.email) || "",
-        startTime: start == null ? void 0 : start.dateTime,
-        endTime: end == null ? void 0 : end.dateTime,
-        attendees: (attendees == null ? void 0 : attendees.map((a) => {
-          return { response: a.responseStatus, email: a.email, name: a.displayName };
-        })) || []
-      };
+    return response.data.items.filter((item) => !!item.id).map((item) => buildCalendarEvent(item, accountName));
+  } catch (err) {
+    console.warn(`Cannot query calendar service ${err.message}`);
+  }
+});
+var getCalendarEventById = (_0, _1) => __async(void 0, [_0, _1], function* (eventId, { service, accountName }) {
+  try {
+    const response = yield service.events.get({
+      calendarId: "primary",
+      eventId
     });
+    if (response.status !== 200) {
+      console.warn(`error querying people api ${response.statusText}`);
+      return;
+    }
+    if (!response.data) {
+      return;
+    }
+    return buildCalendarEvent(response.data, accountName);
   } catch (err) {
     console.warn(`Cannot query calendar service ${err.message}`);
   }
@@ -31008,25 +31106,33 @@ var import_obsidian7 = __toModule(require("obsidian"));
 
 // src/models/Event.ts
 var import_obsidian6 = __toModule(require("obsidian"));
-var _event, _template2, _dateFormat;
+var _event, _template2, _dateFormat, _filenameTemplate2;
 var Event = class {
-  constructor(e, templateFile, dateFormat) {
+  constructor(e, templateFile, dateFormat, filenameTemplate) {
     __privateAdd(this, _event, void 0);
     __privateAdd(this, _template2, void 0);
     __privateAdd(this, _dateFormat, void 0);
+    __privateAdd(this, _filenameTemplate2, void 0);
     this.generateFromTemplate = (app2) => __async(this, null, function* () {
       const rawTemplate = yield getTemplateContents(app2, __privateGet(this, _template2));
       return this.applyTemplateTransformations(rawTemplate && rawTemplate.length > 0 ? rawTemplate : DEFAULT_EVENT_TEMPLATE);
     });
     this.applyTemplateTransformations = (rawTemplateContents) => {
-      var _a;
+      var _a, _b, _c, _d;
       let templateContents = rawTemplateContents;
       const startMoment = (0, import_obsidian6.moment)(__privateGet(this, _event).startTime);
+      const endMoment = (0, import_obsidian6.moment)(__privateGet(this, _event).endTime);
       const now = (0, import_obsidian6.moment)();
       const transform = {
+        id: __privateGet(this, _event).id,
+        recurringId: __privateGet(this, _event).recurringId,
         summary: __privateGet(this, _event).summary,
         description: __privateGet(this, _event).description,
         start: startMoment.format((_a = __privateGet(this, _dateFormat)) != null ? _a : "ddd, MMM Do @ hh:mma"),
+        end: endMoment.isValid() ? endMoment.format((_b = __privateGet(this, _dateFormat)) != null ? _b : "ddd, MMM Do @ hh:mma") : "",
+        yyyy: startMoment.format("YYYY"),
+        mm: startMoment.format("MM"),
+        dd: startMoment.format("DD"),
         link: __privateGet(this, _event).htmlLink,
         organizer: __privateGet(this, _event).organizer,
         attendees: __privateGet(this, _event).attendees.map((a) => {
@@ -31036,22 +31142,42 @@ var Event = class {
           return `${a.name ? a.name : a.email}${a.response === "declined" ? " (x)" : a.response === "tentative" ? " (?)" : ""}`;
         }).join(", "),
         source: __privateGet(this, _event).accountSource.toLocaleLowerCase(),
+        status: __privateGet(this, _event).status,
+        eventType: __privateGet(this, _event).eventType,
+        location: __privateGet(this, _event).location,
+        attachments: __privateGet(this, _event).attachments.map((att) => {
+          var _a2;
+          return `- [${(_a2 = att.title) != null ? _a2 : "Attachment"}](${att.fileUrl})${att.mimeType ? " (" + att.mimeType + ")" : ""}${att.iconUrl ? ` ![](${att.iconUrl})` : ""}`;
+        }).join("\n"),
+        conference: __privateGet(this, _event).conferenceData ? __privateGet(this, _event).conferenceData.entryPoints.map((ep) => {
+          var _a2;
+          return `- [${(_a2 = ep.label) != null ? _a2 : "Link"}](${ep.uri}) (${ep.entryPointType})`;
+        }).join("\n") : "",
+        "conference.solution": (_d = (_c = __privateGet(this, _event).conferenceData) == null ? void 0 : _c.solutionName) != null ? _d : "",
         json: JSON.stringify(__privateGet(this, _event), null, 2)
       };
       for (const [k, v] of Object.entries(transform)) {
-        templateContents = templateContents.replace(new RegExp(`{{\\s*${k}\\s*}}`, "gi"), v);
+        templateContents = templateContents.replace(new RegExp(`{{s*${k}s*}}`, "gi"), v);
       }
       templateContents = templateContents.replace(/{{\s*date\s*}}/gi, now.format("YYYY-MM-DD")).replace(/{{\s*time\s*}}/gi, now.format("HH:mm"));
       return templateContents;
     };
+    this.getTitle = () => {
+      return this.applyTemplateTransformations(__privateGet(this, _filenameTemplate2) && __privateGet(this, _filenameTemplate2).length > 0 ? __privateGet(this, _filenameTemplate2) : DEFAULT_EVENT_FILENAME_FORMAT);
+    };
+    this.getFolderTransform = (folder) => {
+      return this.applyTemplateTransformations(folder);
+    };
     __privateSet(this, _event, e);
     __privateSet(this, _template2, templateFile);
     __privateSet(this, _dateFormat, dateFormat);
+    __privateSet(this, _filenameTemplate2, filenameTemplate);
   }
 };
 _event = new WeakMap();
 _template2 = new WeakMap();
 _dateFormat = new WeakMap();
+_filenameTemplate2 = new WeakMap();
 
 // src/ui/calendar-modal.ts
 var _initialQuery2, _ready2, _options2;
@@ -31120,8 +31246,15 @@ var EventSuggestModal = class extends import_obsidian7.SuggestModal {
   onChooseSuggestion(event, evt) {
     return __async(this, null, function* () {
       new import_obsidian7.Notice(`Inserted info for ${event.summary}`);
-      const e = new Event(event, __privateGet(this, _options2).template, __privateGet(this, _options2).dateFormat);
-      insertIntoEditorRange(this.app, yield e.generateFromTemplate(this.app));
+      const e = new Event(event, __privateGet(this, _options2).template, __privateGet(this, _options2).dateFormat, __privateGet(this, _options2).newFilenameTemplate);
+      const content = yield e.generateFromTemplate(this.app);
+      if (__privateGet(this, _options2).insertionMode === "link") {
+        const folder = e.getFolderTransform(__privateGet(this, _options2).moveToFolder || "");
+        const link = yield createOrUpdateFile(this.app, e.getTitle(), content, folder);
+        insertIntoEditorRange(this.app, link);
+      } else {
+        insertIntoEditorRange(this.app, content);
+      }
     });
   }
   initServices() {
@@ -31143,7 +31276,7 @@ _ready2 = new WeakMap();
 _options2 = new WeakMap();
 
 // src/settings/index.ts
-var import_obsidian9 = __toModule(require("obsidian"));
+var import_obsidian10 = __toModule(require("obsidian"));
 
 // src/ui/confirm-modal.ts
 var import_obsidian8 = __toModule(require("obsidian"));
@@ -31176,13 +31309,174 @@ var ConfirmModal = class extends import_obsidian8.Modal {
 _onConfirm = new WeakMap();
 _message = new WeakMap();
 
+// src/ui/secure-confirm-modal.ts
+var import_obsidian9 = __toModule(require("obsidian"));
+var SecureConfirmModal = class extends import_obsidian9.Modal {
+  constructor(app2, message, confirmationText, onConfirm, onCancel) {
+    super(app2);
+    this.message = message;
+    this.confirmationText = confirmationText;
+    this.onConfirm = onConfirm;
+    this.onCancel = onCancel;
+    this.confirmed = false;
+  }
+  onOpen() {
+    const { contentEl } = this;
+    let submitButton;
+    contentEl.createEl("p", { text: this.message });
+    contentEl.createEl("p", { text: `To confirm, please type:` });
+    contentEl.createEl("p").createEl("strong", { text: this.confirmationText });
+    new import_obsidian9.Setting(contentEl).addText((text) => {
+      text.setPlaceholder(this.confirmationText);
+      text.inputEl.addEventListener("input", () => {
+        if (submitButton) {
+          const isMatch = text.getValue().toLowerCase() === this.confirmationText.toLowerCase();
+          submitButton.setDisabled(!isMatch);
+          if (isMatch) {
+            submitButton.setCta();
+          } else {
+            submitButton.buttonEl.classList.remove("mod-cta");
+          }
+        }
+      });
+    });
+    new import_obsidian9.Setting(contentEl).addButton((btn) => {
+      submitButton = btn;
+      btn.setButtonText("Confirm").setDisabled(true).onClick(() => {
+        this.confirmed = true;
+        this.onConfirm();
+        this.close();
+      });
+    }).addButton((btn) => btn.setButtonText("Cancel").onClick(() => {
+      this.close();
+    }));
+  }
+  onClose() {
+    if (!this.confirmed) {
+      this.onCancel();
+    }
+    this.contentEl.empty();
+  }
+};
+
+// src/settings/api-exposure.ts
+var STORAGE_KEY = "google-lookup:api-exposure";
+function isApiExposureEnabled() {
+  const storedValue = window.localStorage.getItem(STORAGE_KEY);
+  return storedValue === "true";
+}
+function setApiExposure(enabled) {
+  window.localStorage.setItem(STORAGE_KEY, enabled ? "true" : "false");
+}
+
+// src/api/index.ts
+function createApi() {
+  if (isApiExposureEnabled()) {
+    return new GoogleLookupApi();
+  }
+  return void 0;
+}
+var GoogleLookupApi = class {
+  people(query, accountName) {
+    return __async(this, null, function* () {
+      const result = yield this._execute((account) => __async(this, null, function* () {
+        if (account.token) {
+          account.peopleService = yield getPeopleService({
+            credentials: GoogleAccount.credentials,
+            token: account.token
+          });
+        }
+        if (!account.peopleService) {
+          return [];
+        }
+        return yield searchContactsAndDirectory(query, {
+          service: account.peopleService,
+          accountName: account.accountName
+        });
+      }), { accountName });
+      return result != null ? result : [];
+    });
+  }
+  events(query, accountName) {
+    return __async(this, null, function* () {
+      const result = yield this._execute((account) => __async(this, null, function* () {
+        if (account.token) {
+          account.calendarService = yield getCalendarService({
+            credentials: GoogleAccount.credentials,
+            token: account.token
+          });
+        }
+        if (!account.calendarService) {
+          return [];
+        }
+        return yield searchCalendarEvents(query, {
+          service: account.calendarService,
+          accountName: account.accountName
+        });
+      }), { accountName });
+      return result != null ? result : [];
+    });
+  }
+  eventById(eventId, accountName) {
+    return __async(this, null, function* () {
+      const result = yield this._execute((account) => __async(this, null, function* () {
+        if (account.token) {
+          account.calendarService = yield getCalendarService({
+            credentials: GoogleAccount.credentials,
+            token: account.token
+          });
+        }
+        if (!account.calendarService) {
+          return;
+        }
+        return yield getCalendarEventById(eventId, {
+          service: account.calendarService,
+          accountName: account.accountName
+        });
+      }), { accountName, breakOnFirstResult: true });
+      if (Array.isArray(result)) {
+        return result[0];
+      }
+      return result;
+    });
+  }
+  getAccounts() {
+    return __async(this, null, function* () {
+      return GoogleAccount.getAllAccounts().map((account) => account.accountName);
+    });
+  }
+  _execute(func, options) {
+    return __async(this, null, function* () {
+      const results = [];
+      const allAccounts = GoogleAccount.getAllAccounts();
+      const accounts = options.accountName ? allAccounts.filter((a) => a.accountName === options.accountName) : allAccounts;
+      for (const account of accounts) {
+        if (!account) {
+          continue;
+        }
+        const result = yield func(account);
+        if (result) {
+          if (options.breakOnFirstResult) {
+            return result;
+          }
+          results.push(...Array.isArray(result) ? result : [result]);
+        }
+      }
+      return options.breakOnFirstResult ? void 0 : results;
+    });
+  }
+};
+
 // src/settings/index.ts
 var DEFAULT_SETTINGS = {
   client_redirect_uri_port: "42601",
   folder_person: "",
-  rename_person_file: true
+  folder_event: "",
+  rename_person_file: true,
+  person_insertion_mode: "inline",
+  event_insertion_mode: "inline"
 };
-var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
+var GoogleLookupSettingTab = class extends import_obsidian10.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
     this.plugin = plugin;
@@ -31201,6 +31495,7 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
       placeholder: "_assets/templates/t_person",
       key: "template_file_person"
     });
+    this.insertPersonInsertionModeSetting();
     this.insertToggleSetting({
       name: "Rename and move person file",
       description: "When enabled, this will rename the note to the name of the person that was imported and move the note into a folder",
@@ -31231,6 +31526,19 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
       placeholder: "ddd, MMM Do @ hh:mma",
       key: "event_date_format"
     });
+    this.insertEventInsertionModeSetting();
+    this.insertTextInputSetting({
+      name: "Folder for event notes",
+      description: "When the option to create and insert a separate note for events is selected, the event note will move to this folder.  An empty value (default) means the file will not move to any new directory",
+      placeholder: "events",
+      key: "folder_event"
+    });
+    this.insertTextInputSetting({
+      name: "Filename format for event notes",
+      description: getDocumentFragmentWithLink('When the option to create and insert a separate note for events is selected, the event note will have a title based on this format.  Default value is "{{summary}}, {{start}}".  See template options', "here", "https://ntawileh.github.io/obsidian-google-lookup/event"),
+      placeholder: "{{summary}}, {{start}}",
+      key: "event_filename_format"
+    });
     containerEl.createEl("h3", { text: "Google Client" });
     this.insertTextInputSetting({
       name: "Client ID",
@@ -31248,6 +31556,8 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
       description: "The port number that this Obsidian plugin will listen to Google authentication redirects on.  Do not change this unless you are having issues.",
       key: "client_redirect_uri_port"
     });
+    containerEl.createEl("h3", { text: "Advanced" });
+    this.insertSecureApiToggle();
     containerEl.createEl("h3", { text: "Accounts" });
     this.displayAccounts();
     this.containerEl.appendChild(this.accountsEl);
@@ -31262,7 +31572,7 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
         account
       });
     }
-    new import_obsidian9.Setting(this.accountsEl).addButton((b) => {
+    new import_obsidian10.Setting(this.accountsEl).addButton((b) => {
       b.setButtonText("Add Account");
       b.setCta();
       b.onClick(() => {
@@ -31279,15 +31589,55 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
     name,
     description
   }) {
-    new import_obsidian9.Setting(container).setName(name).setDesc(description).addText((text) => {
+    new import_obsidian10.Setting(container).setName(name).setDesc(description).addText((text) => {
       text.setPlaceholder(placeholder ? placeholder : "").onChange((v) => __async(this, null, function* () {
         this.plugin.settings[key] = v;
         yield this.plugin.saveSettings();
       })).setValue(this.plugin.settings[key] || "");
     });
   }
+  insertSecureApiToggle() {
+    const pluginId = this.plugin.manifest.id;
+    new import_obsidian10.Setting(this.containerEl).setName("Expose API to other plugins").setDesc("Allow other plugins to access the Google Lookup API. This is disabled by default for security.").addToggle((tc) => {
+      tc.setValue(isApiExposureEnabled()).onChange((v) => __async(this, null, function* () {
+        if (v) {
+          new SecureConfirmModal(this.app, "This will expose a local API which would allow your other plugins, or inline code, running inside Obsidian to query (read-only) your Google Contacts and Calendar information at any time. Please confirm that you want to proceed.", "I understand the risk", () => {
+            setApiExposure(true);
+            const plugin = this.app.plugins.plugins[pluginId];
+            if (plugin) {
+              plugin.api = createApi();
+            }
+          }, () => {
+            tc.setValue(false);
+          }).open();
+        } else {
+          setApiExposure(false);
+          const plugin = this.app.plugins.plugins[pluginId];
+          if (plugin) {
+            plugin.api = void 0;
+          }
+        }
+      }));
+    });
+  }
+  insertPersonInsertionModeSetting() {
+    new import_obsidian10.Setting(this.containerEl).setName("Contact insertion mode").setDesc("Choose how contact info should be inserted: inline (insert full template content) or link (create contact file and insert link)").addDropdown((dropdown) => {
+      dropdown.addOption("inline", "Inline content").addOption("link", "Create file and insert link").setValue(this.plugin.settings.person_insertion_mode || "inline").onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.person_insertion_mode = value;
+        yield this.plugin.saveSettings();
+      }));
+    });
+  }
+  insertEventInsertionModeSetting() {
+    new import_obsidian10.Setting(this.containerEl).setName("Event insertion mode").setDesc("Choose how event info should be inserted: inline (insert full template content) or link (create event file and insert link)").addDropdown((dropdown) => {
+      dropdown.addOption("inline", "Inline content").addOption("link", "Create file and insert link").setValue(this.plugin.settings.event_insertion_mode || "inline").onChange((value) => __async(this, null, function* () {
+        this.plugin.settings.event_insertion_mode = value;
+        yield this.plugin.saveSettings();
+      }));
+    });
+  }
   insertToggleSetting({ container = this.containerEl, key, name, description }) {
-    new import_obsidian9.Setting(container).setName(name).setDesc(description).addToggle((tc) => {
+    new import_obsidian10.Setting(container).setName(name).setDesc(description).addToggle((tc) => {
       tc.setValue(this.plugin.settings[key]).onChange((v) => __async(this, null, function* () {
         this.plugin.settings[key] = v;
         yield this.plugin.saveSettings();
@@ -31299,7 +31649,7 @@ var GoogleLookupSettingTab = class extends import_obsidian9.PluginSettingTab {
     name,
     account
   }) {
-    new import_obsidian9.Setting(container).setName(name).addExtraButton((b) => {
+    new import_obsidian10.Setting(container).setName(name).addExtraButton((b) => {
       b.setIcon("reset");
       b.setTooltip("refresh account credentials");
       b.onClick(() => {
@@ -31347,14 +31697,14 @@ var hasGoogleCredentials = (plugin) => {
 };
 
 // src/main.ts
-var GoogleLookupPlugin = class extends import_obsidian10.Plugin {
+var GoogleLookupPlugin = class extends import_obsidian11.Plugin {
   addCommandIfMarkdownView(name, id, func) {
     this.addCommand({
       id,
       name,
       editorCallback: () => {
         if (!hasGoogleCredentials(this)) {
-          new import_obsidian10.Notice("Google credentials not set up yet.  Go to Settings to configure.");
+          new import_obsidian11.Notice("Google credentials not set up yet.  Go to Settings to configure.");
           return;
         } else {
           func();
@@ -31370,14 +31720,22 @@ var GoogleLookupPlugin = class extends import_obsidian10.Plugin {
           renameFile: this.settings.rename_person_file,
           template: this.settings.template_file_person,
           moveToFolder: this.settings.folder_person,
-          newFilenameTemplate: this.settings.person_filename_format
+          newFilenameTemplate: this.settings.person_filename_format,
+          insertionMode: this.settings.person_insertion_mode || "inline"
         }).open();
       });
       this.addCommandIfMarkdownView("Insert Event Info", "insert-event-info", () => {
-        new EventSuggestModal(this.app, { template: this.settings.template_file_event, dateFormat: this.settings.event_date_format }).open();
+        new EventSuggestModal(this.app, {
+          template: this.settings.template_file_event,
+          dateFormat: this.settings.event_date_format,
+          insertionMode: this.settings.event_insertion_mode || "inline",
+          moveToFolder: this.settings.folder_event,
+          newFilenameTemplate: this.settings.event_filename_format
+        }).open();
       });
       this.addSettingTab(new GoogleLookupSettingTab(this.app, this));
       GoogleAccount.loadAccountsFromStorage();
+      this.api = createApi();
     });
   }
   onunload() {

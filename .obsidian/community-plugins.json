@@ -12,5 +12,8 @@
   "obsidian-admonition",
   "obsidian-file-color",
   "iconic",
-  "fold-properties-by-default"
+  "fold-properties-by-default",
+  "mcp-tools",
+  "obsidian-local-rest-api",
+  "smart-connections"
 ]

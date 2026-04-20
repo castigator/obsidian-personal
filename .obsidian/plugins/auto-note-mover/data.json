@@ -12,6 +12,11 @@
       "folder": "Westgate",
       "tag": "#westgate",
       "pattern": ""
+    },
+    {
+      "folder": "005_Divorce",
+      "tag": "#divorce",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

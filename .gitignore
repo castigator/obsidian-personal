@@ -1,1 +1,7 @@
 .obsidian/plugins/obsidian-google-lookup/data.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
