@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Divorce Bits"
             }
-          },
-          {
-            "id": "10c9fd461a6f2a00",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +207,7 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "542d3b61ac804ee8",
+  "active": "d97a25707a90ae4a",
   "lastOpenFiles": [
     "Office Travel.md",
     "005_Divorce/Divorce Bits.md",
