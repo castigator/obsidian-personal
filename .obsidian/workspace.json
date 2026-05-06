@@ -20,8 +20,25 @@
               "icon": "lucide-file",
               "title": "Divorce Bits"
             }
+          },
+          {
+            "id": "07485222f601e776",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 6th May 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 6th May 2026"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +224,11 @@
       "smart-connections:Smart Lookup: Open lookup view": false
     }
   },
-  "active": "d97a25707a90ae4a",
+  "active": "07485222f601e776",
   "lastOpenFiles": [
-    "Office Travel.md",
+    "xx_daily/Daily Note - 6th May 2026.md",
     "005_Divorce/Divorce Bits.md",
+    "Office Travel.md",
     "Smoking.md",
     "xx_media/Pasted image 20260407114310.png",
     "005_Divorce",
