@@ -12,9 +12,8 @@ content-start: 151
 ---
 ## Tasks
 - [ ] PO Insurance Renewal🔺 
-- [ ] PO  Drains Claim 🔺 
+- [ ] PO Drains Claim 🔺 
 - [ ] Water Leak?? 🔺 
-- [ ] 
 
 ### Blockers
 ```tasks
