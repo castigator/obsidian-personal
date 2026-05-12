@@ -12,11 +12,9 @@ content-start: 151
 
 ## Important and To Do
 
-- Arrange delivery 
+## Details
 
-## General Notes
+Order# MM2000301 — Delivery phone: 0333 577 5773
 
 ![[bed-receipt_2025-08-10_152948.pdf]]  
 ![[Pasted image 20250821142801.png]]
-## Links
-

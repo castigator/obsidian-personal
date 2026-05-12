@@ -10,11 +10,9 @@ banner-display: cover
 content-start: 151
 ---
 
-## Important and To Do
+## Documents
 
-## General Notes
-
-## Links
+![[Welcome Pack.pdf]]
 
 ![[Winter Guide for Tenants.pdf]]
 
@@ -25,5 +23,3 @@ content-start: 151
 ![[xx_media/EPC - June 2019.pdf]]
 
 ![[xx_media/EICR 2020.pdf]]
-
-![[Welcome Pack.pdf]]

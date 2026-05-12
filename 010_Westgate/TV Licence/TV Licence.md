@@ -12,13 +12,14 @@ content-start: 151
 
 ## Important and To Do
 
-TV Licence number: **4284784969**.
+## Current Details
 
-## General Notes
+| | |
+|---|---|
+| Licence number | 4284784969 |
+
+## History
 
 ![[Pasted image 20250825081729.png]]
 
 ![[TV-licence1.png]]
-
-## Links
-

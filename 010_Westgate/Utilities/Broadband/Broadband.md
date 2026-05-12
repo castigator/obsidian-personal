@@ -13,12 +13,22 @@ content-start: 151
 
 ## Important and To Do
 
-## General Notes
+## Current Details
 
-*  [Fibrely](https://myaccount.fibrely.co.uk/dashboard)
+| | |
+|---|---|
+| Provider | Fibrely |
+| Account | F-0011074 |
+| Dashboard | [Fibrely MyAccount](https://myaccount.fibrely.co.uk/dashboard) |
+| WiFi SSID | FIBERLY-0X82 |
+| WiFi Password | 089GKxHliTBF |
+| Router IP | 192.168.1.1 |
+| Static IP | Available for £2.49/month |
 
-* **Wifi SSID :** FIBERLY-0X82
-* **Wifi Password:** 089GKxHliTBF
-* **Router IP :** 192.168.1.1
+## Billing
 
-Static IP cost is £2.49/month
+| Period | Amount |
+|---|---|
+| Sep 2025 | £15.78 (pro-rated first month) |
+| Oct 2025 – Mar 2026 | £29.99/month |
+| From Apr 2026 | £32.99/month (£3.00 increase) |

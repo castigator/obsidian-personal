@@ -17,36 +17,45 @@ content-start: 151
 - [x] Complete [[Checklist]] ✅ 2025-10-22
 - [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 
-## Links
+## Contract & Tenancy
 
-- [[Checklist]]
-- [[Bed]]
-- [[Broadband]]
-- [[Council Tax]]
-- [[Insurance]]
-
-## General Notes
-
-Landlord: [[Julian Glasgow]] and Susan Glasgow  
-
-[Rightmove Listing](https://www.rightmove.co.uk/properties/164433530#/?channel=RES_LET) 
-
-![[floor-plan-westgate.png]]
-
-Email exchanges [[2025-08-06]]  
-Agreed to meet landlord [[2025-08-07]] 
-
-## Documents
-
-- [[Electrical Installation Condition Report]]
+- [[Contract]] — key terms, rent payment details
+- [[Deposit]] — mydeposits custodial scheme
 - [[Energy Performance Certificate (EPC)]]
-- [[Contract]]
+- [[Electrical Installation Condition Report]]
+- [[Welcome Pack]] — all move-in documents
 - [[mydeposits-Custodial-Info-for-Tenants-Sep-24.pdf|Deposit Custody]]
 - [[mydeposits-Scheme-Rules-Custodial.pdf|Deposit Rules]]
 - [[Legionnaires - Tenant Guide.pdf|Legionnaires]]
-- [[Gas & Electricity]]
-- [[Water]]
-- [[Broadband]]
+
+## Utilities
+
+- [[Gas & Electricity]] — Fuse Energy
+- [[Water]] — Anglian Water
+- [[Broadband]] — Fibrely
+- [[Council Tax]] — Babergh District Council
+- [[TV Licence]]
+- [[Insurance]] — Urban Jungle
+
+## Household
+
+- [[Checklist]]
+- [[Bed]]
+
+## Property
+
+Landlord: [[Julian Glasgow]] and Susan Glasgow
+
+[Rightmove Listing](https://www.rightmove.co.uk/properties/164433530#/?channel=RES_LET)
+
+![[floor-plan-westgate.png]]
+
+## Neighbours
+
+- **15 Westgate:** Kev and Celia
+- **17 Westgate:** Sheri
+- **18 Westgate:** Johnny
+- **20 Westgate:** George and Pam
 
 ## Forwarding Address
 
@@ -55,9 +64,8 @@ Adam Waldon
 Chelsworth  
 Ipswich  
 IP7 7JA
-## Neighbours
 
-- 1**5 Westgate:** Kev and Celia
-- **17 Westgate:** Sheri
--  **18 Westgate:** Johnny
-- **20 Westgate:** George and Pam
+## History
+
+Email exchanges [[2025-08-06]]  
+Agreed to meet landlord [[2025-08-07]]

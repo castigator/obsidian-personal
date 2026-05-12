@@ -12,10 +12,15 @@ content-start: 151
 
 ## Important and To Do
 
-## General Notes
+## Current Details
+
+| | |
+|---|---|
+| Provider | Urban Jungle (contents insurance) |
+| Account portal | [Urban Jungle](https://myurbanjungle.com/account_manager/menu) |
+
+The landlord's insurance does not cover tenant's personal possessions (tenancy agreement clause 1.31).
+
+## History
 
 ![[Pasted image 20250815144930.png]]
-
-## Links
-
-- [Account Portal](https://myurbanjungle.com/account_manager/menu)
