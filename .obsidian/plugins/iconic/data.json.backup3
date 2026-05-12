@@ -1,0 +1,132 @@
+{
+  "biggerIcons": "on",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "maxBackups": 5,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "folder"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "005_Divorce": {
+      "icon": "⛓️‍💥",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "red"
+    },
+    "010_Westgate": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "010_Westgate/Contract": {
+      "icon": "lucide-scale",
+      "color": "green",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ]
+    },
+    "010_Westgate/Household": {
+      "icon": "lucide-house-plus",
+      "color": "green",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ]
+    },
+    "010_Westgate/TV Licence": {
+      "icon": "lucide-tv",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "010_Westgate/Utilities": {
+      "icon": "lucide-circle-power",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "010_Westgate/Utilities/Broadband": {
+      "icon": "lucide-wifi",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "green"
+    },
+    "020_Finance": {
+      "icon": "lucide-piggy-bank",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "cyan"
+    },
+    "025_Car": {
+      "icon": "lucide-car",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "yellow"
+    },
+    "030_Mapletree": {
+      "icon": "lucide-house",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "#ffbdf6"
+    },
+    "090_People": {
+      "icon": "lucide-smile",
+      "unsynced": [
+        "fa982b5b2bc44770"
+      ],
+      "color": "#e6f85d"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": [
+    {
+      "id": "jHsXc",
+      "name": "Westgate",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "Westgate"
+        }
+      ],
+      "enabled": true,
+      "icon": "🏡"
+    }
+  ]
+}
