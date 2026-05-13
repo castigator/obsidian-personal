@@ -44,6 +44,7 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## Professional Advice
 
+- [[Solicitor Briefing Pack]] — full briefing document for first solicitor meeting
 - [[Solicitors]] — shortlist of divorce solicitors
 - [[IFAs]] — divorce-specialist IFAs and PODE experts
 - [[Clean Break]] — spousal maintenance argument and Heather affordability model
