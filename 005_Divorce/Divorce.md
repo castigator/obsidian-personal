@@ -8,14 +8,13 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## Important and To Do
 
-- [!] **Find and instruct a solicitor** — see [[Solicitors]] shortlist. Budget £3k–£6k. This is overdue.
-- [!] **Chase Heather on tree removal** — GHG waiting for a scheduled date for Maple + Willow removal
-- [ ] Chase PO for drain claim reference — if no response by 19 May 2026
-- [ ] Waiting for GHG re: tree removal costs — email sent 12 May 2026
+- [!] **Ellisons consultation requested** — Francesca Easter (Partner, £335/hr+VAT). Requested **afternoon 4 Jun** (preferred) or 8 Jun at Bury St Edmunds. Awaiting time confirmation from Francesca Tatum. Payment in advance (£402 inc VAT; 20% Blue Light discount if eligible).
+- [!] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement.
+- [!] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue
+- [!] **Tree removal funding** — GHG submitted request to insurer. Quote: £1,200 (HJ Tree Care). Awaiting insurer decision.
 - [ ] Chase Speedware pension — 7 years untraced, try Egon with NI + dates
-- [ ] Extract valuation figures from Sep 2025 PDFs (Michaels Property + St George)
+- [ ] Request fresh RBS redemption statement — call 0345 300 4013
 - [ ] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed
-- [ ] Build [[Clean Break]] affordability model properly
 - [ ] Research balance transfer options to decouple joint credit card debt
 - [ ] Work through [[Address Updates]] systematically
 
@@ -25,8 +24,8 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## Finances
 
-- [[Debts]] — joint marital debts (~£26,400) and personal debts
-- [[005_Divorce/Pensions]] — 7+ pots, total CETV ~£183,487, Speedware untraced
+- [[Debts]] — joint marital debts (~£25,080) and personal debts (~£7,182)
+- [[005_Divorce/Pensions]] — 7+ pots, total CETV ~£206,380, Speedware untraced
 - [[Income & Costs]] — monthly income, Westgate costs, Pebmarsh contributions
 
 ## People
@@ -45,7 +44,7 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 ## Professional Advice
 
 - [[Solicitor Briefing Pack]] — full briefing document for first solicitor meeting
-- [[Solicitors]] — shortlist of divorce solicitors
+- [[Solicitors]] — shortlist and selection (Francesca Easter at Ellisons — front-runner)
 - [[IFAs]] — divorce-specialist IFAs and PODE experts
 - [[Clean Break]] — spousal maintenance argument and Heather affordability model
 
@@ -53,9 +52,9 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 | Item | Reference |
 |------|-----------|
-| Subsidence claim | 6843593K |
+| Subsidence claim | 6843593K — **liability accepted 11 May 2026** |
 | PO home insurance | H0000011333 (policy ref S2520891) |
-| RBS mortgage | #11177343 (0345 300 4013) |
+| RBS mortgage | #11177343 — £309,700 outstanding (31 Mar 2026), 7.10% rate |
 | HomeServe drains | 443906608 (expired 14 Apr 2026) |
 | Co-op wills | 6897421 |
 
