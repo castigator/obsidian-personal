@@ -4,7 +4,7 @@ tags:
   - legal
 ---
 
-*Updated 26 May 2026 — all three firms contacted and spoken to*
+*Updated 27 May 2026*
 
 Budget: £3,000–£6,000 for a straightforward consent order. Resolution accreditation preferred.
 
@@ -12,7 +12,7 @@ Budget: £3,000–£6,000 for a straightforward consent order. Resolution accred
 
 **Francesca Easter** — Partner, 17+ years in family law. £335/hr + VAT (£402 inc VAT). CILEx-to-solicitor route. Does her own court advocacy (cost saving). Resolution member. Legal 500 testimonials: "pragmatic", "tenacious advocate", "goes the extra mile". Leads the Bury St Edmunds / Norfolk / Suffolk family team.
 
-**Consultation requested:** Afternoon **Thu 4 Jun** (preferred) or **Mon 8 Jun** at Bury St Edmunds. Awaiting time confirmation. Payment in advance. 20% Blue Light discount on initial meeting if eligible.
+**BOOKED: 1pm Wed 4 Jun 2026** at Bury St Edmunds office. Briefing pack sent to Francesca E. Awaiting payment details — £335+VAT = £402 (or £321.60 with 20% Blue Light discount). Payment in advance.
 
 **Booking contact:** Francesca Tatum (Apprentice Solicitor) — 01206 699406, Francesca.Tatum@ellisons.com
 
