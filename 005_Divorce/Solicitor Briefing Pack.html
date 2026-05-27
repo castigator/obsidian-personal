@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Solicitor Briefing Pack — Thomas v Thomas</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+  :root {
+    --navy: #1a2332;
+    --dark: #2c3e50;
+    --accent: #2980b9;
+    --accent-light: #e8f4fd;
+    --border: #dce3ea;
+    --bg: #f8f9fa;
+    --white: #ffffff;
+    --text: #333333;
+    --text-light: #666666;
+    --red: #c0392b;
+    --green: #27ae60;
+    --amber: #e67e22;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.6;
+    font-size: 14px;
+  }
+
+  .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  header {
+    background: var(--navy);
+    color: white;
+    padding: 40px 0;
+    margin-bottom: 30px;
+  }
+
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+  }
+
+  header .subtitle {
+    color: #8fa4b8;
+    font-size: 14px;
+    margin-top: 6px;
+  }
+
+  header .meta {
+    text-align: right;
+    font-size: 13px;
+    color: #8fa4b8;
+  }
+
+  header .meta strong {
+    color: white;
+  }
+
+  .confidential {
+    display: inline-block;
+    background: var(--red);
+    color: white;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  section {
+    background: var(--white);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 28px 32px;
+    margin-bottom: 20px;
+  }
+
+  section h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--navy);
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 8px;
+    margin-bottom: 18px;
+  }
+
+  section h3 {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--dark);
+    margin: 20px 0 10px 0;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 13px;
+  }
+
+  th {
+    background: var(--accent-light);
+    color: var(--navy);
+    font-weight: 600;
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 2px solid var(--accent);
+  }
+
+  td {
+    padding: 9px 12px;
+    border-bottom: 1px solid var(--border);
+    vertical-align: top;
+  }
+
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: #f5f8fb; }
+
+  .parties-table td:first-child {
+    font-weight: 600;
+    color: var(--dark);
+    width: 160px;
+  }
+
+  .highlight { background: #fff8e1; font-weight: 600; }
+  .urgent { color: var(--red); font-weight: 600; }
+  .total-row td { font-weight: 700; background: var(--accent-light); border-top: 2px solid var(--accent); }
+
+  .amount { font-family: 'SF Mono', 'Consolas', monospace; font-weight: 600; }
+  .amount.negative { color: var(--red); }
+  .amount.positive { color: var(--green); }
+
+  p { margin: 8px 0; }
+
+  strong { font-weight: 600; }
+
+  .callout {
+    background: var(--accent-light);
+    border-left: 4px solid var(--accent);
+    padding: 14px 18px;
+    margin: 14px 0;
+    border-radius: 0 6px 6px 0;
+    font-size: 13px;
+  }
+
+  .callout.urgent {
+    background: #fef0ef;
+    border-left-color: var(--red);
+  }
+
+  .callout.amber {
+    background: #fef6ee;
+    border-left-color: var(--amber);
+  }
+
+  ol, ul {
+    margin: 10px 0 10px 24px;
+  }
+
+  li { margin: 4px 0; }
+
+  .questions ol li {
+    padding: 6px 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .questions ol li:last-child { border-bottom: none; }
+
+  .doc-group {
+    margin: 12px 0;
+  }
+
+  .doc-group h4 {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 6px;
+  }
+
+  .doc-group ul {
+    list-style: none;
+    margin-left: 0;
+  }
+
+  .doc-group ul li {
+    padding: 4px 0 4px 16px;
+    position: relative;
+    font-size: 13px;
+  }
+
+  .doc-group ul li::before {
+    content: '—';
+    position: absolute;
+    left: 0;
+    color: var(--accent);
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px;
+    color: var(--text-light);
+    font-size: 12px;
+  }
+
+  @media print {
+    body { background: white; font-size: 12px; }
+    .container { max-width: 100%; padding: 0; }
+    header { padding: 20px 0; margin-bottom: 15px; }
+    section { border: 1px solid #ccc; padding: 18px 22px; margin-bottom: 12px; break-inside: avoid; }
+    section h2 { font-size: 15px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="container">
+    <div>
+      <div class="confidential">Confidential</div>
+      <h1>Solicitor Briefing Pack</h1>
+      <div class="subtitle">Thomas v Thomas</div>
+    </div>
+    <div class="meta">
+      <strong>Prepared by Rupert Thomas</strong><br>
+      13 May 2026 &middot; Updated 26 May 2026<br>
+      <em>Starting point for initial instructions</em>
+    </div>
+  </div>
+</header>
+
+<div class="container">
+
+<!-- 1. THE PARTIES -->
+<section>
+  <h2>1. The Parties</h2>
+  <table class="parties-table">
+    <tr><th></th><th>Rupert Thomas</th><th>Heather Thomas</th></tr>
+    <tr><td>Date of birth</td><td>19 June 1966</td><td>15 December 1966</td></tr>
+    <tr><td>Address</td><td>19 Westgate Street, Long Melford, Suffolk, CO10 9DS <em>(rental)</em></td><td>Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA <em>(marital home)</em></td></tr>
+    <tr><td>Employment</td><td>Software engineer (full-time)</td><td>Office manager, local primary school (full-time)</td></tr>
+    <tr><td>Net monthly income</td><td class="amount">~£6,109</td><td class="amount">~£1,471</td></tr>
+    <tr><td>Represented?</td><td>No &mdash; seeking to instruct</td><td>Yes &mdash; solicitor instructed (name/firm unknown)</td></tr>
+  </table>
+
+  <p><strong>Marriage date:</strong> 22 August 1998 (27 years; ~40 years together as a couple)<br>
+  <strong>Basis for divorce:</strong> No-fault &mdash; irretrievable breakdown (England &amp; Wales, post-April 2022)<br>
+  <strong>Separation:</strong> Rupert moved out to rented accommodation. Heather remains at the marital home.</p>
+
+  <h3>Children</h3>
+  <p>All children are adults. No child arrangement issues.</p>
+  <table>
+    <tr><th>Name</th><th>Age</th><th>Status</th></tr>
+    <tr><td>Dylan Thomas</td><td>27</td><td>Independent</td></tr>
+    <tr><td>Daisy Thomas</td><td>26</td><td>Independent</td></tr>
+    <tr><td>Lucy Thomas</td><td>21</td><td>At university. Rupert pays ~£200/mo food money. Quarterly accommodation (~£996/quarter) paused &mdash; covered by higher maintenance grant.</td></tr>
+  </table>
+
+  <h3>New partner</h3>
+  <p>Rupert lives with his partner, Mandy Zimmer, at the Westgate rental. Mandy's income is not relevant to the matrimonial pot (cohabitant income is not divisible).</p>
+</section>
+
+<!-- 2. WHAT RUPERT WANTS -->
+<section>
+  <h2>2. What Rupert Wants</h2>
+  <ol>
+    <li><strong>50/50 split</strong> of all matrimonial assets</li>
+    <li><strong>Clean break consent order</strong> &mdash; no ongoing spousal maintenance</li>
+    <li><strong>House sold</strong> as quickly as financially sensible</li>
+    <li><strong>Joint debts decoupled</strong> &mdash; each party takes responsibility for their share</li>
+  </ol>
+  <p>Rupert previously proposed using Amicable (non-adversarial divorce service) but Heather declined.</p>
+</section>
+
+<!-- 3. THE MARITAL HOME -->
+<section>
+  <h2>3. The Marital Home</h2>
+  <p><strong>Address:</strong> Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA</p>
+
+  <table>
+    <tr><td>Mortgage outstanding (31 Mar 2026)</td><td class="amount"><strong>£309,699.94</strong></td></tr>
+    <tr><td>Interest rate</td><td>7.10% (as at Q1 2026)</td></tr>
+    <tr><td>Monthly interest</td><td class="amount">£1,809.12</td></tr>
+    <tr><td>Early redemption penalty</td><td>Applies &mdash; amount unknown (valid only 24hrs, must be re-requested on sale)</td></tr>
+    <tr><td>Planned repayment date</td><td>11 December 2031</td></tr>
+    <tr><td>Agent valuation &mdash; Michaels Property (29 Aug 2025)</td><td class="amount">£550,000 <em>(as-is, no subsidence caveat)</em></td></tr>
+    <tr><td>Agent valuation &mdash; St George (1 Sep 2025)</td><td class="amount">£650,000 <em>(subject to movement issues rectified)</em></td></tr>
+    <tr><td>Estimated value with subsidence unresolved</td><td class="amount">~£450,000&ndash;£550,000 <em>(assumes ~£100k discount)</em></td></tr>
+    <tr><td>Estimated value with subsidence resolved</td><td class="amount">~£550,000&ndash;£650,000</td></tr>
+    <tr><td>Estimated equity (after mortgage)</td><td class="amount">£140,300&ndash;£340,300</td></tr>
+    <tr><td>Less joint debts</td><td class="amount negative">&minus;£25,080</td></tr>
+    <tr class="total-row"><td><strong>Estimated net to split</strong></td><td class="amount"><strong>£115,220&ndash;£315,220</strong> (£57,610&ndash;£157,610 each)</td></tr>
+  </table>
+
+  <p><strong>Mortgage:</strong> RBS Offset mortgage #11177343. Contact: 0345 300 4013. The mortgage is <strong>£171,479 behind the repayment guide</strong> &mdash; the offset savings account has been substantially drawn down. RBS's own valuation is £390,000 (likely outdated/conservative).</p>
+
+  <h3>Valuations (Aug/Sep 2025)</h3>
+  <ul>
+    <li><strong>Michaels Property Consultants</strong> (Aaron Wilcock, 29 Aug 2025): £550,000 marketing price. No subsidence caveat. Fee: 1% + VAT sole agency.</li>
+    <li><strong>St George Property Group</strong> (Sam Fox, 1 Sep 2025): £650,000 guide price, <strong>subject to utility room movement issues being rectified</strong>. Fee: 0.75% + VAT sole agency.</li>
+  </ul>
+  <p>Both valuations are now 9 months old and were obtained before subsidence liability was confirmed. They may need refreshing.</p>
+
+  <p><strong>Early redemption penalty:</strong> Confirmed to exist (Heather called RBS, Aug 2025). The exact figure is only valid for 24 hours and will need to be re-requested on sale. The penalty amount is currently unknown and could be significant given the 7.10% rate.</p>
+
+  <h3>Subsidence</h3>
+  <p>Active subsidence insurance claim (ref 6843593K, Post Office policy H0000011333). <strong>Liability accepted by the insurer on 11 May 2026.</strong> Cause: tree root-induced clay shrinkage (Maple and Willow trees). £1,000 policy excess payable at repair stage. Managed by GHG Solutions (loss adjusters).</p>
+  <p>Current status (May 2026): crack monitoring ongoing. Trees need removing before repairs can proceed. Quote obtained: £1,200 incl. stump poisoning or £2,000 with full removal (HJ Tree Care). GHG has submitted a funding request to the insurer for tree removal costs. GHG has also confirmed they can offer a <strong>cash settlement</strong> in lieu of repairs &mdash; relevant for house sale planning. Projected timeline: tree removal Jul 2026, repairs Feb&ndash;Apr 2027, final May 2027.</p>
+
+  <div class="callout amber">
+    <strong>Timing dilemma:</strong> Selling now at ~£450k vs waiting for resolution at ~£550k+. Each month of delay costs Rupert approximately £4,000 in dual housing costs. The potential uplift from waiting is ~£50,000 per person, but 13 months of carrying costs (~£52,000) largely erodes this benefit.
+  </div>
+
+  <p><strong>Separate drain damage claim</strong> (£9,360.63, tree root ingress, not related to subsidence). Submitted to Post Office on 12 May 2026 under &ldquo;accidental damage to underground services&rdquo; cover. Standard excess £400. Expected net recovery ~£8,960. Awaiting claim reference &mdash; now 14+ days overdue.</p>
+
+  <div class="callout">
+    <strong>Solicitor guidance needed:</strong> Whether to sell now, wait, or negotiate a consent order that accounts for the claim outcome.
+  </div>
+</section>
+
+<!-- 4. INCOME AND OUTGOINGS -->
+<section>
+  <h2>4. Income and Outgoings</h2>
+
+  <h3>Rupert's income</h3>
+  <p>Net monthly salary: <strong class="amount">£6,109</strong> (from January 2026)</p>
+
+  <h3>Rupert's current outgoings (~£3,980&ndash;£4,060/month)</h3>
+
+  <p><strong>Westgate rental costs (~£1,370&ndash;£1,450/month):</strong></p>
+  <table>
+    <tr><th>Item</th><th>Monthly</th></tr>
+    <tr><td>Rent</td><td class="amount">£1,000</td></tr>
+    <tr><td>Council tax</td><td class="amount">~£152</td></tr>
+    <tr><td>Gas/electricity</td><td class="amount">~£137&ndash;186</td></tr>
+    <tr><td>Water</td><td class="amount">~£25&ndash;58</td></tr>
+    <tr><td>TV licence</td><td class="amount">£15</td></tr>
+    <tr><td>Broadband</td><td class="amount">~£33</td></tr>
+    <tr><td>Insurance</td><td class="amount">£5</td></tr>
+  </table>
+
+  <p><strong>Pebmarsh contributions (Rupert pays 80%, ~£2,609/month):</strong></p>
+  <table>
+    <tr><th>Item</th><th>Combined</th><th>Rupert (80%)</th><th>Heather (20%)</th></tr>
+    <tr><td>Mortgage</td><td class="amount">£1,809.12</td><td class="amount">£1,447.30</td><td class="amount">£361.82</td></tr>
+    <tr><td>Scheduled transactions</td><td class="amount">£885.81</td><td class="amount">£708.65</td><td class="amount">£177.16</td></tr>
+    <tr><td>Cats</td><td class="amount">£65.00</td><td class="amount">£65.00</td><td>&mdash;</td></tr>
+    <tr><td>Debt servicing</td><td class="amount">£485.48</td><td class="amount">£388.38</td><td class="amount">£97.10</td></tr>
+    <tr><td>Lucy food money</td><td class="amount">£250.00</td><td class="amount">£200.00</td><td class="amount">£50.00</td></tr>
+    <tr class="total-row"><td><strong>Total</strong></td><td class="amount"><strong>£3,495.41</strong></td><td class="amount"><strong>£2,609.33</strong></td><td class="amount"><strong>£636.08</strong></td></tr>
+  </table>
+
+  <div class="callout urgent">
+    <strong>Rupert is effectively subsidising Heather's housing</strong> &mdash; paying 80% of the marital home costs while also paying full costs of his own rental. This is unsustainable and a key driver for resolution.
+  </div>
+
+  <h3>Heather's income</h3>
+  <ul>
+    <li>Net monthly salary: <strong class="amount">~£1,471</strong></li>
+    <li>As of May 2026, Heather is applying for a <strong>25% single occupancy council tax discount</strong> at Pebmarsh</li>
+  </ul>
+</section>
+
+<!-- 5. DEBTS -->
+<section>
+  <h2>5. Debts</h2>
+
+  <h3>Joint marital debts (~£25,080)</h3>
+  <table>
+    <tr><th>Debt</th><th>Balance</th><th>Min Payment</th><th>Notes</th></tr>
+    <tr><td>Barclaycard</td><td class="amount">£7,660.90</td><td class="amount">£221.37</td><td class="urgent">Interest accruing &mdash; highest priority</td></tr>
+    <tr><td>Halifax credit card</td><td class="amount">£6,410.51</td><td class="amount">£64.11</td><td></td></tr>
+    <tr><td>Barclaycard (Ann)</td><td class="amount">£2,209.00</td><td class="amount">£200.00</td><td></td></tr>
+    <tr><td>Loan from Ann (Heather's mother)</td><td class="amount">£3,300.00</td><td class="amount">£0</td><td>No formal paperwork exists</td></tr>
+    <tr><td>Loan from Ann (Heather's mother)</td><td class="amount">£5,500.00</td><td class="amount">£0</td><td>No formal paperwork exists</td></tr>
+  </table>
+
+  <div class="callout">
+    <strong>Note on Ann's loans:</strong> Ann (Heather's mother) made two separate loans to the couple &mdash; £3,300 and £5,500. There is no written loan agreement for either. These may be disputed as gifts vs debts. The solicitor should advise on how to treat these in the consent order.
+  </div>
+
+  <h3>Rupert's personal debts (not matrimonial, ~£7,182)</h3>
+  <table>
+    <tr><th>Debt</th><th>Balance</th><th>Min Payment</th><th>Notes</th></tr>
+    <tr><td>Stuart Thomas (father) &mdash; personal loan</td><td class="amount">£3,000.00</td><td class="amount">£0</td><td></td></tr>
+    <tr><td>Tesco loan</td><td class="amount">£2,161.56</td><td class="amount">£139.74</td><td></td></tr>
+    <tr><td>NatWest credit card</td><td class="amount">£2,020.56</td><td class="amount">£300.00</td><td>£10k limit</td></tr>
+  </table>
+</section>
+
+<!-- 6. PENSIONS -->
+<section>
+  <h2>6. Pensions</h2>
+
+  <h3>Rupert's pensions</h3>
+  <table>
+    <tr><th>Employer</th><th>Period</th><th>Scheme</th><th>CETV / Value</th></tr>
+    <tr><td>Midel</td><td>1987&ndash;1990</td><td>Aviva (plan 7137159)</td><td class="amount"><strong>£14,132.62</strong> <em>(fund value Jun 2026)</em></td></tr>
+    <tr><td>Speedware</td><td>1990&ndash;1997</td><td colspan="2" class="urgent">Not traced</td></tr>
+    <tr><td>Objective IT</td><td>1997&ndash;2001</td><td>Prudential/Aviva</td><td class="amount">£25,583</td></tr>
+    <tr><td>Code Collective</td><td>2001&ndash;2005</td><td>None (own company)</td><td>&mdash;</td></tr>
+    <tr><td>Conchango</td><td>2005&ndash;2011</td><td>Scottish Equitable?</td><td class="urgent">Not traced</td></tr>
+    <tr><td>Financial Times</td><td>2011&ndash;2015</td><td>Pearson/Aviva</td><td class="amount">£69,493</td></tr>
+    <tr><td>Gamesys/Roxor</td><td>2016&ndash;2024</td><td>HL Group SIPP</td><td class="amount">£79,624</td></tr>
+    <tr><td>Aristocrat</td><td>2023&ndash;present</td><td>Standard Life (plan D460002800)</td><td class="amount"><strong>£17,547.58</strong> <em>(fund value Apr 2026)</em></td></tr>
+    <tr><td><strong>State Pension</strong></td><td></td><td></td><td class="amount">£1,042/mo projected</td></tr>
+  </table>
+
+  <p><strong>Total confirmed value: ~£206,380</strong> (excluding Speedware, Conchango, and state pension). Some figures are fund values, not formal CETVs &mdash; formal CETVs to be requested.</p>
+
+  <div class="callout urgent">
+    <strong>URGENT:</strong> The Midel pension has a retirement date of <strong>19 June 2026</strong>. Aviva must be contacted before this date to defer and to request formal CETVs for divorce proceedings. CETVs should be requested for all three Aviva-held pensions (Midel, Objective IT, Pearson/FT) simultaneously.
+  </div>
+
+  <p>Speedware (7 years) and Conchango (6 years) are still untraced &mdash; potentially significant. CETVs will need refreshing once proceedings begin (3-month validity).</p>
+
+  <h3>Heather's pensions</h3>
+  <table>
+    <tr><th>Employer</th><th>Type</th><th>Scheme / Administrator</th><th>CETV</th></tr>
+    <tr><td>Midel Cleaning Supplies</td><td>Likely DB</td><td>Likely same Aviva scheme as Rupert's</td><td>Unknown</td></tr>
+    <tr><td>Insurance company, Liverpool</td><td>Unknown</td><td>Unknown</td><td>Not traced</td></tr>
+    <tr><td>Prudential</td><td>Defined Benefit</td><td>Prudential Staff Pension Scheme (administered by XPS)</td><td>Unknown</td></tr>
+    <tr><td>Mercury Communications</td><td>Unknown</td><td>Unknown</td><td>Not traced</td></tr>
+    <tr><td>Current school role</td><td>Defined Benefit (likely)</td><td>Essex LGPS (likely)</td><td>Unknown</td></tr>
+  </table>
+
+  <p>Heather has had multiple employers including Midel Cleaning Supplies, an insurance company in Liverpool, Mercury Communications, Prudential, and her current school role. She is believed to have <strong>at least five potential pensions</strong>, likely including DB schemes from the financial services sector and an LGPS pension from her current role. LGPS schemes are career-average DB with ~20% employer contributions and can have substantial CETVs. Full disclosure via Form E is needed &mdash; the solicitor should expect multiple pension holdings and ensure comprehensive disclosure.</p>
+
+  <h3>Pension strategy</h3>
+  <p>The pension gap is the main complication for a clean break. Options:</p>
+  <ol>
+    <li><strong>Pension sharing order</strong> &mdash; Heather receives a percentage of Rupert's pensions</li>
+    <li><strong>Offsetting</strong> &mdash; Heather receives a larger share of house equity in lieu of pension</li>
+  </ol>
+  <p>Given the relatively modest house equity, there may not be enough to offset the pension gap fully. This needs actuarial modelling. However, Heather's own pension provision (particularly any LGPS pension) may significantly narrow or eliminate the gap.</p>
+</section>
+
+<!-- 7. SPOUSAL MAINTENANCE -->
+<section>
+  <h2>7. Spousal Maintenance &mdash; Risk Assessment</h2>
+  <p>Given the income gap (£6,109 vs £1,471) and 27 years of marriage, Heather's solicitor is likely to raise spousal maintenance. Rupert's position:</p>
+
+  <h3>Arguments for clean break</h3>
+  <ul>
+    <li>Heather is employed full-time as an office manager and has earning capacity</li>
+    <li>All children are adults &mdash; no childcare constraints</li>
+    <li>Courts now favour fixed-term orders over open-ended joint lives orders</li>
+    <li>A lump sum from equity can bridge any short-term income gap</li>
+    <li>As of May 2026, Heather is applying for single occupancy council tax discount (25% reduction)</li>
+  </ul>
+
+  <h3>Risks</h3>
+  <ul>
+    <li>27-year marriage is long &mdash; courts give more weight to established living standards</li>
+    <li>The income disparity is significant (4:1 ratio)</li>
+    <li>If Heather's pension provision is very low, the court may factor retirement needs into maintenance</li>
+  </ul>
+
+  <p><strong>Affordability modelling</strong> is in progress to demonstrate that Heather can be financially independent post-settlement with her equity share. Preliminary figures suggest her income shortfall against reasonable living costs could be bridged by equity alone for 20+ years, but this needs further work.</p>
+</section>
+
+<!-- 8. WILLS -->
+<section>
+  <h2>8. Estate Planning / Wills</h2>
+  <p>An appointment was booked with Co-op Estate Planning (Nikki Staton) for 17 October 2024 at 5pm (ref 6897421). Heather submitted will details online beforehand and both parties were required to attend. However, <strong>this appointment is believed not to have gone ahead.</strong> Rupert does not recall attending and is not aware of any completed will. Neither party currently has a will.</p>
+  <p>The solicitor should advise on whether wills should be made now, and note that divorce does not automatically revoke a will if one exists.</p>
+</section>
+
+<!-- 9. GORDON -->
+<section>
+  <h2>9. Timing Context &mdash; Gordon (Heather's Father)</h2>
+  <p>Heather's father Gordon has Alzheimer's. In principle, if he dies before the consent order is sealed, any inheritance to Heather could become a live asset. However, <strong>Rupert has explicitly decided not to pursue any claim on Heather's potential inheritance.</strong> The priority is a clean break and stopping the ~£4,000/month dual housing costs, not capturing future windfalls.</p>
+</section>
+
+<!-- 10. QUESTIONS -->
+<section class="questions">
+  <h2>10. Key Questions for the Solicitor</h2>
+  <ol>
+    <li>Should Rupert reduce his Pebmarsh contributions to 50% immediately, or would this prejudice his position?</li>
+    <li>How should the subsidence claim timing interact with the consent order &mdash; sell now, wait, or draft a conditional order?</li>
+    <li>What is the realistic prospect of achieving a clean break given the income disparity and marriage length?</li>
+    <li>Should a pension sharing order or offsetting approach be pursued? Two of Rupert's pensions are untraced (Speedware, Conchango) &mdash; how should these be handled?</li>
+    <li>How should Ann's two loans (£3,300 + £5,500 from Heather's mother, no formal paperwork) be treated &mdash; debts or gifts?</li>
+    <li>What is the recommended approach to decoupling joint debts before or during the consent order?</li>
+    <li>What is the likely total cost for a consent order with pension sharing?</li>
+    <li>Should a divorce application be filed now, or is a consent order the priority?</li>
+    <li>The Midel pension retirement date is 19 June 2026 &mdash; does the solicitor need to be involved before Rupert defers it?</li>
+    <li>Heather has instructed a solicitor (name/firm unknown) &mdash; what is the recommended approach for initial contact between solicitors?</li>
+  </ol>
+</section>
+
+<!-- 11. DOCUMENTS -->
+<section>
+  <h2>11. Documents Available</h2>
+  <p>The following can be provided on request:</p>
+
+  <div class="doc-group">
+    <h4>Property</h4>
+    <ul>
+      <li>RBS mortgage statement (31 Mar 2026) showing £309,699.94 balance, 7.10% rate</li>
+      <li>RBS early redemption correspondence (Aug 2025)</li>
+      <li>Estate agent valuation letters &mdash; Michaels Property (£550k) and St George (£650k), Aug/Sep 2025</li>
+      <li>Comparable sales analysis for Pebmarsh area (May 2026)</li>
+    </ul>
+  </div>
+
+  <div class="doc-group">
+    <h4>Subsidence &amp; Insurance</h4>
+    <ul>
+      <li>Full subsidence claim correspondence and timeline (Nov 2025 &ndash; May 2026)</li>
+      <li>GHG Solutions reports (site investigation, root identification, drain CCTV survey)</li>
+      <li>GHG liability acceptance letter (11 May 2026)</li>
+      <li>Tree removal quote &mdash; HJ Tree Care (£1,200/£2,000)</li>
+      <li>Post Office home insurance policy documents (2026 renewal)</li>
+      <li>Drain repair quote (DW Solutions, £9,360.63)</li>
+      <li>Anglian Water bills showing 82% usage spike (possible evidence of drain damage)</li>
+    </ul>
+  </div>
+
+  <div class="doc-group">
+    <h4>Pensions</h4>
+    <ul>
+      <li>Aviva retirement notification &mdash; Midel pension (plan 7137159, fund value £14,132.62, Mar 2026)</li>
+      <li>Standard Life pension statement &mdash; Aristocrat (plan D460002800, fund value £17,547.58, Apr 2026)</li>
+      <li>Aviva Find &amp; Combine records for Objective IT and Pearson/FT pensions</li>
+    </ul>
+  </div>
+
+  <div class="doc-group">
+    <h4>Other</h4>
+    <ul>
+      <li>Heather affordability model (draft)</li>
+      <li>Co-op estate planning appointment confirmation (ref 6897421, Oct 2024)</li>
+      <li>Personal finance spreadsheet (full income/expenditure breakdown)</li>
+    </ul>
+  </div>
+</section>
+
+</div>
+
+<footer>
+  Solicitor Briefing Pack &mdash; Thomas v Thomas &mdash; Confidential &mdash; 26 May 2026
+</footer>
+
+</body>
+</html>
