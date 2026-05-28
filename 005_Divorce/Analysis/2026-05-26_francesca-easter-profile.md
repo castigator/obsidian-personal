@@ -1,11 +1,11 @@
-# Francesca Easter — Partner, Ellisons Solicitors
+## Francesca Easter — Partner, Ellisons Solicitors
 
-**Researched:** 26 May 2026
+**Researched:** 26 May 2026  
 **Purpose:** Due diligence on likely solicitor selection
 
 ---
 
-## Professional Background
+### Professional Background
 
 | Detail | |
 |--------|---|
@@ -25,7 +25,7 @@ The CILEx-to-solicitor qualification route is notable — it typically produces 
 
 ---
 
-## Specialisms
+### Specialisms
 
 - **Financial remedy** — including high net worth cases and international elements
 - **Court advocacy** — does her own advocacy in financial remedy hearings, Children Act proceedings, and injunctive relief (non-molestation/occupation orders). Does not routinely instruct counsel, which saves client costs.
@@ -37,7 +37,7 @@ The CILEx-to-solicitor qualification route is notable — it typically produces 
 
 ---
 
-## Accreditations & Memberships
+### Accreditations & Memberships
 
 | Accreditation | Status |
 |---------------|--------|
@@ -49,9 +49,9 @@ The CILEx-to-solicitor qualification route is notable — it typically produces 
 
 ---
 
-## Testimonials & Reviews
+### Testimonials & Reviews
 
-### Legal 500 testimonials (from professional referrers/peers)
+#### Legal 500 Testimonials (from Professional referrers/peers)
 
 > "A stand out quality solicitor who gives everything for her clients and provides realistic, sensible and pragmatic advice."
 
@@ -59,20 +59,20 @@ The CILEx-to-solicitor qualification route is notable — it typically produces 
 
 > "A committed, excellent and empathetic professional, with a reputation for going that extra mile for her clients."
 
-### ThreeBestRated
+#### ThreeBestRated
 
 - 4.8/5 rating, inspection score 114/120
 - Named top 3 family law solicitors in Ipswich
 - Client review: *"Listened and advised, in an uncomplicated manner, bypassing the legal jargon, whenever possible."*
 
-### ReviewSolicitors
+#### ReviewSolicitors
 
 - No individual profile for Francesca
 - Ellisons overall: 1,500+ reviews, 4.9/5 across offices
 
 ---
 
-## Published Work
+### Published Work
 
 One bylined article: **"Why prenups matter for family businesses"** — East Anglian Daily Times. Discusses protecting business assets in divorce via nuptial agreements.
 
@@ -80,7 +80,7 @@ No conference talks, podcast appearances, or webinars found.
 
 ---
 
-## Pro Bono & Community
+### Pro Bono & Community
 
 Regular volunteer providing family law advice at:
 - Suffolk Law Centre
@@ -89,7 +89,7 @@ Regular volunteer providing family law advice at:
 
 ---
 
-## Firm Context
+### Firm Context
 
 Ellisons Legal LLP is a substantial regional firm:
 - ~34 partners across Essex and Suffolk
@@ -100,7 +100,7 @@ Ellisons Legal LLP is a substantial regional firm:
 
 ---
 
-## Comparison with Greene & Greene
+### Comparison with Greene & Greene
 
 | | Francesca Easter (Ellisons) | Stuart Hughes (Greene & Greene) |
 |---|---|---|
@@ -115,7 +115,7 @@ Over a typical consent order process (20–40 hours), the £100/hr difference am
 
 ---
 
-## Assessment
+### Assessment
 
 **Strengths:**
 - Pragmatic, client-focused approach — consistent across all testimonials
@@ -135,7 +135,7 @@ Over a typical consent order process (20–40 hours), the £100/hr difference am
 
 ---
 
-## Questions to confirm at first consultation
+### Questions to Confirm at First Consultation
 
 - [ ] Experience specifically with pension sharing orders and CETVs
 - [ ] Can she handle the consent order end-to-end including the pension sharing annex?
