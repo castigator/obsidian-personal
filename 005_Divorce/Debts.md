@@ -30,6 +30,8 @@ Split joint cards so each party takes their portion independently (e.g. balance 
 - [ ] Research balance transfer options
 - [ ] Propose split to Heather before solicitors involved
 
+**Note (1 Jun 2026):** Halifax emailed Heather ("Mrs Thomas") a pre-approved **0% balance transfer offer** on her existing Halifax credit card — **0% for 18 months, 5% transfer fee, transfer by 30 June 2026.** Likely relates to the £6,410.51 joint Halifax card. Potentially useful for parking that balance interest-free during the settlement period — but note: it's *Heather's* offer on *her* card, so it would sit with her, and moving balances around mid-divorce can shift who's liable. Worth raising with the solicitor / in the decouple discussion before acting. Marketing email only; not filed in correspondence.
+
 ## Rupert's Personal Debts (~£7,182, not matrimonial)
 
 | Debt | Balance | Monthly Payment |

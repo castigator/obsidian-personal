@@ -66,7 +66,7 @@
 **No published hourly rate found.** Atkins Dellow do not publish fee schedules online.
 
 - Wiselaw fee indicator: **4.4 out of 5** (where 4–5 = "higher fees" relative to local area). This suggests Alan is NOT cheap — he's toward the upper end for Sudbury.
-- The £75 figure Rupert mentioned is almost certainly just for the initial welcome meeting, not the ongoing hourly rate.
+- **CONFIRMED via Alan's voicemail (transcript: `correspondence/heather/2026-05-26_alan-caldwell-voicemail-transcript.md`):** the initial meeting is a **no-obligation fixed fee of £75 + VAT (£90)** — just the welcome/initial meeting, not the ongoing hourly rate. No advance payment requested; likely settled on the day.
 - For a Senior Associate with 37 years' experience in Suffolk, a reasonable estimate is **£200–£300/hr + VAT** based on regional norms. Confirm at the meeting.
 - Compare: Francesca Easter (Partner, Ellisons) = £335/hr + VAT. Stuart Hughes (Managing Partner, Greene & Greene) = £450/hr.
 
