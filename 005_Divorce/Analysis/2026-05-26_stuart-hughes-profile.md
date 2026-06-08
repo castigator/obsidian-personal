@@ -1,11 +1,11 @@
-# Stuart Hughes — Partner, Greene & Greene Solicitors
+## Stuart Hughes — Partner, Greene & Greene Solicitors
 
-**Researched:** 26 May 2026
+**Researched:** 26 May 2026  
 **Purpose:** Solicitor comparison for Rupert's divorce — compare against Francesca Easter (Ellisons, £335/hr+VAT)
 
 ---
 
-## 1. Professional Background
+### 1. Professional Background
 
 | Detail | Information |
 |--------|-------------|
@@ -18,7 +18,7 @@
 | **Corporate vehicle** | Stuart D Hughes Limited (corporate partner) |
 | **Career pre-G&G** | Not publicly detailed — but 19 years of family law practice before joining G&G |
 
-### Career at Greene & Greene
+#### Career at Greene & Greene
 - July 2012: Joined as Head of Family & Matrimonial Department
 - December 2013: Made Partner
 - January 2018: Appointed Managing Partner (during firm's 125th anniversary year)
@@ -26,7 +26,7 @@
 
 ---
 
-## 2. Areas of Specialisation
+### 2. Areas of Specialisation
 
 Stuart covers the full spectrum of family law:
 
@@ -48,7 +48,7 @@ Stuart covers the full spectrum of family law:
 
 ---
 
-## 3. Professional Accreditations
+### 3. Professional Accreditations
 
 | Accreditation | Status |
 |---------------|--------|
@@ -60,7 +60,7 @@ Stuart covers the full spectrum of family law:
 
 ---
 
-## 4. Published Articles & Media
+### 4. Published Articles & Media
 
 **Limited public output found:**
 - Co-authored an article on **fact-finding hearings and costs** with Sabuhi Chaudhry (barrister, Coram Chambers) — published on Family Law Week (referenced September 2012)
@@ -69,17 +69,17 @@ Stuart covers the full spectrum of family law:
 
 ---
 
-## 5. Client Reviews & Testimonials
+### 5. Client Reviews & Testimonials
 
-### WiseLaw
+#### WiseLaw
 - **Rating:** 4.5/5 (121 reviews for Greene & Greene)
 - Client quote: *"I would have absolutely no hesitation in recommending Stuart...professional and expertise...does not miss any detail, he cares about his clients"*
 
-### ReviewSolicitors
+#### ReviewSolicitors
 - Greene & Greene overall: **4.6/5** (148 reviews)
 - No reviews found that specifically name Stuart Hughes in the visible listings
 
-### Chambers UK 2026 (source quotes — these are from barristers, judges, and other professionals):
+#### Chambers UK 2026 (source Quotes — These Are from Barristers, Judges, and other professionals)
 1. *"Stuart is an excellent strategist, always thinking several steps ahead."*
 2. *"Clients appreciate his down-to-earth, clear and sensible advice."*
 3. *"Stuart is always willing to look at options and adopt a constructive approach."*
@@ -87,32 +87,32 @@ Stuart covers the full spectrum of family law:
 5. *"What truly stood out about Stuart was his ability to balance sharp legal knowledge with real human understanding."*
 6. *"Stuart brings high levels of emotional intelligence and humanity to his work."*
 
-### Earlier Chambers quote (from profile page):
+#### Earlier Chambers Quote (from Profile page)
 - *"A perfect mix of practical, down to earth, sharp on the law, no nonsense and firm in negotiations"*
 - *"Super-good, really hard-working and exceptionally thorough"*
 - *"He is really hot on the law and spends a lot of time getting to grips with cases"*
 
-### Legal 500 2026:
+#### Legal 500 2026
 - *"Balances sharp legal insight with calm, measured, empathetic approach"*
 
-### Legal 500 2025:
+#### Legal 500 2025
 - *"Very smart, a great strategist and tactician but always providing excellent, pragmatic and sensible advice"*
 - *"Clients trust Stuart and rely on him. He has a wonderful manner with clients, who know he will do everything he can for them"*
 - *"An exemplary lawyer"*
 
-### Legal 500 commentary on the team:
+#### Legal 500 Commentary on the Team
 - *"Punches well above its weight. It thrives on its excellent client care, thorough preparatory work, excellent drafting and understanding of the law."*
 - Stuart leads *"an extremely hardworking, high-quality firm"*
 
 ---
 
-## 6. Reported Cases
+### 6. Reported Cases
 
 No publicly reported cases found where Stuart Hughes is named as the instructing solicitor. This is not unusual — most family law cases are heard in private and solicitors are not typically named in judgments.
 
 ---
 
-## 7. Position Within the Firm
+### 7. Position Within the Firm
 
 | Role | Detail |
 |------|--------|
@@ -128,25 +128,25 @@ He runs both the firm and the family department. The family team currently compr
 
 ---
 
-## 8. Directory Rankings
+### 8. Directory Rankings
 
-### Chambers UK 2026
+#### Chambers UK 2026
 - **Individual ranking:** Band 1 — East Anglia (Family/Matrimonial)
 - **Department ranking:** Band 2 — East Anglia (Family/Matrimonial)
 - Ranked for 2 consecutive years (2025, 2026)
 
-### Legal 500 UK 2026
+#### Legal 500 UK 2026
 - **Individual ranking:** Leading Partner — East Anglia (Family)
 - **Firm ranking:** Tier 2 — East Anglia (Family)
 
-### Historical rankings:
+#### Historical Rankings
 - Legal 500 2025: Leading Partner
 - Legal 500 2024: Ranked (exact tier from that year not confirmed)
 - Chambers 2025: Ranked (individual band not confirmed but likely Band 1)
 
 ---
 
-## 9. Pro Bono & Community Involvement
+### 9. Pro Bono & Community Involvement
 
 | Activity | Detail |
 |----------|--------|
@@ -156,7 +156,7 @@ He runs both the firm and the family department. The family team currently compr
 
 ---
 
-## 10. Contact Details
+### 10. Contact Details
 
 | Channel | Detail |
 |---------|--------|
@@ -167,7 +167,7 @@ He runs both the firm and the family department. The family team currently compr
 
 ---
 
-## 11. Other Notable Points
+### 11. Other Notable Points
 
 - **Firm size:** ~80 lawyers and support staff (as at 2018)
 - **Firm established:** 1893 (133 years old)
@@ -178,7 +178,7 @@ He runs both the firm and the family department. The family team currently compr
 
 ---
 
-## Comparison Notes vs Francesca Easter (Ellisons)
+### Comparison Notes Vs Francesca Easter (Ellisons)
 
 | Factor | Stuart Hughes (G&G) | Francesca Easter (Ellisons) |
 |--------|---------------------|----------------------------|

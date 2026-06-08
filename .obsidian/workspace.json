@@ -99,12 +99,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005_Divorce/Analysis/2026-05-26_stuart-hughes-profile.md",
+                "file": "005_Divorce/How to File for Divorce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-26_stuart-hughes-profile"
+              "title": "How to File for Divorce"
             }
           }
         ],
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 371.5
   },
   "right": {
     "id": "5744ff3d2d928c92",
@@ -287,8 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,6 +307,12 @@
   },
   "active": "16dc7f3b32b626ef",
   "lastOpenFiles": [
+    "005_Divorce/how-to-file-divorce-timeline.png",
+    "005_Divorce/How to File for Divorce.pdf",
+    "005_Divorce/Analysis/2026-06-05_how-to-file-divorce-application.md",
+    "005_Divorce/How to File for Divorce.html",
+    "005_Divorce/How to File for Divorce.adoc",
+    "005_Divorce/Analysis/2026-05-26_stuart-hughes-profile.md",
     "005_Divorce/Analysis/2026-05-29_alan-caldwell-profile.md",
     "005_Divorce/Analysis/2026-05-29_solicitor-cost-estimate.md",
     "005_Divorce/Analysis/2026-05-28_alan-caldwell-profile.md",
@@ -322,7 +327,6 @@
     "005_Divorce/Project Summary.md",
     "005_Divorce/Heather Affordability.md",
     "005_Divorce/Solicitor Briefing Pack.html",
-    "005_Divorce/Analysis/2026-05-26_stuart-hughes-profile.md",
     "005_Divorce/Analysis/2026-05-26_pebmarsh-comparable-sales.md",
     "005_Divorce/Analysis/2026-05-26_eon-next-tariff-analysis.md",
     "005_Divorce/Analysis/2026-05-12_tree-removal-analysis.md",
@@ -338,8 +342,6 @@
     "005_Divorce/House Sale.md",
     "005_Divorce/Divorce.md",
     "005_Divorce/Debts.md",
-    "005_Divorce/Clean Break.md",
-    "005_Divorce/Address Updates.md",
     "010_Westgate/19 Westgate.md.tmp.29377.78dcb7079601",
     "xx_media/Pasted image 20260407114310.png",
     "005_Divorce",
@@ -347,12 +349,9 @@
     "xx_media/Pasted image 20260407114347.png",
     "xx_media/Pasted image 20260407114324.png",
     "xx_media/Pasted image 20260326100417.png",
-    "xx_media/Account activity - Babergh District Council.pdf",
     "xx_media/Pasted image 20250930164938.png",
     "xx_media/Pasted image 20251124144333.png",
     "xx_media/Pasted image 20251105142516.png",
-    "xx_media/Form.pdf",
-    "xx_media/Pasted image 20250918120428.png",
-    "050_Interesting"
+    "xx_media/Pasted image 20250918120428.png"
   ]
 }
