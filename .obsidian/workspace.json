@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 412.5
   },
   "right": {
     "id": "5744ff3d2d928c92",
@@ -220,7 +220,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "a6ed7aedcca9a9ee",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
     "xx_daily/Daily Note - 8th Jun 2026.md",
     "xx_daily/Daily Note - 12th May 2026.md",
