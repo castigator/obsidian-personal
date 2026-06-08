@@ -83,3 +83,9 @@ Based on current rental market (May 2026):
 - Heather's state pension forecast
 - More precise rental costs for the area she'd likely live (near her school)
 - Whether Heather could increase her hours or earnings
+
+## Related analysis
+
+- [[2026-06-01_fair-outcome-assessment]] — balanced realistic settlement view
+- [[2026-06-01_adversarial-critique]] — hardest devil's-advocate case against Rupert's position
+- [[2026-04-18_other-income-inheritance]] — inheritance / other-income treatment

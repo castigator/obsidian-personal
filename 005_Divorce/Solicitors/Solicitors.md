@@ -46,3 +46,11 @@ Sudbury / Bury St Edmunds / London. Spoken to 26 May (details TBC). 4.9/5 (1,312
 - Fixed or capped fees?
 - Who handles day-to-day?
 - Availability re: Aviva pension deadline 19 June?
+
+## Related analysis
+
+- [[2026-06-02_atkins-dellow-consultation]] — Alan Caldwell consultation notes (front-runner)
+- [[2026-05-29_alan-caldwell-profile]] · [[2026-05-26_francesca-easter-profile]] · [[2026-05-26_stuart-hughes-profile]] — solicitor profiles
+- [[2026-05-29_solicitor-cost-estimate]] (+ shared/redacted version) — cost comparison across approaches
+- [[2026-06-01_verify365-id-verification]] — Atkins Dellow ID check (completed)
+- [[2026-06-03_sole-vs-joint-and-solicitor-models]] — solicitor models (one-couple-one-lawyer, sole vs joint)

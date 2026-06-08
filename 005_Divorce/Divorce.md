@@ -11,7 +11,8 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
 - [x] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement. ✅ 2026-06-08
 - [x] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue ✅ 2026-06-08
-- [x] **Tree removal funding** — GHG submitted request to insurer. Quote: £1,200 (HJ Tree Care). Awaiting insurer decision. ✅ 2026-06-08
+- [x] **Tree removal funding** — ✅ **APPROVED 5 Jun 2026**: insurer funds the full £1,200 (HJ Tree Care). GHG: proceed with works. ✅ 2026-06-08
+- [ ] **Trees BOOKED 18–19 Jun (Hamish/HJ Tree Care)** — funding approved (£1,200). ⚠️ Both away those dates: Rupert busy, Heather away. Rupert has asked Heather how that works for Hamish (access; completion photo). Insurer needs a **company-headed quote + invoice** and a **photo of completed works** to pay. See [[Subsidence Claim]].
 - [ ] Chase Speedware pension — 7 years untraced, try Egon with NI + dates
 - [ ] Request fresh RBS redemption statement — call 0345 300 4013
 - [x] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed ✅ 2026-06-08
@@ -20,7 +21,13 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## The House
 
-- [[House Sale]] — property, subsidence claim, drain claim, timing dilemma
+- [[House Sale]] — property, valuations, timing dilemma
+- [[Subsidence Claim]] — ref 6843593K, GHG. Liability accepted; tree removal + repairs to mid-2027
+- [[Drain Claim]] — Ageas ref 6866220H, Catalyst. ~£8,960 expected; engineer visit being arranged
+
+## Divorce Application
+
+- [[How to File for Divorce]] — process, timeline, costs, and how to file (Heather saved an online application 6 Jun — sole vs joint TBC)
 
 ## Finances
 

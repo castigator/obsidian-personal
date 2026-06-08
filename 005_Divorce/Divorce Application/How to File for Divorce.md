@@ -93,3 +93,9 @@ the marriage ends — is deliberately held until the financial/pension side is s
 
 *Notes still to firm up: exact mediation cost (per person vs joint), the ~£53 consent-order filing fee, and a few  
 diagram labels. Statutory minimum ~26 weeks; real-world average ~44 weeks.*
+
+## Related analysis
+
+- [[2026-06-05_how-to-file-divorce-application]] — step-by-step filing guide
+- [[2026-06-02_divorce-process-flow-validated]] — validated end-to-end process flow + nomenclature
+- [[2026-06-03_sole-vs-joint-and-solicitor-models]] — sole vs joint application + solicitor models
