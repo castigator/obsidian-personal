@@ -8,13 +8,13 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## Important and To Do
 
-- [!] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible).
-- [!] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement.
-- [!] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue
-- [!] **Tree removal funding** — GHG submitted request to insurer. Quote: £1,200 (HJ Tree Care). Awaiting insurer decision.
+- [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
+- [x] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement. ✅ 2026-06-08
+- [x] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue ✅ 2026-06-08
+- [x] **Tree removal funding** — GHG submitted request to insurer. Quote: £1,200 (HJ Tree Care). Awaiting insurer decision. ✅ 2026-06-08
 - [ ] Chase Speedware pension — 7 years untraced, try Egon with NI + dates
 - [ ] Request fresh RBS redemption statement — call 0345 300 4013
-- [ ] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed
+- [x] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed ✅ 2026-06-08
 - [ ] Research balance transfer options to decouple joint credit card debt
 - [ ] Work through [[Address Updates]] systematically
 

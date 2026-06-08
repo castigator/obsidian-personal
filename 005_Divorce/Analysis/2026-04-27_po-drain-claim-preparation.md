@@ -167,12 +167,12 @@ The Anglian Water bills show water usage jumped 82% year-on-year (204 m³ → 37
 
 ## Checklist before calling
 
-- [ ] Have policy number ready: H0000011333/06
-- [ ] Have existing claim ref ready: 6843593K
-- [ ] Have property address ready
-- [ ] Have date of discovery ready: 6 March 2026
-- [ ] Have repair cost figure ready: £9,360.63
-- [ ] Have GHG contact details ready (Vicky Salter, 02380 622622)
-- [ ] Confirm with Heather that she's OK with Rupert calling (agreed — Rupert is joint policyholder)
-- [ ] Have DW Solutions CCTV report available to email/upload if requested
-- [ ] Have GHG April 2026 letter available (the one recommending the separate claim)
+- ✓ Have policy number ready: H0000011333/06
+- ✓ Have existing claim ref ready: 6843593K
+- Have property address ready
+- ✓ Have date of discovery ready: 6 March 2026
+- ✓ Have repair cost figure ready: £9,360.63
+- ✓ Have GHG contact details ready (Vicky Salter, 02380 622622)
+- ✓ Confirm with Heather that she's OK with Rupert calling (agreed — Rupert is joint policyholder)
+- ✓ Have DW Solutions CCTV report available to email/upload if requested
+- ✓ Have GHG April 2026 letter available (the one recommending the separate claim)

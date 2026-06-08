@@ -12,7 +12,7 @@ content-start: 151
 ---
 ## Tasks
 
-- [ ] Set up £300 D/D for NatWest
+- [x] Set up £300 D/D for NatWest ✅ 2026-06-08
 ### Blockers
 ```tasks
 is blocking

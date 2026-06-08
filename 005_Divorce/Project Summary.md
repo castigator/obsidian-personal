@@ -61,12 +61,12 @@ Rupert's confirmed pension CETV is ~£183,487. Heather's is likely much smaller.
 
 ## Priority Actions
 
-- [ ] **Find and instruct a solicitor** — use Resolution directory (resolution.co.uk) for accredited family lawyers. Ask about collaborative law. Budget £3,000–£6,000 for a straightforward consent order.
-- [ ] Chase Speedware pension (7 years employment, possibly with Egon)
-- [!] **Submit separate drainage claim to Post Office under "accidental damage to underground services" — £9,360.63 of drain repairs needed (tree root damage). GHG recommends this. Heather has not done it.**
-- [x] HomeServe drain policy renewed (confirmed Apr 2026)
-- [ ] Build Heather affordability model to support clean break argument
-- [ ] Research balance transfer options to decouple from joint credit card debt
-- [ ] Work through address updates list systematically
-- [ ] Chase GHG Solutions for a realistic timeline — escalation to Operations Manager (Vicky Salter) happened Apr 2026
-- [ ] Get the actual valuation figures from the Sep 2025 PDFs (Michaels Property + St George Property Group)
+- **Find and instruct a solicitor** — use Resolution directory (resolution.co.uk) for accredited family lawyers. Ask about collaborative law. Budget £3,000–£6,000 for a straightforward consent order.
+- Chase Speedware pension (7 years employment, possibly with Egon)
+- [x] **Submit separate drainage claim to Post Office under "accidental damage to underground services" — £9,360.63 of drain repairs needed (tree root damage). GHG recommends this. Heather has not done it.** ✅ 2026-06-08
+- ✓ HomeServe drain policy renewed (confirmed Apr 2026)
+- Build Heather affordability model to support clean break argument
+- Research balance transfer options to decouple from joint credit card debt
+- Work through address updates list systematically
+- Chase GHG Solutions for a realistic timeline — escalation to Operations Manager (Vicky Salter) happened Apr 2026
+- Get the actual valuation figures from the Sep 2025 PDFs (Michaels Property + St George Property Group)

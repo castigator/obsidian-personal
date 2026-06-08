@@ -1,5 +1,5 @@
 ---
-date: 2026-05-06
+date: 2026-06-08
 tags:
   - daily
 banner: "![[media/calendar.jpeg]]"
@@ -11,9 +11,6 @@ banner-display: cover
 content-start: 151
 ---
 ## Tasks
-- [x] PO Insurance Renewal 🔺 ✅ 2026-06-08
-- [x] PO Drains Claim 🔺 ✅ 2026-06-08
-- [x] Water Leak?? 🔺 ✅ 2026-06-08
 
 ### Blockers
 ```tasks

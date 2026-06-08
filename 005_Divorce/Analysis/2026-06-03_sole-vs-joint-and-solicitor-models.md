@@ -96,9 +96,9 @@ Two competing pressures:
 
 ## 7. Open decisions / actions
 
-- [ ] **DECISION: sole vs joint application** — leaning sole for *timeline control* given the £4k/month delay cost, unless the perception cost with Heather is judged too high. Not yet made.
-- [ ] **Ask Alan:** does Atkins Dellow operate the **Resolution Together / one-couple-one-lawyer** model? Is Alan trained in it? How would he handle Heather's lack of independent advice, and is it wise / enforceable here? (Pairs with the existing "single-solicitor-for-both" open question.)
-- [ ] Note that **sole vs joint can be decided independently of the solicitor question** — they don't have to be bundled.
+- **DECISION: sole vs joint application** — leaning sole for *timeline control* given the £4k/month delay cost, unless the perception cost with Heather is judged too high. Not yet made.
+- **Ask Alan:** does Atkins Dellow operate the **Resolution Together / one-couple-one-lawyer** model? Is Alan trained in it? How would he handle Heather's lack of independent advice, and is it wise / enforceable here? (Pairs with the existing "single-solicitor-for-both" open question.)
+- Note that **sole vs joint can be decided independently of the solicitor question** — they don't have to be bundled.
 
 ---
 

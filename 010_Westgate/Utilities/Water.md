@@ -14,7 +14,7 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] Possible leak — smart meter detected ~10 litres/hour around the clock (job 68210571, 1 May 2026). Must fix within 30 days or Anglian may repair and pass costs on. Contact: 0345 268 2065, option 3 (Mon–Fri 8am–5pm)
+- [x] Possible leak — smart meter detected ~10 litres/hour around the clock (job 68210571, 1 May 2026). Must fix within 30 days or Anglian may repair and pass costs on. Contact: 0345 268 2065, option 3 (Mon–Fri 8am–5pm) ✅ 2026-06-08
 
 ## Current Details
 

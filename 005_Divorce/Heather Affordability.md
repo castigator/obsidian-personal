@@ -79,7 +79,7 @@ Based on current rental market (May 2026):
 
 ## What Would Strengthen This Model
 
-- [ ] Heather's actual DB pension CETVs — Prudential Staff Pension Scheme (via XPS Admin) and Essex LGPS (via Essex County Council)
-- [ ] Heather's state pension forecast
-- [ ] More precise rental costs for the area she'd likely live (near her school)
-- [ ] Whether Heather could increase her hours or earnings
+- Heather's actual DB pension CETVs — Prudential Staff Pension Scheme (via XPS Admin) and Essex LGPS (via Essex County Council)
+- Heather's state pension forecast
+- More precise rental costs for the area she'd likely live (near her school)
+- Whether Heather could increase her hours or earnings

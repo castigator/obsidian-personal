@@ -77,8 +77,8 @@ Only relevant as the fallback if agreement fails:
 
 ## Action points Alan gave Rupert
 
-- [ ] **Communicate to the lender (RBS)** about the divorce/separation situation (change of circumstances — not specifically intention to sell, though linked).
-- [ ] **Get estate agents in for fresh valuations** — ties into subsidence (a valuation now vs. post-repair differs materially).
+- **Communicate to the lender (RBS)** about the divorce/separation situation (change of circumstances — not specifically intention to sell, though linked).
+- **Get estate agents in for fresh valuations** — ties into subsidence (a valuation now vs. post-repair differs materially).
 
 ---
 

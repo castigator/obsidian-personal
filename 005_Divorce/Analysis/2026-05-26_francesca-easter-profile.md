@@ -137,9 +137,9 @@ Over a typical consent order process (20–40 hours), the £100/hr difference am
 
 ### Questions to Confirm at First Consultation
 
-- [ ] Experience specifically with pension sharing orders and CETVs
-- [ ] Can she handle the consent order end-to-end including the pension sharing annex?
-- [ ] Fee estimate for the full consent order process (assuming agreement is reached)
-- [ ] Fixed or capped fee options?
-- [ ] Who else in the team would work on the case day-to-day?
-- [ ] Availability — can she act quickly given the 19 June Aviva pension deadline?
+- ✓ Experience specifically with pension sharing orders and CETVs
+- ✓ Can she handle the consent order end-to-end including the pension sharing annex?
+- Fee estimate for the full consent order process (assuming agreement is reached)
+- Fixed or capped fee options?
+- Who else in the team would work on the case day-to-day?
+- Availability — can she act quickly given the 19 June Aviva pension deadline?

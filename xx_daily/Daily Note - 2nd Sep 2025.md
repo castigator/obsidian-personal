@@ -13,9 +13,9 @@ content-start: 151
 - [x] Pack for Italy ✅ 2025-09-05
 - [x] Prescription ✅ 2025-09-02
 - [x] Dinner ✅ 2025-09-02
-- [ ] Research pensions
-- [ ] Subsidence
-- [ ] Divorce
+- [x] Research pensions ✅ 2026-06-08
+- [x] Subsidence ✅ 2026-06-08
+- [x] Divorce ✅ 2026-06-08
 - [x] Butter ✅ 2025-09-05
 - [x] Metal Scourer ✅ 2025-09-15
 ## Tasks

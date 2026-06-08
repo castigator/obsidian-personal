@@ -1,15 +1,15 @@
-# How to File for Divorce — One-Pager
+## How to File for Divorce — One-Pager
 
 *England & Wales, no-fault. Plain summary for discussion. Not legal advice. Compiled 5 Jun 2026.*
 
-## What "filing" actually is
+### What "filing" Actually is
 
-Filing the divorce application is the **opening move** — and it's almost a press-button. It needs **no financial
-detail, no agreement, and no reason** (no-fault). Filing **starts a 20-week clock**; the money side (gathering
-figures → mediation → drafting the consent order) all happens **during** those 20 weeks. So filing early just
+Filing the divorce application is the **opening move** — and it's almost a press-button. It needs **no financial  
+detail, no agreement, and no reason** (no-fault). Filing **starts a 20-week clock**; the money side (gathering  
+figures → mediation → drafting the consent order) all happens **during** those 20 weeks. So filing early just  
 gets the clock ticking — it commits us to nothing about the finances.
 
-## What we need to file
+### What We Need to File
 
 - ✅ **Both full names** (as on the marriage certificate) + **both addresses**
 - ✅ **Marriage date** — 22 Aug 1998
@@ -17,21 +17,21 @@ gets the clock ticking — it commits us to nothing about the finances.
 - ✅ **£612 court fee** (one fee, whoever applies)
 - ✅ Tick the box to **keep financial claims open** (no figures needed — just a placeholder for the consent order later)
 
-## What we do NOT need to file
+### What We Do NOT Need to File
 
 - ❌ Any financial information — asset values, pensions, house valuation, debts
 - ❌ The consent order (that comes later, inside the 20 weeks)
 - ❌ Any reason, grounds, or blame
 
-## Sole vs joint (same cost, same timeline, same outcome)
+### Sole Vs Joint (same Cost, Same Timeline, Same outcome)
 
 - **Joint** — we apply together on one form; both confirm. Collaborative, but moves at the pace we both act.
 - **Sole** — one of us applies; the other simply acknowledges receipt later. Faster to start; still entirely no-fault, no blame.
 
-## The shape of the process
+### The Shape of the Process
 
-> Two tracks run **in parallel** over the same period: **the divorce** (fixed, can't be contested) and **the
-> finances** (where the actual work is). They meet at two gates. Timeline is **illustrative** — some labels/durations
+> Two tracks run **in parallel** over the same period: **the divorce** (fixed, can't be contested) and **the  
+> finances** (where the actual work is). They meet at two gates. Timeline is **illustrative** — some labels/durations  
 > still being refined.
 
 ```mermaid
@@ -71,15 +71,15 @@ gantt
     Filing fee ~£53             :milestone, k4, after g1, 0d
 ```
 
-**Reading it:** filing the application (far left) starts everything. We gather numbers and mediate **during** the
-20-week wait. **Gate 1 (Conditional Order)** unlocks lodging the financial agreement. **Gate 2 (Final Order)** —
+**Reading it:** filing the application (far left) starts everything. We gather numbers and mediate **during** the  
+20-week wait. **Gate 1 (Conditional Order)** unlocks lodging the financial agreement. **Gate 2 (Final Order)** —  
 the marriage ends — is deliberately held until the financial/pension side is sealed and safe.
 
-## Costs to budget for (most are shared)
+### Costs to Budget for (most Are shared)
 
 - **£612** — court fee to file (one-off)
-- **Pensions expert (PODE) — ~£2,500–3,500, shared.** An actuary works out a *fair* pension split (a defined-
-  benefit pension's headline value is misleading, and Heather has one). One jointly-instructed expert, cost
+- **Pensions expert (PODE) — ~£2,500–3,500, shared.** An actuary works out a *fair* pension split (a defined-  
+  benefit pension's headline value is misleading, and Heather has one). One jointly-instructed expert, cost  
   split. Lands during the "gathering the numbers" phase.
 - **Mediation — budget ~£2,000 total (~£1,000 each):**
     - *Does what:* turns "50/50 in principle" into concrete terms — offsetting, timing of realisation, clean break vs maintenance → produces the MoU the consent order is drafted from
@@ -91,5 +91,5 @@ the marriage ends — is deliberately held until the financial/pension side is s
 
 ---
 
-*Notes still to firm up: exact mediation cost (per person vs joint), the ~£53 consent-order filing fee, and a few
+*Notes still to firm up: exact mediation cost (per person vs joint), the ~£53 consent-order filing fee, and a few  
 diagram labels. Statutory minimum ~26 weeks; real-world average ~44 weeks.*

@@ -33,8 +33,8 @@ Aviva plan 7137159. Retirement date approaching **19 June 2026**. Must call Aviv
 
 - 7 years employment — significant if a pension existed
 - Rupert believes there may have been a pension with Egon
-- [ ] Use Pension Tracing Service (gov.uk/find-pension-contact-details) — free, just need employer name + dates
-- [ ] Contact Egon with NI number + dates
+- Use Pension Tracing Service (gov.uk/find-pension-contact-details) — free, just need employer name + dates
+- Contact Egon with NI number + dates
 
 ## Heather's Pensions
 

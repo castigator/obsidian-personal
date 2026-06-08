@@ -40,9 +40,9 @@ Sudbury / Bury St Edmunds / London. Spoken to 26 May (details TBC). 4.9/5 (1,312
 
 ## Key Questions for First Consultation
 
-- [ ] Experience with pension sharing orders and CETVs?
-- [ ] Can you handle consent order end-to-end including pension annex?
-- [ ] Fee estimate for consent order with pension sharing?
-- [ ] Fixed or capped fees?
-- [ ] Who handles day-to-day?
-- [ ] Availability re: Aviva pension deadline 19 June?
+- Experience with pension sharing orders and CETVs?
+- Can you handle consent order end-to-end including pension annex?
+- Fee estimate for consent order with pension sharing?
+- Fixed or capped fees?
+- Who handles day-to-day?
+- Availability re: Aviva pension deadline 19 June?
