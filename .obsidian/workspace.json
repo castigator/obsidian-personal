@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 288.5
   },
   "right": {
     "id": "5744ff3d2d928c92",
@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,12 +223,12 @@
   },
   "active": "a6ed7aedcca9a9ee",
   "lastOpenFiles": [
+    "005_Divorce/Drain Claim.md",
+    "xx_daily/Daily Note - 8th Jun 2026.md",
     "005_Divorce/Subsidence Claim.md",
     "005_Divorce/House and Claims/Subsidence Claim.md",
-    "xx_daily/Daily Note - 8th Jun 2026.md",
     "005_Divorce/Solicitors/Solicitors.md",
     "005_Divorce/House and Claims/House Sale.md",
-    "005_Divorce/House and Claims/Drain Claim.md",
     "005_Divorce/House and Claims",
     "005_Divorce/Drain Claim.md",
     "005_Divorce/Finances/Clean Break.md",
