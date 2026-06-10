@@ -8,6 +8,8 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 
 ## Important and To Do
 
+- [!] **Divorce fee paid — both halves done (£306 each).** ⏳ Now waiting on **Heather to confirm + submit** the joint app. Tell her you've paid your £306. On her confirmation the 20-week clock starts. ✅ Rupert paid 2026-06-10.
+- [ ] **Michaels Property valuation — Fri 12 Jun 9:30am** (Aaron Wilcock) at Pebmarsh. Attend if able; disclose subsidence + active claim so the figure factors it (vs £550k pre-subsidence). Still to arrange St George (Sam Fox).
 - [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
 - [x] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement. ✅ 2026-06-08
 - [x] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue ✅ 2026-06-08
