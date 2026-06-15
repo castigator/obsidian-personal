@@ -9,7 +9,8 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 ## Important and To Do
 
 - [!] **Divorce fee paid — both halves done (£306 each).** ⏳ Now waiting on **Heather to confirm + submit** the joint app. Tell her you've paid your £306. On her confirmation the 20-week clock starts. ✅ Rupert paid 2026-06-10.
-- [ ] **Michaels Property valuation — Fri 12 Jun 9:30am** (Aaron Wilcock) at Pebmarsh. Attend if able; disclose subsidence + active claim so the figure factors it (vs £550k pre-subsidence). Still to arrange St George (Sam Fox).
+- [x] **Michaels Property valuation done 13 Jun** (Aaron Wilcock): **£550k once subsidence rectified / £400k–£425k if sold as-is now** (active claim → cash buyers only). Recommends completing the claim + works before marketing. See [[House Sale]]. ✅ 2026-06-13
+- [!] **Line up 2–3 ADDITIONAL property valuations — Rupert to organise** (Heather says it's for him to sort). Target viewing: **weekend of 4–5 Jul** — first free weekend (busy 20–21 & 27–28 Jun; away Mon 29 Jun; weekdays don't work). Start with St George (Sam Fox, 07485 498850), add 1–2 more agents. Disclose subsidence + active claim to each so figures are comparable. NB drain engineer visit Fri 3 Jul AM — don't over-stack.
 - [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
 - [x] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement. ✅ 2026-06-08
 - [x] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue ✅ 2026-06-08
