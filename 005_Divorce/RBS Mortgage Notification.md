@@ -156,15 +156,27 @@ mortgage under his own credentials. If yes → draft below goes in as a secure m
 >
 > Hello,
 >
-> I'm writing regarding mortgage account 11177343 (Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA), held jointly with Heather Thomas. Two updates for your records, and a couple of requests.
+> I'm writing regarding mortgage account 11177343 (Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA), held jointly with Heather Thomas. Some updates for your records, and a few requests.
 >
 > First, Heather and I have separated and are in the process of divorcing. We are currently running two households — Heather remains at the property; I am in rented accommodation — and the house will be sold as part of the financial settlement.
 >
-> Second, the property has an active subsidence claim with our home insurer. Liability has been accepted and the claim is progressing — mitigation works are under way, and remedial works are currently expected to complete around spring 2027. The timing of the sale is not yet decided: we may market the property once the works are complete, or sooner.
+> Second, the property has an active subsidence claim with our home insurer. Liability has been accepted and the claim is progressing — mitigation works are under way, and remedial works are currently expected to complete around spring 2027. The timing of the sale is not yet decided: we may market the property once the works are complete, or sooner. You may also wish to note that recent professional valuations indicate a value of at least £550,000 once the remedial works are complete — above the last valuation shown on our statements.
 >
 > The account is within its facility limit and the monthly interest is being met in full. Given the cost of running two households, please set out what, if any, support options are available to us on this account that would not affect our credit files — for example regarding the facility limit or the planned repayment date. For any option, please confirm whether it would be reported to credit reference agencies.
 >
 > Please also send a current redemption statement, including a breakdown of any early repayment charge — how it is calculated and the date until which it applies — and any discharge or administration fees.
+>
+> Finally, please update your records with the contact details below. As I am no longer resident at the property, please ensure all contact on this account — whether by phone, digital message or post — includes us both, and that any written correspondence is duplicated to both addresses:
+>
+> Rupert Thomas
+> - Postal: 19 Westgate Street, Long Melford, Suffolk, CO10 9DS
+> - Email: rupert@pebmarsh.com
+> - Telephone: 07740 706315
+>
+> Heather Thomas
+> - Postal: Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA
+> - Email: heather@pebmarsh.com
+> - Telephone: [Heather's phone]
 >
 > Happy to provide further detail if needed.
 >
@@ -172,6 +184,21 @@ mortgage under his own credentials. If yes → draft below goes in as a secure m
 > [Rupert's name / contact details]
 
 **Notes on the draft:**
+- **Contact details block added (8 Jul — Rupert's ask):** RBS doesn't yet know Rupert has moved out, and
+  he's currently reliant on Heather forwarding paper post. The block gives both parties' full details and
+  asks for all written correspondence to be duplicated to both — the same joint-visibility move that
+  worked with Ageas/Catalyst on the drain claim (Gemma Steels confirmed dual-copying 5 Jun). ⚠️ Heather's
+  phone number is a placeholder — fill in before sending; also sanity-check with Heather that she's happy
+  being named with her details (it's her own current address on the account, so low sensitivity).
+- **"Comfortably above" softened to "above" (8 Jul — Rupert: felt arrogant).**
+- **Valuation line added (8 Jul — Rupert's steer):** floor-framed ("at least £550,000 once works
+  complete") to counter RBS's £390k file figure without anchoring the top — Rupert suspects Michaels'
+  £550k is itself lazy/low based on neighbouring Rightmove sales, hence "at least" and no cap.
+  ✅ **Plural "valuations" verified (8 Jul):** two post-rectification figures in writing — Michaels
+  £550k (29 Aug 2025, reaffirmed formally 13 Jun 2026) and **St George £650k** (Sam Fox, 1 Sep 2025,
+  "subject to the movement issues having been rectified"; docs in repo `incoming/`). The £100k spread
+  supports Rupert's floor instinct. Still preferable to send after the 11 Jul valuations day for fresh
+  corroboration — and consider raising the floor if the new figures land above £550k.
 - **Tone (8 Jul — Rupert's direction):** polite but perfunctory/businesslike. No "I wanted to update
   you" / "I wanted to ask" framing — state the facts, make the requests directly ("please could you set
   out…", "please confirm…", "please also send…"). Keep this register in any future revision.
@@ -216,7 +243,8 @@ mortgage under his own credentials. If yes → draft below goes in as a secure m
   knowing before the conversation.
 - Decide how much subsidence detail to include (claim ref? insurer name?) vs keeping it high-level.
 - Decide whether to explicitly ask about payment holiday/flexibility by name, or leave it open as above.
-- Send, then log RBS's response here and update `Divorce.md` to-do list.
+- Send **after the 11 Jul valuations day** (validates the "valuations" plural; possibly raise the £550k
+  floor if the new agents come in higher), then log RBS's response here and update `Divorce.md` to-do list.
 
 ## Related
 - [[House Sale]]
