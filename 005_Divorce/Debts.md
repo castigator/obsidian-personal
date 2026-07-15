@@ -4,18 +4,25 @@ tags:
   - finance
 ---
 
-*Updated 26 May 2026 from project docs*
+*Updated 15 Jul 2026 from finance repo `accounts/shared-debt.md` (balances as of 10 Jul 2026)*
 
-## Joint Marital Debts (~£25,080)
+## Joint Marital Debts (~£23,590)
+
+Cards total **£14,792.64** (min payments £454.65/mo, currently split Rupert 80% £363.72 /
+Heather 20% £90.93; planned change to 50/50 = £227.33 each). Plus Ann loans £8,800.
 
 | Debt | Balance | Min Payment | Notes |
 |------|---------|-------------|-------|
-| Barclaycard | £7,660.90 | £221.37 | Interest accruing — priority |
-| Halifax credit card | £6,410.51 | £64.11 | |
-| Next | £0.00 | — | Cleared |
-| Barclaycard (Ann) | £2,209.00 | £200.00 | |
+| Barclaycard | £7,100.70 | £191.82 | Interest accruing — priority |
+| Halifax credit card | £6,282.94 | £62.83 | |
+| Next | £0.00 | — | Cleared, no longer tracked |
+| Barclaycard ("Ann" label) | £1,409.00 | £200.00 | Actually Heather's card — name label irrelevant |
 | Loan from Ann (£3,300) | £3,300.00 | £0 | Heather's mother. Check if formal paperwork exists |
 | Loan from Ann (£5,500) | £5,500.00 | £0 | Heather's mother. Check if formal paperwork exists |
+
+**Rupert's 50% share of the cards: £7,396.32.** Goal (per finance repo): divest this share in one
+move at the cheapest rate — none of the cards are in Rupert's name, so cash routes only. See finance
+repo `notes/paying-off-50pc-shared-debt.md`.
 
 **Key issues:**
 - Halifax and Barclaycard balances drifting upward — minimum payments may not cover interest
