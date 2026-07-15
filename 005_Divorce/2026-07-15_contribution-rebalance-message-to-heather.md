@@ -68,7 +68,8 @@ Cards total £14,792.64; Rupert's 50% = £7,396.32. Ownership (confirmed 15 Jul)
 balance transfer from Rupert's side; cash routes only (0% money-transfer card ~£295 fee, or personal loan £7,500
 @ ~5.7% ≈ £450–680 interest). See finance repo `notes/paying-off-50pc-shared-debt.md`.
 ⚠️ Raise with solicitor before executing — mid-divorce debt restructuring shifts liability optics;
-also decide payment route (Ann's cards directly vs via Ann) and get closure statements/evidence.
+also decide payment routes (Heather's two cards direct; the Ann card direct or via Ann) and get
+closure statements/evidence.
 
 ## Devil's advocate (flag, not a blocker)
 
