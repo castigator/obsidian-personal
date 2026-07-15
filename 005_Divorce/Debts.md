@@ -13,10 +13,10 @@ Heather 20% £90.93; planned change to 50/50 = £227.33 each). Plus Ann loans £
 
 | Debt | Balance | Min Payment | Notes |
 |------|---------|-------------|-------|
-| Barclaycard | £7,100.70 | £191.82 | Interest accruing — priority |
-| Halifax credit card | £6,282.94 | £62.83 | |
+| Barclaycard | £7,100.70 | £191.82 | Heather's card. Interest accruing — priority |
+| Halifax credit card | £6,282.94 | £62.83 | Heather's card |
 | Next | £0.00 | — | Cleared, no longer tracked |
-| Barclaycard ("Ann" label) | £1,409.00 | £200.00 | Actually Heather's card — name label irrelevant |
+| Barclaycard (Ann) | £1,409.00 | £200.00 | Ann's card (ownership confirmed 15 Jul 2026) |
 | Loan from Ann (£3,300) | £3,300.00 | £0 | Heather's mother. Check if formal paperwork exists |
 | Loan from Ann (£5,500) | £5,500.00 | £0 | Heather's mother. Check if formal paperwork exists |
 

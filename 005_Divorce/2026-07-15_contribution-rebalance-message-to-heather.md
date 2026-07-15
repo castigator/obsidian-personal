@@ -63,8 +63,9 @@ and cats are resolved. Quote "~£115–130 depending on sequencing" or pick one 
 
 ## Card split (point 1)
 
-Cards total £14,792.64; Rupert's 50% = £7,396.32. All cards in Ann's name → no balance transfer
-from Rupert's side; cash routes only (0% money-transfer card ~£295 fee, or personal loan £7,500
+Cards total £14,792.64; Rupert's 50% = £7,396.32. Ownership (confirmed 15 Jul): Halifax and the
+£7,100 Barclaycard are Heather's; the £1,409 Barclaycard is Ann's. None in Rupert's name → no
+balance transfer from Rupert's side; cash routes only (0% money-transfer card ~£295 fee, or personal loan £7,500
 @ ~5.7% ≈ £450–680 interest). See finance repo `notes/paying-off-50pc-shared-debt.md`.
 ⚠️ Raise with solicitor before executing — mid-divorce debt restructuring shifts liability optics;
 also decide payment route (Ann's cards directly vs via Ann) and get closure statements/evidence.
