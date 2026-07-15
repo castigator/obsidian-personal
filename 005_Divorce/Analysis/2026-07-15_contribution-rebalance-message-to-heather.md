@@ -32,34 +32,44 @@ Pebmarsh-related monthly commitments:
 Rupert's share of this pot = 80.4% — the agreed 80/20. But this ignores that Rupert also carries
 his own Westgate housing on top.
 
-## Verifying the remembered figures
+## The actual basis (from Rupert's Personal Finance Google Sheet, seen 15 Jul)
 
-- **"86% / 14%":** counting Rupert's FULL Westgate outgoings (~£1,410/mo mid-range) in the pot:
-  Rupert (2,701.61 + 1,410) / (3,360.76 + 1,410) = **86.2%**, Heather 13.8%. ✓ matches.
-- **"~£128 extra":** counting HALF of Rupert's core housing only (rent £1,000 + council tax £152
-  = £1,152; half = **£576**, assuming Mandy covers the other half):
-  - Pot = 3,360.76 + 576 = £3,936.76 → Rupert's 80% target = £3,149.41
-  - Rupert actually bears 2,701.61 + 576 = £3,277.61 → **overpaying by £128.20/mo** ✓ matches.
-  - Equivalently: Heather's 20% target = £787.35 vs £659.15 now = **+£128.20/mo from her side**.
+**SUPERSEDES the first reconstruction below-in-history** (which guessed a rent+council-tax-only
+basis and coincidentally landed near the same number). Rupert's real pot is **core household
+bills only** — mortgage/rent, council tax, insurance, gas/electricity/oil, water. No cats, no
+debt servicing, no Lucy.
+
+| | Westgate | Westgate 50% | Pebmarsh |
+|---|---:|---:|---:|
+| Mortgage/Rent | £1,000.00 | £500.00 | £1,871.42 |
+| Council tax | £152.00 | £76.00 | £182.12 |
+| Insurance | £5.00 | £2.50 | £112.59 |
+| Gas/Electricity/Oil | £74.08 | £37.04 | £300.38 |
+| Water | £58.00 | £29.00 | £82.00 |
+| **Total** | **£1,289.08** | **£644.54** | **£2,548.51** |
+
+- Combined pot = Pebmarsh £2,548.51 + half Westgate £644.54 = **£3,193.05** (Mandy assumed to
+  cover the other Westgate half).
+- Rupert actually bears 80% of Pebmarsh (£2,038.81) + his Westgate half (£644.54) =
+  **£2,683.35 = 84.04%**; Heather £509.70 = 15.96%. ✓ the "over 84%" in the message.
+- True 80/20 of the pot: Rupert £2,554.44 / Heather £638.61 → **£128.91/mo moves to Heather**. ✓
+- (The "86/14" remembered earlier was a rougher cut counting FULL Westgate; the sheet's 84/16 on
+  half-Westgate is the operative version.)
 
 ## The formula
 
-> Shared pot = all Pebmarsh commitments + half of Rupert's core housing (rent + council tax only,
-> other half attributed to Mandy). Split the pot 80/20. Rupert's transfer = 80% of pot − £576.
+> Pot = Pebmarsh core bills + 50% of Westgate core bills. Split 80/20.
+> Rupert pays 80% of pot − his Westgate half (£2,554.44 − £644.54 net new transfer basis);
+> Heather pays 20% = £638.61, i.e. **+£128.91/mo vs her current £509.70**.
 
-Deliberately conservative: it counts only half his housing, and only rent + council tax (not
-utilities/broadband/etc.), so it's hard to argue against as over-reaching.
+Conservative: only half his housing counted, and only core bills (no broadband/TV licence etc.).
 
-## Interaction with the other proposals (stacking)
+## Stacking with the other proposals
 
-The £128.20 is computed on the CURRENT pot. If the cats (£65 → Heather's own) and the card split
-(£454.65 servicing drops out — each services their own financing) both happen first:
-
-- Pot becomes 1,871.42 + 719.69 + 250 + 576 = £3,417.11 → Rupert 80% = £2,733.69
-- Rupert bears 1,497.14 + 575.75 + 200 + 576 = £2,848.89 → overpay = **£115.20/mo**
-
-So: **£128/mo** if rebalance applied to today's setup; **~£115/mo** in the end-state after cards
-and cats are resolved. Quote "~£115–130 depending on sequencing" or pick one basis.
+Because cats, debt servicing and Lucy were never in this pot, the **£128.91 is unaffected** by
+the card split or the cats change — no sequencing dependency. (Separately: the card split ends
+the £454.65/mo 80/20 servicing arrangement — Rupert currently pays £363.72 of that — and the
+cats change removes his £65.)
 
 ## Card split (point 1)
 
@@ -85,7 +95,8 @@ Combined effect on Heather if everything lands: +£128 rebalance + £65 cats + s
 
 ## Recommended actions
 
-- Rupert to confirm basis (£128 now vs £115 end-state) and channel (WhatsApp vs email).
+- ✓ Basis confirmed £128.91 (sheet, core bills); channel = WhatsApp. Draft (Rupert-edited) at
+  repo `correspondence/heather/2026-07-15_whatsapp-four-points-DRAFT.md`.
 - Raise card-split mechanics with Alan Caldwell before executing (not before proposing).
 - RBS letter (divorce + subsidence + payment-flex ask) is complementary: any RBS payment relief
   directly reduces the pot and both parties' shares — good joint framing for the message.
