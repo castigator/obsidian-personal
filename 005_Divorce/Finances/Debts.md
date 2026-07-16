@@ -6,10 +6,10 @@ tags:
 
 *Updated 15 Jul 2026 from finance repo `accounts/shared-debt.md` (balances as of 10 Jul 2026)*
 
-## Joint Marital Debts (~£23,590)
+## Joint Marital Debts (~£23,630)
 
 Cards total **£14,792.64** (min payments £454.65/mo, currently split Rupert 80% £363.72 /
-Heather 20% £90.93; planned change to 50/50 = £227.33 each). Plus Ann loans £8,800.
+Heather 20% £90.93; planned change to 50/50 = £227.33 each). Plus Ann loans £8,840 (corrected by Heather 15 Jul; repay from house sale).
 
 | Debt | Balance | Min Payment | Notes |
 |------|---------|-------------|-------|
@@ -17,8 +17,8 @@ Heather 20% £90.93; planned change to 50/50 = £227.33 each). Plus Ann loans £
 | Halifax credit card | £6,282.94 | £62.83 | Heather's card |
 | Next | £0.00 | — | Cleared, no longer tracked |
 | Barclaycard (Ann) | £1,409.00 | £200.00 | Ann's card (ownership confirmed 15 Jul 2026) |
-| Loan from Ann (£3,300) | £3,300.00 | £0 | Heather's mother. Check if formal paperwork exists |
-| Loan from Ann (£5,500) | £5,500.00 | £0 | Heather's mother. Check if formal paperwork exists |
+| Loan from Ann (£3,318) | £3,318.00 | £0 | Repaid an MBNA card used for a balance transfer (Heather, 15 Jul). Check if formal paperwork exists |
+| Loan from Ann (£5,522) | £5,522.00 | £0 | Cleared outstanding loan "when we borrowed from Rupert's parents as well" (Heather, 15 Jul). Check if formal paperwork exists |
 
 **Rupert's 50% share of the cards: £7,396.32.** Goal (per finance repo): divest this share in one
 move at the cheapest rate — none of the cards are in Rupert's name, so cash routes only. See finance
