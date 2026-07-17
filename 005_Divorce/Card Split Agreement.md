@@ -22,17 +22,17 @@ Heather Thomas, Maple Tree House, 1 Kingsmead, Pebmarsh, Essex CO9 2NA
 
 | Card | Account holder | Approx. balance (Jul 2026, excl. current-month interest) |
 |------|----------------|------------------------------------------------------------|
-| Barclaycard ending [____] | Heather Thomas | £7,283 |
-| Halifax credit card ending [____] | Heather Thomas | — |
-| Barclaycard ending [____] | [Ann's full name], Heather's mother | — |
-| | *Halifax + second Barclaycard combined* | £7,222 |
+| Barclaycard ending **5002** | Heather Thomas | £7,283 |
+| Halifax credit card ending **0664** | Heather Thomas | — |
+| Barclaycard ending **1005** | Ann House, Heather's mother | — |
+| | *Halifax 0664 + Barclaycard 1005 combined* | £7,222 |
 | | **Total** | **£14,505** |
 
 ## What we have agreed
 
-3. **Rupert** takes sole responsibility for the **Barclaycard balance (approx. £7,283)**. He intends to repay it in full in a single payment, funded by borrowing in his own name.
+3. **Rupert** takes sole responsibility for the balance on the **Barclaycard ending 5002 (approx. £7,283)**. He intends to repay it in full in a single payment, funded by borrowing in his own name.
 
-4. **Heather** takes sole responsibility for the **Halifax balance and the second Barclaycard balance (approx. £7,222 combined)**, to repay or refinance as she sees fit.
+4. **Heather** takes sole responsibility for the balances on the **Halifax card ending 0664 and the Barclaycard ending 1005 (approx. £7,222 combined)**, to repay or refinance as she sees fit.
 
 5. This is a near-equal division and we each accept it as **full settlement of our respective half share of the joint card debt**. Once each of us has taken on our side as above, neither of us will seek any contribution from the other in respect of these balances, and neither of us will treat the other's payment as anything other than the discharge of that person's own share (in particular, not as a gift, loan, or maintenance).
 
