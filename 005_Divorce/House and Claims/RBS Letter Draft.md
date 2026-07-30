@@ -9,7 +9,8 @@ tags:
 # RBS Letter — Draft (copy-ready)
 
 Clean final text only — for full background, research, and revision history see
-[[RBS Mortgage Notification]]. Status: awaiting Heather's sign-off, not yet sent.
+[[RBS Mortgage Notification]]. **Status: SENT (posted 27 Jul 2026).** RBS called back 30 Jul —
+see [[RBS Mortgage Notification]] for the response.
 
 ---
 

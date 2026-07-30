@@ -10,13 +10,17 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 
 ## Missing / to Chase — top of List
 
-- 🔴 **Heather's Prudential DB pension CETV** — known to exist since 15 May, sitting in her  
-  MyPension portal since 20 May (🔒H), never formally requested/disclosed. Biggest unknown in the  
-  whole exercise — DB pensions can be very large. See [[Pensions]].
-- 🔴 **Heather's other pensions** — LGPS or others suspected but unconfirmed; only Prudential is  
-  evidenced so far. **Strengthened 30 Jul:** her current employer is Essex County Council  
-  (public sector), so an LGPS Defined Benefit pension there is very likely, not just a guess —  
-  still needs formally confirming/requesting.
+- 🟡 **Heather's Prudential DB pension CETV** — known to exist since 15 May, sitting in her
+  MyPension portal since 20 May (🔒H), never formally requested/disclosed. **30 Jul: Heather
+  self-reported £25,525 via WhatsApp** (Nov/Dec 25 figures, not current, not a formal CETV) — a
+  real number to work with, but still needs the actual written statement for disclosure purposes.
+  See [[005_Divorce/Pensions]].
+- 🟡 **Heather's other pensions** — **30 Jul: Heather self-reported two more via WhatsApp** —
+  Essex County Council (likely LGPS DB) £67,772, and a previously-unknown **Vodafone** pension at
+  £89,748 (both Nov/Dec 25 figures, informal, not formal CETVs). Plus a fourth, unvalued: **Midel**
+  — Heather and Rupert worked at the same company (1987–90), so she has her own separate pension
+  there too, expected small, value still awaited. Still needs formal written confirmation of all
+  four for actual disclosure. See [[005_Divorce/Pensions]].
 - 🔴 **Speedware pension (1990–97)** — untraced. Aegon + Rothesay both ruled out 28–29 Jul; next is  
   a targeted Aegon "other platform" follow-up or the Pension Tracing Service.
 - 🔴 **Conchango pension (2005–11)** — untraced, provider only an unconfirmed guess ("Scottish  
@@ -36,16 +40,25 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 - 🔴 **Confirmation: D81 vs full Form E** — ask Alan explicitly whether the court filing will be  
   D81 (consent route) or whether circumstances (pension complexity) push this to a full Form E  
   regardless.
+- 🟡 **Unanswered: Heather's offer to exchange pension/salary info directly** (WhatsApp, 30 Jul
+  12:35) — "are you happy to share pension/salary info with me so we can update them without
+  letters back/forth?" Rupert hasn't replied in-chat yet. Worth a decision either way before
+  replying: this could genuinely speed up disclosure (she went first, unprompted, with real
+  figures), but also worth checking whether Alan would rather this route through solicitors once
+  hers is confirmed, especially since he raised it before the D81/Form E process is settled.
 - 🟡 **Open strategic question (30 Jul): can pensions simply be left alone — no pension sharing  
   order, no attachment order, nobody touches anybody's pension?** Rupert's total is ~£207,859  
-  (confirmed, mostly DC). Rupert recalls Heather's may be "around £190k+ or possibly more" —  
-  **this figure is unconfirmed, not from any document on file**, treat as a rough recollection  
-  only until her actual CETVs land. Even if the totals turn out close, there's a real  
+  (confirmed, mostly DC). Rupert recalled earlier the same day Heather's might be "around £190k+" —
+  **later that day (30 Jul, 12:47 WhatsApp) Heather self-reported £183,045 across three named
+  pensions** (Vodafone £89,748, Prudential £25,525, Essex CC £67,772) — strikingly close to
+  Rupert's independent recollection, though still informal (Nov/Dec 25 figures relayed by
+  WhatsApp, not formal CETVs). Even if the totals turn out close once formalised, there's a real  
   DB-vs-DC complication: Rupert's pensions are virtually all Defined Contribution, while Heather's  
-  known/likely pensions (Prudential DB + probable Essex CC/LGPS DB) are Defined Benefit. A DB CETV  
-  doesn't buy the same retirement income as an equal DC pot — DB guarantees an index-linked income  
-  for life that would cost far more to replicate via an annuity. PAG guidance recommends a PODE  
-  report where this kind of mix exists, even to justify a "no pension order" outcome. **Needs  
+  known/likely pensions (Prudential DB + probable Essex CC/LGPS DB) are Defined Benefit — Vodafone's  
+  type is unknown. A DB CETV doesn't buy the same retirement income as an equal DC pot — DB  
+  guarantees an index-linked income for life that would cost far more to replicate via an annuity.  
+  PAG guidance recommends a PODE report where this kind of mix exists, even to justify a "no
+  pension order" outcome. **Needs  
   Alan's view** — good candidate for a follow-up once real figures are in, possibly foldable into  
   the disclosure email already sent 30 Jul.
 
@@ -95,10 +108,13 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   Confirm nothing outstanding.
 
 ### 4.9 Pensions
-- 🟡 Rupert's side: ~£207,859 total confirmed across 6 of 8 pots (see [[Pensions]]) — Pearson/FT  
+- 🟡 Rupert's side: ~£207,859 total confirmed across 6 of 8 pots (see [[005_Divorce/Pensions]]) — Pearson/FT  
   and Aristocrat now have formal 2026 statements, Midel + Objective IT are still fund values not  
   formal CETVs, and two pots (Speedware, Conchango) remain entirely untraced.
-- 🔴 Heather's side: only Prudential DB confirmed to exist, CETV not yet obtained.
+- 🟡 Heather's side: three pensions now named (Vodafone, Prudential, Essex CC), self-reported
+  total **£183,045** (WhatsApp, 30 Jul, Nov/Dec 25 figures) — informal, not formal CETVs, still
+  needs proper written disclosure. Notably close to Rupert's ~£207,859, but likely not equal in
+  actual value given Rupert's is mostly DC and Heather's known pensions are DB.
 - This section is the single biggest gap in the whole disclosure — pensions are ~2/3 of total  
   matrimonial wealth per [[Clean Break]] modelling.
 
@@ -118,7 +134,9 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 ## Part 5 — Income
 
 - ✅ Rupert: net £5,888/mo (rose to £6,109 from Jan 2026), P60 gross £116,012.69. See [[Income & Costs]].
-- 🟡 Heather: net ~£1,471/mo — figure exists but not verified against a recent payslip.
+- 🟡 Heather: net ~£1,471/mo (existing figure) — **30 Jul: self-reported £21,715/yr salary** via
+  WhatsApp (Nov/Dec 25 figures, gross presumed). Roughly consistent with the existing net figure
+  but not identical — still not verified against an actual payslip.
 - 🔴 State pension projections — Rupert's £1,042/mo projected is noted; Heather's not yet checked.
 - ✅ Mandy's income excluded (partner, not disclosable as Rupert's income) — confirmed prior  
   decision, see settlement strategy notes.
@@ -152,7 +170,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 ## Related
 
 - [[Divorce]] — hub, to-do list
-- [[Pensions]] — full pension detail
+- [[005_Divorce/Pensions]] — full pension detail
 - [[Debts]] — full debt detail
 - [[Income & Costs]] — current cost breakdown
 - [[Clean Break]] / [[Heather Affordability]] — settlement strategy modelling

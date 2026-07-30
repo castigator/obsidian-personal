@@ -124,22 +124,50 @@ age 62. Source: `incoming/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (
 
 | Scheme | Type | Administrator | CETV |
 |--------|------|---------------|------|
-| Prudential Staff Pension Scheme | Defined Benefit | XPS Administration | **Unknown — available online via MyPension portal** |
-| Essex County Council (current employer) | Likely Defined Benefit — LGPS | Essex Pension Fund (presumed) | **Not yet confirmed to exist or requested** |
+| Midel | Same scheme as Rupert's — Heather also worked there | Aviva | Awaiting confirmation — Heather expects it's small ("probs not much though") |
+| Vodafone | Unknown — not previously on file | Unknown | **£89,748** (self-reported, Nov/Dec 25 figures) |
+| Prudential Staff Pension Scheme | Defined Benefit | XPS Administration | **£25,525** (self-reported, Nov/Dec 25 figures) |
+| Essex County Council (current employer) | Likely Defined Benefit — LGPS | Essex Pension Fund (presumed) | **£67,772** (self-reported, Nov/Dec 25 figures) |
 
 **Discovery (15 May 2026):** Email from XPS Admin confirming updated transfer value estimate available. This is the first evidence of Heather's pension holdings. DB pensions can be very significant — formal CETV needed for Form E.
 
-**Essex County Council row added 30 Jul 2026:** Rupert confirmed Heather's current employer is
-Essex County Council — a public-sector employer, so her ongoing pension there is almost certainly
-the **Local Government Pension Scheme (LGPS)**, which is Defined Benefit. Not yet formally
-confirmed or requested — this was previously only a guess ("likely LGPS") in the settlement notes;
-now has a concrete employer basis. Still needs the same formal disclosure treatment as Prudential.
+**Essex County Council entry strengthened 30 Jul 2026:** Rupert confirmed Heather's current
+employer is Essex County Council — a public-sector employer, so her ongoing pension there is
+almost certainly the **Local Government Pension Scheme (LGPS)**, which is Defined Benefit.
+
+**Figures self-reported by Heather via WhatsApp, 30 Jul 2026, 12:47** — offered in reply to her
+own 12:35 question ("are you happy to share pension/salary info with me so we can update them
+without letters back/forth?"), which Rupert hasn't yet answered in the chat. Verbatim: "Still
+waiting for aviva/Midel one to confirm (probs not much though) but Vodafone is £89,748/ Prudential
+is £25,525 and Essex county council £67,772 - all Nov/Dec 25 figures - salary is £21,715." Total
+of the three figures: **£183,045** — striking given Rupert independently recalled "around £190k+"
+earlier the same day (see [[Form E]] open strategic question), though that recollection and this
+WhatsApp figure are entirely independent, so treat the closeness as corroborating, not circular.
+
+⚠️ **These are informal, self-reported, WhatsApp-relayed figures — not formal CETVs**, and dated
+Nov/Dec 2025 (7–8 months old at time of writing), not current. Still needs the same formal
+disclosure treatment (written CETV statements) as any other pension for Form E purposes. Treat as
+strong working numbers for planning, not yet evidence.
+
+✅ **"Aviva/Midel" line resolved (30 Jul, Rupert directly):** Heather also worked at Midel — she
+and Rupert were at the same company (1987–90) — so she has her own separate Midel/Aviva pension,
+not a reference to Rupert's. This is exactly why Rupert hadn't yet answered her info-sharing offer
+in the chat: he wanted to point this overlap out to her first. Still awaiting confirmation of the
+actual value — Heather expects it's small ("probs not much though").
+
+**Vodafone is a new pension, not previously on file** — Heather hasn't been recorded as a Vodafone
+employee anywhere in these notes before. Worth a follow-up question on when she worked there and
+what type of scheme it is (DB or DC affects how comparable £89,748 is to Rupert's mostly-DC total).
 
 Heather may have additional pensions from other employers — full disclosure required at Form E stage.
 
 ## Strategy
 
-Pension gap (Rupert ~£206k, Heather unknown but has at least one DB pension) is the main complication for the [[Clean Break]] argument. Options:
+Pension gap (Rupert ~£207,859 confirmed; Heather ~£183,045 self-reported/informal, still needs
+formal CETVs) looks close in aggregate — but Rupert's total is mostly Defined Contribution while
+Heather's known pensions (Prudential, likely Essex CC/LGPS) are Defined Benefit, so equal totals
+don't necessarily mean equal value. See the open strategic question in [[Form E]]. This is the
+main complication for the [[Clean Break]] argument. Options:
 - **Pension sharing order** — court orders a percentage transfer
 - **Offsetting** — Heather receives more house equity in lieu of pension share
 - **Earmarking** — less common, less clean

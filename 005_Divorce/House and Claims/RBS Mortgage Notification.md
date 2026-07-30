@@ -6,9 +6,10 @@ tags:
   - draft
 ---
 
-## RBS Mortgage Notification — Draft (in progress)
+## RBS Mortgage Notification
 
-**Status:** DRAFT — not yet sent. Working document, come back and iterate.
+**Status: SENT (posted 27 Jul 2026, signed copy filed as `RBS Letter - Signed 27 Jul 2026.pdf`).
+RBS called back 30 Jul 2026 — see "Response received" below.**
 
 ### Goal
 
@@ -326,6 +327,30 @@ rumoured to be phasing out The One Account](https://www.mortgagestrategy.co.uk/n
 **23 Jul 2026, WhatsApp:** shared the draft above with Heather for her sight before sending, per the
 7 Jul decision to notify RBS about both the separation and the subsidence claim. See
 `correspondence/heather/2026-07-23_whatsapp-rbs-letter-preview.md` once sent/logged.
+
+### Response Received — Voicemail 30 Jul 2026
+
+**RBS called back 30 Jul 2026, 16:44 — missed, left voicemail (auto-transcribed).** "Jeanette,
+calling from the Royal Bank, the one account" — asked Rupert to call back, lines open until 6pm
+that day (missed the window). Not yet actioned/returned as of logging.
+
+**Callback number: 0345 301 0101** (Rupert's read of the transcript, confirmed against the audio —
+differs from the mortgage team number on file, 0345 300 4013, likely a specific caseworker/team
+line rather than an error). Full detail and screenshot:
+`correspondence/rbs/2026-07-30_rbs-voicemail-callback-request.md` (git repo).
+
+**Corroborated by Heather (WhatsApp, 30 Jul 16:58):** RBS also rang her — "they said they left a
+message for you then rang me - I didn't discuss anything as I said it would be better if they
+spoke to you directly rather than me relay everything - she said for you to ring back (all info
+you sent is on file)." Confirms: (1) the letter and its contact-details request landed correctly —
+RBS is treating this as a joint matter and trying to reach both parties, (2) "all info you sent is
+on file," and (3) Heather deliberately deferred rather than answering on Rupert's behalf — good,
+keeps the paper trail clean and consistent with the joint-visibility approach used with
+Ageas/Catalyst. See `correspondence/heather/whatsapp-transcript.md` (30 Jul entries) for verbatim.
+
+**Next: Rupert to call RBS back on 0345 301 0101**, and log the outcome here — first substantive
+contact since the letter went out, likely their response to the support/redemption-statement/
+contact-details asks.
 
 ### Related
 - [[House Sale]]
