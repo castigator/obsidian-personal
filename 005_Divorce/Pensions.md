@@ -68,9 +68,38 @@ Standard Life. Member Mr R Thomas. Source images:
 ## Outstanding: Speedware
 
 - 7 years employment — significant if a pension existed
-- Rupert believes there may have been a pension with Egon
-- Use Pension Tracing Service (gov.uk/find-pension-contact-details) — free, just need employer name + dates
-- Contact Egon with NI number + dates
+- **New leads from ex-colleague WhatsApp thread (3–6 Jul 2026), digested 28 Jul 2026 — see
+  [[2026-07-28_speedware-pension-whatsapp-leads]] for full reasoning:**
+  - **Shash** (colleague) states *he personally enrolled Rupert* under the Speedware scheme — the
+    strongest evidence yet that Rupert was actively signed up, not just eligible. Shash's own pot
+    from the same scheme is now held with **Aegon**.
+  - **Philip Haines** and **Jacques Leplat** independently recall the original provider had
+    **"Scottish" in the name** — most likely **Scottish Equitable**, which rebranded to **Aegon UK
+    in 2009**. This lines up with Shash's Aegon reference (two independent memory paths converging
+    on the same company).
+  - Enrolment was **opt-in, not automatic** (pre-2012 UK law, before auto-enrolment existed) —
+    confirmed by two people.
+  - Jacques recalls a pensions rep presentation arranged by **Alan Rowan** and annual paper
+    statements sent to members who signed up — suggests a formal scheme with real admin records.
+  - **Mike Murphy** mentioned a scheme "moved to Rothesay" (Rothesay Life, a bulk-annuity/buy-out
+    insurer) — unclear if this was the Speedware scheme specifically or his own; worth trying if
+    Aegon draws a blank.
+  - Scott Tunbridge separately mentioned "Scottish Widows" (different company) but hedged and may
+    be conflating a later employer (Netscape) — lower-confidence, follow up only if Aegon fails.
+- ✅ Trace enquiries sent 28 Jul 2026 to **Aegon** (`my.pension@aegon.co.uk`) and **Rothesay**
+  (fallback). **Rothesay replied same day: no policy held in Rupert's name — ruled out.** **Aegon
+  replied 29 Jul (a day earlier than the ~4 Aug estimate): no record on their Targetplan platform —
+  also ruled out.** Both direct leads are now exhausted. See
+  `correspondence/pensions/2026-07-28_rothesay-no-record.md` and
+  `correspondence/pensions/2026-07-29_aegon-no-record.md` in the git repo.
+- **Live next step:** Aegon's reply notes they run multiple independent platforms with no
+  cross-visibility between them — a "no record on Targetplan" answer doesn't rule out the scheme
+  sitting on a different Aegon platform. Worth one targeted follow-up (aegon.co.uk/support.html)
+  asking specifically which platform a 1990s Scottish Equitable workplace scheme would sit on,
+  before falling back to the Pension Tracing Service.
+- If that also draws a blank: go straight to the Pension Tracing Service
+  (gov.uk/find-pension-contact-details) — free, just need employer name + dates.
+- Optional: ask Shash if he has any paperwork or scheme reference number
 
 ## Heather's Pensions
 

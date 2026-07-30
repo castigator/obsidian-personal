@@ -64,6 +64,29 @@ Rupert shared the May 2026 monthly statement (photo). Key facts:
   Account-specific.
 - Statement photo filed in the git repo: `incoming/WhatsApp Image 2026-06-09 at 17.54.57.jpeg`.
 
+#### June 2026 Monthly Statement Update (23 Jul 2026 — from photo)
+
+Rupert shared the June 2026 monthly statement (photo). Figures updated
+from the May statement above:
+- Balance at 30/06/2026: **−£309,845.38** (down slightly from £310,158.25
+  at 29/05/2026).
+- Interest rate June 2026: **7.10%** (unchanged). June interest
+  **£1,810.46**, to be collected **27/07/2026**. Credit interest rate
+  0.40% (nil earned) — unchanged.
+- Valuation on file: still **£390,000** — unchanged from May, still the
+  desktop/indexed figure, not a real appraisal (see below).
+- **Repayment guide:** planned balance now £133,239.08 (was £136,560.83)
+  vs actual £309,845.38 → **£176,606.30 BEHIND the repayment guide**
+  (worse than May's £173,597.42 gap — guide keeps moving faster than the
+  actual balance is falling, as expected on an interest-only product).
+  RBS suggests budgeting **£3,473.29/mo** to hold position (down slightly
+  from May's £3,514.22 — driven by the lower interest component as the
+  balance has dipped a little).
+- No change to the overall picture or recommended approach — this just
+  updates the running figures. Still true: interest is being met in full
+  each month, nothing is in arrears, "up to date" framing is still
+  technically-true-but-misleading for the reasons already noted below.
+
 #### Redemption Statement + the £390k Valuation (discussed 8 Jul 2026)
 
 **Why the redemption statement matters (beyond the routine to-do):**
@@ -146,9 +169,8 @@ both ruled out/questionable). Ask RBS open-endedly what support is available tha
 credit file, flag the offset structure as a specific thing to ask about, and keep the explicit ask for RBS  
 to confirm in writing whether any option discussed would be reported to credit reference agencies.
 
-**Action needed before sending:** confirm whether Rupert can log into RBS Digital Banking for the joint  
-mortgage under his own credentials. If yes → draft below goes in as a secure message. If no → call  
-0345 300 4013, use the drafted content as a script, and ask for written confirmation afterwards.
+**Resolved 23 Jul 2026:** Rupert has the RBS app with digital access to this account → draft below
+goes in as a secure message via RBS Digital Banking.
 
 ### Draft Message
 
@@ -176,7 +198,7 @@ mortgage under his own credentials. If yes → draft below goes in as a secure m
 > Heather Thomas
 > - Postal: Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA
 > - Email: heather@pebmarsh.com
-> - Telephone: [Heather's phone]
+> - Telephone: 07740706316
 > 
 > Happy to provide further detail if needed.
 > 
@@ -235,17 +257,77 @@ mortgage under his own credentials. If yes → draft below goes in as a secure m
 
 ### Still to Decide / Do
 
-- Confirm channel (Digital Banking secure message vs phone) — check Rupert's online banking access.
-- Check the One Account T&Cs: (1) do they **require** notifying RBS of material damage to the property  
-  (subsidence)? If so, this notification is an obligation being met proactively, not just courtesy.  
-  (2) Does the **facility limit step down** between now and the planned repayment date (11/12/2031)? A  
-  scheduled step-down is the one thing that could turn "behind the guide" into a real problem — worth  
-  knowing before the conversation.
+- ~~Check the One Account T&Cs~~ — **researched 23 Jul 2026 (web), see findings below.** Facility-limit
+  step-downs and the notify-of-damage question are addressed as far as public research allows; RBS's
+  own account-specific facility letter (private to Rupert's mortgage, not published) is the only source
+  for the exact numbers on his account — worth asking RBS directly in the letter itself, which it already does.
+
+#### Research findings (23 Jul 2026, web search)
+
+- **Facility-limit step-downs are real and documented, not theoretical.** Financial Ombudsman decisions
+  on other RBS One Account disputes show RBS actively reducing facility limits in stages over time —
+  one case cited reductions to "a little under £81,000 in 2024 and to just over £71,600 in 2025."
+  Another showed a temporarily-raised limit being stepped back down on a fixed date, RBS reasoning that
+  keeping it high "would be irresponsible." **Treat a facility-limit reduction as a real possibility RBS
+  might raise, not a remote one** — but Rupert's own specific schedule isn't published anywhere; the
+  letter's existing question ("what support is available... regarding the facility limit or the planned
+  repayment date") is the right way to surface it without guessing RBS's answer in advance.
+- **Property-damage/subsidence notification:** standard UK mortgage conditions (via the UK Finance
+  Mortgage Lenders' Handbook framework RBS's conveyancing panel operates under) require the property to
+  stay insured against subsidence, and near-universal borrower covenants require notifying the lender of
+  anything materially affecting the property or an insurance claim on it. Couldn't retrieve RBS's exact
+  clause wording (their T&Cs PDF wasn't fetchable), but this is standard practice, not something RBS
+  would be unusual in requiring. **Practically moot anyway** — the letter volunteers this regardless of
+  whether it's technically mandatory.
+- **Reassuring finding, previously unknown:** "The One Account" as a distinct IT platform (originally a
+  Virgin joint venture) was **decommissioned in September 2025** — but this was a rebrand/platform
+  migration, not a mortgage closure. Existing mortgages were rebranded to the RBS name (Nov 2024) and
+  moved onto ordinary RBS Mobile/Digital Banking (migration window Mar–Sep 2025). **This is exactly why
+  Rupert now has the RBS app showing this account**, rather than a separate One Account portal — direct
+  consequence of that migration, not a red flag. RBS's own site: "it's business as usual for existing
+  One Account customers."
+- **No general RBS mortgage-team email address exists** — confirms the 8 Jul finding above. Phone and
+  secure digital message remain the only channels.
+- **Secure-message character limit — not confirmed, but a real practical risk.** Couldn't find RBS's
+  specific limit from public sources, but the current draft letter is **~2,000 characters / 330 words**
+  — long enough that many banking secure-message systems would reject or truncate it. **Check the live
+  character counter when composing in the app before sending** — if it's too short, either (a) trim the
+  letter, or (b) split it across two messages (clearly marked "1/2" and "2/2" so it reads as one
+  submission), rather than assume it'll go through whole.
+
+Sources: Financial Ombudsman decisions [DRN-5552039](https://www.financial-ombudsman.org.uk/decision/DRN-5552039.pdf)
+and [DRN-3326160](https://www.financial-ombudsman.org.uk/decision/DRN-3326160.pdf); [MoneySavingExpert
+Forum — RBS One account over facility](https://forums.moneysavingexpert.com/discussion/641837/rbs-one-account-over-facility);
+[The One account — Wikipedia](https://en.wikipedia.org/wiki/The_One_account); [RBS — One Account existing
+customers](https://www.rbs.co.uk/mortgages/existing-customers/oneaccount.html); [Mortgage Strategy — RBS
+rumoured to be phasing out The One Account](https://www.mortgagestrategy.co.uk/news/rbs-rumoured-to-be-phasing-out-the-one-account/).
 - Decide how much subsidence detail to include (claim ref? insurer name?) vs keeping it high-level.
 - Decide whether to explicitly ask about payment holiday/flexibility by name, or leave it open as above.
-- Send **after the 11 Jul valuations day** (validates the "valuations" plural; possibly raise the £550k  
-  floor if the new agents come in higher), then log RBS's response here and update `Divorce.md` to-do list.
+- ~~Send after the 11 Jul valuations day~~ — **moot as of 23 Jul review:** that date passed with no new
+  valuation data (rearranging St George's second valuation is still an open holiday-window job). Proceed
+  on the existing written figures (Michaels £550k, St George £650k, both "subject to works completed").
+- ~~Fill in Heather's phone number~~ — **done 23 Jul:** 07740706316 (per Rupert). ⚠️ **Worth a
+  quick sanity check** — this is one digit off Rupert's own listed number (07740 706315, ending
+  ...15 vs Heather's ...16). Plausible if they're on a family/consecutive number plan, but worth
+  double-checking it's actually Heather's number and not a slip, given it's going to a bank as a
+  formal contact record.
+- ~~Confirm channel~~ — **done 23 Jul:** Rupert has the RBS app with digital access to this
+  account. **Channel = secure message via RBS Digital Banking**, per the original preference (best
+  paper trail — written, timestamped, sits in the account).
+- **Sequencing update (23 Jul 2026):** this letter is no longer gated on the £7,500 loan completing.
+  The original NatWest-based caution (loan must complete before this letter) has been revised — see
+  CLAUDE.md Session Status and [[project_loan_affordability_analysis]] — provided the loan lender is
+  outside NatWest Group, the order flips: **this letter can go first, loan after.** Nothing here blocks
+  sending once the channel and Heather's phone number are settled.
+- Once sent, log RBS's response here and update `Divorce.md` to-do list.
+
+### Preview sent to Heather (per 7 Jul agreement to show her before sending)
+
+**23 Jul 2026, WhatsApp:** shared the draft above with Heather for her sight before sending, per the
+7 Jul decision to notify RBS about both the separation and the subsidence claim. See
+`correspondence/heather/2026-07-23_whatsapp-rbs-letter-preview.md` once sent/logged.
 
 ### Related
 - [[House Sale]]
 - [[Subsidence Claim]]
+- [[RBS Letter Draft]] — clean copy-ready text of the current draft, no working notes

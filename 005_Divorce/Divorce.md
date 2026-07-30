@@ -23,6 +23,9 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [x] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed ✅ 2026-06-08
 - [ ] Research balance transfer options to decouple joint credit card debt
 - [ ] Work through [[Address Updates]] systematically
+- [!] **Gather the numbers for [[Form E]]** — biggest gaps: Heather's Prudential DB CETV
+  (sitting ready since 20 May, 🔒H), Speedware/Conchango untraced pensions, and both parties'
+  income/housing needs budgets. Gates settlement modelling.
 
 ## The House
 
@@ -39,6 +42,8 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [[Debts]] — joint marital debts (~£25,080) and personal debts (~£7,182)
 - [[005_Divorce/Pensions]] — 7+ pots, total CETV ~£206,380, Speedware untraced
 - [[Income & Costs]] — monthly income, Westgate costs, Pebmarsh contributions
+- [[Form E]] — disclosure tracker for the consent order; biggest gaps are Heather's pension CETVs
+  and both parties' housing/income needs
 
 ## People
 

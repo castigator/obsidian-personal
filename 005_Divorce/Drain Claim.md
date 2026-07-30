@@ -57,5 +57,6 @@ kept distinct from the GHG subsidence claim.
 
 - [[2026-04-27_po-drain-claim-preparation]] — full claim prep pack (script, pushback responses, checklist)
 - [[2026-04-18_subsidence-drains-insurance]] — early subsidence/drains/insurance review
+- [[2026-07-23_message-to-heather-review-cards-and-drains]] — review of Rupert's draft message to Heather confirming Catalyst's 28 Jul booking and the £400 excess 50/50 split (£200 each)
 
 See also: [[Subsidence Claim]] · [[House Sale]]
