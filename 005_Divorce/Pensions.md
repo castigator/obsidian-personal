@@ -125,8 +125,15 @@ age 62. Source: `incoming/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (
 | Scheme | Type | Administrator | CETV |
 |--------|------|---------------|------|
 | Prudential Staff Pension Scheme | Defined Benefit | XPS Administration | **Unknown — available online via MyPension portal** |
+| Essex County Council (current employer) | Likely Defined Benefit — LGPS | Essex Pension Fund (presumed) | **Not yet confirmed to exist or requested** |
 
 **Discovery (15 May 2026):** Email from XPS Admin confirming updated transfer value estimate available. This is the first evidence of Heather's pension holdings. DB pensions can be very significant — formal CETV needed for Form E.
+
+**Essex County Council row added 30 Jul 2026:** Rupert confirmed Heather's current employer is
+Essex County Council — a public-sector employer, so her ongoing pension there is almost certainly
+the **Local Government Pension Scheme (LGPS)**, which is Defined Benefit. Not yet formally
+confirmed or requested — this was previously only a guess ("likely LGPS") in the settlement notes;
+now has a concrete employer basis. Still needs the same formal disclosure treatment as Prudential.
 
 Heather may have additional pensions from other employers — full disclosure required at Form E stage.
 

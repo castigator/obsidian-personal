@@ -27,14 +27,12 @@
             "id": "97ebf6c296ac4020",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "005_Divorce/Finances/Form E.md",
-                "mode": "source",
-                "source": false
+                "file": "005_Divorce/Finances/D81 - Statement of Information for Consent Order.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Form E"
+              "icon": "lucide-file-text",
+              "title": "D81 - Statement of Information for Consent Order"
             }
           }
         ],
@@ -236,9 +234,13 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "97ebf6c296ac4020",
+  "active": "65b5746dbcacf49e",
   "lastOpenFiles": [
+    "005_Divorce/Finances/Form E - Financial Statement (blank).pdf",
+    "005_Divorce/Finances/Form E.md",
     "xx_daily/Daily Note - 8th Jun 2026.md",
+    "005_Divorce/Finances/D81 - Statement of Information for Consent Order.pdf",
+    "005_Divorce/House and Claims/Drain Claim.md",
     "005_Divorce/Divorce Application/How to File for Divorce.md",
     "005_Divorce/Finances/Card Split Agreement (unsigned draft 2026-07-17).pdf",
     "005_Divorce/Finances/Card Split Agreement.html",
@@ -266,15 +268,10 @@
     "005_Divorce/Drain Claim.md",
     "005_Divorce/Finances/Clean Break.md",
     "005_Divorce/Finances/Heather Affordability.md",
-    "005_Divorce/Finances/IFAs.md",
-    "005_Divorce/Income & Costs.md",
-    "005_Divorce/Debts.md",
     "005_Divorce/Solicitors/Solicitor Briefing Pack.html",
     "005_Divorce/Divorce Application/How to File for Divorce.pdf",
     "005_Divorce/Divorce Application/How to File for Divorce.html",
     "005_Divorce/Divorce Application/How to File for Divorce.adoc",
-    "005_Divorce/Finances",
-    "005_Divorce/House & Claims",
     "005_Divorce/how-to-file-divorce-timeline.png",
     "005_Divorce/_attachments/braintree-tpo-conservation-map-pebmarsh.png",
     "005_Divorce/braintree-tpo-conservation-map-pebmarsh.png",
