@@ -16,12 +16,13 @@ tags:
 | Objective IT    | 1997–2001    | Prudential/Aviva                 | £25,583                                  | Traced                                                                                             |
 | Code Collective | 2001–2005    | None (own company)               | —                                        | Confirmed no pension                                                                               |
 | Conchango       | 2005–2011    | Scottish Equitable?              | TBC                                      | Needs confirmation                                                                                 |
-| Financial Times | 2011–2015    | Pearson/Aviva                    | £69,493                                  | Traced                                                                                             |
+| Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 (as at 5 Apr 2026, formal 2026 Benefit Statement dated 8 May 2026) | Traced & confirmed in writing — see below |
 | Gamesys/Roxor   | 2016–2024    | HL Group SIPP                    | £79,624                                  | Traced                                                                                             |
 | Aristocrat      | 2023–present | Standard Life (plan D460002800?) | £17,547.58 (= transfer value 6 Apr 2026) | Traced & confirmed in writing — see below                                                          |
 | State Pension   |              |                                  | £1,042/mo projected                      |                                                                                                    |
 
-**Total confirmed value: ~£206,380** (some are fund values, not formal CETVs)
+**Total confirmed value: ~£207,859** (some are fund values, not formal CETVs — Pearson/FT and
+Aristocrat now both have formal 2026 statements; Midel and Objective IT still don't)
 
 Most pensions traced via **Aviva Find & Combine** (research only, nothing combined). Code Collective confirmed no pension.
 
@@ -47,8 +48,10 @@ Key facts from the letter:
 - Aviva won't issue a quote until contacted. Pension Wise free guidance: 0800 280 8880 / moneyhelper.org.uk/pensionwise.
 
 **Net:** no need to beat the 19 Jun deadline just to stop the flip to 74 — letting it default *is* the deferral.  
-The real value from calling Aviva (0345 366 1643) is still requesting **formal CETVs for all three Aviva pensions**  
-(Midel, Objective IT, Pearson/FT) for Form E. **Do NOT draw this pension before divorce settlement.**
+The real value from calling Aviva (0345 366 1643) is still requesting **formal CETVs for the two
+remaining Aviva pensions** (Midel, Objective IT) for Form E. Pearson/FT is administered separately
+by Pearson (pearson-pensions.com), not Aviva — resolved 30 Jul via Pearson's own 2026 Benefit
+Statement, don't chase it through this call. **Do NOT draw this pension before divorce settlement.**
 
 ### Aristocrat Pension — Standard Life Annual Statement (6 Apr 2026, Photographed 16 Jun)
 
@@ -64,6 +67,22 @@ Standard Life. Member Mr R Thomas. Source images:
 - Contributions in the year to 6 Apr 2026: **member £0.00, employer £10,447.50** (employer-funded; any salary  
   sacrifice is included within the employer figure).
 - Standard Life: 0800 634 7477. Page 2 is generic guidance boilerplate (no member-specific content).
+
+### Financial Times/Pearson Pension — 2026 Benefit Statement (dropped 30 Jul 2026)
+
+**Money Purchase 2003 Section Leavers**, scheme/member number **F70322/7872**, selected retirement
+age 62. Source: `incoming/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (illustration date
+8 May 2026).
+
+- **Value of pension pot as at 5 April 2025: £61,731.40.**
+- Investments increased (after charges) by **£9,240.74** over the year.
+- **Value of pension pot as at 5 April 2026: £70,972.14.** For a Money Purchase (DC) scheme this
+  pot value ≈ the transfer value/CETV for Form E purposes — no separate actuarial CETV needed the
+  way a DB scheme would require.
+- Projected pot at retirement (age 62): £74,800 in today's prices, illustrating an estimated
+  taxable yearly pension of £5,000 (assumes no further contributions, annuity with no lump sum, no
+  spouse's income) — for planning context only, not relevant to the current-value disclosure.
+- Investment selection: Drawdown Lifecycle.
 
 ## Outstanding: Speedware
 

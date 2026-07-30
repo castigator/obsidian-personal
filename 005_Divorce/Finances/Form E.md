@@ -19,9 +19,10 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   a targeted Aegon "other platform" follow-up or the Pension Tracing Service.
 - 🔴 **Conchango pension (2005–11)** — untraced, provider only an unconfirmed guess ("Scottish
   Equitable?"), never actually chased.
-- 🟡 **Formal CETVs for Rupert's three Aviva pensions** (Midel, Objective IT, Pearson/FT) — currently
-  fund values, not point-in-time CETVs. Call Aviva (0345 366 1643) when convenient — do NOT draw
-  before settlement.
+- 🟡 **Formal CETVs for Rupert's Midel + Objective IT pensions** — currently fund values, not
+  point-in-time CETVs. **Pearson/FT resolved 30 Jul** — a formal 2026 Benefit Statement gives
+  £70,972.14 as at 5 Apr 2026, which for a Money Purchase scheme stands in for the CETV. Call Aviva
+  (0345 366 1643) when convenient for the remaining two — do NOT draw before settlement.
 - 🟡 **RBS mortgage — fresh redemption statement** — have the 27 Jul outstanding balance
   (£309,796.61) but not a current early-redemption-penalty figure (amount TBC on sale).
 - 🔴 **Heather's income needs / budget** — no visibility into her actual monthly outgoings beyond
@@ -80,9 +81,9 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   Confirm nothing outstanding.
 
 ### 4.9 Pensions
-- 🟡 Rupert's side: ~£206,380 total confirmed across 6 of 8 pots (see [[Pensions]]) — but two of
-  those are fund values not formal CETVs (see above), and two pots (Speedware, Conchango) remain
-  entirely untraced.
+- 🟡 Rupert's side: ~£207,859 total confirmed across 6 of 8 pots (see [[Pensions]]) — Pearson/FT
+  and Aristocrat now have formal 2026 statements, Midel + Objective IT are still fund values not
+  formal CETVs, and two pots (Speedware, Conchango) remain entirely untraced.
 - 🔴 Heather's side: only Prudential DB confirmed to exist, CETV not yet obtained.
 - This section is the single biggest gap in the whole disclosure — pensions are ~2/3 of total
   matrimonial wealth per [[Clean Break]] modelling.
