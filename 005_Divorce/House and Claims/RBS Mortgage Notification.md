@@ -9,7 +9,8 @@ tags:
 ## RBS Mortgage Notification
 
 **Status: SENT (posted 27 Jul 2026, signed copy filed as `RBS Letter - Signed 27 Jul 2026.pdf`).
-RBS called back 30 Jul 2026 — see "Response received" below.**
+RBS called back 30 Jul 2026; Rupert returned the call 31 Jul 2026 — see "Call Outcome" below.
+Key result: confirmed NO early redemption charge on this account.**
 
 ### Goal
 
@@ -351,6 +352,40 @@ Ageas/Catalyst. See `correspondence/heather/whatsapp-transcript.md` (30 Jul entr
 **Next: Rupert to call RBS back on 0345 301 0101**, and log the outcome here — first substantive
 contact since the letter went out, likely their response to the support/redemption-statement/
 contact-details asks.
+
+### Call Outcome — 31 Jul 2026
+
+Rupert returned the call to 0345 301 0101. Summary: largely unproductive, one useful fact confirmed.
+
+- **Letter confirmed received**, but the call handler **couldn't pull it up on their system** — Rupert
+  had to read it out to them himself. Poor service, but confirms the letter physically landed and is
+  logged (consistent with Heather's 30 Jul "all info you sent is on file").
+- ✅ **No early redemption charge on this account.** The ERC unknown flagged throughout this note's
+  research (see "Redemption Statement" section above) is now resolved — **there is no ERC to budget
+  for or time around**. This removes one variable from the sell-now-vs-wait model and from settlement
+  maths (redemption cost ≈ balance, no penalty to add).
+  - ⚠️ Given the handler couldn't even access the letter, treat this as **verbal-only, not yet
+    confirmed in writing** — still worth getting the redemption statement in writing to nail this down
+    formally (the letter's existing ask), since the call itself was not a reliable channel.
+- **Facility limit:** handler's line was "you should stay within your facility" — Rupert pushed back,
+  said the intention is to keep paying interest only and isn't interested in the facility limit as
+  such. Handler had **no answer on support/flexibility options** — said that's "another team."
+- **What actually happens if the facility limit is breached:** handler said breaching the limit
+  triggers a **separate letter and a different team gets involved** to discuss the account. Rupert's
+  read: **the account may already be technically over/near its facility limit** given the balance
+  trajectory (see repayment-guide gap above) — worth checking the current facility limit figure
+  against the £309,796.61 balance next time a statement or the redemption statement arrives.
+- **Net assessment:** call added one confirmed fact (no ERC) but didn't reach anyone who could discuss
+  support/flexibility — that sits with "another team," not reachable via this front-line number.
+  Nothing achieved on the credit-file question or the facility-limit/repayment-date support ask from
+  the original letter — both still open.
+- **Recording:** Rupert kept an audio recording of the call. Not yet filed — he'll pass it across when
+  he works out how; log it under `correspondence/rbs/` once available.
+
+**Updated next step:** no callback pending from RBS's side now — the ball is back with Rupert/Alan on
+whether to escalate to "the other team" re: facility limit and support options, and to chase the
+redemption statement in writing (now mainly to confirm the no-ERC finding formally, plus get the
+current facility-limit figure).
 
 ### Related
 - [[House Sale]]
