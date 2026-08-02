@@ -355,37 +355,53 @@ contact-details asks.
 
 ### Call Outcome — 31 Jul 2026
 
-Rupert returned the call to 0345 301 0101. Summary: largely unproductive, one useful fact confirmed.
+Rupert returned the call to 0345 301 0101. Handler: **Jamie**. Recording kept
+(`correspondence/rbs/2026-07-31_rbs-callback-recording.mp3`), full transcript filed
+(`correspondence/rbs/2026-07-31_rbs-callback-transcript.md`, produced via local
+speech-to-text — mlx-whisper, on-device, nothing uploaded). Summary below is corrected
+against that transcript (supersedes the initial verbal summary logged same day).
 
-- **Letter confirmed received**, but the call handler **couldn't pull it up on their system** — Rupert
-  had to read it out to them himself. Poor service, but confirms the letter physically landed and is
-  logged (consistent with Heather's 30 Jul "all info you sent is on file").
-- ✅ **No early redemption charge on this account.** The ERC unknown flagged throughout this note's
-  research (see "Redemption Statement" section above) is now resolved — **there is no ERC to budget
-  for or time around**. This removes one variable from the sell-now-vs-wait model and from settlement
-  maths (redemption cost ≈ balance, no penalty to add).
-  - ⚠️ Given the handler couldn't even access the letter, treat this as **verbal-only, not yet
-    confirmed in writing** — still worth getting the redemption statement in writing to nail this down
-    formally (the letter's existing ask), since the call itself was not a reliable channel.
-- **Facility limit:** handler's line was "you should stay within your facility" — Rupert pushed back,
-  said the intention is to keep paying interest only and isn't interested in the facility limit as
-  such. Handler had **no answer on support/flexibility options** — said that's "another team."
-- **What actually happens if the facility limit is breached:** handler said breaching the limit
-  triggers a **separate letter and a different team gets involved** to discuss the account. Rupert's
-  read: **the account may already be technically over/near its facility limit** given the balance
-  trajectory (see repayment-guide gap above) — worth checking the current facility limit figure
-  against the £309,796.61 balance next time a statement or the redemption statement arrives.
-- **Net assessment:** call added one confirmed fact (no ERC) but didn't reach anyone who could discuss
-  support/flexibility — that sits with "another team," not reachable via this front-line number.
-  Nothing achieved on the credit-file question or the facility-limit/repayment-date support ask from
-  the original letter — both still open.
-- **Recording:** Rupert kept an audio recording of the call. Not yet filed — he'll pass it across when
-  he works out how; log it under `correspondence/rbs/` once available.
+- **Letter confirmed received**, but Jamie **couldn't pull it up on the account notes** — the
+  system only showed "customer called back, left message." Rupert **read the full letter out
+  loud** and Jamie logged it manually. Poor service, but confirms the letter physically landed.
+- ✅ **No early repayment charge** — Jamie: "there's no early repayment charge," stated directly
+  when Rupert asked. Second independent verbal confirmation of this (Jamie didn't reference the
+  earlier call). Still **verbal only, not in writing** — a formal redemption statement was
+  agreed to be sent by **both email and post** via RBS's redemption team; chase if not received
+  in a reasonable window (no timeframe given).
+- 🆕 **Facility limit figure obtained: £308,368.** Jamie stated this is the **agreed facility**,
+  and — based on RBS's own property-value figure — **the account is currently just over it**
+  ("you're just about over your agreed facility at the moment... you should stay within your
+  agreed facility, really and truthfully"). ⚠️ **This contradicts the "within facility limit"
+  framing used in the original 27 Jul letter**, which was Rupert's own read of the account
+  statements, not RBS's live assessment. Needs reconciling: balance £309,796.61 (27 Jul) vs
+  facility £308,368 — appears to already be marginally over, by RBS's own account. Also
+  confirmed: **behind the repayment plan** ("you are behind a little bit") — consistent with the
+  £176,606.30 repayment-guide gap already tracked above, and not itself a problem per Jamie as
+  long as the facility isn't breached and interest keeps being paid.
+- **No payment holidays available on this product** — stated plainly ("they don't do payment
+  holidays on these accounts"). Support/flexibility summary from Jamie: "keep on paying, there's
+  no support, and that's it" unless the facility is actually breached, at which point RBS sends
+  a letter and **a separate "financial team"** gets engaged and may offer help. Nothing is
+  triggered proactively just by raising it on this call.
+- 🆕 **Practical win — joint mailing arranged.** Jamie set up **"superset fulfilment"**: both
+  Rupert and Heather will now receive the same statements/correspondence. Took Rupert's updated
+  address (19 Westgate Street, CO10 9DS), email (rupert@pebmarsh.com), and confirmed mobile
+  (07740 706315). This was the core practical ask in the original letter and is now actioned.
+  ⚠️ **Heather still needs to register her own contact details with RBS directly** — Jamie said
+  he can't add/update a second party's details on Rupert's say-so, even from a written letter;
+  RBS would need to confirm any new details with Heather by phone first.
+- **Net assessment:** more productive than first logged — beyond the no-ERC confirmation, this
+  call surfaced a materially new (and slightly concerning) facility-limit figure, and actually
+  got the joint-mailing request actioned. Still open: the credit-file question, the
+  support/flexibility ask (deferred to "the other team," not reachable directly), and getting
+  the no-ERC + facility-limit findings confirmed in writing via the redemption statement.
 
-**Updated next step:** no callback pending from RBS's side now — the ball is back with Rupert/Alan on
-whether to escalate to "the other team" re: facility limit and support options, and to chase the
-redemption statement in writing (now mainly to confirm the no-ERC finding formally, plus get the
-current facility-limit figure).
+**Updated next step:** (1) reconcile the £308,368 facility limit against the current balance —
+flag to Alan given this is a step change from "within facility" to "possibly over" mid-divorce
+disclosure; (2) chase the redemption statement (email + post) if not received soon; (3) get
+Heather to register her own contact details with RBS by phone so the joint-mailing setup is
+complete on her side too.
 
 ### Related
 - [[House Sale]]
