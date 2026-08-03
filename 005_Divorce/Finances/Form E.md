@@ -1,10 +1,10 @@
-income nincome and housing needs? I have no idea where to begin hereTracker for the financial disclosure needed to negotiate and support the consent order. Route  
+Tracker for the financial disclosure needed to negotiate and support the consent order. Route  
 is **consent order, not contested proceedings** — the document actually filed with the court will  
-likely be the shorter **Form D81** (Statement of Information for a Consent Order), not the full  
-Form E. But Alan/Heather's solicitor will still want Form E-standard detail exchanged informally  
-first, given the pension count and the live subsidence/drain claims — so this tracks against the  
-full Form E structure to make sure nothing's missed, then gets condensed into whatever the actual  
-filed form requires once Alan confirms.
+be the shorter **Form D81** (Statement of Information for a Consent Order), not the full  
+Form E — **confirmed by Alan Caldwell 3 Aug 2026** (see below). Alan/Heather's solicitor will  
+still want Form E-standard detail exchanged informally first, given the pension count and the  
+live subsidence/drain claims — so this tracks against the full Form E structure to make sure  
+nothing's missed, then gets condensed into the D81's total-figure-only format.
 
 Status flags: ✅ known and current · 🟡 known but needs a formal/updated figure · 🔴 missing entirely
 
@@ -37,9 +37,15 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   schedule (distinct from the current Westgate/Pebmarsh cost breakdown already in [[Income & Costs]]).
 - 🔴 **Housing needs assessment** — what each party actually needs to rehouse, given the house sale  
   timing dilemma. Feeds the "capital needs" section directly.
-- 🔴 **Confirmation: D81 vs full Form E** — ask Alan explicitly whether the court filing will be  
-  D81 (consent route) or whether circumstances (pension complexity) push this to a full Form E  
-  regardless.
+- ✅ **D81 vs full Form E — resolved 3 Aug 2026.** Alan confirms **D81**, not Form E, despite the
+  pension/claims complexity Rupert flagged. D81 needs the **total CETV figure only** (sum across
+  all pensions, both parties), with any apparent unfairness explained in the form's explanatory
+  boxes. He didn't give specific steers on the other two questions asked (detail level for open
+  claims; income/housing needs approach) — his reply was fairly generic on those, worth a
+  follow-up if still needed. See `correspondence/solicitors/2026-08-03_alan-d81-vs-form-e-answer.md`.
+- 🔴 **Record of Terms Agreed** — Alan now wants a document, signed and dated by both Rupert and
+  Heather, recording the agreed settlement terms, to draft the Financial Order from. Doesn't exist
+  yet — this plus draft D81 figures from each side is what he's waiting on next.
 - 🟡 **Unanswered: Heather's offer to exchange pension/salary info directly** (WhatsApp, 30 Jul
   12:35) — "are you happy to share pension/salary info with me so we can update them without
   letters back/forth?" Rupert hasn't replied in-chat yet. Worth a decision either way before
