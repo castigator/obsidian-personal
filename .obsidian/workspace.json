@@ -27,12 +27,14 @@
             "id": "97ebf6c296ac4020",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "005_Divorce/Finances/D81 - Statement of Information for Consent Order.pdf"
+                "file": "010_Westgate/TV Licence/TV Licence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D81 - Statement of Information for Consent Order"
+              "icon": "lucide-file",
+              "title": "TV Licence"
             }
           }
         ],
@@ -234,8 +236,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "65b5746dbcacf49e",
+  "active": "97ebf6c296ac4020",
   "lastOpenFiles": [
+    "Pasted image 20260803085959.png",
+    "Pasted image 20260803085938.png",
+    "005_Divorce/Finances/D81 - Statement of Information for Consent Order.pdf",
     "005_Divorce/House and Claims/RBS Mortgage Notification.md",
     "005_Divorce/RBS Mortgage Notification.md",
     "005_Divorce/Finances/Pensions.md",
@@ -247,7 +252,6 @@
     "005_Divorce/Finances/Form E - Financial Statement (blank).pdf",
     "005_Divorce/Finances/Form E.md",
     "xx_daily/Daily Note - 8th Jun 2026.md",
-    "005_Divorce/Finances/D81 - Statement of Information for Consent Order.pdf",
     "005_Divorce/House and Claims/Drain Claim.md",
     "005_Divorce/Divorce Application/How to File for Divorce.md",
     "005_Divorce/Finances/Card Split Agreement (unsigned draft 2026-07-17).pdf",
@@ -268,7 +272,6 @@
     "005_Divorce/2026-06-16_aviva-midel-retirement-deferral.md",
     "005_Divorce/2026-06-16_aviva-midel-retirement-deferral.md",
     "005_Divorce/Drain Claim.md",
-    "005_Divorce/Subsidence Claim.md",
     "005_Divorce/House and Claims",
     "005_Divorce/Solicitors/Solicitor Briefing Pack.html",
     "005_Divorce/Divorce Application/How to File for Divorce.pdf",
@@ -280,7 +283,6 @@
     "xx_media/Pasted image 20260407114347.png",
     "xx_media/Pasted image 20260407114324.png",
     "xx_media/Pasted image 20260326100417.png",
-    "xx_media/Pasted image 20250930164938.png",
-    "xx_media/Pasted image 20251124144333.png"
+    "xx_media/Pasted image 20250930164938.png"
   ]
 }
