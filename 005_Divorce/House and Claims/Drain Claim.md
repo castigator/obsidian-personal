@@ -6,7 +6,7 @@ tags:
   - drains
 ---
 
-*Updated 30 Jul 2026*
+*Updated 11 Aug 2026*
 
 ## Drain Claim
 
@@ -41,18 +41,18 @@ the £400 excess on site** — "they've never had to do that before." Working as
 bill the excess separately via the house insurance; the £400 previously set aside is being kept in  
 the account rather than paid direct as originally expected.
 
-### ⚠️ Follow-up needed — no accounting for the work seen yet
+### ⚠️ Follow-up chased — awaiting reply
 
-Rupert wants to chase this before treating the claim as concluded:
-
-- **No breakdown or completion report received** for what was actually done during the visit —
-  only Heather's brief "all done."
-- **CCTV survey (6 Mar 2026) found 3 urgent + 5 slight faults** (of 10 runs) — a ~6-hour visit for
-  that scope, against a **£9,360.63** quote, is worth querying rather than assuming it's fine.
-- **Action:** request from Catalyst/DW Solutions (whoever did the physical work) an itemised
-  account of works completed, ideally with photos/CCTV re-survey, and check it against the
-  original DW Solutions quote scope before accepting the claim as fully resolved or relying on the
-  £8,960 net recovery figure in settlement planning.
+- **10 Aug:** Catalyst (Vicky) called Rupert, left a voicemail confirming the works are complete
+  and the report has been sent through to the insurer — she'd trace a copy for him.
+- **11 Aug:** Rupert replied on the 20 Jul email thread (139425 Catalyst Reference), sent to
+  ageasteam@catalystservicesuk.com cc heather@pebmarsh.com, asking for a copy of the report or a
+  breakdown of what was actually done, given the quote covered 8 drain runs (3 urgent) plus gully
+  rehab and post-works CCTV for £9,360.63, against a visit of only ~6 hours. **Awaiting reply.**
+- **£400 excess** — still not collected/billed by anyone; Rupert has deprioritised chasing this
+  specifically (focus is the completion report).
+- Not to be relied on as fully resolved, or the £8,960 net recovery figure used in settlement
+  planning, until the report/breakdown comes back.
 
 ### Rupert's Visibility — RESOLVED (openly)
 
@@ -62,7 +62,8 @@ Rupert wants to chase this before treating the claim as concluded:
   site engineer visit.
 - 20 Jul: Catalyst (Vicky Russell) confirmed the claim covered under policy T&Cs, repairs booked  
   for Tue 28 Jul AM.
-- 28 Jul: repairs carried out (see above) — but no follow-up accounting yet.
+- 28 Jul: repairs carried out (see above).
+- 10–11 Aug: Catalyst voicemail + Rupert's follow-up chasing the completion report (see above).
 
 ### The Damage
 

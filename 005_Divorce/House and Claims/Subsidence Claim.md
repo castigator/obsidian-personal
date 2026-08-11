@@ -6,7 +6,7 @@ tags:
   - subsidence
 ---
 
-*Updated 8 June 2026*
+*Updated 11 August 2026*
 
 # Subsidence Claim
 
@@ -72,6 +72,10 @@ Phone: 02380 622622
 | 5 Jun 2026 | **Insurer approves £1,200 tree-surgery funding.** GHG: proceed with arranging works. Company-headed quote/invoice + completion photo required for payment. |
 | 8 Jun 2026 | Heather books **Hamish for 18–19 Jun** (WhatsApp). Open Q: both away those dates — access/photo TBC. |
 | 18–19 Jun 2026 | Tree surgery scheduled (HJ Tree Care). |
+| 23 Jul 2026 | Trees removed and poisoned. |
+| 30 Jul 2026 | Tree removal quote + invoice (£1,200) sent to GHG. |
+| 7 Aug 2026 | GHG confirms tree invoice passed to insurer for direct payment; next monitoring round due August 2026 (🔒H, GHG letter S2520891). |
+| ~~10 Aug 2026~~ | A text to Heather's phone (0116 260 5309, GHG) had proposed a monitoring visit, 10:00–14:00, subject to her confirming. **Not confirmed to have happened** — Heather was away on holiday that week, so this was most likely rescheduled to before or after 10 Aug rather than going ahead as proposed. Treat as unconfirmed until a monitoring report actually surfaces. |
 
 ## GHG action plan
 
