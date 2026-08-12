@@ -6,7 +6,7 @@ tags:
   - drains
 ---
 
-*Updated 11 Aug 2026*
+*Updated 12 Aug 2026*
 
 ## Drain Claim
 
@@ -14,7 +14,7 @@ tags:
 > but **NOT** causing the subsidence — GHG confirmed this explicitly. Handled as a **separate**  
 > insurance claim from [[Subsidence Claim]].
 
-### Status — REPAIRS DONE (28 Jul 2026), Ageas Claim 6866220H
+### Status — REPORT RECEIVED BUT SCOPE DOESN'T RECONCILE (12 Aug 2026), Ageas Claim 6866220H
 
 **Registered 4 Jun 2026** as a separate **"underground services"** claim — exactly the planned route,  
 kept distinct from the GHG subsidence claim.
@@ -41,18 +41,36 @@ the £400 excess on site** — "they've never had to do that before." Working as
 bill the excess separately via the house insurance; the £400 previously set aside is being kept in  
 the account rather than paid direct as originally expected.
 
-### ⚠️ Follow-up chased — awaiting reply
+### ⚠️ Report received 12 Aug — doesn't reconcile with the original scope
 
 - **10 Aug:** Catalyst (Vicky) called Rupert, left a voicemail confirming the works are complete
   and the report has been sent through to the insurer — she'd trace a copy for him.
 - **11 Aug:** Rupert replied on the 20 Jul email thread (139425 Catalyst Reference), sent to
   ageasteam@catalystservicesuk.com cc heather@pebmarsh.com, asking for a copy of the report or a
   breakdown of what was actually done, given the quote covered 8 drain runs (3 urgent) plus gully
-  rehab and post-works CCTV for £9,360.63, against a visit of only ~6 hours. **Awaiting reply.**
+  rehab and post-works CCTV for £9,360.63, against a visit of only ~6 hours.
+- **12 Aug: Vicky sent the report** (`Catalyst Drainage Report — 139425-6866220JH.pdf`, downloaded
+  to `incoming/catalyst/2026-08-12_catalyst-drainage-report-139425.pdf` in the git repo). It's from
+  **Catalyst's own CCTV survey on 3 Jul 2026** — not a continuation of DW Solutions' March survey —
+  and lists **only 4 defect locations** using MH (manhole) numbering: MH1 U/S SVP1 (patch), MH1
+  D/S–MH2 (root cutting + 3 patches), MH3 U/S–Gully2 (structural liner), MH3 D/S–MH4 (2 structural
+  linings). **No cost breakdown anywhere.** The conclusion just says all repairs are complete and
+  the file is closed.
+- **This doesn't reconcile with the original DW Solutions scope** (8 numbered runs + 2 rainwater
+  gullies, 3 runs graded Urgent, full gully rehab + separate excavation, £9,360.63 total) — the
+  numbering systems don't map onto each other and nothing in Catalyst's report confirms whether
+  their 4 defects are the same ground DW Solutions surveyed, or a smaller/different set found on a
+  later, independent visit. Full cross-check:
+  `correspondence/insurance/2026-08-12_catalyst-drainage-report-scope-mismatch.md` (git repo).
+- **The £9,360.63/£8,960-net figures have never actually been confirmed by Ageas/Catalyst in
+  writing** — they've only ever been Rupert's own modelling, carried forward from the original DW
+  Solutions quote. Worth treating with real caution in any settlement/house-sale modelling until
+  Catalyst confirms an actual authorised/paid value.
 - **£400 excess** — still not collected/billed by anyone; Rupert has deprioritised chasing this
-  specifically (focus is the completion report).
-- Not to be relied on as fully resolved, or the £8,960 net recovery figure used in settlement
-  planning, until the report/breakdown comes back.
+  specifically.
+- **Next step:** reply to Vicky Russell asking (a) what value of works was authorised/paid, and
+  (b) whether the 4 MH-referenced defects are the full extent of DW Solutions' original 8-run
+  survey or a reduced scope.
 
 ### Rupert's Visibility — RESOLVED (openly)
 
@@ -69,8 +87,8 @@ the account rather than paid direct as originally expected.
 
 - **Cause:** tree root ingress (Maple + Willow) into the drains. Not a subsidence cause.
 - **CCTV survey (6 Mar 2026):** of 10 runs — **3 urgent, 5 slight, 2 OK**.
-- **Repair cost (quoted):** **£9,360.63** (DW Solutions quote) — not yet confirmed against what was
-  actually carried out on 28 Jul.
+- **Repair cost (quoted):** **£9,360.63** (DW Solutions quote) — Catalyst's 12 Aug completion
+  report does not confirm this against what was actually carried out on 28 Jul (see above).
 - **Anglian Water** bills show an **82% usage spike** (204→371 m³) — possible evidence of water loss  
   from the damaged drains.
 
