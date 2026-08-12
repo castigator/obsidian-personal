@@ -164,10 +164,14 @@ There is also a **separate drain damage claim** (£9,360.63, tree root ingress, 
 | Conchango | 2005–2011 | Scottish Equitable? | Not traced |
 | Financial Times | 2011–2015 | Pearson/Aviva | £69,493 |
 | Gamesys/Roxor | 2016–2024 | HL Group SIPP | £79,624 |
-| Aristocrat | 2023–present | Standard Life (plan D460002800) | **£17,547.58** (fund value Apr 2026) |
+| Aristocrat | 2023–present | Standard Life (plan D4600026000) | **£22,169.37** (transfer value 31 Jul 2026, formal yearly statement) |
 | **State Pension** | | | £1,042/mo projected |
 
-**Total confirmed value: ~£206,380** (excluding Speedware, Conchango, and state pension). Note: some figures are fund values, not formal CETVs — formal CETVs to be requested.
+**Total confirmed value: ~£211,002** (excluding Speedware, Conchango, and state pension; updates
+the Aristocrat figure to the 31 Jul 2026 statement — other rows in this table are as at the last
+full pack review, 26 May 2026, and may themselves be slightly behind current figures in the vault
+[[005_Divorce/Pensions]]). Note: some figures are fund values, not formal CETVs — formal CETVs to
+be requested.
 
 **URGENT:** The Midel pension has a retirement date of **19 June 2026**. Aviva must be contacted before this date to defer and to request a formal CETV for divorce proceedings. CETVs should be requested for all three Aviva-held pensions (Midel, Objective IT, Pearson/FT) simultaneously.
 
@@ -266,7 +270,7 @@ The following can be provided on request:
 
 **Pensions:**
 - Aviva retirement notification — Midel pension (plan 7137159, fund value £14,132.62, Mar 2026)
-- Standard Life pension statement — Aristocrat (plan D460002800, fund value £17,547.58, Apr 2026)
+- Standard Life pension statement — Aristocrat (plan D4600026000, transfer value £22,169.37, 31 Jul 2026)
 - Aviva Find & Combine records for Objective IT and Pearson/FT pensions
 
 **Other:**

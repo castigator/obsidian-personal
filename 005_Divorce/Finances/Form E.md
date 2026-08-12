@@ -53,7 +53,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   figures), but also worth checking whether Alan would rather this route through solicitors once
   hers is confirmed, especially since he raised it before the D81/Form E process is settled.
 - 🟡 **Open strategic question (30 Jul): can pensions simply be left alone — no pension sharing  
-  order, no attachment order, nobody touches anybody's pension?** Rupert's total is ~£207,859  
+  order, no attachment order, nobody touches anybody's pension?** Rupert's total is ~£212,481  
   (confirmed, mostly DC). Rupert recalled earlier the same day Heather's might be "around £190k+" —
   **later that day (30 Jul, 12:47 WhatsApp) Heather self-reported £183,045 across three named
   pensions** (Vodafone £89,748, Prudential £25,525, Essex CC £67,772) — strikingly close to
@@ -114,12 +114,12 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   Confirm nothing outstanding.
 
 ### 4.9 Pensions
-- 🟡 Rupert's side: ~£207,859 total confirmed across 6 of 8 pots (see [[005_Divorce/Pensions]]) — Pearson/FT  
+- 🟡 Rupert's side: ~£212,481 total confirmed across 6 of 8 pots (see [[005_Divorce/Pensions]]) — Pearson/FT  
   and Aristocrat now have formal 2026 statements, Midel + Objective IT are still fund values not  
   formal CETVs, and two pots (Speedware, Conchango) remain entirely untraced.
 - 🟡 Heather's side: three pensions now named (Vodafone, Prudential, Essex CC), self-reported
   total **£183,045** (WhatsApp, 30 Jul, Nov/Dec 25 figures) — informal, not formal CETVs, still
-  needs proper written disclosure. Notably close to Rupert's ~£207,859, but likely not equal in
+  needs proper written disclosure. Notably close to Rupert's ~£212,481, but likely not equal in
   actual value given Rupert's is mostly DC and Heather's known pensions are DB.
 - This section is the single biggest gap in the whole disclosure — pensions are ~2/3 of total  
   matrimonial wealth per [[Clean Break]] modelling.

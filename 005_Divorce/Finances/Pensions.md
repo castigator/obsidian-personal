@@ -18,10 +18,10 @@ tags:
 | Conchango       | 2005–2011    | Scottish Equitable?              | TBC                                      | Needs confirmation                                                                                 |
 | Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 (as at 5 Apr 2026, formal 2026 Benefit Statement dated 8 May 2026) | Traced & confirmed in writing — see below |
 | Gamesys/Roxor   | 2016–2024    | HL Group SIPP                    | £79,624                                  | Traced                                                                                             |
-| Aristocrat      | 2023–present | Standard Life (plan D460002800?) | £17,547.58 (= transfer value 6 Apr 2026) | Traced & confirmed in writing — see below                                                          |
+| Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37 (transfer value 31 Jul 2026, formal Yearly Statement) | Traced & confirmed in writing — see below                                                          |
 | State Pension   |              |                                  | £1,042/mo projected                      |                                                                                                    |
 
-**Total confirmed value: ~£207,859** (some are fund values, not formal CETVs — Pearson/FT and
+**Total confirmed value: ~£212,481** (some are fund values, not formal CETVs — Pearson/FT and
 Aristocrat now both have formal 2026 statements; Midel and Objective IT still don't)
 
 Most pensions traced via **Aviva Find & Combine** (research only, nothing combined). Code Collective confirmed no pension.
@@ -53,20 +53,28 @@ remaining Aviva pensions** (Midel, Objective IT) for Form E. Pearson/FT is admin
 by Pearson (pearson-pensions.com), not Aviva — resolved 30 Jul via Pearson's own 2026 Benefit
 Statement, don't chase it through this call. **Do NOT draw this pension before divorce settlement.**
 
-### Aristocrat Pension — Standard Life Annual Statement (6 Apr 2026, Photographed 16 Jun)
+### Aristocrat Pension — Standard Life Yearly Statement (31 Jul 2026, letter dated 31 Jul, received 12 Aug)
 
-Standard Life. Member Mr R Thomas. Source images:  
-`incoming/WhatsApp Image 2026-06-16 at 09.59.11.jpeg` + `…10.00.11.jpeg` (2 pages).
+Standard Life. Member Mr R Thomas, Group Flexible Retirement Plan. Source:  
+`incoming/2026-07-31_standard-life-aristocrat-yearly-statement.pdf` (8 pages, physical post).
 
-- **Pension pot / retirement value at 6 Apr 2026: £17,547.58** — the letter states this is *also the estimated  
-  transfer value* at that date, i.e. ≈ the **CETV for Form E**. Figure now confirmed in writing.
-- **Retirement date: 19 June 2031** (Rupert's 65th birthday).
-- Scheme: **Aristocrat Technologies Europe**, scheme number **JQ3525**; scheme adviser **Mercer Limited**.
-- Plan number on the letter reads **D460002600** but the last digit(s) are cut off at the page edge; our records  
-  say **D460002800**. ⚠️ **Confirm the exact plan number** (6 vs 8) next time the statement is to hand.
-- Contributions in the year to 6 Apr 2026: **member £0.00, employer £10,447.50** (employer-funded; any salary  
-  sacrifice is included within the employer figure).
-- Standard Life: 0800 634 7477. Page 2 is generic guidance boilerplate (no member-specific content).
+- **Plan number confirmed: D4600026000** (resolves the earlier D460002600/D460002800 ambiguity —
+  the statement prints it clearly on every page). Scheme no. **JQ3525**, scheme name Aristocrat
+  Technologies Europe (Holdings) Limited, site name Roxor Gaming Limited.
+- **Transfer value at 31 Jul 2026: £22,169.37** (up from £9,886.62 a year earlier, 31 Jul 2025 —
+  the earlier £17,547.58 figure was mid-year, dated 6 Apr 2026). This is the current **CETV for
+  Form E**.
+- Breakdown since plan started: £19,912.50 money added (all employer — member contribution £0,
+  salary sacrifice) + £2,256.87 investment return = £22,169.37 total.
+- Breakdown since last year: employer added £10,552.50, costs/charges −£38.98, investment growth
+  +£1,769.23, on a £9,886.62 opening balance → £22,169.37 closing.
+- **Retirement date: 19 June 2031** (Rupert's 65th birthday) — unchanged.
+- Projected pot at retirement: £76,100 (today's prices), illustrating ~£5,390/yr or £449/mo annuity
+  income — planning illustration only, not relevant to current-value disclosure.
+- Invested in a lifestyle profile (Sustainable Multi Asset Universal SLP), split ~49%/51% across
+  two sub-funds; total annual costs and charges £38.98 (1.00% charge before discount on both funds).
+- Standard Life: 0800 634 7479. Pages 2, 6–8 are generic guidance boilerplate (scam safety, NMPA
+  increase to 57 from 6 Apr 2028, IGC value-for-money statement) — no further member-specific content.
 
 ### Financial Times/Pearson Pension — 2026 Benefit Statement (dropped 30 Jul 2026)
 
@@ -163,7 +171,7 @@ Heather may have additional pensions from other employers — full disclosure re
 
 ## Strategy
 
-Pension gap (Rupert ~£207,859 confirmed; Heather ~£183,045 self-reported/informal, still needs
+Pension gap (Rupert ~£212,481 confirmed; Heather ~£183,045 self-reported/informal, still needs
 formal CETVs) looks close in aggregate — but Rupert's total is mostly Defined Contribution while
 Heather's known pensions (Prudential, likely Essex CC/LGPS) are Defined Benefit, so equal totals
 don't necessarily mean equal value. See the open strategic question in [[Form E]]. This is the
