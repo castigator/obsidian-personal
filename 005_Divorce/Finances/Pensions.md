@@ -12,10 +12,10 @@ tags:
 | Company         | Period       | Scheme                           | CETV                                     | Status                                                                                             |
 | --------------- | ------------ | -------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Midel           | 1987–1990    | Aviva (plan 7137159)             | £14,132.62 (fund value 19 Jun 2026)      | Traced. Retirement date = 60th b'day (19 Jun 2026). Deferral auto-applies if no action — see below |
-| Speedware       | 1990–1997    | **NOT TRACED**                   | —                                        | 7 years — significant if pension existed                                                           |
+| Speedware       | 1990–1997    | None — Rupert's own assessment   | —                                        | Closed out 12 Aug 2026, not a formal provider confirmation — see below                             |
 | Objective IT    | 1997–2001    | Prudential/Aviva                 | £25,583                                  | Traced                                                                                             |
 | Code Collective | 2001–2005    | None (own company)               | —                                        | Confirmed no pension                                                                               |
-| Conchango       | 2005–2011    | Scottish Equitable?              | TBC                                      | Needs confirmation                                                                                 |
+| Conchango       | 2005–2011    | None — Rupert's own assessment   | —                                        | Closed out 12 Aug 2026, never actually chased with a provider — see below                          |
 | Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 (as at 5 Apr 2026, formal 2026 Benefit Statement dated 8 May 2026) | Traced & confirmed in writing — see below |
 | Gamesys/Roxor   | 2016–2024    | HL Group SIPP                    | £79,624                                  | Traced                                                                                             |
 | Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37 (transfer value 31 Jul 2026, formal Yearly Statement) | Traced & confirmed in writing — see below                                                          |
@@ -92,7 +92,17 @@ age 62. Source: `incoming/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (
   spouse's income) — for planning context only, not relevant to the current-value disclosure.
 - Investment selection: Drawdown Lifecycle.
 
-## Outstanding: Speedware
+## Speedware and Conchango — closed out 12 Aug 2026
+
+⚠️ **Rupert's own call, not a formal provider confirmation:** "I'm going to say Speedware is none...
+based on everything that I've looked. For Conchango I'm going to say the same... pretty sure I
+don't have one, so for the time being I'm just going to say it's none." Recorded here as the
+current working position — closes both open chase items. Not independently verified through a
+provider or the Pension Tracing Service; if pension figures are ever challenged (e.g. by Heather's
+solicitor), that's the untried step remaining. Full prior chase history on Speedware kept below for
+reference, in case it's ever worth revisiting.
+
+### Speedware — chase history (superseded by the above)
 
 - 7 years employment — significant if a pension existed
 - **New leads from ex-colleague WhatsApp thread (3–6 Jul 2026), digested 28 Jul 2026 — see

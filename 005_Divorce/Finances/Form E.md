@@ -21,10 +21,10 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   — Heather and Rupert worked at the same company (1987–90), so she has her own separate pension
   there too, expected small, value still awaited. Still needs formal written confirmation of all
   four for actual disclosure. See [[005_Divorce/Pensions]].
-- 🔴 **Speedware pension (1990–97)** — untraced. Aegon + Rothesay both ruled out 28–29 Jul; next is  
-  a targeted Aegon "other platform" follow-up or the Pension Tracing Service.
-- 🔴 **Conchango pension (2005–11)** — untraced, provider only an unconfirmed guess ("Scottish  
-  Equitable?"), never actually chased.
+- ✅ **Speedware (1990–97) and Conchango (2005–11) closed out 12 Aug 2026** — Rupert's own call
+  ("pretty sure I don't have one"), not a formal provider confirmation. Not independently verified
+  via the Pension Tracing Service — the untried step if these are ever challenged. See
+  [[005_Divorce/Pensions]].
 - 🟡 **Formal CETVs for Rupert's Midel + Objective IT pensions** — currently fund values, not  
   point-in-time CETVs. **Pearson/FT resolved 30 Jul** — a formal 2026 Benefit Statement gives  
   £70,972.14 as at 5 Apr 2026, which for a Money Purchase scheme stands in for the CETV. Call Aviva  
@@ -114,9 +114,10 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   Confirm nothing outstanding.
 
 ### 4.9 Pensions
-- 🟡 Rupert's side: ~£212,481 total confirmed across 6 of 8 pots (see [[005_Divorce/Pensions]]) — Pearson/FT  
-  and Aristocrat now have formal 2026 statements, Midel + Objective IT are still fund values not  
-  formal CETVs, and two pots (Speedware, Conchango) remain entirely untraced.
+- 🟡 Rupert's side: ~£212,481 total confirmed across 6 of 8 pots, plus Speedware and Conchango
+  closed out as "none" (Rupert's own call, 12 Aug — not formally verified) (see
+  [[005_Divorce/Pensions]]) — Pearson/FT and Aristocrat now have formal 2026 statements, Midel +
+  Objective IT are still fund values not formal CETVs.
 - 🟡 Heather's side: three pensions now named (Vodafone, Prudential, Essex CC), self-reported
   total **£183,045** (WhatsApp, 30 Jul, Nov/Dec 25 figures) — informal, not formal CETVs, still
   needs proper written disclosure. Notably close to Rupert's ~£212,481, but likely not equal in
