@@ -41,48 +41,48 @@ the £400 excess on site** — "they've never had to do that before." Working as
 bill the excess separately via the house insurance; the £400 previously set aside is being kept in  
 the account rather than paid direct as originally expected.
 
-### ⚠️ Report received 12 Aug — doesn't reconcile with the original scope
+### ⚠️ Report Received 12 Aug — Doesn't Reconcile with the Original Scope
 
-- **10 Aug:** Catalyst (Vicky) called Rupert, left a voicemail confirming the works are complete
+- **10 Aug:** Catalyst (Vicky) called Rupert, left a voicemail confirming the works are complete  
   and the report has been sent through to the insurer — she'd trace a copy for him.
-- **11 Aug:** Rupert replied on the 20 Jul email thread (139425 Catalyst Reference), sent to
-  ageasteam@catalystservicesuk.com cc heather@pebmarsh.com, asking for a copy of the report or a
-  breakdown of what was actually done, given the quote covered 8 drain runs (3 urgent) plus gully
+- **11 Aug:** Rupert replied on the 20 Jul email thread (139425 Catalyst Reference), sent to  
+  ageasteam@catalystservicesuk.com cc heather@pebmarsh.com, asking for a copy of the report or a  
+  breakdown of what was actually done, given the quote covered 8 drain runs (3 urgent) plus gully  
   rehab and post-works CCTV for £9,360.63, against a visit of only ~6 hours.
-- **12 Aug: Vicky sent the report** (`Catalyst Drainage Report — 139425-6866220JH.pdf`, downloaded
-  to `incoming/catalyst/2026-08-12_catalyst-drainage-report-139425.pdf` in the git repo). It's from
-  **Catalyst's own CCTV survey on 3 Jul 2026** — not a continuation of DW Solutions' March survey —
-  and lists **only 4 defect locations** using MH (manhole) numbering: MH1 U/S SVP1 (patch), MH1
-  D/S–MH2 (root cutting + 3 patches), MH3 U/S–Gully2 (structural liner), MH3 D/S–MH4 (2 structural
-  linings). **No cost breakdown anywhere.** The conclusion just says all repairs are complete and
+- **12 Aug: Vicky sent the report** (`Catalyst Drainage Report — 139425-6866220JH.pdf`, downloaded  
+  to `incoming/catalyst/2026-08-12_catalyst-drainage-report-139425.pdf` in the git repo). It's from  
+  **Catalyst's own CCTV survey on 3 Jul 2026** — not a continuation of DW Solutions' March survey —  
+  and lists **only 4 defect locations** using MH (manhole) numbering: MH1 U/S SVP1 (patch), MH1  
+  D/S–MH2 (root cutting + 3 patches), MH3 U/S–Gully2 (structural liner), MH3 D/S–MH4 (2 structural  
+  linings). **No cost breakdown anywhere.** The conclusion just says all repairs are complete and  
   the file is closed.
-- **This doesn't reconcile with the original DW Solutions scope** (8 numbered runs + 2 rainwater
-  gullies, 3 runs graded Urgent, full gully rehab + separate excavation, £9,360.63 total) — the
-  numbering systems don't map onto each other and nothing in Catalyst's report confirms whether
-  their 4 defects are the same ground DW Solutions surveyed, or a smaller/different set found on a
-  later, independent visit. Full cross-check:
+- **This doesn't reconcile with the original DW Solutions scope** (8 numbered runs + 2 rainwater  
+  gullies, 3 runs graded Urgent, full gully rehab + separate excavation, £9,360.63 total) — the  
+  numbering systems don't map onto each other and nothing in Catalyst's report confirms whether  
+  their 4 defects are the same ground DW Solutions surveyed, or a smaller/different set found on a  
+  later, independent visit. Full cross-check:  
   `correspondence/insurance/2026-08-12_catalyst-drainage-report-scope-mismatch.md` (git repo).
-- **The £9,360.63/£8,960-net figures have never actually been confirmed by Ageas/Catalyst in
-  writing** — they've only ever been Rupert's own modelling, carried forward from the original DW
-  Solutions quote. Worth treating with real caution in any settlement/house-sale modelling until
+- **The £9,360.63/£8,960-net figures have never actually been confirmed by Ageas/Catalyst in  
+  writing** — they've only ever been Rupert's own modelling, carried forward from the original DW  
+  Solutions quote. Worth treating with real caution in any settlement/house-sale modelling until  
   Catalyst confirms an actual authorised/paid value.
-- **£400 excess** — still not collected/billed by anyone; Rupert has deprioritised chasing this
-  specifically. 🆕 **New detail (WhatsApp, 18 Aug):** Heather referenced "the £400 we put aside
-  for drain excess" while discussing the separate Hamish/tree invoice payment (see
-  [[Subsidence Claim]]) — implies £400 has actually been set aside somewhere, which may resolve
+- **£400 excess** — still not collected/billed by anyone; Rupert has deprioritised chasing this  
+  specifically. 🆕 **New detail (WhatsApp, 18 Aug):** Heather referenced "the £400 we put aside  
+  for drain excess" while discussing the separate Hamish/tree invoice payment (see  
+  [[Subsidence Claim]]) — implies £400 has actually been set aside somewhere, which may resolve  
   this, though not stated explicitly as such. Worth clarifying if it comes up naturally.
-- ✅ **13 Aug — reply sent, query answered same day, effectively closed out.** Rupert's reply
-  (`correspondence/insurance/2026-08-13_rupert-reply-scope-query.md`, git repo) itemised both
-  scopes side by side and asked (a) does the work cover the same ground, (b) what value did it
-  come to. **Catalyst (Seren Rowley) replied same day**
-  (`correspondence/insurance/2026-08-13_catalyst-reply-scope-query.md`): claims "7 repairs" on
-  both the third-party quote and Catalyst's own work, but doesn't cleanly map onto DW Solutions'
-  8 costed line items or Catalyst's own 4-location report. **Refuses to disclose cost/value**
-  ("not at liberty to discuss the costs"), asserts DW Solutions' quote "was inflated." The
-  £9,360.63/£8,960-net figures remain Rupert's own unconfirmed modelling — this reply suggests the
-  true value may be lower still, unconfirmed either way. £400 excess not addressed. **Rupert sent
-  a short thank-you closing the thread courteously (14 Aug)** — no further push planned. Practical
-  read: this is as far as Catalyst goes voluntarily; further pressure would need to go via Ageas
+- ✅ **13 Aug — reply sent, query answered same day, effectively closed out.** Rupert's reply  
+  (`correspondence/insurance/2026-08-13_rupert-reply-scope-query.md`, git repo) itemised both  
+  scopes side by side and asked (a) does the work cover the same ground, (b) what value did it  
+  come to. **Catalyst (Seren Rowley) replied same day**  
+  (`correspondence/insurance/2026-08-13_catalyst-reply-scope-query.md`): claims "7 repairs" on  
+  both the third-party quote and Catalyst's own work, but doesn't cleanly map onto DW Solutions'  
+  8 costed line items or Catalyst's own 4-location report. **Refuses to disclose cost/value**  
+  ("not at liberty to discuss the costs"), asserts DW Solutions' quote "was inflated." The  
+  £9,360.63/£8,960-net figures remain Rupert's own unconfirmed modelling — this reply suggests the  
+  true value may be lower still, unconfirmed either way. £400 excess not addressed. **Rupert sent  
+  a short thank-you closing the thread courteously (14 Aug)** — no further push planned. Practical  
+  read: this is as far as Catalyst goes voluntarily; further pressure would need to go via Ageas  
   (Gemma Steels) directly, and may not be worth it given repairs are done.
 
 ### Rupert's Visibility — RESOLVED (openly)
@@ -100,7 +100,7 @@ the account rather than paid direct as originally expected.
 
 - **Cause:** tree root ingress (Maple + Willow) into the drains. Not a subsidence cause.
 - **CCTV survey (6 Mar 2026):** of 10 runs — **3 urgent, 5 slight, 2 OK**.
-- **Repair cost (quoted):** **£9,360.63** (DW Solutions quote) — Catalyst's 12 Aug completion
+- **Repair cost (quoted):** **£9,360.63** (DW Solutions quote) — Catalyst's 12 Aug completion  
   report does not confirm this against what was actually carried out on 28 Jul (see above).
 - **Anglian Water** bills show an **82% usage spike** (204→371 m³) — possible evidence of water loss  
   from the damaged drains.

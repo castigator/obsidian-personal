@@ -16,8 +16,8 @@ content-start: 151
 
 | | |
 |---|---|
-| Licence number | 4284784969 |
-![[Pasted image 20260803085938.png]]
+| Licence number | 4284784969 |  
+![[Pasted image 20260803085938.png]]  
 ![[Pasted image 20260803085959.png]]
 ## History
 

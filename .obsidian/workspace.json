@@ -29,28 +29,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Westgate/TV Licence/TV Licence.md",
+                "file": "010_Westgate/Contract/Contract.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TV Licence"
-            }
-          },
-          {
-            "id": "a4c001ce0324caa8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "Contract"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 537.5859375
   },
   "right": {
     "id": "5744ff3d2d928c92",
@@ -250,9 +238,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "a4c001ce0324caa8",
+  "active": "97ebf6c296ac4020",
   "lastOpenFiles": [
+    "005_Divorce/House and Claims/RBS Letter - Signed 27 Jul 2026.pdf",
     "005_Divorce/House and Claims/Drain Claim.md",
+    "010_Westgate/TV Licence/TV Licence.md",
     "005_Divorce/Finances/Pensions.md",
     "005_Divorce/Pensions.md",
     "005_Divorce/House and Claims/Subsidence Claim.md",
@@ -286,8 +276,6 @@
     "005_Divorce/RBS Mortgage Notification.md",
     "005_Divorce/Divorce Application/how-to-file-divorce-timeline.png",
     "005_Divorce/Analysis/2026-07-15_contribution-rebalance-message-to-heather.md",
-    "005_Divorce/2026-07-15_contribution-rebalance-message-to-heather.md",
-    "005_Divorce/Debts.md",
     "005_Divorce/2026-07-15_contribution-rebalance-message-to-heather.md",
     "005_Divorce/Debts.md",
     "005_Divorce/2026-07-15_contribution-rebalance-message-to-heather.md",
