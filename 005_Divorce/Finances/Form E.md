@@ -6,6 +6,11 @@ still want Form E-standard detail exchanged informally first, given the pension 
 live subsidence/drain claims — so this tracks against the full Form E structure to make sure  
 nothing's missed, then gets condensed into the D81's total-figure-only format.
 
+⚠️ **Priority note (Rupert, 18 Aug 2026): D81 is what he's actually working from — this Form E
+structure is background scaffolding underneath it, not the primary tracking surface.** For the
+pension CETV chase specifically (the D81's core content), the working tracker is
+[[D81 Pension CETVs]] — update that directly, not the status flags below.
+
 Status flags: ✅ known and current · 🟡 known but needs a formal/updated figure · 🔴 missing entirely
 
 ## Missing / to Chase — top of List
@@ -177,6 +182,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 ## Related
 
 - [[Divorce]] — hub, to-do list
+- [[D81 Pension CETVs]] — working CETV-chase tracker for the D81 total (active pensions only)
 - [[005_Divorce/Pensions]] — full pension detail
 - [[Debts]] — full debt detail
 - [[Income & Costs]] — current cost breakdown

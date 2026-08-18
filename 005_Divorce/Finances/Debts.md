@@ -23,8 +23,9 @@ split below). Plus Ann loans £8,840 (corrected by Heather 15 Jul; repay from ho
 | Loan from Ann (£3,318) | £3,318.00 | £0 | Repaid an MBNA card used for a balance transfer (Heather, 15 Jul). Check if formal paperwork exists |
 | Loan from Ann (£5,522) | £5,522.00 | £0 | Cleared outstanding loan "when we borrowed from Rupert's parents as well" (Heather, 15 Jul). Check if formal paperwork exists |
 
-**Proposed card split (15 Jul 2026, not yet confirmed — Heather's buy-in uncertain as of 22 Jul,
-see [[2026-07-22_card-split-loan-affordability-and-heather-risk]]):** Rupert takes the
+**Proposed card split (15 Jul 2026, still unsigned as of 18 Aug — now gated on Heather's
+solicitor's advice rather than her buy-in specifically, see [[2026-07-22_card-split-loan-affordability-and-heather-risk]]):**
+Rupert takes the
 Barclaycard above (£7,274.24) alone; Heather keeps Halifax + Ann's Barclaycard (£7,691.94
 combined). This supersedes the earlier generic 50/50-of-everything framing. See finance
 repo `notes/paying-off-50pc-shared-debt.md`.

@@ -6,7 +6,7 @@ tags:
   - drains
 ---
 
-*Updated 12 Aug 2026*
+*Updated 18 Aug 2026*
 
 ## Drain Claim
 
@@ -14,7 +14,7 @@ tags:
 > but **NOT** causing the subsidence — GHG confirmed this explicitly. Handled as a **separate**  
 > insurance claim from [[Subsidence Claim]].
 
-### Status — REPORT RECEIVED BUT SCOPE DOESN'T RECONCILE (12 Aug 2026), Ageas Claim 6866220H
+### Status — QUERY ANSWERED, CATALYST WON'T DISCLOSE COST (13 Aug 2026), Ageas Claim 6866220H
 
 **Registered 4 Jun 2026** as a separate **"underground services"** claim — exactly the planned route,  
 kept distinct from the GHG subsidence claim.
@@ -67,10 +67,23 @@ the account rather than paid direct as originally expected.
   Solutions quote. Worth treating with real caution in any settlement/house-sale modelling until
   Catalyst confirms an actual authorised/paid value.
 - **£400 excess** — still not collected/billed by anyone; Rupert has deprioritised chasing this
-  specifically.
-- **Next step:** reply to Vicky Russell asking (a) what value of works was authorised/paid, and
-  (b) whether the 4 MH-referenced defects are the full extent of DW Solutions' original 8-run
-  survey or a reduced scope.
+  specifically. 🆕 **New detail (WhatsApp, 18 Aug):** Heather referenced "the £400 we put aside
+  for drain excess" while discussing the separate Hamish/tree invoice payment (see
+  [[Subsidence Claim]]) — implies £400 has actually been set aside somewhere, which may resolve
+  this, though not stated explicitly as such. Worth clarifying if it comes up naturally.
+- ✅ **13 Aug — reply sent, query answered same day, effectively closed out.** Rupert's reply
+  (`correspondence/insurance/2026-08-13_rupert-reply-scope-query.md`, git repo) itemised both
+  scopes side by side and asked (a) does the work cover the same ground, (b) what value did it
+  come to. **Catalyst (Seren Rowley) replied same day**
+  (`correspondence/insurance/2026-08-13_catalyst-reply-scope-query.md`): claims "7 repairs" on
+  both the third-party quote and Catalyst's own work, but doesn't cleanly map onto DW Solutions'
+  8 costed line items or Catalyst's own 4-location report. **Refuses to disclose cost/value**
+  ("not at liberty to discuss the costs"), asserts DW Solutions' quote "was inflated." The
+  £9,360.63/£8,960-net figures remain Rupert's own unconfirmed modelling — this reply suggests the
+  true value may be lower still, unconfirmed either way. £400 excess not addressed. **Rupert sent
+  a short thank-you closing the thread courteously (14 Aug)** — no further push planned. Practical
+  read: this is as far as Catalyst goes voluntarily; further pressure would need to go via Ageas
+  (Gemma Steels) directly, and may not be worth it given repairs are done.
 
 ### Rupert's Visibility — RESOLVED (openly)
 

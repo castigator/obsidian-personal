@@ -4,6 +4,14 @@ tags:
   - finance
 ---
 
+*Updated 18 Aug 2026 — merged with an existing, richer copy of this note found bounced to the
+vault root (a past instance of this same fix, lost to the known auto-note-mover bug — see
+CLAUDE.md's "Obsidian Vault" section). Also previously carried directly in CLAUDE.md, now moved
+here properly.*
+
+Current transitional income and cost breakdown — not a post-settlement needs budget (see
+[[Form E]] Parts 6–7 for that distinct, not-yet-started piece).
+
 ## Rupert's Income
 
 - **Net monthly salary:** £6,109 (from Jan 2026; was £5,888)
@@ -11,6 +19,11 @@ tags:
   final tax code 536TM1, employee NI £4,282.90. Employer (payroll entity): **Roxor Gaming Limited**
   (PAYE ref 120/ME01453; the Aristocrat business). Filed: repo `incoming/2026-04-05_P60_2025-26_roxor.pdf`.
   Use £116,013 as "annual income before tax" on credit/lender forms; will also feed Form E disclosure.
+
+## Heather's Income
+
+- **Net monthly salary:** ~£1,471
+- Pays 20% of Pebmarsh costs
 
 ## Westgate Rental Costs (~£1,370–1,450/mo)
 
@@ -38,7 +51,10 @@ tags:
 
 Each month of delay on the house sale costs ~£4,000 in dual housing.
 
-## Heather's Income
+## Related
 
-- **Net monthly salary:** ~£1,471
-- Pays 20% of Pebmarsh costs
+- [[Debts]] — full debt detail
+- [[Pensions]] — full pension detail
+- [[Form E]] — disclosure tracker; income/housing needs budgets (distinct from this transitional
+  breakdown) still need drawing up
+- [[Clean Break]] / [[Heather Affordability]] — settlement strategy modelling

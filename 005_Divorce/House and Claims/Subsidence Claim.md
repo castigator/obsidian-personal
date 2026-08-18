@@ -6,7 +6,7 @@ tags:
   - subsidence
 ---
 
-*Updated 11 August 2026*
+*Updated 18 August 2026*
 
 # Subsidence Claim
 
@@ -27,19 +27,25 @@ tags:
 **Cause:** root-induced clay shrinkage — **Maple** (4.5m, right of extension) and **Willow** (12.5m,
 front right) roots beneath foundations. Drains NOT implicated.
 
-## Tree removal — ✅ FUNDING APPROVED (5 Jun) · 📅 BOOKED 18–19 Jun
+## Tree removal — ✅ DONE, reimbursement in progress but stalled on payment (18 Aug)
 
-- **Insurer has approved funding of the full £1,200** for the tree surgery works (GHG email, Kim Salter,
-  5 Jun 2026, to both Rupert + Heather). GHG instruction: **"proceed with arranging the works at your
-  earliest opportunity."** The earlier personal-cost concern (Rupert's ~£600 share) no longer applies.
-- **📅 Booked: Hamish (HJ Tree Care) is doing the works 18–19 June 2026** (Heather arranged it; via WhatsApp 8 Jun).
-- **Quote: £1,200** — HJ Tree Care (Hamish Jenkins, 07828 243024, HJTreeCare@outlook.com) — Willow £700
-  + Maple £500 incl. stump poisoning.
-- **Conditions for the insurer to pay:** a **company-headed quotation + invoice** from the tree surgeon,
-  and a **photo of the completed works** for GHG's mitigation file.
-- ⚠️ **Open question — nobody on site 18–19 Jun:** Rupert is busy and Heather is away, so neither will be
-  present. Rupert has asked Heather how that works for Hamish (garden access; who captures the completion
-  photo for the insurer). Awaiting her answer.
+- **Insurer approved funding of the full £1,200** for the tree surgery works (GHG email, Kim Salter,
+  5 Jun 2026, to both Rupert + Heather). Trees removed 23 Jul 2026. Quote + invoice (£1,200: Willow
+  £700 + Maple £500, invoice #2607005, dated 27 Jul, HJ Tree Care) sent to GHG 30 Jul.
+- **GHG confirmed 7 Aug** the invoice has been passed to the insurer for direct payment to
+  Heather's Barclays account.
+- ⚠️ **Payment standoff (WhatsApp, 18 Aug) — unresolved.** Hamish is chasing payment (invoice
+  ~2 weeks overdue by 18 Aug against its 7-day terms). Heather says the insurer's £1,200 hasn't
+  landed in her Barclays yet, and asked Rupert to front £800 (plus "the £400 we put aside for
+  drain excess," making £1,200) to pay Hamish now, to be repaid once the insurer credits the
+  money — she says she can't cover it herself without borrowing. **Rupert declined:** "Let Hamish
+  wait. He knew it was an insurance job." No reply from Heather yet. Hamish's bank details (for
+  reference): Halifax, Hamish John Jenkins, sort code 11-07-54, account 00382342. Also surfaced: a
+  £400 sum earmarked "for drain excess" apparently already exists somewhere (Heather's wording) —
+  bears on the [[Drain Claim]] £400-excess open question. Verbatim:
+  `correspondence/heather/whatsapp-transcript.md` (git repo).
+- No completion photo confirmed sent — GHG's 5 Jun approval required one; worth confirming with
+  Heather it's been sent or isn't needed.
 
 ## Cash settlement option
 
@@ -75,7 +81,9 @@ Phone: 02380 622622
 | 23 Jul 2026 | Trees removed and poisoned. |
 | 30 Jul 2026 | Tree removal quote + invoice (£1,200) sent to GHG. |
 | 7 Aug 2026 | GHG confirms tree invoice passed to insurer for direct payment; next monitoring round due August 2026 (🔒H, GHG letter S2520891). |
-| ~~10 Aug 2026~~ | A text to Heather's phone (0116 260 5309, GHG) had proposed a monitoring visit, 10:00–14:00, subject to her confirming. **Not confirmed to have happened** — Heather was away on holiday that week, so this was most likely rescheduled to before or after 10 Aug rather than going ahead as proposed. Treat as unconfirmed until a monitoring report actually surfaces. |
+| 5 Aug 2026 | GHG texts Heather's phone (0116 260 5309) proposing a monitoring visit **10/08/26 10:00–14:00**, asking her to confirm. |
+| 7 Aug 2026 | Heather confirms to Rupert via WhatsApp ("Yup all sorted") — the 10 Aug visit went ahead as proposed. No monitoring report seen yet. |
+| 18 Aug 2026 | Payment standoff over the tree invoice — see above. |
 
 ## GHG action plan
 

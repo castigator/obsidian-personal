@@ -7,22 +7,49 @@ tags:
 
 *Updated 26 May 2026 from Aviva/Standard Life documents*
 
+**For the working D81 CETV-chase tracker (active pensions only, running total), see
+[[D81 Pension CETVs]].** This file stays the full reference — provider detail, contact channels,
+chase history, closed-out pensions, and Heather's pensions.
+
 ## Rupert's Pensions
 
-| Company         | Period       | Scheme                           | CETV                                     | Status                                                                                             |
-| --------------- | ------------ | -------------------------------- | ---------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| Midel           | 1987–1990    | Aviva (plan 7137159)             | £14,132.62 (fund value 19 Jun 2026)      | Traced. Retirement date = 60th b'day (19 Jun 2026). Deferral auto-applies if no action — see below |
-| Speedware       | 1990–1997    | None — Rupert's own assessment   | —                                        | Closed out 12 Aug 2026, not a formal provider confirmation — see below                             |
-| Objective IT    | 1997–2001    | Prudential/Aviva                 | £25,583                                  | Traced                                                                                             |
-| Code Collective | 2001–2005    | None (own company)               | —                                        | Confirmed no pension                                                                               |
-| Conchango       | 2005–2011    | None — Rupert's own assessment   | —                                        | Closed out 12 Aug 2026, never actually chased with a provider — see below                          |
-| Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 (as at 5 Apr 2026, formal 2026 Benefit Statement dated 8 May 2026) | Traced & confirmed in writing — see below |
-| Gamesys/Roxor   | 2016–2024    | HL Group SIPP                    | £79,624                                  | Traced                                                                                             |
-| Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37 (transfer value 31 Jul 2026, formal Yearly Statement) | Traced & confirmed in writing — see below                                                          |
-| State Pension   |              |                                  | £1,042/mo projected                      |                                                                                                    |
+| Company         | Period       | Scheme                           | CETV                                     | As at | Status |
+| --------------- | ------------ | -------------------------------- | ---------------------------------------- | ----- | ------ |
+| Midel           | 1987–1990    | Aviva (plan 7137159)             | £14,132.62                               | 19 Jun 2026 (est.) | Traced. Retirement date = 60th b'day (19 Jun 2026). Deferral auto-applies if no action — see below |
+| Speedware       | 1990–1997    | None — Rupert's own assessment   | —                                        | 12 Aug 2026 | Closed out, not a formal provider confirmation — see below |
+| Objective IT    | 1997–2001    | Prudential (plan M843457, contract J95042638, policy R843457000) | £25,531.91 | 21 Oct 2025 | **Stale** — updated CETV requested by email 18/19 Aug 2026, awaiting reply — see below |
+| Code Collective | 2001–2005    | None (own company)               | —                                        | —     | Confirmed no pension |
+| Conchango       | 2005–2011    | None — Rupert's own assessment   | —                                        | 12 Aug 2026 | Closed out, never actually chased with a provider — see below |
+| Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 | 5 Apr 2026 | Formal 2026 Benefit Statement, dated 8 May 2026 — see below |
+| Gamesys/Roxor   | 2016–2024    | HL Group SIPP (client no. 2326897) | £86,430.51                             | 18 Aug 2026 | Dated Portfolio Summary PDF — see below |
+| Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37                | 31 Jul 2026 | Formal Yearly Statement; portal separately shows £23,520.45 "total plan value" (18 Aug), not confirmed equivalent — see below |
+| State Pension   |              |                                  | £1,042/mo projected                      | —     | Projection, not a CETV |
 
-**Total confirmed value: ~£212,481** (some are fund values, not formal CETVs — Pearson/FT and
-Aristocrat now both have formal 2026 statements; Midel and Objective IT still don't)
+**Total confirmed value: ~£219,236.55** (Pearson/FT, Aristocrat, Midel, and now Gamesys/Roxor all
+have formal/dated figures — see below; Objective IT/Prudential is the one remaining stale figure,
+~10 months old, updated CETV requested by email 18/19 Aug 2026, awaiting reply).
+
+**Gamesys/Roxor CETV — settled 18 Aug 2026.** HL Group SIPP, client number 2326897. Dated
+Portfolio Summary PDF: stock value £86,401.19 + total cash £29.32 = **£86,430.51 total, valuation
+as at 18-08-2026 13:27** — supersedes the undated £79,624 previously on file. For a self-invested
+platform SIPP, total value directly equals transfer value — no insurer, no with-profits smoothing,
+nothing to create the kind of fund-value/transfer-value gap seen with the Prudential and (possibly)
+Standard Life products. Holdings: BlackRock MyMap 4 £36,059.39 (cost £29,662.34, gain
+£6,397.05/21.6%), HL Growth Fund £21,855.31 (cost £14,239.77, gain £7,615.54/53.5%), Schroder
+Managed Balanced £28,486.49 (cost £17,663.47, gain £10,823.02/61.3%) — total cost basis £61,565.58,
+total gain £24,835.61 (40.3%). ⚠️ Portal showed "Pending orders (3)" at the time of the screenshot
+— 3 unsettled trades that could move the total slightly once they clear; not expected to be
+material, not chased further.
+
+**Aristocrat CETV — settled 18 Aug 2026, no further chase for now.** "Transfer value" and CETV are
+the same concept, just different names for the same figure — not a third, lesser number. The
+Standard Life portal separately shows a higher "total plan value" (£23,520.45, 18 Aug) than the
+formal transfer value/CETV (£22,169.37, 31 Jul) — plan value ≠ transfer value in general (the
+Objective IT/Prudential precedent showed this gap can matter), but for this specific scheme the
+statement confirms "Guaranteed annuity rates: No," so there's no guarantee mechanism that would
+explain a material gap — the portal figure is likely just dashboard lag/rounding, not a real
+divergence. Rupert's own call: **31 Jul is under a month old and current enough for now** — no
+Mailbox chase needed unless it goes stale later.
 
 Most pensions traced via **Aviva Find & Combine** (research only, nothing combined). Code Collective confirmed no pension.
 
@@ -48,10 +75,56 @@ Key facts from the letter:
 - Aviva won't issue a quote until contacted. Pension Wise free guidance: 0800 280 8880 / moneyhelper.org.uk/pensionwise.
 
 **Net:** no need to beat the 19 Jun deadline just to stop the flip to 74 — letting it default *is* the deferral.  
-The real value from calling Aviva (0345 366 1643) is still requesting **formal CETVs for the two
-remaining Aviva pensions** (Midel, Objective IT) for Form E. Pearson/FT is administered separately
-by Pearson (pearson-pensions.com), not Aviva — resolved 30 Jul via Pearson's own 2026 Benefit
-Statement, don't chase it through this call. **Do NOT draw this pension before divorce settlement.**
+Midel's £14,132.62 (from this letter) already counts as "confirmed in writing" for Form E — **no
+further chase needed on this one.** The genuine remaining CETV gap is Objective IT, which turned
+out to be with **Prudential**, not Aviva — see below. **Do NOT draw this pension before divorce
+settlement.**
+
+### Objective IT Pension — resolved to Prudential, not Aviva (analysis 17 Aug 2026)
+
+Full analysis: [[2026-08-17_objective-it-prudential-cetv-chase]].
+
+- **Provider: Prudential** (part of M&G plc). Plan number **M843457**, contract number
+  **J95042638**, policy number **R843457000**, HMRC scheme ref **015/103021/000000/A**. Plan:
+  Objective I.T. Ltd Executive Pension Plan, money purchase (DC), with-profits fund ("L/TERM WITH
+  PROFITS"). Contact: email **EPP2-4@Prudential.co.uk**, phone 0370 060 0445, post Prudential
+  Customer Services, Lancing, BN15 8GB.
+- **Written under trust. Trustees: Mr Rupert Thomas and Ms Heather Jeffrey** — confirmed by Rupert
+  (17 Aug 2026) to be **Heather's maiden name**. Heather is a co-trustee of this pension trust
+  (scheme commenced 26 Mar 1998, five months before the marriage) — **routine EPP structure from
+  when both were Objective IT directors, a governance role, not a beneficial claim**: the fund and
+  CETV are unambiguously Rupert's as the named member. Open question is whether Prudential would
+  need both trustees' signatures for any future transfer/draw given a co-trustee who's now
+  estranged — live next step is asking Prudential directly once the CETV reply comes back, and
+  separately flagging to Alan for awareness.
+- **Transfer value illustration, 21 Oct 2025:** current fund value £11,851.86, but **total net
+  transfer value £25,531.91** — more than double, and **not explained by a guarantee**: Prudential
+  states explicitly "no protected rights, GMP, or contracted-out benefits" and "no guaranteed
+  policy, bonus, growth or annuity rates under the scheme." The gap is a genuine open question to
+  put to Prudential directly, not a known guaranteed-benefit story.
+- **A-Day value: £9,025.48** — most of the fund predates 6 April 2006. Rupert **is** entitled to
+  tax-free cash greater than the standard 25% on pre-2006 benefits, but Prudential never received
+  the "Benefit Calculation Checklist" needed to calculate the actual percentage, so they currently
+  **assume the standard 25% only**. This higher entitlement would be **lost on any transfer**
+  unless done as a block transfer or with protection registered — worth completing the checklist
+  at some point (not urgent, not required for the CETV chase).
+- **No earmarking order, pension sharing order, or bankruptcy order on file** as of 23 Oct 2025.
+- **No transfer has been instigated or is in progress.** Prudential's letter referenced providing
+  information to Aviva "to process a transfer" — this was **Aviva's Find & Combine tracing/
+  checking service running its own process** (a "letter of authority" + email dated 22 Oct 2025),
+  not something Rupert requested. The receiving scheme declaration and transfer authority form
+  were never completed/returned — **nothing further happened.** Confirmed directly by Rupert
+  (17 Aug 2026): no action was taken beyond the original Find & Combine check.
+- **Aviva Find & Combine dashboard (screenshot, 17 Aug 2026)** shows three tracked policies, all
+  with expired checks (stale, not live data): Prudential R843457000 £11,863.38 (04/11/2025, the
+  low fund-value figure above); Aviva F70322/7872 £69,501.79 (17/11/2025 — this is the FT/Pearson
+  pension, superseded by Pearson's own formal statement); Aviva 7137159 £8,786.95 (06/11/2025 —
+  this is Midel, superseded by the retirement letter above). None of these change anything already
+  confirmed — good confirmation the F&C dashboard numbers are just stale snapshots, not live
+  balances.
+- **✅ Email sent 18/19 Aug 2026** to Prudential (EPP2-4@Prudential.co.uk) requesting an updated
+  CETV (the £25,531.91 figure was ~10 months old) and asking directly what explains the fund-value/
+  transfer-value gap. Awaiting reply.
 
 ### Aristocrat Pension — Standard Life Yearly Statement (31 Jul 2026, letter dated 31 Jul, received 12 Aug)
 
@@ -75,6 +148,28 @@ Standard Life. Member Mr R Thomas, Group Flexible Retirement Plan. Source:
   two sub-funds; total annual costs and charges £38.98 (1.00% charge before discount on both funds).
 - Standard Life: 0800 634 7479. Pages 2, 6–8 are generic guidance boilerplate (scam safety, NMPA
   increase to 57 from 6 Apr 2028, IGC value-for-money statement) — no further member-specific content.
+- **Portal access confirmed active (screenshot, 18 Aug 2026)** — Rupert can log in and see the plan
+  live at standardlife.co.uk. Shows **"Total plan value" £23,520.45** (as at 18 Aug), higher than
+  the 31 Jul £22,169.37 transfer value/CETV. "Transfer value" and CETV are the same concept, just
+  different names for the same figure — "plan value" is the different, potentially-diverging one.
+  The Objective IT/Prudential pension showed this label gap can matter, but this scheme's own
+  statement confirms "Guaranteed annuity rates: No" — no guarantee mechanism exists here that would
+  explain a material gap, so the portal figure is likely just dashboard lag/rounding rather than a
+  real divergence. Also shows: plan start date, contributions breakdown (money in £19,805.00 /
+  investment growth £2,715.45 per this screenshot vs £19,912.50 / £2,256.87 on the 31 Jul statement
+  — small movement consistent with ~3 weeks of extra employer contributions and growth, not a
+  discrepancy), and financial adviser on file: **Mercer Ltd (Bristol)**, The Paragon, 23 Cambridge
+  Road, Bristol, BS1 6DE.
+- **Self-service statement route tried and ruled out (18 Aug 2026).** Route: Mailbox → Send secure
+  message → topic "Plan Details" → **"Request a statement"** button → ticked **"Plan information
+  statement"** (not "Certificate of contributions," a different document) → submitted, twice (once
+  against "Previous Tax Year," producing a stale 1 Oct 2025 document; once current, dated 18 Aug
+  2026). **Neither pull ever included a transfer value or any valuation figure at all** — this
+  document type is plan/scheme details and payment history only, contrary to the portal's own
+  tooltip description. Dead end for getting a current CETV via self-service; a Mailbox message
+  explicitly requesting a "Transfer Value statement" (not this document type) would be the next
+  route if the 31 Jul figure ever needs updating. **Rupert's own call (18 Aug): 31 Jul is under a
+  month old and current enough for now** — not pursued further.
 
 ### Financial Times/Pearson Pension — 2026 Benefit Statement (dropped 30 Jul 2026)
 

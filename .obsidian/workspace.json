@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "TV Licence"
             }
+          },
+          {
+            "id": "a4c001ce0324caa8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -58,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -236,7 +250,7 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "97ebf6c296ac4020",
+  "active": "a4c001ce0324caa8",
   "lastOpenFiles": [
     "005_Divorce/House and Claims/Drain Claim.md",
     "005_Divorce/Finances/Pensions.md",
