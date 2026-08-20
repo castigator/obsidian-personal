@@ -57,22 +57,8 @@
         "fa982b5b2bc44770"
       ]
     },
-    "010_Westgate/TV Licence": {
-      "icon": "lucide-tv",
-      "unsynced": [
-        "fa982b5b2bc44770"
-      ],
-      "color": "green"
-    },
     "010_Westgate/Utilities": {
       "icon": "lucide-circle-power",
-      "unsynced": [
-        "fa982b5b2bc44770"
-      ],
-      "color": "green"
-    },
-    "010_Westgate/Utilities/Broadband": {
-      "icon": "lucide-wifi",
       "unsynced": [
         "fa982b5b2bc44770"
       ],

@@ -22,7 +22,8 @@ icon: 🏡
 | Account number | 42214538 |
 | Local authority ref | 00461950019012 |
 | Liability started | 22 August 2025 |
-| Online portal | [NEC Portal](https://espws.necsws.com/) |
+| Online portal | [NEC Portal](https://espws.necsws.com/), registered under Rupert Thomas |
+| Authority address | Grafton House 15-17, Russell Road, Ipswich, Suffolk, IP1 2DE |
 | Payment | Direct debit, 8th of month |
 
 ## History

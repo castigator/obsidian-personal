@@ -15,6 +15,27 @@ Updated EICR issued March 2026 following inspection by John Turner on 8 Nov 2025
 | ELECSA Registration | EPP34887 |
 | Result | All satisfactory, no departures from BS 7671 |
 
+## Installation Details
+
+- **Consumer unit location:** Living room
+- **Supply type:** TN-C-S, single-phase, 230V
+- **Rated current:** 60A
+- **Prospective fault current:** 704 kA
+- **Earthing conductor:** Copper, 16mm²
+- **Main switch:** BS(EN) 60947-3, Type II
+
+## Circuits
+
+| # | Circuit | Type |
+|---|---|---|
+| 1 | Kitchen sockets | Ring |
+| 2 | Cooker | Radial |
+| 3 | Shower | Radial |
+| 4 | Water heater | Radial |
+| 5 | Sockets | Ring |
+| 6 | Lighting first floor | Radial |
+| 7 | Lighting ground floor | Radial |
+
 ## Original Document
 
 ![[xx_media/EICR 2020.pdf]]

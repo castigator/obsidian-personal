@@ -15,8 +15,6 @@ content-start: 151
 
 ## Important and To Do
 
-- [x] I have to do something about [[Claude]] ✅ 2026-05-12
-
 ## Current Supplier — Fuse Energy
 
 Switched from Octopus Energy, effective 2–3 Sep 2025.
