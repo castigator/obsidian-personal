@@ -16,10 +16,10 @@ content-start: 151
 - [x] Mandy has signed via Goodlord (per Mandy, 2026-08-21) ✅
 - [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
 
-## Current Agreement (2026 — joint, periodic)
+## Current Agreement (2026 — Joint, periodic)
 
-David Burr drew up a new **Assured Periodic Tenancy Agreement** naming both Rupert Thomas and
-[[Mandy Zimmer]] as joint tenants (2 tenants, no guarantor/permitted-occupier needed), to formalise
+David Burr drew up a new **Assured Periodic Tenancy Agreement** naming both Rupert Thomas and  
+[[Mandy Zimmer]] as joint tenants (2 tenants, no guarantor/permitted-occupier needed), to formalise  
 Mandy's occupancy for succession purposes. **Rupert signed 20 Aug 2026**; Mandy still to sign.
 
 | | |
@@ -31,9 +31,9 @@ Mandy's occupancy for succession purposes. **Rupert signed 20 Aug 2026**; Mandy 
 | Deposit | £1,153.00 — **no new deposit due**, existing deposit carries over |
 | Doc source | Goodlord, drawn up by David Burr |
 
-Rupert queried wording in the agreement suggesting a fresh payment/deposit was due "before the
-21st of August" — Zoe Bareham confirmed (20 Aug 2026) this was just Goodlord's system requiring an
-entry for move-in monies (shown as £0), not a real repeat charge. Rent continues via the existing
+Rupert queried wording in the agreement suggesting a fresh payment/deposit was due "before the  
+21st of August" — Zoe Bareham confirmed (20 Aug 2026) this was just Goodlord's system requiring an  
+entry for move-in monies (shown as £0), not a real repeat charge. Rent continues via the existing  
 standing order, same date, same amount.
 
 📎 [[draft_rental_contract_mandy_2026-08-11.pdf|Draft joint agreement]] (reviewed 11 Aug 2026, prior to signing)
@@ -63,9 +63,9 @@ standing order, same date, same amount.
 - **Landlord to end:** minimum 2 months' advance written notice
 - Tenancy must not expire within the first 18 months (before 21 Feb 2027)
 - If tenant serves notice to expire before 21 Feb 2027, landlord may recover re-letting fees
-- The 2026 joint agreement shows the statutory 2-month tenant notice period instead of this
-  contractual 1-month term — **not an error or a David Burr artefact**: the Renters' Rights Act
-  2026 (in force 1 May 2026) sets tenant notice at 2 months regardless of what the contract says,
+- The 2026 joint agreement shows the statutory 2-month tenant notice period instead of this  
+  contractual 1-month term — **not an error or a David Burr artefact**: the Renters' Rights Act  
+  2026 (in force 1 May 2026) sets tenant notice at 2 months regardless of what the contract says,  
   so the agreement is just correctly reflecting the law. See [[Legal Notes]].
 
 ### Rent Increase

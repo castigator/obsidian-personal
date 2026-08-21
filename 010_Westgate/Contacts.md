@@ -16,12 +16,12 @@ content-start: 151
 
 ## Landlord
 
-**[[Julian Glasgow]] and Susan Glasgow**
+**[[Julian Glasgow]] and [[Sue Glasgow]]**
 - Address: Cranmore Green House, Cranmore Green, Long Melford, Sudbury, Suffolk, CO10 9AG
 - Email: mail@julianglasgow.co.uk
 - Email (Sue): sue@spearcommunications.co.uk
 - Phone (Julian): 01787 371 381, 07931 135 907 (matches [[Julian Glasgow]]'s contact card)
-- Phone (Sue): 07960 800 423
+- Phone (Sue): 07960 800 423 (matches [[Sue Glasgow]]'s contact card)
 - Day-to-day maintenance is the tenant's obligation; contact landlord for property maintenance issues
 
 ## Letting Agent (Let Only)
@@ -29,7 +29,7 @@ content-start: 151
 **David Burr Lettings**
 - Address: Walnut Tree House, Hall Street, Long Melford, Sudbury, Suffolk, CO10 9JG
 - Phone: 01787 888691 (lettings) / 01787 888694 (director)
-- Website: www.davidburr.co.uk
+- Website: <www.davidburr.co.uk>
 - Email: melford@davidburr.co.uk
 
 ### David Burr Team
@@ -49,9 +49,9 @@ content-start: 151
 - Phone: 0300 123 4000
 - Email: elections@baberghmidsuffolk.gov.uk
 
-**2026 household canvass** (letter received Aug 2026, ref 100091016490): No one currently
-registered to vote at 19 Westgate. Legally required response by **11 September 2026** confirming
-household occupants — via registersecurely.com/BaberghandMidSuffolk, security code 523082/7565.
+**2026 household canvass** (letter received Aug 2026, ref 100091016490): No one currently  
+registered to vote at 19 Westgate. Legally required response by **11 September 2026** confirming  
+household occupants — via registersecurely.com/BaberghandMidSuffolk, security code 523082/7565.  
 Actual vote registration (if wanted) is separate, via gov.uk/register-to-vote.
 
 📎 [[babergh-electoral.pdf|Electoral canvass letter]]

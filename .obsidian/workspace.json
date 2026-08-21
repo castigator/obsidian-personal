@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Westgate/Contract/Contract.md",
+                "file": "090_People/Julian Glasgow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contract"
+              "title": "Julian Glasgow"
             }
           }
         ],
@@ -238,10 +238,11 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "65b5746dbcacf49e",
+  "active": "97ebf6c296ac4020",
   "lastOpenFiles": [
-    "090_People/Sue Glasgow.md",
     "010_Westgate/Contacts.md",
+    "090_People/Sue Glasgow.md",
+    "010_Westgate/Contract/Contract.md",
     "010_Westgate/Building Works.md",
     "010_Westgate/Legal Notes.md",
     "010_Westgate/Correspondence Log.md",
@@ -277,7 +278,6 @@
     "xx_daily/Daily Note - 8th Jun 2026.md",
     "005_Divorce/Drain Claim.md",
     "005_Divorce/Divorce Application/How to File for Divorce.md",
-    "005_Divorce/Card Split Agreement.md",
     "005_Divorce/Divorce Application/how-to-file-divorce-timeline.png",
     "005_Divorce/how-to-file-divorce-timeline.png",
     "005_Divorce/_attachments/braintree-tpo-conservation-map-pebmarsh.png",
