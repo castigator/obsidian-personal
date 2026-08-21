@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-- [x] Mandy has signed via Goodlord (per Mandy, 2026-08-21) ✅
+- [x] Mandy signed via Goodlord ✅ 21 Aug 2026 06:48 UTC — **agreement fully executed**, agent countersigned same day
 - [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
 
 ## Renters' Rights Act 2025 (in force 1 May 2026)
@@ -85,12 +85,14 @@ needed raising with Zoe.
 entry, not a real repeat charge; rent and deposit are unchanged. **Rupert signed the final
 contract** the same day.
 
-**2026-08-21:** Mandy confirmed to Rupert she's signed via Goodlord. No one has called her in for
-the in-person Right to Rent passport check yet.
+**2026-08-21:** Mandy signed via Goodlord at 06:48 UTC; Zoe Bareham countersigned as agent at 12:01
+UTC, marking the document **Completed** — the joint agreement is now fully executed by both
+tenants and the agent. Confirmed via the signed contract's audit trail, not just Mandy's own
+account. No one has called her in for the in-person Right to Rent passport check yet.
 
 **Outstanding:** Mandy's in-person Right to Rent passport check with David Burr's office — not yet
 arranged. Once that's done, the succession risk above (Mandy unnamed on the original tenancy) will
-be fully resolved.
+be fully resolved — the tenancy itself is now already secured by the executed joint agreement.
 
 ## Draft: Email to David Burr
 

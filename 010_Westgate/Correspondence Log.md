@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-08-21
+**Last checked:** 2026-08-21 (afternoon)
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -55,6 +55,10 @@ up to date.
 | 2026-08-20 | (Rupert, in-app) | — | **Rupert signed the final contract.** The notice-clause point was not raised before signing. |
 | 2026-08-20 | rupert@pebmarsh.com | RE: 19 Westgate Street, Long Melford, CO10 9DS | Rupert replied to Zoe confirming he'd signed. |
 | 2026-08-21 | (Mandy, told to Rupert) | — | Mandy confirmed to Rupert she's signed the joint tenancy via Goodlord. No one has called her in for the in-person Right to Rent passport check yet. |
+| 2026-08-21 | no-reply@goodlord.co | Set up a standing order for your rent payments for CO109DS | Generic Goodlord new-tenancy template email with bank details for a standing order — **not a new requirement**, Rupert's existing standing order already covers rent; matches the pattern of Goodlord treating this like a brand-new application. No action needed. |
+| 2026-08-21 | no-reply@goodlord.co | Confirmation: Your rental contract for CO109DS | **Fully executed contract.** Audit trail confirms Mandy signed 21 Aug 06:48 UTC (Rupert had signed 20 Aug 10:58 UTC); Zoe Bareham countersigned as agent 21 Aug 12:01 UTC, marking the document Completed. Downloaded to `xx_media/rental_contract_signed_2026-08.pdf`. Legionnaires' Tenant Guide also attached (routine). |
+| 2026-08-21 | no-reply@goodlord.co | EICR / EPC / GSC re-issued | Three routine re-issued copies of existing certificates, same as the 18 Aug batch — not new documents. |
+| 2026-08-21 | no-reply@goodlord.co | Your TDS documents | Deposit protection scheme leaflet, same as 18 Aug — generic, not tenant-specific. |
 
 ## Julian Glasgow (Landlord)
 

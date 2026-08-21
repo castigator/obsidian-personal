@@ -13,14 +13,17 @@ content-start: 151
 ## Important and To Do
 
 - [x] Rupert signed the new joint agreement ✅ 2026-08-20
-- [x] Mandy has signed via Goodlord (per Mandy, 2026-08-21) ✅
+- [x] Mandy signed via Goodlord ✅ 2026-08-21 06:48 UTC — **fully executed**, agent countersigned same day
 - [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
 
 ## Current Agreement (2026 — Joint, periodic)
 
 David Burr drew up a new **Assured Periodic Tenancy Agreement** naming both Rupert Thomas and  
 [[Mandy Zimmer]] as joint tenants (2 tenants, no guarantor/permitted-occupier needed), to formalise  
-Mandy's occupancy for succession purposes. **Rupert signed 20 Aug 2026**; Mandy still to sign.
+Mandy's occupancy for succession purposes. **Fully executed 21 Aug 2026** — Rupert signed 20 Aug,
+Mandy signed 21 Aug, agent (Zoe Bareham) countersigned the same day.
+
+📎 [[rental_contract_signed_2026-08.pdf|Signed contract]]
 
 | | |
 |---|---|
