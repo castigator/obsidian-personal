@@ -17,7 +17,7 @@ Cranmore Green House, Long Melford, CO109AG, GB
 ### Contact Info
 
 Email: mail@julianglasgow.co.uk  
-Phone: 01787 371 381, 07931 135 907 
+Phone: 01787 371 381, 07931 135 907, 07960 800 423 
 
 Bank name: Mr J R Glasgow  
 Sort Code: 60-10-30  

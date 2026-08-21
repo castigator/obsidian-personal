@@ -12,8 +12,8 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] Mandy to sign via Goodlord + complete in-person Right to Rent passport check with David Burr
-- [ ] Decide whether to pursue the missing 1-month tenant notice clause now the contract is signed, or let it go
+- [x] Mandy has signed via Goodlord (per Mandy, 2026-08-21) ✅
+- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
 
 ## Renters' Rights Act 2025 (in force 1 May 2026)
 

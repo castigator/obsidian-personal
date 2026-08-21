@@ -13,8 +13,8 @@ content-start: 151
 ## Important and To Do
 
 - [x] Rupert signed the new joint agreement ✅ 2026-08-20
-- [ ] Mandy to sign via Goodlord + complete in-person Right to Rent passport check with David Burr
-- [ ] Missing 1-month tenant notice clause (see Special Conditions below) — not raised with Zoe before signing; decide whether to pursue it now the contract is signed
+- [x] Mandy has signed via Goodlord (per Mandy, 2026-08-21) ✅
+- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
 
 ## Current Agreement (2026 — joint, periodic)
 
@@ -59,13 +59,14 @@ standing order, same date, same amount.
 
 ### Notice Periods
 
-- **Tenant to end:** minimum 1 month's advance written notice
+- **Tenant to end:** minimum 1 month's advance written notice (as originally contracted in 2025)
 - **Landlord to end:** minimum 2 months' advance written notice
 - Tenancy must not expire within the first 18 months (before 21 Feb 2027)
 - If tenant serves notice to expire before 21 Feb 2027, landlord may recover re-letting fees
-- ⚠️ The 2026 joint agreement drops this negotiated 1-month tenant notice period and reverts to
-  the statutory 2 months under the main-body clause — looks like a David Burr template artefact
-  rather than a deliberate change, not yet raised with Zoe (see To Do above).
+- The 2026 joint agreement shows the statutory 2-month tenant notice period instead of this
+  contractual 1-month term — **not an error or a David Burr artefact**: the Renters' Rights Act
+  2026 (in force 1 May 2026) sets tenant notice at 2 months regardless of what the contract says,
+  so the agreement is just correctly reflecting the law. See [[Legal Notes]].
 
 ### Rent Increase
 
