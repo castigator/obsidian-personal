@@ -17,7 +17,8 @@ content-start: 151
 - [x] Complete [[Checklist]] ✅ 2025-10-22
 - [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 - [x] Rupert signed the new joint tenancy agreement ✅ 2026-08-20
-- [ ] Mandy to sign joint tenancy + complete Right to Rent check — see [[Contract]] / [[Legal Notes]]
+- [x] Mandy has signed the joint tenancy via Goodlord (per Mandy, 2026-08-21) ✅
+- [ ] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]]
 
 ## Key Dates
 

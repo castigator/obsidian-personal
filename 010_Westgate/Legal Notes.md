@@ -73,21 +73,24 @@ generic template wording, not a real re-referencing requirement for Rupert.
 Rupert queried the "first month's rent... before the 21st of August" wording with Zoe, on the
 assumption rent continues via the existing standing order rather than being a new payment.
 
-Separately identified (not raised with Zoe at the time): the new agreement drops the previously
-negotiated 1-month tenant notice period (Special Condition 8.1 in the original 2025 agreement) and
-falls back to the statutory 2-month notice. Nothing in the correspondence suggests this was a
-deliberate ask from Julian — looks like an artefact of David Burr's current standard template.
+Also noticed: the new agreement shows the statutory 2-month tenant notice period instead of the
+1-month term negotiated in the original 2025 agreement (Special Condition 8.1) — **this is not an
+anomaly or David Burr template artefact, it's just the Renters' Rights Act 2026 doing what it does**
+(see above: it sets tenant notice at 2 months regardless of contract wording). Not something that
+needed raising with Zoe.
 
 **2026-08-19:** David Burr sent the genuine **2026 Gas Safety Certificate** — see [[Gas Safety]].
 
 **2026-08-20:** Zoe replied — the payment/deposit wording was just Goodlord's system requiring an
-entry, not a real repeat charge; rent and deposit are unchanged. Did not address the missing
-notice-period clause. **Rupert signed the final contract** the same day (the notice-clause point
-was not separately raised before signing).
+entry, not a real repeat charge; rent and deposit are unchanged. **Rupert signed the final
+contract** the same day.
 
-**Outstanding:** Mandy still needs to sign via Goodlord and complete her in-person Right to Rent
-passport check with David Burr's office. Once that's done, the succession risk above (Mandy
-unnamed on the tenancy) will be fully resolved.
+**2026-08-21:** Mandy confirmed to Rupert she's signed via Goodlord. No one has called her in for
+the in-person Right to Rent passport check yet.
+
+**Outstanding:** Mandy's in-person Right to Rent passport check with David Burr's office — not yet
+arranged. Once that's done, the succession risk above (Mandy unnamed on the original tenancy) will
+be fully resolved.
 
 ## Draft: Email to David Burr
 

@@ -20,7 +20,8 @@ content-start: 151
 - Address: Cranmore Green House, Cranmore Green, Long Melford, Sudbury, Suffolk, CO10 9AG
 - Email: mail@julianglasgow.co.uk
 - Email (Sue): sue@spearcommunications.co.uk
-- Phone: 01787 371 381, 07931 135 907, 07960 800 423 (all three normalised onto [[Julian Glasgow]]'s contact card too)
+- Phone (Julian): 01787 371 381, 07931 135 907 (matches [[Julian Glasgow]]'s contact card)
+- Phone (Sue): 07960 800 423
 - Day-to-day maintenance is the tenant's obligation; contact landlord for property maintenance issues
 
 ## Letting Agent (Let Only)

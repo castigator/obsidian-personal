@@ -54,6 +54,7 @@ up to date.
 | 2026-08-20 | zoe@davidburr.co.uk | RE: 19 Westgate Street, Long Melford, CO10 9DS | **Payment-wording query resolved** — rent continues as usual, no fresh deposit/move-in money due. Safe to sign. Did not address the missing 1-month notice clause. |
 | 2026-08-20 | (Rupert, in-app) | — | **Rupert signed the final contract.** The notice-clause point was not raised before signing. |
 | 2026-08-20 | rupert@pebmarsh.com | RE: 19 Westgate Street, Long Melford, CO10 9DS | Rupert replied to Zoe confirming he'd signed. |
+| 2026-08-21 | (Mandy, told to Rupert) | — | Mandy confirmed to Rupert she's signed the joint tenancy via Goodlord. No one has called her in for the in-person Right to Rent passport check yet. |
 
 ## Julian Glasgow (Landlord)
 
