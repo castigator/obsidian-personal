@@ -28,6 +28,10 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [!] **Gather the numbers for [[Form E]]** — biggest gaps: Heather's Prudential DB CETV
   (sitting ready since 20 May, 🔒H), Speedware/Conchango untraced pensions, and both parties'
   income/housing needs budgets. Gates settlement modelling.
+- [ ] **Work through [[D81 Form]]** — set up 24 Aug 2026, field-by-field tracker for the actual
+  D81 with what's known/missing per question. Not yet started.
+- [ ] **Work through [[Heather Buyout Scenario]]** — set up 24 Aug 2026, scaffolding for
+  modelling Heather buying out Rupert's house share instead of a sale. Not yet started.
 
 ## The House
 

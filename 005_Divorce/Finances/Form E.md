@@ -9,7 +9,9 @@ nothing's missed, then gets condensed into the D81's total-figure-only format.
 ⚠️ **Priority note (Rupert, 18 Aug 2026): D81 is what he's actually working from — this Form E
 structure is background scaffolding underneath it, not the primary tracking surface.** For the
 pension CETV chase specifically (the D81's core content), the working tracker is
-[[D81 Pension CETVs]] — update that directly, not the status flags below.
+[[D81 Pension CETVs]] — update that directly, not the status flags below. **The primary D81
+tracking surface itself (24 Aug 2026) is [[D81 Form]] — a field-by-field mirror of the actual
+form with status flags per question.**
 
 Status flags: ✅ known and current · 🟡 known but needs a formal/updated figure · 🔴 missing entirely
 
@@ -182,6 +184,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 ## Related
 
 - [[Divorce]] — hub, to-do list
+- [[D81 Form]] — primary D81 tracker, field-by-field
 - [[D81 Pension CETVs]] — working CETV-chase tracker for the D81 total (active pensions only)
 - [[005_Divorce/Pensions]] — full pension detail
 - [[Debts]] — full debt detail
