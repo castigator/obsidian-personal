@@ -13,7 +13,8 @@ is background scaffolding underneath it, [[D81 Pension CETVs]] is the detailed p
 working tracker feeding Q8/Q10/Q12 below.
 
 Status flags: ✅ have it · 🟡 have a figure but it's stale/informal/needs confirming · 🔴 missing
-entirely · ❓ open decision, not a data gap
+entirely, chaseable now · ❓ open decision, not a data gap · ❌ not answerable yet — determined
+automatically at/by submission, nothing to chase
 
 **Not started** — set up 24 Aug 2026, ready to work through when Rupert picks this up. No court
 name/case reconciliation done yet against the divorce application's own case number.
@@ -22,8 +23,8 @@ name/case reconciliation done yet against the divorce application's own case num
 
 | Field | Status | Value |
 |---|---|---|
-| Name of court | 🔴 | Not yet identified — depends where the application ends up listed for financial remedy; check HMCTS portal / ask Alan |
-| Case no. | 🟡 | Divorce application case **1780-7415-8911-6303** (issued 16 Jun 2026) — confirm this is also the financial-remedy case number, or whether a separate one is issued |
+| Name of court | ❌ | Determined by wherever the application ends up listed for financial remedy — not something to chase now, will be assigned at submission |
+| Case no. | ❌ | Divorce application case **1780-7415-8911-6303** (issued 16 Jun 2026) is the only reference that exists yet — whether the financial-remedy case gets its own number is determined at submission, not something to chase now |
 | Applicant / Respondent names | ✅ | Rupert Thomas / Heather Thomas — which of us is "Applicant" on this form follows whoever's named applicant on the divorce app; confirm |
 | Joint form or separate? | ❓ | Guidance recommends one joint form. Depends entirely on whether terms are agreed by the time this is drafted — default to joint unless a specific reason not to |
 
@@ -39,9 +40,9 @@ name/case reconciliation done yet against the divorce application's own case num
 
 | Field | Status | Value |
 |---|---|---|
-| Q3 Decree nisi / Conditional Order date | 🔴 | Not yet granted. Application issued 16 Jun 2026; eligible to apply for Conditional Order from **4 Nov 2026**. Court cannot make a consent order without this (unless interim maintenance) |
+| Q3 Decree nisi / Conditional Order date | ❌ | Not yet granted, and not something to chase — will simply exist once the court grants it. Application issued 16 Jun 2026; eligible to apply for Conditional Order from **4 Nov 2026**. Court cannot make a consent order without this (unless interim maintenance) |
 | Q4 Is this for interim maintenance? | ❓ | Presumed No (goal is a single clean-break consent order) — confirm |
-| Q5 Decree/Final Order granted? | 🔴 | No — and by design: [[Divorce]] hub says hold Final Order until the consent order is sealed |
+| Q5 Decree/Final Order granted? | ❌ | No — and by design: [[Divorce]] hub says hold Final Order until the consent order is sealed. Determined by process timing, not something to chase |
 
 ## Q6 — Dates of birth / relevant children
 
