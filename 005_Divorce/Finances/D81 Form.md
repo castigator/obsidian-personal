@@ -32,8 +32,8 @@ name/case reconciliation done yet against the divorce application's own case num
 | Field | Status | Value |
 |---|---|---|
 | Q1 Marriage date | ✅ | 22 August 1998 |
-| Q1 Date started living together (if earlier) | 🔴 | CLAUDE.md notes "~40 years together as a couple" vs 27 years married, implying pre-marriage cohabitation from roughly the mid-1980s, but no specific date on file. Optional field — only needed if relevant to court |
-| Q2 Date separated | 🔴 | Not recorded anywhere in the project. Need the actual date Rupert moved out to Westgate |
+| Q1 Date started living together (if earlier) | ✅ | ~20 August 1985 (Rupert's recollection, approximate) — matches the "~40 years together" figure (1985→2025) |
+| Q2 Date separated | ✅ | 22 August 2025 (Rupert, 26 Aug 2026) — exactly 27 years to the day after the marriage date |
 
 ## Q3–5 — Decree/order dates
 
@@ -47,7 +47,7 @@ name/case reconciliation done yet against the divorce application's own case num
 
 | Field | Status | Value |
 |---|---|---|
-| Applicant/Respondent DOBs | 🔴 | Not recorded in this project (personal/private — hold this back until actually drafting) |
+| Applicant/Respondent DOBs | ✅ | Rupert: 19 June 1966. Heather: 15 December 1966 |
 | Relevant children | ✅ | Dylan (27), Daisy (26), Lucy (21) — all adults, none is a "child of the family under 18." Lucy could arguably be listed as a dependent child (university, ~£200/mo food money from Rupert) — **open question whether to include her at all given the form's own definition is "under 18 or dependent"** |
 
 ## Q7 — How was the consent order reached
@@ -78,7 +78,7 @@ Feeds from [[Income & Costs]].
 | Row | Status | Value |
 |---|---|---|
 | A — Earned income after tax/NI | ✅ | Rupert: £6,109/mo net (Jan 2026 rise). Heather: ~£1,471/mo net (existing figure; her 30 Jul WhatsApp self-report of ~£21,715/yr gross is roughly consistent but not verified against a payslip) |
-| B — State benefits | 🔴 | Not checked for either party |
+| B — State benefits | ✅ | None for either party (Rupert, 26 Aug 2026) |
 | C — Pension income | ✅ N/A | Neither party yet drawing a pension |
 | G/H — Child/spousal maintenance between parties | ❓ | None currently paid — presumed nil pending the clean-break argument, but this is the crux question the whole D81 is building toward |
 | J/K — Maintenance to/from third parties | ✅ N/A | None identified |
@@ -112,7 +112,7 @@ Feeds from [[Income & Costs]].
 | Field | Status | Value |
 |---|---|---|
 | Applicant (Rupert) | ✅ | Cohabiting — with Mandy Zimmer at Westgate |
-| Respondent (Heather) | 🔴 | Not known/asked |
+| Respondent (Heather) | 🟡 | No intention to remarry/cohabit, nobody else involved — Rupert's own assessment (26 Aug 2026), not confirmed directly by Heather or her solicitor |
 
 ## Q17 — Notice to mortgage provider
 
