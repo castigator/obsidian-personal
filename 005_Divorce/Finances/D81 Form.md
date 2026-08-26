@@ -46,10 +46,10 @@ name/case reconciliation done yet against the divorce application's own case num
 
 ## Q6 — Dates of birth / relevant children
 
-| Field | Status | Value |
-|---|---|---|
-| Applicant/Respondent DOBs | ✅ | Rupert: 19 June 1966. Heather: 15 December 1966 |
-| Relevant children | ✅ | Dylan (27), Daisy (26), Lucy (21) — all adults, none is a "child of the family under 18." Lucy could arguably be listed as a dependent child (university, ~£200/mo food money from Rupert) — **open question whether to include her at all given the form's own definition is "under 18 or dependent"** |
+| Field                     | Status | Value                                                                                                                                                                                                                                                                                                   |
+| ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Applicant/Respondent DOBs | ✅      | Rupert: 19 June 1966. Heather: 15 December 1966                                                                                                                                                                                                                                                         |
+| Relevant children         | ✅      | Dylan (27), Daisy (26), Lucy (21) — all adults, none is a "child of the family under 18." Lucy could arguably be listed as a dependent child (university, ~£200/mo food money from Rupert) — **open question whether to include her at all given the form's own definition is "under 18 or dependent"** |
 
 ## Q7 — How was the consent order reached
 
@@ -117,9 +117,9 @@ Feeds from [[Income & Costs]].
 
 ## Q17 — Notice to mortgage provider
 
-| Field | Status | Value |
-|---|---|---|
-| Q17 | ❓ | Only applies if the consent order provides for a property transfer — depends on whether the outcome is sale-and-split, a buyout (one party keeps the house and refinances), or transfer. Not decidable yet |
+| Field | Status | Value                                                                                                                                                                                                      |
+| ----- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Q17   | ❓      | Only applies if the consent order provides for a property transfer — depends on whether the outcome is sale-and-split, a buyout (one party keeps the house and refinances), or transfer. Not decidable yet |
 
 ## Q18–22 — Pension orders / notice to pension arrangement
 
