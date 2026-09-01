@@ -95,8 +95,8 @@ Combined effect on Heather if everything lands: +£128 rebalance + £65 cats + s
 
 ## Recommended actions
 
-- ✓ Basis confirmed £128.91 (sheet, core bills); channel = WhatsApp. Draft (Rupert-edited) at
-  repo `correspondence/heather/2026-07-15_whatsapp-four-points-DRAFT.md`.
+- ✓ Basis confirmed £128.91 (sheet, core bills); channel = WhatsApp. Sent version logged at
+  [[2026-07-15_whatsapp-four-points]] (draft filename above is stale — superseded once sent).
 - Raise card-split mechanics with Alan Caldwell before executing (not before proposing).
 - RBS letter (divorce + subsidence + payment-flex ask) is complementary: any RBS payment relief
   directly reduces the pot and both parties' shares — good joint framing for the message.

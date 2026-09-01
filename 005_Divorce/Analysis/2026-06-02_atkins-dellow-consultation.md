@@ -4,7 +4,7 @@
 **Location:** 2 Friars Street, Sudbury, CO10 2AA
 **Solicitor:** Alan Caldwell (alan.caldwell@atkinsdellow.com, 07796 145542)
 **Fee for this consultation:** £75 + VAT (£90), no obligation
-**Source:** Rupert's handwritten notes (`incoming/Caldwell/1-4.jpeg` + annotated questions sheet `answers.jpeg`), interpreted with Rupert 2 Jun.
+**Source:** Rupert's handwritten notes (`Correspondence/heather/caldwell/1-4.jpeg` + annotated questions sheet `answers.jpeg`), interpreted with Rupert 2 Jun.
 
 > Not legal advice — this is a record of what Alan said at an initial meeting, as captured in Rupert's notes.
 

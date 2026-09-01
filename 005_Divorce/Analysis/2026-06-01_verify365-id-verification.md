@@ -24,7 +24,7 @@ is still pending.
 
 Atkins Dellow required ID verification via Verify365 before the first consultation
 (Tue 2 Jun 2026, 12:00 noon, Sudbury). Rupert chased the missing link on 1 Jun
-(see `correspondence/heather/2026-06-01_atkins-dellow-verify365-id-check.md`), the
+(see [[2026-06-01_atkins-dellow-verify365-id-check]]), the
 link arrived 1 Jun 10:32, and verification was completed the same afternoon.
 
 This note exists because the portal view may not be reachable again after the

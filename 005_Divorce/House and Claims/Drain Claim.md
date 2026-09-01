@@ -61,7 +61,7 @@ the account rather than paid direct as originally expected.
   numbering systems don't map onto each other and nothing in Catalyst's report confirms whether  
   their 4 defects are the same ground DW Solutions surveyed, or a smaller/different set found on a  
   later, independent visit. Full cross-check:  
-  `correspondence/insurance/2026-08-12_catalyst-drainage-report-scope-mismatch.md` (git repo).
+  [[2026-08-12_catalyst-drainage-report-scope-mismatch]].
 - **The £9,360.63/£8,960-net figures have never actually been confirmed by Ageas/Catalyst in  
   writing** — they've only ever been Rupert's own modelling, carried forward from the original DW  
   Solutions quote. Worth treating with real caution in any settlement/house-sale modelling until  
@@ -72,10 +72,10 @@ the account rather than paid direct as originally expected.
   [[Subsidence Claim]]) — implies £400 has actually been set aside somewhere, which may resolve  
   this, though not stated explicitly as such. Worth clarifying if it comes up naturally.
 - ✅ **13 Aug — reply sent, query answered same day, effectively closed out.** Rupert's reply  
-  (`correspondence/insurance/2026-08-13_rupert-reply-scope-query.md`, git repo) itemised both  
+  ([[2026-08-13_rupert-reply-scope-query]], git repo) itemised both  
   scopes side by side and asked (a) does the work cover the same ground, (b) what value did it  
   come to. **Catalyst (Seren Rowley) replied same day**  
-  (`correspondence/insurance/2026-08-13_catalyst-reply-scope-query.md`): claims "7 repairs" on  
+  ([[2026-08-13_catalyst-reply-scope-query]]): claims "7 repairs" on  
   both the third-party quote and Catalyst's own work, but doesn't cleanly map onto DW Solutions'  
   8 costed line items or Catalyst's own 4-location report. **Refuses to disclose cost/value**  
   ("not at liberty to discuss the costs"), asserts DW Solutions' quote "was inflated." The  

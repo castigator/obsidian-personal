@@ -56,7 +56,7 @@ Most pensions traced via **Aviva Find & Combine** (research only, nothing combin
 ### Midel Pension — Retirement Notification (letter Photographed 16 Jun 2026)
 
 Aviva plan **7137159** (Flexible Retirement Account). Member Rupert Thomas, DOB 19 Jun 1966.  
-Source images: `incoming/WhatsApp Image 2026-06-16 at 09.52.34*.jpeg` (4 pages). Full analysis:  
+Source images: `Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 09.52.34*.jpeg` (4 pages). Full analysis:  
 [[2026-06-16_aviva-midel-retirement-deferral]].
 
 Key facts from the letter:
@@ -129,7 +129,7 @@ Full analysis: [[2026-08-17_objective-it-prudential-cetv-chase]].
 ### Aristocrat Pension — Standard Life Yearly Statement (31 Jul 2026, letter dated 31 Jul, received 12 Aug)
 
 Standard Life. Member Mr R Thomas, Group Flexible Retirement Plan. Source:  
-`incoming/2026-07-31_standard-life-aristocrat-yearly-statement.pdf` (8 pages, physical post).
+`attachments/2026-07-31_standard-life-aristocrat-yearly-statement.pdf` (8 pages, physical post).
 
 - **Plan number confirmed: D4600026000** (resolves the earlier D460002600/D460002800 ambiguity —
   the statement prints it clearly on every page). Scheme no. **JQ3525**, scheme name Aristocrat
@@ -174,7 +174,7 @@ Standard Life. Member Mr R Thomas, Group Flexible Retirement Plan. Source:
 ### Financial Times/Pearson Pension — 2026 Benefit Statement (dropped 30 Jul 2026)
 
 **Money Purchase 2003 Section Leavers**, scheme/member number **F70322/7872**, selected retirement
-age 62. Source: `incoming/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (illustration date
+age 62. Source: `attachments/2026-05-08_pearson-ft-pension-benefit-statement.pdf` (illustration date
 8 May 2026).
 
 - **Value of pension pot as at 5 April 2025: £61,731.40.**
@@ -222,8 +222,8 @@ reference, in case it's ever worth revisiting.
   (fallback). **Rothesay replied same day: no policy held in Rupert's name — ruled out.** **Aegon
   replied 29 Jul (a day earlier than the ~4 Aug estimate): no record on their Targetplan platform —
   also ruled out.** Both direct leads are now exhausted. See
-  `correspondence/pensions/2026-07-28_rothesay-no-record.md` and
-  `correspondence/pensions/2026-07-29_aegon-no-record.md` in the git repo.
+  [[2026-07-28_rothesay-no-record]] and
+  [[2026-07-29_aegon-no-record]] in the git repo.
 - **Live next step:** Aegon's reply notes they run multiple independent platforms with no
   cross-visibility between them — a "no record on Targetplan" answer doesn't rule out the scheme
   sitting on a different Aegon platform. Worth one targeted follow-up (aegon.co.uk/support.html)

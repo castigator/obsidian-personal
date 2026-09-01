@@ -43,7 +43,7 @@ front right) roots beneath foundations. Drains NOT implicated.
   reference): Halifax, Hamish John Jenkins, sort code 11-07-54, account 00382342. Also surfaced: a
   £400 sum earmarked "for drain excess" apparently already exists somewhere (Heather's wording) —
   bears on the [[Drain Claim]] £400-excess open question. Verbatim:
-  `correspondence/heather/whatsapp-transcript.md` (git repo).
+  [[whatsapp-transcript]].
 - No completion photo confirmed sent — GHG's 5 Jun approval required one; worth confirming with
   Heather it's been sent or isn't needed.
 

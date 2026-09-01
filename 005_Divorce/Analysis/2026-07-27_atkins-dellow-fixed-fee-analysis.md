@@ -8,10 +8,10 @@ is there a general right to cancel if Rupert isn't happy?
 
 ## Documents reviewed
 
-- `incoming/caldwell/2026-07-20_terms-of-business.pdf` (Atkins Dellow Terms of Business v1.2)
-- `incoming/caldwell/2026-07-20_cost-schedule.doc`
+- `Correspondence/heather/caldwell/2026-07-20_terms-of-business.pdf` (Atkins Dellow Terms of Business v1.2)
+- `Correspondence/heather/caldwell/2026-07-20_cost-schedule.doc`
 - Alan Caldwell's 20 Jul 2026 covering email (engagement pack) —
-  `correspondence/heather/2026-07-20_atkins-dellow-engagement-pack.md`
+  [[2026-07-20_atkins-dellow-engagement-pack]]
 
 ## Key findings
 

@@ -24,7 +24,7 @@ delayed until the subsidence works complete (~spring 2027).
 
 **Decided 7 Jul (WhatsApp with Heather):** notify RBS about **both** — primarily the divorce/separation,  
 but subsidence too, so RBS is fully in the loop on both. See  
-`correspondence/heather/2026-07-06_whatsapp-trees-catalyst-valuation-rbs.md`.
+[[2026-07-06_whatsapp-trees-catalyst-valuation-rbs]].
 
 ### Open Question: Which Channel?
 
@@ -327,7 +327,7 @@ rumoured to be phasing out The One Account](https://www.mortgagestrategy.co.uk/n
 
 **23 Jul 2026, WhatsApp:** shared the draft above with Heather for her sight before sending, per the
 7 Jul decision to notify RBS about both the separation and the subsidence claim. See
-`correspondence/heather/2026-07-23_whatsapp-rbs-letter-preview.md` once sent/logged.
+[[2026-07-24_whatsapp-rbs-message-preview-sent]] (logged the next day, 24 Jul).
 
 ### Response Received — Voicemail 30 Jul 2026
 
@@ -338,7 +338,7 @@ that day (missed the window). Not yet actioned/returned as of logging.
 **Callback number: 0345 301 0101** (Rupert's read of the transcript, confirmed against the audio —
 differs from the mortgage team number on file, 0345 300 4013, likely a specific caseworker/team
 line rather than an error). Full detail and screenshot:
-`correspondence/rbs/2026-07-30_rbs-voicemail-callback-request.md` (git repo).
+[[2026-07-30_rbs-voicemail-callback-request]].
 
 **Corroborated by Heather (WhatsApp, 30 Jul 16:58):** RBS also rang her — "they said they left a
 message for you then rang me - I didn't discuss anything as I said it would be better if they
@@ -347,7 +347,7 @@ you sent is on file)." Confirms: (1) the letter and its contact-details request 
 RBS is treating this as a joint matter and trying to reach both parties, (2) "all info you sent is
 on file," and (3) Heather deliberately deferred rather than answering on Rupert's behalf — good,
 keeps the paper trail clean and consistent with the joint-visibility approach used with
-Ageas/Catalyst. See `correspondence/heather/whatsapp-transcript.md` (30 Jul entries) for verbatim.
+Ageas/Catalyst. See [[whatsapp-transcript]] (30 Jul entries) for verbatim.
 
 **Next: Rupert to call RBS back on 0345 301 0101**, and log the outcome here — first substantive
 contact since the letter went out, likely their response to the support/redemption-statement/
@@ -356,8 +356,8 @@ contact-details asks.
 ### Call Outcome — 31 Jul 2026
 
 Rupert returned the call to 0345 301 0101. Handler: **Jamie**. Recording kept
-(`correspondence/rbs/2026-07-31_rbs-callback-recording.mp3`), full transcript filed
-(`correspondence/rbs/2026-07-31_rbs-callback-transcript.md`, produced via local
+(`Correspondence/rbs/2026-07-31_rbs-callback-recording.mp3`), full transcript filed
+([[2026-07-31_rbs-callback-transcript]], produced via local
 speech-to-text — mlx-whisper, on-device, nothing uploaded). Summary below is corrected
 against that transcript (supersedes the initial verbal summary logged same day).
 

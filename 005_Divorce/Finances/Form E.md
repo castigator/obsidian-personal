@@ -49,7 +49,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
   all pensions, both parties), with any apparent unfairness explained in the form's explanatory
   boxes. He didn't give specific steers on the other two questions asked (detail level for open
   claims; income/housing needs approach) — his reply was fairly generic on those, worth a
-  follow-up if still needed. See `correspondence/solicitors/2026-08-03_alan-d81-vs-form-e-answer.md`.
+  follow-up if still needed. See [[2026-08-03_alan-d81-vs-form-e-answer]].
 - 🔴 **Record of Terms Agreed** — Alan now wants a document, signed and dated by both Rupert and
   Heather, recording the agreed settlement terms, to draft the Financial Order from. Doesn't exist
   yet — this plus draft D81 figures from each side is what he's waiting on next.

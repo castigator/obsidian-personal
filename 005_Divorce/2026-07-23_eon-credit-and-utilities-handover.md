@@ -83,9 +83,9 @@ acknowledgment back so there's no later ambiguity about when the switch took eff
 ## Related
 - [[project_inheritance_mandy]] (unrelated topic, same "don't raise small side-issues that
   complicate the main ask" logic applies)
-- `correspondence/heather/2026-07-18_heather-mailbox-sweep-holiday-window.md` (source of the
+- [[2026-07-18_heather-mailbox-sweep-holiday-window]] (source of the
   £528.55 figure)
-- `correspondence/heather/2026-07-23_whatsapp-heather-reply-cards-drains-utilities.md`
+- [[2026-07-23_whatsapp-heather-reply-cards-drains-utilities]]
 
 ## Addendum (23 Jul, later same day) — the real number is £305.90, not £200
 
