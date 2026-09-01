@@ -94,6 +94,11 @@ account. No one has called her in for the in-person Right to Rent passport check
 arranged. Once that's done, the succession risk above (Mandy unnamed on the original tenancy) will
 be fully resolved — the tenancy itself is now already secured by the executed joint agreement.
 
+**2026-09-01:** As of this date, David Burr also hasn't chased the **£150+VAT fee** for drawing up
+the new agreement (agreed 2026-08-08, see above) — no invoice or payment request received.
+Rupert's deliberately not raising it himself. Noting this alongside the Right to Rent check as a
+second thing David Burr has let drop.
+
 ## Draft: Email to David Burr
 
 See `correspondence/drafts/notify-occupant-mandy.md` in the git repo (operational drafts area).

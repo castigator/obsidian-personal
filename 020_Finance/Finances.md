@@ -15,6 +15,10 @@ content-start: 146
 
 RBS Customer Number - 1906660295
 
+See [[Accounts]] for the full account/balance catalogue, [[Correspondence Log]] for finance
+emails, and [[0% Offers Tracker]] for live promotional-rate offers — this folder is now the
+`finance` project's primary store (moved from the `finance` git repo 1 Sept 2026).
+
 ## To Do
 
 Cancel / Transfer Tesco+ - cancelled 12/08
