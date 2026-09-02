@@ -17,7 +17,7 @@ chase history, closed-out pensions, and Heather's pensions.
 | --------------- | ------------ | -------------------------------- | ---------------------------------------- | ----- | ------ |
 | Midel           | 1987–1990    | Aviva (plan 7137159)             | £14,132.62                               | 19 Jun 2026 (est.) | Traced. Retirement date = 60th b'day (19 Jun 2026). Deferral auto-applies if no action — see below |
 | Speedware       | 1990–1997    | None — Rupert's own assessment   | —                                        | 12 Aug 2026 | Closed out, not a formal provider confirmation — see below |
-| Objective IT    | 1997–2001    | Prudential (plan M843457, contract J95042638, policy R843457000) | £25,531.91 | 21 Oct 2025 | **Stale** — updated CETV requested by email 18/19 Aug 2026, awaiting reply — see below |
+| Objective IT    | 1997–2001    | Prudential (plan M843457, contract J95042638, policy R843457000) | £27,425.39 | 24 Aug 2026 | Updated transfer value illustration received 2 Sep 2026 — see below |
 | Code Collective | 2001–2005    | None (own company)               | —                                        | —     | Confirmed no pension |
 | Conchango       | 2005–2011    | None — Rupert's own assessment   | —                                        | 12 Aug 2026 | Closed out, never actually chased with a provider — see below |
 | Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 | 5 Apr 2026 | Formal 2026 Benefit Statement, dated 8 May 2026 — see below |
@@ -25,9 +25,7 @@ chase history, closed-out pensions, and Heather's pensions.
 | Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37                | 31 Jul 2026 | Formal Yearly Statement; portal separately shows £23,520.45 "total plan value" (18 Aug), not confirmed equivalent — see below |
 | State Pension   |              |                                  | £1,042/mo projected                      | —     | Projection, not a CETV |
 
-**Total confirmed value: ~£219,236.55** (Pearson/FT, Aristocrat, Midel, and now Gamesys/Roxor all
-have formal/dated figures — see below; Objective IT/Prudential is the one remaining stale figure,
-~10 months old, updated CETV requested by email 18/19 Aug 2026, awaiting reply).
+**Total confirmed value: ~£221,130.03** (all five active pensions now have formal/dated figures).
 
 **Gamesys/Roxor CETV — settled 18 Aug 2026.** HL Group SIPP, client number 2326897. Dated
 Portfolio Summary PDF: stock value £86,401.19 + total cash £29.32 = **£86,430.51 total, valuation
@@ -95,13 +93,20 @@ Full analysis: [[2026-08-17_objective-it-prudential-cetv-chase]].
   when both were Objective IT directors, a governance role, not a beneficial claim**: the fund and
   CETV are unambiguously Rupert's as the named member. Open question is whether Prudential would
   need both trustees' signatures for any future transfer/draw given a co-trustee who's now
-  estranged — live next step is asking Prudential directly once the CETV reply comes back, and
-  separately flagging to Alan for awareness.
-- **Transfer value illustration, 21 Oct 2025:** current fund value £11,851.86, but **total net
-  transfer value £25,531.91** — more than double, and **not explained by a guarantee**: Prudential
-  states explicitly "no protected rights, GMP, or contracted-out benefits" and "no guaranteed
-  policy, bonus, growth or annuity rates under the scheme." The gap is a genuine open question to
-  put to Prudential directly, not a known guaranteed-benefit story.
+  estranged — the CETV reply has now come back (see below) without addressing this; live next
+  step is asking Prudential directly, and separately flagging to Alan for awareness.
+- **✅ Updated transfer value illustration received 2 Sep 2026** (letter dated 26 Aug, calculation
+  date **24 Aug 2026**): current fund value **£12,139.74**, **total net transfer value
+  £27,425.39** — up from the 21 Oct 2025 figures (£11,851.86 / £25,531.91). Gap has widened
+  slightly (£15,285.65 now vs £13,680.05 then). Source:
+  [[2026-08-26_prudential-objective-it-updated-cetv]]. **This is the current CETV — the last
+  stale figure among the five active pensions is now resolved.**
+- **Original transfer value illustration, 21 Oct 2025:** current fund value £11,851.86, but **total
+  net transfer value £25,531.91** — more than double, and **not explained by a guarantee**:
+  Prudential states explicitly "no protected rights, GMP, or contracted-out benefits" and "no
+  guaranteed policy, bonus, growth or annuity rates under the scheme." The gap is a genuine open
+  question, restated but not actually answered in the 26 Aug reply — still worth putting to
+  Prudential directly if it matters for settlement modelling.
 - **A-Day value: £9,025.48** — most of the fund predates 6 April 2006. Rupert **is** entitled to
   tax-free cash greater than the standard 25% on pre-2006 benefits, but Prudential never received
   the "Benefit Calculation Checklist" needed to calculate the actual percentage, so they currently
@@ -124,7 +129,9 @@ Full analysis: [[2026-08-17_objective-it-prudential-cetv-chase]].
   balances.
 - **✅ Email sent 18/19 Aug 2026** to Prudential (EPP2-4@Prudential.co.uk) requesting an updated
   CETV (the £25,531.91 figure was ~10 months old) and asking directly what explains the fund-value/
-  transfer-value gap. Awaiting reply.
+  transfer-value gap. **✅ Replied 26 Aug (received/filed 2 Sep)** — updated CETV supplied (see
+  above), but the gap question wasn't actually addressed, just restated as the standard with-profits
+  final-bonus mechanism.
 
 ### Aristocrat Pension — Standard Life Yearly Statement (31 Jul 2026, letter dated 31 Jul, received 12 Aug)
 

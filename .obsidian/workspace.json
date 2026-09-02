@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020_Finance/Accounts.md",
+                "file": "005_Divorce/Finances/Pensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Accounts"
+              "title": "Pensions"
             }
           }
         ]
@@ -202,6 +202,9 @@
   },
   "active": "87fca705852ab4d1",
   "lastOpenFiles": [
+    "020_Finance/Accounts.md",
+    "005_Divorce/Correspondence/pensions/2026-08-26_prudential-objective-it-updated-cetv.md",
+    "005_Divorce/Correspondence/pensions/2026-08-26_prudential-objective-it-updated-cetv.pdf",
     "005_Divorce/Finances/attachments/2026-07-31_standard-life-aristocrat-yearly-statement.pdf",
     "005_Divorce/Finances/attachments/2026-05-08_pearson-ft-pension-benefit-statement.pdf",
     "005_Divorce/Finances/attachments/2026-04-05_P60_2025-26_roxor.pdf",
@@ -211,11 +214,9 @@
     "005_Divorce/Correspondence/insurance/attachments",
     "005_Divorce/Correspondence/rbs/2025-08-29_final-redemption-statement.pdf",
     "005_Divorce/Correspondence/heather/caldwell/2026-07-20_cost-schedule.doc",
-    "005_Divorce/Correspondence/heather/caldwell/2026-07-20_client-care-letter.docx",
     "005_Divorce/Correspondence/heather/caldwell/answers.jpeg",
     "005_Divorce/Correspondence/heather/caldwell/4.jpeg",
     "005_Divorce/Correspondence/heather/caldwell/3.jpeg",
-    "005_Divorce/Correspondence/heather/caldwell/2026-07-20_ways-to-pay.pdf",
     "005_Divorce/Correspondence/heather/caldwell/2.jpeg",
     "005_Divorce/Correspondence/heather/caldwell/1.jpeg",
     "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 10.00.11.jpeg",
@@ -246,7 +247,6 @@
     "005_Divorce/Correspondence/insurance/2026-06-08_catalyst-engineer-visit-15-jun.md",
     "005_Divorce/Correspondence/insurance/2026-06-08_catalyst-call-site-visit-prep.md",
     "005_Divorce/Correspondence/insurance/2026-06-04_drain-claim-registered-catalyst.md",
-    "005_Divorce/Correspondence/subsidence/2026-05-12_rupert-to-ghg-questions.md",
-    "005_Divorce/Correspondence/subsidence/2026-01-09_ghg-solutions-correspondence.md"
+    "005_Divorce/Correspondence/subsidence/2026-05-12_rupert-to-ghg-questions.md"
   ]
 }
