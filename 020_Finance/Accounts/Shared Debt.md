@@ -55,12 +55,12 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 ## Offers (on the cards themselves — not Rupert's to draw on, but relevant to shared-debt strategy; see [[0% Offers Tracker]] for the consolidated view across every card)
 
 ### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
-- **Source:** recurring marketing email from Halifax, most recent 17 Aug 2026
+- **Source:** recurring marketing email from Halifax, most recent 1 Sept 2026
 - **Rate:** 0.00% for 12 months on transfers
 - **Fee:** 5% of amount transferred
-- **Transfer window:** must request by 31 August 2026
-- **Credit limit:** £7,500; **available:** £1,284 (as at 11 Aug 2026, implies
-  balance ≈ £6,216 — broadly consistent with the £6,282.94 spreadsheet figure
+- **Transfer window:** must request by 30 September 2026 (rolled forward from 31 Aug)
+- **Credit limit:** £7,500; **available:** £1,169 (as at 24 Aug 2026, implies
+  balance ≈ £6,331 — broadly consistent with the £6,282.94 spreadsheet figure
   above)
 - **Status:** Heather's card, Heather's decision — Rupert can't action this
   himself. Only relevant if she chooses to use it (e.g. to shift her own

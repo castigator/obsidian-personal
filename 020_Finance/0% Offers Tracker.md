@@ -15,7 +15,7 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-08-25.
+**Last updated:** 2026-09-01.
 
 ## Rupert's own cards
 
@@ -30,7 +30,7 @@ just aggregates so nothing has to be reassembled at decision time.
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
-| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee | Request by 31 Aug 2026 | £1,284 available as at 11 Aug 2026 (limit £7,500) | Heather's decision only — see [[Shared Debt]] |
+| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee | Request by 30 Sept 2026 | £1,169 available as at 24 Aug 2026 (limit £7,500) | Heather's decision only — see [[Shared Debt]] |
 | Barclaycard (Heather's, …5002) | Purchases only (not BT/MT) | 0% / no fee | Activate by 31 Aug 2026 in-app; runs to 1 Mar 2027 | £6,275.76 available (limit £13,550) — as at 20 Jul, not re-confirmed this offer | New 24 Aug 2026 — see [[Shared Debt]] |
 | Barclaycard (Ann's) | — | none known | — | not tracked | Never surfaced by email search |
 

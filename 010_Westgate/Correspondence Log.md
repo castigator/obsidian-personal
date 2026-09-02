@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-01
+**Last checked:** 2026-09-02
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept

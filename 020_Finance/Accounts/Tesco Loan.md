@@ -10,7 +10,8 @@
 - **Total interest due:** £353.76 · **Total to repay:** £3,353.76
 - **First payment:** 2 December 2025 (payment break at start of loan)
 - **Repaid from:** sort code 60-83-71, account 29495288 — shows as "Tesco Bank Loan" on statement
-- **Balance (Banktivity):** -£2,021.82 as of 2026-07-03
+- **Balance (Banktivity):** -£1,602.60 as of 2026-08-31 (three £139.74 scheduled payments posted
+  since the last recorded figure — 1 Aug and 31 Aug, on time, nothing irregular)
 
 ## Overpayments and early settlement
 

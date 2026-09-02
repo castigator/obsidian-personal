@@ -5,7 +5,13 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-01. Nothing new to file — only hits since 28 Aug
+**Last checked:** 2026-09-02. Nothing new to file — only hit since 1 Sept
+was Halifax's recurring 0% transfer offer to Heather (terms rolled forward,
+window now 30 Sept, available capacity refreshed to £1,169 as at 24 Aug —
+updated in [[0% Offers Tracker]] and [[Shared Debt]]). All other sender and
+keyword searches since 1 Sept came back empty.
+
+**2026-09-01.** Nothing new to file — only hits since 28 Aug
 were app-login/marketing noise with no figures or terms (Barclays app
 welcome + security-tips emails, a Starling login notification, an M&S
 mobile-banking-app-setup confirmation) — none finance-relevant. All other
