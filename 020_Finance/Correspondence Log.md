@@ -5,7 +5,14 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-02. Nothing new to file — only hit since 1 Sept
+**Last checked:** 2026-09-03. Gmail token expired/revoked this run —
+re-authorized mid-refresh (Rupert approved via browser) before sweeping.
+Nothing new to file — only hit since 2 Sept was a routine Halifax "payment
+received" notice (Heather's card, confirms the £177.98 debt-servicing
+payment already visible in Banktivity, no new figures). All other sender
+and keyword searches since 2 Sept came back empty.
+
+**2026-09-02.** Nothing new to file — only hit since 1 Sept
 was Halifax's recurring 0% transfer offer to Heather (terms rolled forward,
 window now 30 Sept, available capacity refreshed to £1,169 as at 24 Aug —
 updated in [[0% Offers Tracker]] and [[Shared Debt]]). All other sender and

@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,744.95 | 2026-09-01 |
+| Starling - Main | £1,641.87 | 2026-09-01 |
 | Starling - Joint | £65.44 | 2026-09-01 |
-| Barclays - Current | £1,114.65 | 2026-09-01 |
+| Barclays - Current | £540.17 | 2026-09-02 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
@@ -53,7 +53,19 @@ Licence £15.51, Home Insurance £5.30) — plus £459.58 and £230.02 moved to
 Barclays - Current (Rupert's own transfer between his accounts, accounts  
 for that account's £425.05→£1,114.65 jump). Starling - Joint's balance is  
 unchanged (£65.44) despite passing £130 through it — see the HealthSpa  
-transfer-chain note below.
+transfer-chain note below. Small further Starling - Main spend on 1 Sept
+(Budgens, Journey official, Swan Long Melford) took it down to £1,641.87.
+
+**2 Sept 2026 — Barclays - Current, routine monthly debt-servicing
+payments.** £1,114.65→£540.17: two payments to "Barclaycard" (£200 +
+£196.50) and one to "Halifax" (£177.98) — this is Rupert's recurring
+monthly contribution toward Heather's Barclaycard/Halifax minimums (same
+pattern every month since at least Mar 2026, see [[Shared Debt]] /
+[[Monthly Contributions]] for the servicing-split context). Halifax's
+£177.98 this month is higher than the usual ~£62–70 — worth a passing
+flag, but nothing in the divorce cross-check suggests a change to the
+servicing split, so treating as ordinary unless it recurs. Confirmed via
+a routine Halifax "Payment received" notice, no new figures.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
