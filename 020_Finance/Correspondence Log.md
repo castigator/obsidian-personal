@@ -5,7 +5,14 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-03. Gmail token expired/revoked this run —
+**Last checked:** 2026-09-03 (second `/refresh` run same day). Nothing new
+— the only hit (the 3 Sept Halifax "payment received" notice) was already
+logged earlier this run's own predecessor, re-surfaced by the date filter.
+All other sender and keyword searches since 3 Sept came back empty.
+Banktivity also unchanged since the prior run — no balance diffs to
+reconcile against.
+
+**2026-09-03 (earlier run).** Gmail token expired/revoked this run —
 re-authorized mid-refresh (Rupert approved via browser) before sweeping.
 Nothing new to file — only hit since 2 Sept was a routine Halifax "payment
 received" notice (Heather's card, confirms the £177.98 debt-servicing
