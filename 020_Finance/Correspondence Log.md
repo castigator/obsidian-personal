@@ -5,7 +5,16 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-03 (second `/refresh` run same day). Nothing new
+**Last checked:** 2026-09-04. Three hits since 3 Sept, none worth their own
+entry: a Barclaycard 0% purchases-offer reminder (Heather's card ending
+5002, rolled forward — updated in [[0% Offers Tracker]] and
+[[Shared Debt]]), a Halifax "invitation to start using the Lloyds app"
+(pure marketing, no figures), and Barclays' routine "statement is
+available" notice (Rupert's own current account, no figures, sent twice
+same-minute). All other sender and keyword searches since 3 Sept came
+back empty.
+
+**2026-09-03 (second run same day).** Nothing new
 — the only hit (the 3 Sept Halifax "payment received" notice) was already
 logged earlier this run's own predecessor, re-surfaced by the date filter.
 All other sender and keyword searches since 3 Sept came back empty.

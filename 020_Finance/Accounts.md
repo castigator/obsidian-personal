@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,641.87 | 2026-09-01 |
-| Starling - Joint | £65.44 | 2026-09-01 |
-| Barclays - Current | £540.17 | 2026-09-02 |
+| Starling - Main | £1,486.54 | 2026-09-03 |
+| Starling - Joint | £196.55 | 2026-09-03 |
+| Barclays - Current | £473.22 | 2026-09-03 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
@@ -66,6 +66,14 @@ pattern every month since at least Mar 2026, see [[Shared Debt]] /
 flag, but nothing in the divorce cross-check suggests a change to the
 servicing split, so treating as ordinary unless it recurs. Confirmed via
 a routine Halifax "Payment received" notice, no new figures.
+
+**2–3 Sept 2026 — all three accounts, ordinary spending/transfers only.**
+Starling - Main £1,641.87→£1,486.54 (pub spending, a £100 transfer to
+Mandy/Rupert shared costs, East of England Coop). Starling - Joint
+£65.44→£196.55 (two £100 credits in — "Mandy Zimmer & Rupert Thomas" and
+"Shopping" — against a £68.89 Tesco debit). Barclays - Current
+£540.17→£473.22 (£66.95 Home Insurance direct debit, same recurring
+amount as the 3 Aug DD). Nothing irregular.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  

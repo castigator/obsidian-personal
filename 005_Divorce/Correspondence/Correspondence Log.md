@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **2 Sep 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **4 Sep 2026** via direct
 Gmail API — see note below. Covering April 2024 – August 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -116,6 +116,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-05-27 | [certas-energy-oil-order-delivery_LOCKH.md](heather/2026-05-27_certas-energy-oil-order-delivery_LOCKH.md) 🔒H | First Certas activity in a 12-month backfill — one-off oil order + delivery, account 9778375 opened/first used. Precedes the 28 Jul DD setup on the same account. |
 | 2026-07-28 | [certas-energy-dd-confirmation_LOCKH.md](heather/2026-07-28_certas-energy-dd-confirmation_LOCKH.md) 🔒H | Heather set up her own **£200/month Direct Debit with Certas Energy** (oil, Predict plan) — follows through on her 23 Jul "I'll contact certas" comment. ⚠️ Certas wasn't on the tracked-sender list — this is why it didn't surface in the sweep; added going forward. |
 | 2026-08-04 | [halifax-payment-received.md](heather/2026-08-04_halifax-payment-received.md) 🔒H | Routine Halifax notice — £62.83 min payment made on the card ending **3123**, confirming the card-split ⚠️ (was mistakenly noted as 0664). ⚠️ Halifax wasn't on the tracked-sender list — added going forward. |
+| 2026-09-03 | [halifax-payment-received-177.md](heather/2026-09-03_halifax-payment-received-177.md) 🔒H | Halifax notice — **£177.98 payment** on card ending 3123, well above the £62.83 tracked minimum. Possible voluntary overpayment; no balance given. |
 
 ### [subsidence/](subsidence/)
 

@@ -68,14 +68,14 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
   proposed card-split allocation (Rupert takes Barclaycard, Heather keeps
   Halifax + Ann's Barclaycard either way).
 
-### Barclaycard (Heather's card, ending 5002) — new 0% purchases offer, 24 Aug 2026
-- **Source:** reminder email from Barclaycard, 24 Aug 2026
+### Barclaycard (Heather's card, ending 5002) — 0% purchases offer, rolled forward 4 Sept 2026
+- **Source:** monthly offer email from Barclaycard, 4 Sept 2026 (supersedes the 24 Aug instance)
 - **Type:** purchases only — does **not** cover balance transfers, money
   transfers, cash withdrawals, or other cash-like transactions
-- **Rate:** 0% interest on eligible purchases until 1 March 2027
+- **Rate:** 0% interest on eligible purchases until 1 April 2027 (rolled forward from 1 March 2027)
 - **Fee:** none stated
-- **Activation:** must switch on in the Barclaycard app by 31 August 2026;
-  only one purchase offer can be active at a time
+- **Activation:** must switch on in the Barclaycard app/site by 30 September 2026 (rolled forward
+  from 31 August 2026); only one purchase offer can be active at a time
 - **Credit limit/available:** last known £13,550 limit / £6,275.76
   available (20 Jul statement) — not re-confirmed by this email
 - **Status:** Heather's card, Heather's decision. Purchases-only means it
