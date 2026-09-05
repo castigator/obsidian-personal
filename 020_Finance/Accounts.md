@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,486.54 | 2026-09-03 |
+| Starling - Main | £1,455.14 | 2026-09-03 |
 | Starling - Joint | £196.55 | 2026-09-03 |
 | Barclays - Current | £473.22 | 2026-09-03 |
 
@@ -68,12 +68,17 @@ servicing split, so treating as ordinary unless it recurs. Confirmed via
 a routine Halifax "Payment received" notice, no new figures.
 
 **2–3 Sept 2026 — all three accounts, ordinary spending/transfers only.**
-Starling - Main £1,641.87→£1,486.54 (pub spending, a £100 transfer to
-Mandy/Rupert shared costs, East of England Coop). Starling - Joint
-£65.44→£196.55 (two £100 credits in — "Mandy Zimmer & Rupert Thomas" and
-"Shopping" — against a £68.89 Tesco debit). Barclays - Current
-£540.17→£473.22 (£66.95 Home Insurance direct debit, same recurring
-amount as the 3 Aug DD). Nothing irregular.
+Starling - Main £1,641.87→£1,455.14 (pub spending, a £100 transfer to
+Mandy/Rupert shared costs, East of England Coop, plus several small
+card-spend line items late on 3 Sept — £15.20/£13.60/£12.90/£4.90 —
+picked up by this refresh, not yet posted when the prior refresh ran).
+Starling - Joint £65.44→£196.55 (two £100 credits in — "Mandy Zimmer &
+Rupert Thomas" and "Shopping" — against a £68.89 Tesco debit). Barclays -
+Current £540.17→£473.22 (£66.95 Home Insurance direct debit, same
+recurring amount as the 3 Aug DD). Nothing irregular.
+
+**3–4 Sept 2026:** no further movement — all three current accounts
+unchanged (Banktivity has no new line items since 3 Sept).
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  

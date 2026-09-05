@@ -5,7 +5,15 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-04. Three hits since 3 Sept, none worth their own
+**Last checked:** 2026-09-05. One new item since 4 Sept: a Halifax
+"payment due" reminder (Heather's card, £177.98 minimum by 10 Sept) —
+confirms the £177.98 debt-servicing payment flagged 2 Sept is the current
+minimum, not a one-off (see [[2026-09-04_halifax-payment-due-reminder]] and
+project status). The Barclaycard 0% offer and Halifax "Lloyds app"
+invitation surfaced again but are the same items already logged below, not
+new. All other sender and keyword searches since 4 Sept came back empty.
+
+**2026-09-04.** Three hits since 3 Sept, none worth their own
 entry: a Barclaycard 0% purchases-offer reminder (Heather's card ending
 5002, rolled forward — updated in [[0% Offers Tracker]] and
 [[Shared Debt]]), a Halifax "invitation to start using the Lloyds app"
@@ -125,6 +133,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-04_halifax-payment-due-reminder|2026-09-04 — Halifax payment-due reminder (Heather's card)]] — confirms £177.98 minimum, due 10 Sept
 - [[2026-08-19_starling-scheduled-payment-failed-tesco-space|2026-08-19 — Starling scheduled payment failed (Tesco Credit Card space)]] — £74.43 out of the Space failed on insufficient funds, second such debit in three days, needs Rupert to check the app
 - [[2026-08-13_ms-statement-dd-confirmed|2026-08-13 — M&S statement confirms £175 fixed DD landed]] — resolves open item from the 28 Jul DD amendment; £1,966.31 balance, £2,000 limit, 0% holding
 - [[2026-08-10_starling-scheduled-payment-failed|2026-08-10 — Starling scheduled payment failed]] — £74.43 internal transfer to Tesco Credit Card space bounced on insufficient funds, retry outcome unconfirmed
