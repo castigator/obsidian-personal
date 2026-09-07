@@ -11,14 +11,12 @@
             "id": "87fca705852ab4d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "005_Divorce/Finances/Pensions.md",
-                "mode": "source",
-                "source": false
+                "file": "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pensions"
+              "icon": "lucide-file-text",
+              "title": "Tesco Car Insurance - Welcome Pack and Signed Credit Agreement"
             }
           }
         ]
@@ -202,6 +200,7 @@
   },
   "active": "87fca705852ab4d1",
   "lastOpenFiles": [
+    "005_Divorce/Finances/Pensions.md",
     "020_Finance/Correspondence/2026-09-07_halifax-rate-increase-notice.md",
     "020_Finance/Correspondence/2026-09-04_halifax-payment-due-reminder.md",
     "005_Divorce/Correspondence/heather/2026-09-03_halifax-payment-received-177.md",
@@ -246,7 +245,6 @@
     "005_Divorce/Correspondence/insurance/2026-08-14_rupert-thankyou-close.md",
     "005_Divorce/Correspondence/insurance/2026-08-13_rupert-reply-scope-query.md",
     "005_Divorce/Correspondence/insurance/2026-08-13_catalyst-reply-scope-query.md",
-    "005_Divorce/Correspondence/insurance/2026-08-12_catalyst-drainage-report-scope-mismatch.md",
-    "005_Divorce/Correspondence/insurance/2026-06-08_catalyst-engineer-visit-15-jun.md"
+    "005_Divorce/Correspondence/insurance/2026-08-12_catalyst-drainage-report-scope-mismatch.md"
   ]
 }
