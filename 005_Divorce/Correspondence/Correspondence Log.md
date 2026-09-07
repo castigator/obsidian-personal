@@ -7,8 +7,8 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **4 Sep 2026** via direct
-Gmail API — see note below. Covering April 2024 – August 2026.
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **7 Sep 2026** via direct
+Gmail API — see note below. Covering April 2024 – September 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
 been expired or revoked`) — likely the 7-day refresh-token lifetime Google enforces on OAuth apps
@@ -142,6 +142,7 @@ Subsidence claim timeline. Claim ref: **6843593K** / Policy ref: **S2520891** / 
 | 2026-07-30 | [tree-removal-quote-invoice-submitted.md](subsidence/2026-07-30_tree-removal-quote-invoice-submitted.md) | ✅ **Quote + invoice sent to GHG** (HJ Tree Care, £1,200: Willow £700 + Maple £500). GHG will now issue the reimbursement request to the insurer. ⚠️ No completion photo in this thread — GHG's 5 Jun approval required one; worth confirming it's covered. |
 | 2026-08-04 | [ghg-bank-details-verification-request.md](subsidence/2026-08-04_ghg-bank-details-verification-request.md) 🔒H | GHG requests Heather verify bank details (single-use link + phone call) for the £1,200 tree reimbursement, claim ref S2520891. |
 | 2026-08-07 | [ghg-tree-invoice-to-insurers.md](subsidence/2026-08-07_ghg-tree-invoice-to-insurers.md) 🔒H | GHG confirms tree invoice passed to insurer for direct payment. Next crack-monitoring round due August 2026, report to follow. |
+| 2026-09-07 | [ghg-august-crack-monitoring-report.md](subsidence/2026-09-07_ghg-august-crack-monitoring-report.md) 🔒H | **August 2026 crack readings.** Main (RH elevation) station **reversed and opened back up ~2.8–3.1mm** vs the June reading — taken shortly after vegetation removal, GHG treating as inconclusive. Front porch station stable. Repairs still gated on stability; **next reading Oct 2026** — pushes the "stability confirmed" milestone out at least one more cycle. |
 
 `subsidence/attachments/legacy-download/` — a raw dump of .eml/PDF files from before the topical
 notes above existed (claim correspondence, blank letters, CCTV/SI reports). Not deduped against

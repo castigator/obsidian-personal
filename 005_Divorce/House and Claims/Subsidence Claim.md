@@ -6,7 +6,7 @@ tags:
   - subsidence
 ---
 
-*Updated 18 August 2026*
+*Updated 7 September 2026*
 
 # Subsidence Claim
 
@@ -47,6 +47,22 @@ front right) roots beneath foundations. Drains NOT implicated.
 - No completion photo confirmed sent — GHG's 5 Jun approval required one; worth confirming with
   Heather it's been sent or isn't needed.
 
+## Crack monitoring — not yet stable, repairs still gated on it (7 Sep 2026)
+
+- **August 2026 readings received (GHG letter, 5 Sep, to Heather).** The main crack station
+  (external RH elevation where outrigger meets main house) had been *closing* steadily since
+  vegetation removal started earlier in 2026, but the August reading — taken shortly after the
+  trees were actually removed (23 Jul) — **reversed direction: opened back up ~2.8–3.1mm** versus
+  the June reading. GHG is treating this as inconclusive (could be a post-removal settling lag,
+  could be genuine continued movement) rather than alarming, and wants another data point before
+  drawing a conclusion.
+- The second station (front porch) remains essentially flat/stable throughout.
+- **GHG will not progress superstructure repairs until stability is evidenced.** Next reading due
+  **October 2026** — pushes the "stability confirmed" milestone out by at least one more
+  monitoring cycle, which flows through to the Feb–Apr 2027 repair window and the [[House Sale]]
+  timing dilemma (each month of delay costs ~£4,000 in dual housing costs).
+- Full data and letter: vault `Correspondence/subsidence/2026-09-07_ghg-august-crack-monitoring-report.md`.
+
 ## Cash settlement option
 
 GHG confirmed they can offer a **cash settlement** in lieu of their contractor doing the repairs.
@@ -84,6 +100,7 @@ Phone: 02380 622622
 | 5 Aug 2026 | GHG texts Heather's phone (0116 260 5309) proposing a monitoring visit **10/08/26 10:00–14:00**, asking her to confirm. |
 | 7 Aug 2026 | Heather confirms to Rupert via WhatsApp ("Yup all sorted") — the 10 Aug visit went ahead as proposed. No monitoring report seen yet. |
 | 18 Aug 2026 | Payment standoff over the tree invoice — see above. |
+| 7 Sep 2026 | **August crack readings received** — main station reversed, opened ~2.8–3.1mm since June (post-tree-removal, GHG treating as inconclusive). Repairs still gated on stability; next reading Oct 2026. |
 
 ## GHG action plan
 

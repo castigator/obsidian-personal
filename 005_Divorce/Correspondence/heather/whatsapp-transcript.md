@@ -30,10 +30,12 @@ remain in place for quick topic lookup. This file is the raw record.
 
 ## Progress tracker
 
-**Covered so far: 3 Jul 2025 → 18 Aug 2026, 07:56 — no known gaps remaining.** Rupert states 3 Jul
-2025 is the earliest point he could scroll back to ("the beginning of time") — treated as the start
-of the transcript unless earlier messages surface later. **Next backfill session should get
-screenshots continuing forward from 18 Aug 2026, 07:56.**
+**Covered so far: 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
+screenshot supplied) and one unresolved message (28 Aug 12:25, WhatsApp send-delay placeholder
+only, text unknown).** Rupert states 3 Jul 2025 is the earliest point he could scroll back to
+("the beginning of time") — treated as the start of the transcript unless earlier messages surface
+later. **Next backfill session should get screenshots continuing forward from 28 Aug 2026, 12:25,
+and ideally fill the 18–27 Aug gap and resolve the 28 Aug placeholder message if still possible.**
 
 **21 Jul 2025 → 24 Oct 2025 segment built from a screen recording** (`Screen Recording 2026-07-29 at
 10.46.27.mov`); **24 Oct 2025 → 17 Jul 2026 from a second recording**
@@ -2381,11 +2383,121 @@ to put half in - ( I would have to borrow it from someone)" — 07:43
 
 ---
 
-**[Still open, next backfill:]** 07:56 on 18 Aug 2026 (WhatsApp "Today") is the current known end
-of the transcript, with no known gaps remaining up to that point. Next session should pick up from
-there. **Open in-chat items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to share
-pension/salary info directly; (2) Rupert declined Heather's request to front £800 for the Hamish/
-tree invoice — no reply from Heather visible yet in this screenshot.
+`[gap — no screenshot covering 18 Aug 07:56 to 27 Aug]`
+
+### Thu 27 Aug 2026
+
+**Rupert** *(sends image attachment: screenshot of a spreadsheet table)*: "I have the mortgage as
+£1,990.77 this month – any change on credit cards or bills?" — 16:57 ✓✓
+
+*(Attached table, transcribed in full below.)*
+
+**Heather:** "Mortgage/ bills fine - credit card changes though - Halifax min is £177.98 (now
+paying interest)/ Barclaycard min is £196.50 / mum Barclaycard same (£200) - will attach
+statements - apologies for using Halifax for flights to Mallorca - paid it back within a few days
+- it was an accident - please don't be annoyed..." — 17:55
+
+**Heather** *(sends PDF attachment)*: "Monthly BarclayCard Statement_20-AUG-26  21040625178776
+3852254.pdf" — 17:56
+*(317 KB, 1 page — full copy supplied separately, transcribed below)*
+
+**Heather** *(sends PDF attachment)*: "Statement_3123_Aug-26.pdf" — 17:56
+*(4 pages, 681 KB — Halifax statement, card ending 3123; not yet supplied as a full copy, only
+the WhatsApp file-attachment card is visible)*
+
+### Fri 28 Aug 2026
+
+**Rupert:** *(message content not visible — screenshot shows only WhatsApp's own placeholder,*
+*"Waiting for this message. This may take a while. Learn more", timestamped 12:25 ✓✓)*
+`[gap — message text not captured; WhatsApp send/delivery-delay placeholder only, content unknown]`
+
+---
+
+**Attachment — Rupert's 27 Aug 16:57 table (transcribed in full):**
+
+*Monthly Contributions*
+
+| | Combined | | | Rupert | Heather |
+|---|---:|---|---|---:|---:|
+| Mortgage | -£1,990.77 | | | -£1,592.62 | -£398.15 |
+| Scheduled transactions | -£287.52 | | | -£230.02 | -£57.50 |
+| Cats | -£65.00 | | | | |
+| Debt Servicing | -£466.66 | | | -£373.33 | -£93.33 |
+| Lucy Food | -£250.00 | | | -£200.00 | -£50.00 |
+| **Total** | **-£3,059.95** | | | **-£2,195.96** | **-£548.99** |
+
+*Outstanding Debts*
+
+| | Balance | Minimum Payment |
+|---|---:|---:|
+| Halifax | -£6,282.94 | -£62.83 |
+| Barclaycard | -£7,274.24 | -£203.83 |
+| Next | £0.00 | 0 |
+| Barclaycard (Ann) | -£1,409.00 | -200 |
+| Ann | £3,318.00 | 0 |
+| Ann | £5,522.66 | 0 |
+
+**Attachment — Barclaycard statement (Heather's card ending 5002, dated 20 Aug 2026, full copy
+supplied 7 Sep 2026, filed to `2026-08-20_barclaycard-statement-5002.pdf`):**
+- Previous balance £7,274.24 → payment 04 Aug £203.83 → interest charged £125.80 (standard
+  balance, 1.7233% monthly) → **new balance £7,196.21**. No new transactions this cycle.
+- Minimum payment **£196.50** (up from £203.83's previous cycle min — matches Heather's 17:55
+  figure), due 14 Sep 2026.
+- Credit limit unchanged £13,550.00, available £6,353.79.
+- Rate unchanged: 20.68% p.a. simple standard/cash (22.8% compound equivalent).
+- **This is the £7,274.24 Barclaycard earmarked for Rupert alone under the proposed (still
+  unsigned) card split** — balance has actually fallen slightly to £7,196.21 this cycle (the
+  £203.83 payment outweighed the £125.80 interest charged; see Why it matters below).
+
+**Halifax statement (dated 16 Aug 2026, full copy supplied 7 Sep 2026, filed to
+`2026-08-16_halifax-statement-3123.pdf`):**
+- Previous balance £6,278.74 → **new balance £6,330.58**.
+- Transactions this cycle: 16 Jul EasyJet £81.62, 16 Jul Ryanair £137.99 (the flights to Mallorca
+  Heather flagged) → **total £219.61**, exactly matching a £219.61 payment received 27 Jul —
+  **confirms Heather's account: the flights were paid back in full within days (16→27 Jul), not
+  left outstanding.**
+- Also: a separate £62.83 payment received 4 Aug (the previous minimum), plus £114.67 interest
+  charged 16 Aug.
+- **Minimum payment due: £177.98**, by 10 Sep 2026 — matches Heather's 17:55 figure exactly.
+- Rates: 21.422% p.a. simple / **23.66% p.a. effective (compound)** on both purchases and
+  balance/money transfers — this is the first time an actual Halifax rate has been confirmed (not
+  previously tracked in CLAUDE.md/finance vault).
+- Credit limit £7,500, available £1,169.42.
+- Balance breakdown: purchases £223.36 (interest £3.75), balance transfers/money transfers
+  £6,107.22 (interest £110.92) — i.e. the bulk of the balance is a transferred balance, not new
+  spending; the flight purchases were the only new purchase-type spend and were cleared in the
+  same statement.
+
+## Why it matters
+
+- **Card-split figures need a small correction, not a big one.** The Barclaycard (Rupert's
+  earmarked card under the proposed split) statement shows the balance actually **fell** slightly
+  this cycle — £7,274.24 → £7,196.21 (payment £203.83 > interest £125.80) — so CLAUDE.md's
+  £7,274.24 figure is stale by ~£78, not materially wrong. Minimum payment also fell £203.83 →
+  £196.50.
+- **Halifax minimum payment has risen sharply: £62.83 → £177.98** — nearly tripled, confirmed by
+  the statement (1% of balance + interest under Halifax's minimum-repayment formula, balance now
+  £6,330.58 vs the previous ~£6,282.94 tracked). **21.422%/23.66% (simple/effective) is the actual
+  rate** — much higher than most 0% promotional cards, consistent with "now paying interest";
+  not a penalty/missed-payment event, just the standard rate applying (no promo currently active
+  on this balance per the statement). Combined minimum-payments total (£466.66/month tracked in
+  CLAUDE.md) and the 80/20 split figures need updating for this. **This also resolves the open
+  question flagged in the 4 Sep refresh** ("Halifax payment of £177.98... possible voluntary
+  overpayment") — it wasn't an overpayment, it's the new minimum.
+- **Heather's card-misuse flag checks out exactly.** EasyJet £81.62 + Ryanair £137.99 (16 Jul) =
+  £219.61, matched precisely by a £219.61 payment 11 days later (27 Jul) — she did pay it back
+  quickly as she said. Not something Rupert can act on given the card isn't his, but worth noting
+  for the maintenance/affordability picture — she's not obviously cash-constrained if funding a
+  holiday, even briefly on credit.
+
+---
+
+**[Still open, next backfill:]** 28 Aug 2026, 12:25 (Rupert's undelivered/placeholder message) is
+the current known end of the transcript. Next session should pick up from there — in particular,
+what Rupert's 28 Aug message actually said once a screenshot showing its resolved text is
+available. **Open in-chat items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to
+share pension/salary info directly; (2) Rupert declined Heather's request to front £800 for the
+Hamish/tree invoice — still no reply from Heather visible.
 
 ---
 

@@ -4,11 +4,11 @@
 with as a separate workstream — do not mix into personal account tracking.
 
 **Liability convention: Rupert is liable for 50% of the shared debt**
-(generic framing — total now £14,966.18, so a strict 50% share would be
-~£7,483). **This generic 50/50 framing is superseded in practice** by a
+(generic framing — total now £14,935.79, so a strict 50% share would be
+~£7,468). **This generic 50/50 framing is superseded in practice** by a
 specific proposed card allocation worked out directly with Heather
 (15 Jul 2026, not yet confirmed — see `divorce` project for status):
-Rupert takes the Barclaycard above (£7,274.24) alone, Heather keeps
+Rupert takes the Barclaycard above (£7,196.21) alone, Heather keeps
 Halifax + Ann's Barclaycard. See [[Paying Off 50% Shared Debt]]
 and the divorce project's settlement notes for the live status of that
 agreement.
@@ -18,24 +18,37 @@ pay off his share in one move at the cheapest possible rate (see
 [[Paying Off 50% Shared Debt]]), leaving the remainder Heather's.
 None of the cards are in Rupert's name, so cash routes only.
 
-**Servicing:** the combined minimum payments (£454.65/month) are currently
-split Rupert 80% (£363.72) / Heather 20% (£90.93). Planned change to 50/50
-(£227.33 each). See [[Monthly Contributions]].
+**Servicing:** the combined minimum payments were £454.65/month (split
+Rupert 80% £363.72 / Heather 20% £90.93) — **now stale: actual combined
+minimums are £574.48/month** (see Outstanding debts below), driven by
+Halifax's minimum jumping £62.83 → £177.98 (7 Sep 2026 statement, standard
+rate 21.422%/23.66% now applying, no promo active). **[[Monthly
+Contributions]] and the 80/20 split figures haven't been re-derived
+against this yet** — flagged, not yet actioned. Planned change to 50/50.
 
-As of 2026-07-10 (from spreadsheet) except Barclaycard, updated 2026-07-20
-from the actual statement (see below):
+As of 2026-07-10 (from spreadsheet) except Halifax and Barclaycard, updated 2026-09-07
+from the actual statements (see below):
 
 ## Outstanding debts
 
 | Account | Balance | Minimum payment |
 |---|---:|---:|
-| Halifax | -£6,282.94 | £62.83 | <!-- Heather's card -->
-| Barclaycard | -£7,274.24 | £203.83 | <!-- Heather's card, updated from 20 Jul 2026 statement -->
+| Halifax | -£6,330.58 | £177.98 | <!-- Heather's card, updated from 16 Aug 2026 statement (WhatsApp, supplied 7 Sep) -->
+| Barclaycard | -£7,196.21 | £196.50 | <!-- Heather's card, updated from 20 Aug 2026 statement (WhatsApp, supplied 7 Sep) -->
 | Barclaycard (Ann) | -£1,409.00 | £200 | <!-- Anne's card (label correct; ownership confirmed 2026-07-15) -->
 
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
-**Total owed:** -£14,966.18 · **Total minimum payments:** £466.66/month
+**Total owed:** -£14,935.79 · **Total minimum payments:** £574.48/month (up from £466.66 — driven
+almost entirely by Halifax's minimum jumping £62.83 → £177.98; see below)
+
+**Halifax minimum payment jump explained (7 Sep 2026):** Halifax's own minimum-repayment formula
+is 1% of balance + interest + fees, and the statement now shows this card's actual rate —
+**21.422% p.a. simple / 23.66% p.a. effective** — applying with no promotional rate in effect.
+Not a missed-payment penalty; Heather also flagged (WhatsApp 27 Aug) that flights to Mallorca were
+put on this card, but the statement confirms that spend (£219.61) was paid off within 11 days
+(16→27 Jul) and isn't why the minimum rose. Full detail: vault (divorce project)
+`Correspondence/heather/whatsapp-transcript.md`, 27 Aug 2026 entries.
 
 **Barclaycard detail (20 Jul 2026 statement, ending 5002 — the specific
 card earmarked for Rupert in the proposed card split, see `divorce` project):**
