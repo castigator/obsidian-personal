@@ -5,7 +5,14 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-05. One new item since 4 Sept: a Halifax
+**Last checked:** 2026-09-07. One new item since 5 Sept: a Halifax notice
+that the standard interest rate on Heather's card (ending 3123) is going up
+from 19 Nov 2026 — new rate not yet known, the actual figure sits in a
+digital-inbox message not visible via Gmail (see
+[[2026-09-07_halifax-rate-increase-notice]] and [[Shared Debt]]). All other
+sender and keyword searches since 5 Sept came back empty.
+
+**2026-09-05.** One new item since 4 Sept: a Halifax
 "payment due" reminder (Heather's card, £177.98 minimum by 10 Sept) —
 confirms the £177.98 debt-servicing payment flagged 2 Sept is the current
 minimum, not a one-off (see [[2026-09-04_halifax-payment-due-reminder]] and
@@ -133,6 +140,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-07_halifax-rate-increase-notice|2026-09-07 — Halifax standard rate increase notice (Heather's card)]] — rate rising from 19 Nov 2026, new rate not yet known
 - [[2026-09-04_halifax-payment-due-reminder|2026-09-04 — Halifax payment-due reminder (Heather's card)]] — confirms £177.98 minimum, due 10 Sept
 - [[2026-08-19_starling-scheduled-payment-failed-tesco-space|2026-08-19 — Starling scheduled payment failed (Tesco Credit Card space)]] — £74.43 out of the Space failed on insufficient funds, second such debit in three days, needs Rupert to check the app
 - [[2026-08-13_ms-statement-dd-confirmed|2026-08-13 — M&S statement confirms £175 fixed DD landed]] — resolves open item from the 28 Jul DD amendment; £1,966.31 balance, £2,000 limit, 0% holding

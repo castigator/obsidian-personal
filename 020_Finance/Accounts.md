@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,455.14 | 2026-09-03 |
+| Starling - Main | £1,013.01 | 2026-09-06 |
 | Starling - Joint | £196.55 | 2026-09-03 |
 | Barclays - Current | £473.22 | 2026-09-03 |
 
@@ -79,6 +79,16 @@ recurring amount as the 3 Aug DD). Nothing irregular.
 
 **3–4 Sept 2026:** no further movement — all three current accounts
 unchanged (Banktivity has no new line items since 3 Sept).
+
+**3–6 Sept 2026 — Starling - Main, ordinary spending only.**
+£1,455.14→£1,013.01: pubs/restaurants (Five Bells Cavendish, The Black
+Lion, Swan Long Melford), East of England Coop, Amazon Marketplace ×2,
+PayPal ×2, Audible and Anthropic subscriptions, a £100 transfer to Mandy
+("Mandy Zimmer & Rupert Thomas"), and a £175 payment to "Hsbc Uk Bank T/a
+M&s Bank" (matches the M&S card's usual fixed DD, see
+[[M&S Credit Card]]) and a £72.84 Fuse Energy payment (household energy
+supplier). Starling - Joint and Barclays - Current unchanged since 3 Sept
+— no new line items. Nothing irregular, no shared-debt significance.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  

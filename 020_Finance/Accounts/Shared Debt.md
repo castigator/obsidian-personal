@@ -54,6 +54,12 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 
 ## Offers (on the cards themselves — not Rupert's to draw on, but relevant to shared-debt strategy; see [[0% Offers Tracker]] for the consolidated view across every card)
 
+**⚠️ Standard rate increasing from 19 Nov 2026** (notice 7 Sept 2026, see
+[[2026-09-07_halifax-rate-increase-notice]]) — new rate not yet known
+(email pointed to a digital-inbox message not accessible via Gmail).
+Doesn't affect the 0% promo below, only the standard rate that would apply
+outside it.
+
 ### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
 - **Source:** recurring marketing email from Halifax, most recent 1 Sept 2026
 - **Rate:** 0.00% for 12 months on transfers
