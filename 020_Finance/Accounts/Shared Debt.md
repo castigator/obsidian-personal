@@ -18,13 +18,14 @@ pay off his share in one move at the cheapest possible rate (see
 [[Paying Off 50% Shared Debt]]), leaving the remainder Heather's.
 None of the cards are in Rupert's name, so cash routes only.
 
-**Servicing:** the combined minimum payments were £454.65/month (split
-Rupert 80% £363.72 / Heather 20% £90.93) — **now stale: actual combined
-minimums are £574.48/month** (see Outstanding debts below), driven by
-Halifax's minimum jumping £62.83 → £177.98 (7 Sep 2026 statement, standard
-rate 21.422%/23.66% now applying, no promo active). **[[Monthly
-Contributions]] and the 80/20 split figures haven't been re-derived
-against this yet** — flagged, not yet actioned. Planned change to 50/50.
+**Servicing:** combined minimum payments are **£574.48/month, split Rupert
+80% (£459.58) / Heather 20% (£114.90)** — updated 7 Sep 2026 (was £454.65,
+driven up mainly by Halifax's minimum jumping £62.83 → £177.98; standard
+rate 21.422%/23.66% now applying, no promo active). See [[Monthly
+Contributions]] for detail. **This total moves with each card statement —
+re-check it, don't treat it as fixed.** Planned move to 50/50 remains
+theoretical — Rupert's read (7 Sep) is this is unlikely to happen soon
+given Heather's stance on the related card-split proposal (see below).
 
 As of 2026-07-10 (from spreadsheet) except Halifax and Barclaycard, updated 2026-09-07
 from the actual statements (see below):

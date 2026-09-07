@@ -403,6 +403,42 @@ disclosure; (2) chase the redemption statement (email + post) if not received so
 Heather to register her own contact details with RBS by phone so the joint-mailing setup is
 complete on her side too.
 
+### August 2026 Statement — facility over-limit now confirmed IN WRITING (7 Sep 2026)
+
+Rupert scanned the monthly statement (dated 29 Aug 2026, covering 02/08/2026–28/08/2026). Filed:
+`Correspondence/rbs/2026-08-29_rbs-monthly-statement.pdf`.
+
+- Opening balance 02/08/2026: −£309,796.61 (matches the 27 Jul figure already tracked).
+- Interest charged 25/08/2026: **£1,990.77** (rate still 7.10%) — up from July's ~£1,810–1,871
+  range, tracking the balance drifting up rather than down.
+- Money in this period: £1,846.52 (Rupert £1,448.37 BACS 03/08 + Heather £398.15 BACS 26/08).
+- **Closing balance 28/08/2026: −£309,940.86.**
+- **Facility: £308,368.00** (matches Jamie's 31 Jul verbal figure exactly).
+- **Available facility: £0.00 — printed explicitly on the statement.** The account is actually
+  **£1,572.86 over** the agreed facility (£309,940.86 − £308,368.00). **This is the first time the
+  over-facility position has been confirmed in writing, not just verbally by Jamie on the 31 Jul
+  call** — directly answers the "get this in writing" half of the open action item below. Doesn't
+  by itself trigger the "financial team" escalation Jamie described (that's tied to a formal
+  breach letter, not just the statement showing £0.00 available) — worth confirming whether RBS
+  has sent or intends to send that letter.
+- Valuation on file: still £390,000 (unchanged). Equity per RBS's own numbers: **£80,059.14**.
+- Repayment guide: planned balance £131,576.25 vs actual £309,940.86 → **£178,364.61 behind
+  guide** (worse than the £176,606.30 gap tracked from the June statement — gap still widening).
+  RBS's suggested budget to hold position: £3,423.05/mo (£1,750.19 interest + £1,672.86 to reduce
+  balance).
+- Redemption statement (requested via the 31 Jul call, promised by email + post) still not
+  logged as received separately from this routine monthly statement.
+
+**Rupert's call (7 Sep 2026): not chasing the redemption statement further.** His assessment is
+RBS isn't going to provide the no-ERC confirmation in writing — they've had two opportunities
+(30/31 Jul) and chosen to give it verbally only both times. Treating that as RBS's chosen
+position rather than an oversight to keep pursuing. **The no-ERC point stays "verbal only,
+noted as a fact about how RBS has handled it"** — not an open action item any more.
+
+**Updated next step:** the facility-limit discrepancy is now flagged in writing on RBS's own
+account statement — ready to cite directly when raising with Alan, rather than relying on a call
+transcript. Still open: Heather's own RBS contact-details registration.
+
 ### Related
 - [[House Sale]]
 - [[Subsidence Claim]]
