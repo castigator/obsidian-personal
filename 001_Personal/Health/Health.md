@@ -31,6 +31,8 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 ### Correspondence Log
 
+**Last checked:** 2026-09-08
+
 | Date | From | Subject | Key Content |
 |------|------|---------|--------------|
 | 2026-09-08 | Elizabeth Courtauld Surgery (Accurx) | Asthma review request submitted | Ref `64dff80c-2535-4ce0-b2d2-e4ac19620b29`; practice to respond within 3 working days |
