@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001_Personal/Health/Health.md",
+                "file": "001_Personal/_README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Health"
+              "title": "_README"
             }
           }
         ],
@@ -216,11 +216,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4128d220f984b702",
+  "active": "e35d59b079089f1b",
   "lastOpenFiles": [
+    "001_Personal/Health/Health.md",
     "sortspec.md",
     "xx_media/Varenicline Patient Information.pdf",
-    "001_Personal/Health/Health.md",
     "001_Personal/Health",
     "README.md",
     "001_Personal/Buses.md",
@@ -233,7 +233,7 @@
     "Pasted image 20260803085938.png",
     "001_Personal/sortspec.md",
     "Untitled.md",
-    "001_Personal/Personal.md",
+    "001_Personal/_README.md",
     "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf",
     "001_Personal/Work/Year-End Connect/Year-End Connect Questions_ FINAL.pdf",
     "001_Personal/Work/Year-End Connect/Year-End Connect Performance Conversations Guide for Employees_FINAL.pdf",
