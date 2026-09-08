@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e98e01868222941e",
+        "id": "803c585115245c48",
         "type": "tabs",
         "children": [
           {
-            "id": "87fca705852ab4d1",
+            "id": "0802f3e8923bc8b7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Tesco Car Insurance - Welcome Pack and Signed Credit Agreement"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,29 +193,39 @@
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "templater-obsidian:Templater": false,
       "pinned-daily-notes:Open today's daily note (Pinned)": false,
-      "iconic:Open rulebook": false
+      "iconic:Open rulebook": false,
+      "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "87fca705852ab4d1",
+  "active": "e35d59b079089f1b",
   "lastOpenFiles": [
+    "sortspec.md",
+    "001_Personal/Work/Office Travel.md",
+    "README.md",
+    "Pasted image 20260803085959.png",
+    "Pasted image 20260803085938.png",
+    "001_Personal/sortspec.md",
+    "Consolidating Debts.md",
+    "Christmas.md",
+    "Untitled.md",
+    "001_Personal/Personal.md",
+    "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf",
+    "001_Personal/Work/Year-End Connect/Year-End Connect Questions_ FINAL.pdf",
+    "001_Personal/Work/Year-End Connect/Year-End Connect Performance Conversations Guide for Employees_FINAL.pdf",
+    "001_Personal/Work/Year-End Connect/Year-End Connect Employee Guide_FINAL.pdf",
+    "001_Personal/Work/Year-End Connect/Year-End Connect Employee FAQs_ FINAL.pdf",
+    "001_Personal/Work/Year-End Connect/Completing the Form in Workday for Employees_ FINAL.pdf",
+    "001_Personal/Work/Year-End Connect",
+    "001_Personal/Work",
+    "001_Personal",
     "005_Divorce/Correspondence/rbs/2026-08-29_rbs-monthly-statement.pdf",
-    "005_Divorce/Correspondence/heather/2026-08-16_halifax-statement-3123.pdf",
-    "005_Divorce/Correspondence/heather/2026-08-20_barclaycard-statement-5002.pdf",
     "005_Divorce/Correspondence/subsidence/2026-09-07_ghg-august-crack-monitoring-report.md",
-    "005_Divorce/Correspondence/subsidence/attachments/2026-09-05_ghg-crack-monitoring-cover-letter.pdf",
-    "005_Divorce/Correspondence/subsidence/attachments/2026-09-05_crack-monitoring-report-aug2026.pdf",
-    "005_Divorce/Correspondence/subsidence/2026-09-05_ghg-crack-monitoring-cover-letter.pdf",
-    "005_Divorce/Correspondence/subsidence/2026-09-05_crack-monitoring-report-aug2026.pdf",
     "005_Divorce/Finances/Pensions.md",
     "020_Finance/Correspondence/2026-09-07_halifax-rate-increase-notice.md",
     "020_Finance/Correspondence/2026-09-04_halifax-payment-due-reminder.md",
     "005_Divorce/Correspondence/heather/2026-09-03_halifax-payment-received-177.md",
     "020_Finance/Accounts.md",
     "005_Divorce/Correspondence/pensions/2026-08-26_prudential-objective-it-updated-cetv.md",
-    "005_Divorce/Correspondence/pensions/2026-08-26_prudential-objective-it-updated-cetv.pdf",
-    "005_Divorce/Finances/attachments/2026-07-31_standard-life-aristocrat-yearly-statement.pdf",
-    "005_Divorce/Finances/attachments/2026-05-08_pearson-ft-pension-benefit-statement.pdf",
-    "005_Divorce/Finances/attachments/2026-04-05_P60_2025-26_roxor.pdf",
     "005_Divorce/Correspondence/heather/caldwell/answers.jpeg",
     "005_Divorce/Correspondence/heather/caldwell/4.jpeg",
     "005_Divorce/Correspondence/heather/caldwell/3.jpeg",
@@ -226,8 +234,6 @@
     "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 10.00.11.jpeg",
     "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 09.59.11.jpeg",
     "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 09.52.35.jpeg",
-    "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 09.52.34.jpeg",
-    "005_Divorce/Correspondence/heather/whatsapp-images/WhatsApp Image 2026-06-16 at 09.52.34 (2).jpeg",
     "005_Divorce/Correspondence/Correspondence Log.md",
     "005_Divorce/Correspondence/housebits/README.md",
     "005_Divorce/Correspondence/solicitors/2026-08-03_alan-d81-vs-form-e-answer.md",
@@ -238,13 +244,6 @@
     "005_Divorce/Correspondence/pensions/2026-07-28_rothesay-no-record.md",
     "005_Divorce/Correspondence/insurance/2024-07-21_policy-documents.md",
     "005_Divorce/Correspondence/insurance/2026-06-04_drain-claim-visibility-resolved.md",
-    "005_Divorce/Correspondence/insurance/2026-06-11_catalyst-engineer-visit-3-jul.md",
-    "005_Divorce/Correspondence/insurance/2026-05-29_po-drain-claim-chase.md",
-    "005_Divorce/Correspondence/insurance/2026-05-12_po-drain-claim-autoreply.md",
-    "005_Divorce/Correspondence/insurance/2026-07-20_drain-claim-covered-repairs-scheduled.md",
-    "005_Divorce/Correspondence/insurance/2026-05-12_po-drain-claim-submission.md",
-    "005_Divorce/Correspondence/insurance/README.md",
-    "005_Divorce/Correspondence/insurance/2026-08-14_rupert-thankyou-close.md",
-    "005_Divorce/Correspondence/insurance/2026-08-13_rupert-reply-scope-query.md"
+    "005_Divorce/Correspondence/insurance/2026-06-11_catalyst-engineer-visit-3-jul.md"
   ]
 }

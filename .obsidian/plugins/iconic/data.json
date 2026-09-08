@@ -29,6 +29,10 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "001_Personal": {
+      "icon": "lucide-person-standing",
+      "color": "green"
+    },
     "005_Divorce": {
       "icon": "⛓️‍💥",
       "unsynced": [
