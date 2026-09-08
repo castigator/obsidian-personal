@@ -16,8 +16,11 @@ home elsewhere, it goes here.
   memory for role/workstream context) — process paperwork, HR admin, that kind of thing.
   - `Year-End Connect/` — Aristocrat's year-end performance review process: the official Workday  
     form guide, employee guide, FAQs, performance-conversations guide, and questions doc.
+- **Health/** — see [[Health]]. Doctors, appointments, prescriptions, referrals, test results,  
+  correspondence with GP/practice/hospitals.
 
 ### History
 
 - 2026-09-08 — Section created. Migrated the Year-End Connect reference PDFs in from the old  
   `personal` git repo's `connects/` folder (they'd been sitting there unfiled).
+- 2026-09-08 — Added `Health/` area for doctors/appointments/prescriptions.

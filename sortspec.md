@@ -5,4 +5,6 @@ sorting-spec: |
    < a-z
   /folders
    < a-z
+  %
+  sortspec
 ---
