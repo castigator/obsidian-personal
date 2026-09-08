@@ -13,8 +13,8 @@ content-start: 151
 ## Important and To Do
 
 - [x] Mandy signed via Goodlord ✅ 21 Aug 2026 06:48 UTC — **agreement fully executed**, agent countersigned same day
-- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
-- [ ] £150+VAT fee for the new agreement (agreed 2026-08-08) — David Burr hasn't invoiced/chased it; Rupert deliberately not raising it
+- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged; David Burr hasn't called her in, and as of 2026-09-08 Rupert is **deliberately not chasing it either** — doesn't expect them to come back to it
+- [ ] £150+VAT fee for the new agreement (agreed 2026-08-08) — David Burr hasn't invoiced/chased it; Rupert deliberately not raising it either
 
 ## Renters' Rights Act 2025 (in force 1 May 2026)
 
@@ -99,6 +99,11 @@ be fully resolved — the tenancy itself is now already secured by the executed 
 the new agreement (agreed 2026-08-08, see above) — no invoice or payment request received.
 Rupert's deliberately not raising it himself. Noting this alongside the Right to Rent check as a
 second thing David Burr has let drop.
+
+**2026-09-08:** Rupert confirms this is a deliberate stance on both fronts, not just wait-and-see —
+he's not chasing the Right to Rent check any more than he's chasing the £150+VAT fee, and doesn't
+expect David Burr to come back to either one. Treating both as settled/dropped rather than open
+action items.
 
 ## Draft: Email to David Burr
 
