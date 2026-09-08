@@ -2496,19 +2496,25 @@ supplied 7 Sep 2026, filed to `2026-08-20_barclaycard-statement-5002.pdf`):**
 
 **Rupert:** *(09:24 ✓✓)* "£1,200 from "FASTER PAYMENTS" paid in to Barclays?"
 
-`[unanswered — no reply from Heather visible yet; unclear which Barclays account/card this refers
-to or what the payment was for]`
+**Heather:** *(16:24)* "It's insurance for trees - will pay him now"
+
+`[Resolves the £1,200 query: this is GHG/the insurer's tree-removal funding payment landing in
+Heather's Barclays account — matches the £1,200 tree removal cost approved and funded in full by
+the insurer, ref 6843593K (trees removed 23 Jul 2026). "Him" = Hamish, the tree contractor.
+Heather says she'll now pay Hamish directly — this appears to resolve the earlier payment
+standoff (Heather had asked Rupert to front £800 pending the insurer's payment, which he
+declined); worth confirming Hamish is actually paid and the standoff is closed.]`
 
 ---
 
 **[Still open, next backfill:]** 28 Aug 2026, 12:25 is now closed — Rupert deleted the message
 himself 8 Sep, doesn't recall its content, and it never arrived (likely lost during a SIM switch
-around that time). Not pursuing recovery. 8 Sep 2026, 09:24 (Rupert's £1,200 Faster Payments
-query) is the current known end of the transcript — awaiting Heather's reply. **Open in-chat
-items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to share pension/salary info
-directly; (2) Rupert declined Heather's request to front £800 for the Hamish/tree invoice — still
-no reply from Heather visible; (3) new — £1,200 Faster Payments into Barclays (8 Sep) unexplained,
-need Heather's answer.
+around that time). Not pursuing recovery. 8 Sep 2026, 16:24 (Heather's reply confirming the
+£1,200 is the tree insurance payment, to be passed to Hamish) is the current known end of the
+transcript. **Open in-chat items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to
+share pension/salary info directly; (2) the Hamish/tree-invoice £800 standoff looks resolved by
+Heather's 8 Sep message (she's paying him from the insurer's £1,200) — confirm actually paid
+before closing it out fully.
 
 ---
 

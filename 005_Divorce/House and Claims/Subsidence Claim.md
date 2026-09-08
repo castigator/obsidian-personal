@@ -27,23 +27,26 @@ tags:
 **Cause:** root-induced clay shrinkage — **Maple** (4.5m, right of extension) and **Willow** (12.5m,
 front right) roots beneath foundations. Drains NOT implicated.
 
-## Tree removal — ✅ DONE, reimbursement in progress but stalled on payment (18 Aug)
+## Tree removal — ✅ DONE, reimbursement standoff resolved 8 Sep (payment landed)
 
 - **Insurer approved funding of the full £1,200** for the tree surgery works (GHG email, Kim Salter,
   5 Jun 2026, to both Rupert + Heather). Trees removed 23 Jul 2026. Quote + invoice (£1,200: Willow
   £700 + Maple £500, invoice #2607005, dated 27 Jul, HJ Tree Care) sent to GHG 30 Jul.
 - **GHG confirmed 7 Aug** the invoice has been passed to the insurer for direct payment to
   Heather's Barclays account.
-- ⚠️ **Payment standoff (WhatsApp, 18 Aug) — unresolved.** Hamish is chasing payment (invoice
-  ~2 weeks overdue by 18 Aug against its 7-day terms). Heather says the insurer's £1,200 hasn't
+- **Payment standoff (WhatsApp, 18 Aug) — resolved 8 Sep.** Hamish was chasing payment (invoice
+  ~2 weeks overdue by 18 Aug against its 7-day terms). Heather said the insurer's £1,200 hadn't
   landed in her Barclays yet, and asked Rupert to front £800 (plus "the £400 we put aside for
   drain excess," making £1,200) to pay Hamish now, to be repaid once the insurer credits the
-  money — she says she can't cover it herself without borrowing. **Rupert declined:** "Let Hamish
-  wait. He knew it was an insurance job." No reply from Heather yet. Hamish's bank details (for
-  reference): Halifax, Hamish John Jenkins, sort code 11-07-54, account 00382342. Also surfaced: a
-  £400 sum earmarked "for drain excess" apparently already exists somewhere (Heather's wording) —
-  bears on the [[Drain Claim]] £400-excess open question. Verbatim:
-  [[whatsapp-transcript]].
+  money — she said she couldn't cover it herself without borrowing. **Rupert declined at the
+  time:** "Let Hamish wait. He knew it was an insurance job." **8 Sep 2026:** Rupert spotted a
+  £1,200 Faster Payments credit into Barclays (09:24); Heather confirmed (16:24) "It's insurance
+  for trees - will pay him now" — the insurer's payment has landed and she says she'll pay Hamish
+  directly. **Worth a quick confirm that Hamish is actually paid**, but the standoff itself
+  appears closed. Hamish's bank details (for reference): Halifax, Hamish John Jenkins, sort code
+  11-07-54, account 00382342. Also surfaced: a £400 sum earmarked "for drain excess" apparently
+  already exists somewhere (Heather's wording) — bears on the [[Drain Claim]] £400-excess open
+  question, still unresolved. Verbatim: [[whatsapp-transcript]].
 - No completion photo confirmed sent — GHG's 5 Jun approval required one; worth confirming with
   Heather it's been sent or isn't needed.
 
