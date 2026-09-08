@@ -3,16 +3,18 @@
 - **Type:** Credit card
 - **Card number:** **** **** **** 0265
 - **Credit limit:** £2,000.00
-- **Balance:** -£1,966.31 (Banktivity, as of 2026-07-27) — matches the
-  Atkins Dellow 0% balance-transfer plan executed 28 Jul 2026
-  (£1,900 balance transfer + £66.31 fee, 3.49%). See
-  [[Solicitor Payment 0% Plan]].
+- **Balance:** -£1,791.31 (Banktivity, as of 2026-09-05) — down from
+  -£1,966.31 after the £175.00 fixed DD collected 5 Sept 2026 (matches the
+  07/09/26 collection date confirmed on the 13 Aug statement — landed a
+  couple of days early). Originally set by the Atkins Dellow 0%
+  balance-transfer plan executed 28 Jul 2026 (£1,900 balance transfer +
+  £66.31 fee, 3.49%). See [[Solicitor Payment 0% Plan]].
 - **Direct debit:** amended 28 Jul 2026 from Minimum to **Fixed £175.00/month**
   (card ending 0645, statement date 13/03, due date 01/08) to clear the
   transferred balance inside the 0% window. **Confirmed landed correctly** —
-  13 Aug 2026 statement shows "Your payment of £175.00 will be automatically
-  collected on 07/09/26", not the £49.15 minimum. See
-  [[2026-08-13_ms-statement-dd-confirmed]].
+  13 Aug 2026 statement showed "Your payment of £175.00 will be automatically
+  collected on 07/09/26"; Banktivity now shows it actually posted 5 Sept.
+  See [[2026-08-13_ms-statement-dd-confirmed]].
 - **Standard rates (p.a. effective):** Purchases and charges 24.9%
   (1.873% monthly); Cash advances 29.9% (2.203% monthly). Per statement
   dated 13 March 2026 (`~/Downloads/2026-03-13_Statement.pdf`).

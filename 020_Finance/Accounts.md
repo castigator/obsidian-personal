@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,013.01 | 2026-09-06 |
-| Starling - Joint | £196.55 | 2026-09-03 |
-| Barclays - Current | £473.22 | 2026-09-03 |
+| Starling - Main | £978.61 | 2026-09-06 |
+| Starling - Joint | £166.05 | 2026-09-07 |
+| Barclays - Current | £1,673.22 | 2026-09-06 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
@@ -81,14 +81,29 @@ recurring amount as the 3 Aug DD). Nothing irregular.
 unchanged (Banktivity has no new line items since 3 Sept).
 
 **3–6 Sept 2026 — Starling - Main, ordinary spending only.**
-£1,455.14→£1,013.01: pubs/restaurants (Five Bells Cavendish, The Black
+£1,455.14→£978.61: pubs/restaurants (Five Bells Cavendish, The Black
 Lion, Swan Long Melford), East of England Coop, Amazon Marketplace ×2,
 PayPal ×2, Audible and Anthropic subscriptions, a £100 transfer to Mandy
 ("Mandy Zimmer & Rupert Thomas"), and a £175 payment to "Hsbc Uk Bank T/a
-M&s Bank" (matches the M&S card's usual fixed DD, see
-[[M&S Credit Card]]) and a £72.84 Fuse Energy payment (household energy
-supplier). Starling - Joint and Barclays - Current unchanged since 3 Sept
-— no new line items. Nothing irregular, no shared-debt significance.
+M&s Bank" (the M&S card's usual fixed DD landing — confirms
+[[M&S Credit Card]]'s balance moving -£1,966.31→-£1,791.31 same day) and
+a £72.84 Fuse Energy payment (household energy supplier), plus further
+small pub/grocery spend on 6 Sept (Budgens, Five Bells Cavendish ×2).
+Nothing irregular, no shared-debt significance.
+
+**6–7 Sept 2026 — Starling - Joint, ordinary spending.** £196.55→£166.05:
+a single -£30.50 Tesco debit on 7 Sept. Nothing irregular.
+
+**⏳ 6 Sept 2026 — Barclays - Current, £1,200 unrecognised credit — Rupert
+already chasing, awaiting answer.** £473.22→£1,673.22: a single +£1,200
+credit labelled only "FASTER PAYMENTS 6843593KI101642720 BGC" — no name or
+reference beyond the generic BACS/Faster Payments tag, unlike Rupert's
+usual self-transfers ("Rupert Thomas") or Heather's labelled BGCs
+("Heather Thomas DEBT"/"BILLS"). Doesn't match any expected pattern
+(salary already landed 26 Aug via Starling - Main, mortgage/rent transfers
+are outbound not in). Rupert asked about it himself via WhatsApp (8 Sept,
+09:24) — "£1,200 from 'FASTER PAYMENTS' paid in to Barclays?" — no reply
+yet as of this refresh. Revisit once he hears back.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
@@ -131,8 +146,8 @@ is referenced elsewhere.
 | Starling - Broadband | £32.99 | 2026-09-01 |
 | Starling - Home Insurance | £5.30 | 2026-09-01 |
 | Starling - Water | £0.00 | 2026-06-17 |
-| Starling - Council Tax | £152.00 | 2026-09-01 |
-| Starling - TV Licence | £15.53 | 2026-09-01 |
+| Starling - Council Tax | £0.00 | 2026-09-06 |
+| Starling - TV Licence | £0.08 | 2026-09-07 |
 | Starling - Tesco Credit Card | £0.00 | 2026-07-02 |
 | Starling - NatWest Credit Card | £600.00 | 2026-08-31 |
 
@@ -195,7 +210,7 @@ See individual notes for offer/APR detail.
 | Tesco Mastercard (Clubcard) | -£25.97 | 2026-08-19 | [[Tesco Clubcard Credit Card]] |
 | NatWest Mastercard | -£1,502.56 | 2026-07-28 | [[NatWest Mastercard]] |
 | Capital One | £0.00 | 2026-05-01 | [[Capital One]] |
-| M&S Mastercard | -£1,966.31 | 2026-07-27 | [[M&S Credit Card]] |
+| M&S Mastercard | -£1,791.31 | 2026-09-05 | [[M&S Credit Card]] |
 
 **Atkins Dellow solicitor payment (28 Jul 2026) executed as planned on both  
 cards.** M&S shows -£1,966.31 (£1,900 transfer + £66.31 fee); NatWest shows  

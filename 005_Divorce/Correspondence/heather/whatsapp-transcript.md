@@ -2407,9 +2407,9 @@ the WhatsApp file-attachment card is visible)*
 
 ### Fri 28 Aug 2026
 
-**Rupert:** *(message content not visible — screenshot shows only WhatsApp's own placeholder,*
-*"Waiting for this message. This may take a while. Learn more", timestamped 12:25 ✓✓)*
-`[gap — message text not captured; WhatsApp send/delivery-delay placeholder only, content unknown]`
+**Rupert:** *(message deleted by Rupert 8 Sep 2026 — never resolved, never arrived, content
+unknown even to Rupert. Likely lost in transmission around a SIM switch at the time. Closed —*
+*not expected to be recoverable.)*
 
 ---
 
@@ -2492,12 +2492,23 @@ supplied 7 Sep 2026, filed to `2026-08-20_barclaycard-statement-5002.pdf`):**
 
 ---
 
-**[Still open, next backfill:]** 28 Aug 2026, 12:25 (Rupert's undelivered/placeholder message) is
-the current known end of the transcript. Next session should pick up from there — in particular,
-what Rupert's 28 Aug message actually said once a screenshot showing its resolved text is
-available. **Open in-chat items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to
-share pension/salary info directly; (2) Rupert declined Heather's request to front £800 for the
-Hamish/tree invoice — still no reply from Heather visible.
+### Tue 8 Sep 2026
+
+**Rupert:** *(09:24 ✓✓)* "£1,200 from "FASTER PAYMENTS" paid in to Barclays?"
+
+`[unanswered — no reply from Heather visible yet; unclear which Barclays account/card this refers
+to or what the payment was for]`
+
+---
+
+**[Still open, next backfill:]** 28 Aug 2026, 12:25 is now closed — Rupert deleted the message
+himself 8 Sep, doesn't recall its content, and it never arrived (likely lost during a SIM switch
+around that time). Not pursuing recovery. 8 Sep 2026, 09:24 (Rupert's £1,200 Faster Payments
+query) is the current known end of the transcript — awaiting Heather's reply. **Open in-chat
+items:** (1) Rupert hasn't yet answered Heather's 30 Jul 12:35 offer to share pension/salary info
+directly; (2) Rupert declined Heather's request to front £800 for the Hamish/tree invoice — still
+no reply from Heather visible; (3) new — £1,200 Faster Payments into Barclays (8 Sep) unexplained,
+need Heather's answer.
 
 ---
 

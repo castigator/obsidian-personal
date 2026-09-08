@@ -5,7 +5,12 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-07. One new item since 5 Sept: a Halifax notice
+**Last checked:** 2026-09-08. Nothing new — the only hit since 7 Sept
+(Halifax "you have a new message from us") was the digital-inbox notice
+already filed that same day (see below). All other sender and keyword
+searches since 7 Sept came back empty.
+
+**2026-09-07.** One new item since 5 Sept: a Halifax notice
 that the standard interest rate on Heather's card (ending 3123) is going up
 from 19 Nov 2026 — new rate not yet known, the actual figure sits in a
 digital-inbox message not visible via Gmail (see
