@@ -3,8 +3,8 @@
 - **Type:** Credit card (Tesco Bank, Mastercard)
 - **Card number:** **** **** **** 2484
 - **Credit limit:** £1,500.00
-- **Balance:** **-£25.97** (as of 2026-08-19, Banktivity)
-- **Available credit:** ~£1,474.03
+- **Balance:** **£0.00** (as of 2026-09-08, Banktivity)
+- **Available credit:** £1,500.00
 - **Standard purchase rate:** 2.840% monthly (≈39.94% representative APR,
   compounded) — per statement dated 15 July 2026
   (`~/Downloads/CCStatements-260715.pdf`). £0 interest charged this cycle
@@ -47,6 +47,28 @@ topped up, then reversing when Tesco reconciles the actual balance owed).
 Not costing Rupert anything net, but worth him being aware it may keep
 recurring rather than being resolved.
 
+**⏳ Update (9 Sept refresh) — £25.97 minimum payment attempt is currently
+failing on the funding side; needs Rupert to top up today.** The 15 August
+statement (seen directly, not just Banktivity) confirmed **£25.97 owed**,
+minimum payment £25.00 due 9 September — this was genuinely owed, not a
+credit, despite the Tesco app showing "available credit: £1,500.00"
+(matching the full limit), which briefly looked like it implied a credit
+balance; that field just doesn't net a balance this small the way
+expected — the statement's explicit "New balance: £25.97" (no CR marker)
+is the reliable figure. Banktivity shows a +£25.97 line posted 8 Sept that
+brought the card's own balance to £0.00, and Tesco's app shows the
+£25.97 DD as "pending" — **but a Starling email (9 Sept, 07:13) says the
+underlying scheduled payment actually failed that morning**: not enough
+money in the Starling "Tesco Credit Card" Space to fund it, and Starling
+will keep retrying until 4pm today (9 Sept). Same shape as the recurring
+Starling-Space-funding failures already documented above (10 Aug, 19 Aug).
+
+**✅ Confirmed cleared (10 Sept refresh).** Rupert topped up the Space with
+£25.97 on 9 Sept; Banktivity shows the retry succeeded the same day — the
+£25.97 moved out of the Starling Space and onto the card, bringing it to a
+genuine, fully-settled **£0.00**. No reversal this time (unlike the 10/19
+Aug cycles) — nothing further to watch here.
+
 ## Money transfer option
 
 Tesco Bank offers money transfers from this card to a UK current account:
@@ -60,11 +82,11 @@ emergency cash option, not part of any 0% strategy.
 
 ## Balance transfer offer (recurring)
 
-- **Rate:** 0% interest on balance transfers until November 2027 statement
+- **Rate:** 0% interest on balance transfers until December 2027 statement
 - **Fee:** 4.99% (min £5)
-- **Transfer window:** until 4 September 2026 (per most recent notice)
+- **Transfer window:** until 9 October 2026 (per most recent notice)
 - **Source:** recurring monthly email from Tesco Bank, most recently
-  2026-08-11 (see [[2026-07-20_tesco-balance-transfer-offer]]
+  2026-09-08 (see [[2026-07-20_tesco-balance-transfer-offer]]
   for the prior instance — terms just roll forward monthly, no new entry filed)
 - Moves debt *onto* this card from elsewhere — doesn't produce cash. See
   [[Paying Off 50% Shared Debt]] for why this isn't usable for

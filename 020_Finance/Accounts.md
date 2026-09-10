@@ -94,16 +94,19 @@ Nothing irregular, no shared-debt significance.
 **6–7 Sept 2026 — Starling - Joint, ordinary spending.** £196.55→£166.05:
 a single -£30.50 Tesco debit on 7 Sept. Nothing irregular.
 
-**⏳ 6 Sept 2026 — Barclays - Current, £1,200 unrecognised credit — Rupert
-already chasing, awaiting answer.** £473.22→£1,673.22: a single +£1,200
-credit labelled only "FASTER PAYMENTS 6843593KI101642720 BGC" — no name or
-reference beyond the generic BACS/Faster Payments tag, unlike Rupert's
-usual self-transfers ("Rupert Thomas") or Heather's labelled BGCs
-("Heather Thomas DEBT"/"BILLS"). Doesn't match any expected pattern
-(salary already landed 26 Aug via Starling - Main, mortgage/rent transfers
-are outbound not in). Rupert asked about it himself via WhatsApp (8 Sept,
-09:24) — "£1,200 from 'FASTER PAYMENTS' paid in to Barclays?" — no reply
-yet as of this refresh. Revisit once he hears back.
+**✅ £1,200 unrecognised Barclays credit — reversed itself out 7 Sept, resolved.**
+£473.22→£1,673.22 on 6 Sept (unexplained "FASTER PAYMENTS" credit, no name/
+reference — Rupert asked about it via WhatsApp 8 Sept, no reply yet as of
+that point), then straight back out again on 7 Sept, returning the balance
+to exactly £473.22. Net effect zero — reads as an erroneous credit Barclays
+(or the sender) caught and reversed itself, same shape as the Tesco
+in/out cycles elsewhere in this project. Still unexplained who sent it, but
+no longer worth chasing since it's self-corrected; worth mentioning to
+Rupert only if he's still waiting on an answer.
+
+**7 Sept 2026 — Starling - Main, ordinary spending.** £1,013.01→£894.93:
+small pub/grocery card spend (£22.90/£44.99/£5.89/£6.75/£3.15). Nothing
+irregular.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
@@ -207,8 +210,8 @@ See individual notes for offer/APR detail.
 
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
-| Tesco Mastercard (Clubcard) | -£25.97 | 2026-08-19 | [[Tesco Clubcard Credit Card]] |
-| NatWest Mastercard | -£1,502.56 | 2026-07-28 | [[NatWest Mastercard]] |
+| Tesco Mastercard (Clubcard) | £0.00 | 2026-09-08 | [[Tesco Clubcard Credit Card]] — £25.97 minimum payment cleared, confirmed settled |
+| NatWest Mastercard | -£1,202.56 | 2026-09-09 | [[NatWest Mastercard]] — routine £300/month DD payment |
 | Capital One | £0.00 | 2026-05-01 | [[Capital One]] |
 | M&S Mastercard | -£1,791.31 | 2026-09-05 | [[M&S Credit Card]] |
 

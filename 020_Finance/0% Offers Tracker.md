@@ -15,14 +15,14 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-09-04.
+**Last updated:** 2026-09-09.
 
 ## Rupert's own cards
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
 | NatWest Mastercard (…0354) | Intro BT (whole balance) | 0% / no fee | Expires 16 Feb 2027 | n/a — already applied to existing £1,502.56 balance | In use, not available for new debt |
-| Tesco Clubcard (…2484) | Balance transfer *in* | 0% until Nov 2027 statement / 4.99% fee (min £5) | Request by 4 Sept 2026 (recurring monthly, likely to reappear) | ~£1,474.03 available credit (limit £1,500, balance -£25.97) | **Available** — moves debt onto this card, doesn't produce cash |
+| Tesco Clubcard (…2484) | Balance transfer *in* | 0% until Dec 2027 statement / 4.99% fee (min £5) | Request by 9 Oct 2026 (recurring monthly, likely to reappear) | ~£1,500.00 available credit (limit £1,500, balance £0.00 — pending £25.97 collection, see [[Tesco Clubcard Credit Card]]) | **Available** — moves debt onto this card, doesn't produce cash |
 | M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £33.69 headroom only (limit £2,000, balance £1,966.31 — used 28 Jul for the Atkins Dellow payment) | Effectively maxed out until balance clears |
 | Capital One (…7498) | — | none current | — | £1,800 available (£0 balance) | No live offer; highest standard rate (30.34%) if a balance ever lands here |
 

@@ -5,7 +5,25 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-08. Nothing new — the only hit since 7 Sept
+**Last checked:** 2026-09-10. Gmail token expired/revoked this run —
+re-authorized mid-refresh (Rupert approved via browser) before sweeping.
+Nothing new to file — the only hits since 9 Sept were the Barclays Click
+to Pay notice and the Starling failed-payment email, both already logged
+below. All other sender and keyword searches since 9 Sept came back empty.
+
+**2026-09-09.** One item worth its own entry since 8 Sept:
+a Starling "problem with your scheduled payments" notice — the £25.97
+Tesco Clubcard minimum-payment DD failed on the Starling-Space funding
+side this morning, retrying until 4pm today, ⏳ needs Rupert to top up
+(see [[2026-09-09_starling-tesco-space-payment-failed]] and
+[[Tesco Clubcard Credit Card]]). Also: Tesco's recurring balance-transfer
+offer rolled forward (window now 9 Oct, rate now to Dec 2027 statement —
+updated in [[0% Offers Tracker]] and the account note, no separate entry)
+and two Barclays admin/marketing notices (Click to Pay rollout, an email
+address update confirmation) with no figures, not filed. All other sender
+and keyword searches since 8 Sept came back empty.
+
+**2026-09-08.** Nothing new — the only hit since 7 Sept
 (Halifax "you have a new message from us") was the digital-inbox notice
 already filed that same day (see below). All other sender and keyword
 searches since 7 Sept came back empty.
@@ -145,6 +163,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-09_starling-tesco-space-payment-failed|2026-09-09 — Starling scheduled payment failed (Tesco Credit Card Space)]] — £25.97 minimum-payment DD failed on funding side, ⏳ Rupert needs to top up by 4pm today
 - [[2026-09-07_halifax-rate-increase-notice|2026-09-07 — Halifax standard rate increase notice (Heather's card)]] — rate rising from 19 Nov 2026, new rate not yet known
 - [[2026-09-04_halifax-payment-due-reminder|2026-09-04 — Halifax payment-due reminder (Heather's card)]] — confirms £177.98 minimum, due 10 Sept
 - [[2026-08-19_starling-scheduled-payment-failed-tesco-space|2026-08-19 — Starling scheduled payment failed (Tesco Credit Card space)]] — £74.43 out of the Space failed on insufficient funds, second such debit in three days, needs Rupert to check the app

@@ -6,14 +6,15 @@
   [[2026-02-16_natwest-balance-transfer-card-opened]]
 - **Card number:** **** 0354
 - **Credit limit:** £10,000.00
-- **Balance:** -£1,502.56 (Banktivity, as of 2026-07-27; corrected entry,
-  fixed by Rupert 29 Jul 2026 and matches the real NatWest app) —
-  £1,420.56 existing 0% BT + £82.00 stranded standard-rate remainder, as
-  planned. See [[Solicitor Payment 0% Plan]] for the full
-  breakdown of what was executed.
-- **Available:** £8,497.44
-- **Minimum payment:** £14.21, due 10 August 2026
-- **Repayment plan:** Direct debit in place, paying **£300/month** (11 Jul 2026 payment applied; next debit 10 Aug 2026). The £82 stranded remainder is being left to clear itself via payment-allocation rules rather than topped up separately (decided 28 Jul).
+- **Balance:** -£1,202.56 (Banktivity, as of 2026-09-09) — the £300/month
+  DD continuing to pay down the 0% BT as planned. See
+  [[Solicitor Payment 0% Plan]] for the original breakdown.
+- **Available:** £8,797.44
+- **Repayment plan:** Direct debit in place, paying **£300/month**, funded
+  from the `Starling - NatWest Credit Card` Space (dropped £600→£300 same
+  day, 9 Sept). The £82 stranded remainder is being left to clear itself
+  via payment-allocation rules rather than topped up separately (decided
+  28 Jul).
 
 ## 0% promotional offer
 

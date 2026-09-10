@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **8 Sep 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **10 Sep 2026** via direct
 Gmail API — see note below. Covering April 2024 – September 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -198,6 +198,14 @@ Also filed directly in `heather/` (received 27 Apr 2026):
   direct leads (Aegon + Rothesay) from the ex-colleague WhatsApp thread are now exhausted. Aegon
   flags they run multiple independent platforms, so worth a targeted follow-up before escalating to
   the Pension Tracing Service.
+- [2026-09-08_hl-annual-pension-statement-notice.md](pensions/2026-09-08_hl-annual-pension-statement-notice.md)
+  — Routine notice: Gamesys/Roxor SIPP (HL Group SIPP, client no. 2326897) annual statement now
+  available in the HL portal. No figure in the email itself. Found via a manual search outside the
+  standard `/refresh` sender list — **HL wasn't in that list at all**, now added.
+- [2026-09-09_hl-group-sipp-annual-statement.md](pensions/2026-09-09_hl-group-sipp-annual-statement.md)
+  (+ downloaded PDF) — ✅ **Gamesys/Roxor CETV updated: £86,088.36** (formal Annual Statement,
+  effective 31 Aug 2026) — supersedes the 18 Aug portfolio-pull figure of £86,430.51 (−£342.15,
+  ordinary market drift). Running pension total revised to £220,787.88.
 
 ### [rbs/](rbs/)
 
