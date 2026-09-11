@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £978.61 | 2026-09-06 |
+| Starling - Main | £621.85 | 2026-09-10 |
 | Starling - Joint | £166.05 | 2026-09-07 |
-| Barclays - Current | £1,673.22 | 2026-09-06 |
+| Barclays - Current | £473.22 | 2026-09-07 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
@@ -94,18 +94,27 @@ Nothing irregular, no shared-debt significance.
 **6–7 Sept 2026 — Starling - Joint, ordinary spending.** £196.55→£166.05:
 a single -£30.50 Tesco debit on 7 Sept. Nothing irregular.
 
-**✅ £1,200 unrecognised Barclays credit — reversed itself out 7 Sept, resolved.**
-£473.22→£1,673.22 on 6 Sept (unexplained "FASTER PAYMENTS" credit, no name/
-reference — Rupert asked about it via WhatsApp 8 Sept, no reply yet as of
-that point), then straight back out again on 7 Sept, returning the balance
-to exactly £473.22. Net effect zero — reads as an erroneous credit Barclays
-(or the sender) caught and reversed itself, same shape as the Tesco
-in/out cycles elsewhere in this project. Still unexplained who sent it, but
-no longer worth chasing since it's self-corrected; worth mentioning to
-Rupert only if he's still waiting on an answer.
+**✅ £1,200 Barclays credit — explained 11 Sept 2026: it was the tree money,
+passed straight through to Hamish.** £473.22→£1,673.22 on 6 Sept (an
+unreferenced "FASTER PAYMENTS" credit), then £1,200 straight out again on
+7 Sept — but the outgoing leg is **not** a reversal: it's a payment to
+"HAMISH JOHN JENKIN" with the reference "HEATHER/PEBMARSH FT". So the
+insurer's tree-removal funding reached Rupert's Barclays and Rupert paid
+Hamish the same week. Supersedes the earlier reading in this note (an
+erroneous credit that reversed itself out) — net effect on Rupert is still
+zero, but the money is accounted for, not mysterious. **Cross-project:**
+the sibling `divorce` project's open item "confirm Hamish has actually been
+paid" is answered by this — paid 7 Sept 2026, £1,200, from Rupert's
+Barclays.
 
 **7 Sept 2026 — Starling - Main, ordinary spending.** £1,013.01→£894.93:
 small pub/grocery card spend (£22.90/£44.99/£5.89/£6.75/£3.15). Nothing
+irregular.
+
+**8–10 Sept 2026 — Starling - Main, ordinary spending only.**
+£894.93→£621.85: the £25.97 Tesco Clubcard DD (the retry that settled that
+card), Budgens, several small Black Lion/Hare Inn/PayPal items, iD Mobile
+£44.99 and two Tesco debits on 10 Sept (£15.20, £50.32). Nothing
 irregular.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
@@ -151,8 +160,8 @@ is referenced elsewhere.
 | Starling - Water | £0.00 | 2026-06-17 |
 | Starling - Council Tax | £0.00 | 2026-09-06 |
 | Starling - TV Licence | £0.08 | 2026-09-07 |
-| Starling - Tesco Credit Card | £0.00 | 2026-07-02 |
-| Starling - NatWest Credit Card | £600.00 | 2026-08-31 |
+| Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
+| Starling - NatWest Credit Card | £300.00 | 2026-09-08 |
 
 These read as budgeting sub-accounts (each a separate Starling "Space")  
 rather than real savings — most sit at £0 because they're swept for bills.  
@@ -211,7 +220,7 @@ See individual notes for offer/APR detail.
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
 | Tesco Mastercard (Clubcard) | £0.00 | 2026-09-08 | [[Tesco Clubcard Credit Card]] — £25.97 minimum payment cleared, confirmed settled |
-| NatWest Mastercard | -£1,202.56 | 2026-09-09 | [[NatWest Mastercard]] — routine £300/month DD payment |
+| NatWest Mastercard | -£1,202.56 | 2026-09-08 | [[NatWest Mastercard]] — routine £300/month DD payment |
 | Capital One | £0.00 | 2026-05-01 | [[Capital One]] |
 | M&S Mastercard | -£1,791.31 | 2026-09-05 | [[M&S Credit Card]] |
 
@@ -222,6 +231,12 @@ a data-entry error on the NatWest side (the transfer-out mis-recorded as a
 second Charge instead of a Payment), fixed by Rupert 29 Jul 2026 — both  
 figures above are now confirmed correct. See [[Solicitor Payment 0% Plan]]  
 and the individual card notes.
+
+**✅ NatWest Mastercard duplicate £300 payment — resolved 11 Sept 2026.**
+Banktivity had briefly shown -£902.56 off a second, single-sided £300
+credit dated 9 Sept that the NatWest feed re-imported alongside the 8 Sept
+two-legged transfer. Rupert cleared the duplicate the same day; the ledger
+reconciles to **-£1,202.56** again. See [[NatWest Mastercard]].
 
 ### Personal Loans (Rupert's Own Liabilities, not shared/Anne)
 

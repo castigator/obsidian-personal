@@ -5,11 +5,9 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-10. Gmail token expired/revoked this run —
-re-authorized mid-refresh (Rupert approved via browser) before sweeping.
-Nothing new to file — the only hits since 9 Sept were the Barclays Click
-to Pay notice and the Starling failed-payment email, both already logged
-below. All other sender and keyword searches since 9 Sept came back empty.
+**Last checked:** 2026-09-11. Nothing new to file — every sender search
+(Tesco, NatWest, M&S, Capital One, Barclays, Starling, Barclaycard,
+Halifax) and both keyword searches came back empty since 10 Sept.
 
 **2026-09-09.** One item worth its own entry since 8 Sept:
 a Starling "problem with your scheduled payments" notice — the £25.97
