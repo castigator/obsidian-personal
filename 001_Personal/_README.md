@@ -21,8 +21,8 @@ home elsewhere, it goes here.
 
 ### History
 
-**Last checked (broad catch-all sweep):** 2026-09-08 — nothing new for Personal. (Three
-`heather@pebmarsh.com` items surfaced — Halifax, a ticket order, an Evri delivery — not filed
+**Last checked (broad catch-all sweep):** 2026-09-08 — nothing new for Personal. (Three  
+`heather@pebmarsh.com` items surfaced — Halifax, a ticket order, an Evri delivery — not filed  
 here; seen only via shared domain access, not Rupert's own mail.)
 
 - 2026-09-08 — Section created. Migrated the Year-End Connect reference PDFs in from the old  
