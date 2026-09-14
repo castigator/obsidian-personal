@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £621.85 | 2026-09-10 |
-| Starling - Joint | £166.05 | 2026-09-07 |
+| Starling - Main | £479.50 | 2026-09-13 |
+| Starling - Joint | £111.78 | 2026-09-12 |
 | Barclays - Current | £473.22 | 2026-09-07 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
@@ -116,6 +116,17 @@ irregular.
 card), Budgens, several small Black Lion/Hare Inn/PayPal items, iD Mobile
 £44.99 and two Tesco debits on 10 Sept (£15.20, £50.32). Nothing
 irregular.
+
+**10–13 Sept 2026 — both Starling accounts, ordinary spending only.**
+Starling - Main £621.85→£479.50: RingGo, The Nutshell, Cook, Hare Inn,
+Nethergate Brewery ×2, The Black Lion ×2, Amazon Marketplace, Netflix
+£5.99, and a £50 transfer to Mandy ("Mandy Zimmer & Rupert Thomas").
+Starling - Joint £166.05→£111.78: Jilani £69.90, Cineworld, Hare Inn and
+Tesco £62.59 against two £50 credits in (the usual "Mandy Zimmer & Rupert
+Thomas" / "shopping" pair — note the joint-account top-ups have halved
+from £100 each on 3 Sept to £50 each on 12 Sept, worth a passing glance
+but not obviously irregular). No debt-servicing or shared-debt movement in
+this window.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  

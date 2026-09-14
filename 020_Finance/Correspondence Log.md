@@ -5,9 +5,11 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-11. Nothing new to file — every sender search
+**Last checked:** 2026-09-14. Nothing new to file — every sender search
 (Tesco, NatWest, M&S, Capital One, Barclays, Starling, Barclaycard,
-Halifax) and both keyword searches came back empty since 10 Sept.
+Halifax) and both keyword searches came back empty since 11 Sept. Three
+quiet days; the next things due are the M&S and Tesco Loan monthly cycles
+around the end of the month.
 
 **2026-09-09.** One item worth its own entry since 8 Sept:
 a Starling "problem with your scheduled payments" notice — the £25.97
