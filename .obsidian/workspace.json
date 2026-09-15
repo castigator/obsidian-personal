@@ -25,12 +25,14 @@
             "id": "4128d220f984b702",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf"
+                "file": "010_Westgate/Utilities/Water.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Tesco Car Insurance - Welcome Pack and Signed Credit Agreement"
+              "icon": "lucide-file",
+              "title": "Water"
             }
           }
         ],
@@ -216,6 +218,7 @@
   },
   "active": "4128d220f984b702",
   "lastOpenFiles": [
+    "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf",
     "025_Car/Tesco Car Insurance - Statement of Fact.pdf",
     "025_Car/Tesco Car Insurance - Certificate of Motor Insurance.pdf",
     "025_Car/EY07 SVL.md",
@@ -236,7 +239,6 @@
     "Pasted image 20260803085938.png",
     "001_Personal/sortspec.md",
     "Untitled.md",
-    "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf",
     "001_Personal/Work/Year-End Connect/Year-End Connect Questions_ FINAL.pdf",
     "001_Personal/Work/Year-End Connect/Year-End Connect Performance Conversations Guide for Employees_FINAL.pdf",
     "001_Personal/Work/Year-End Connect/Year-End Connect Employee Guide_FINAL.pdf",

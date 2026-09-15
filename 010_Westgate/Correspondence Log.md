@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-08
+**Last checked:** 2026-09-15
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -132,6 +132,7 @@ up to date.
 | 2026-03-26 | noreply@anglianwater.co.uk | DD set up | New DD £58.00/month (account ******5288, sort 83-71) |
 | 2026-04-18 | comms@updates.anglianwater.co.uk | Smart meter activated | Smart water meter now active |
 | 2026-05-01 | comms@updates.anglianwater.co.uk | We think you have a leak | ~10 litres/hour usage detected 24/7. Job #68210571 — **resolved** (confirmed 2026-08-04) |
+| 2026-09-15 | noreply@anglianwater.co.uk | Your bill is ready. We're increasing your payments | Acct ***965 (9DS). Payment review: "You'll now pay £1120.00", previously £58.00 — email doesn't say monthly vs one-off. Suggests checking for leaks. **Unverified — check bill in MyAccount** |
 
 ## Fibrely (Broadband)
 
