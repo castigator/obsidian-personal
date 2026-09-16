@@ -37,7 +37,7 @@ content-start: 151
 |---|---|---|---|
 | Rent | £1,000.00 | 22nd of month | Standing order to landlord |
 | Council tax | ~£151.00 | 8th of month | Direct debit |
-| Water (Anglian) | £58.00 (15 Sep 2026: bill says £3,406.58 owed, £1,022 DD due 1 Oct; disputing — see [[Water]]) | 8th of month | Direct debit |
+| Water (Anglian) | £77.00 from 8 Oct 2026 (was £58.00; disputed £3,406.58 bill settled 16 Sep 2026 via leakage allowance — see [[Water]]) | 8th of month | Direct debit |
 | Gas & electricity | variable | — | Fuse Energy |
 | Broadband (Fibrely) | £32.99 | — | Direct debit |
 | TV Licence | — | — | Direct debit |

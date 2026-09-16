@@ -132,7 +132,9 @@ up to date.
 | 2026-03-26 | noreply@anglianwater.co.uk | DD set up | New DD £58.00/month (account ******5288, sort 83-71) |
 | 2026-04-18 | comms@updates.anglianwater.co.uk | Smart meter activated | Smart water meter now active |
 | 2026-05-01 | comms@updates.anglianwater.co.uk | We think you have a leak | ~10 litres/hour usage detected 24/7. Job #68210571 — **resolved** (confirmed 2026-08-04) |
-| 2026-09-15 | noreply@anglianwater.co.uk | Your bill is ready. We're increasing your payments | Acct ***965 (9DS). Payment review: "You'll now pay £1120.00", previously £58.00 — email doesn't say monthly vs one-off. Suggests checking for leaks. **Unverified — check bill in MyAccount** |
+| 2026-09-15 | noreply@anglianwater.co.uk | Your bill is ready. We're increasing your payments | Acct ***965 (9DS). Payment review: "You'll now pay £1120.00", previously £58.00 — email doesn't say monthly vs one-off. Suggests checking for leaks. **Superseded by the 16 Sep settlement** |
+| 2026-09-16 | Anglian Water (SMS) | Card payment received | Phone call resolved the dispute: leakage allowance **£3,308.17** applied, leaving **£32.88**, paid by card. Payment ref **lw194R** |
+| 2026-09-16 | Anglian Water (SMS) | Direct Debit has been set | 1st payment **£77.00 on 08.10.2026**, then £77.00 monthly until next review |
 
 ## Fibrely (Broadband)
 
