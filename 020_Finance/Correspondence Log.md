@@ -13,8 +13,22 @@ statement-ready notices, so not filed and nothing changed in
 [[Tesco Clubcard Credit Card]] — that card is at a settled £0.00, so there
 should be no minimum due on this statement. Every other sender search
 (NatWest, M&S, Capital One, Barclays, Starling, Barclaycard, Halifax) and
-both keyword searches came back empty. Six quiet days now; next expected are
-the M&S £175 DD and the Tesco Loan £139.74 at month-end.
+both keyword searches came back empty. Six quiet days now.
+
+**Correction (16 Sept, same session):** the long-carried "next expected are
+the M&S £175 DD and the Tesco Loan £139.74 **at month-end**" was wrong on
+both counts, and has been carried forward unchecked for several refreshes.
+Neither is a month-end item and neither is outstanding: the **Tesco Loan** is
+a **beginning-of-month** payment (contractually the 2nd, or next working day)
+and September's already came out on 31 Aug — next ~2 Oct. The **M&S £175 DD**
+collects around the **7th** — it ran on 5 Sept, so next is ~5–7 Oct. See
+[[Tesco Loan]] and [[M&S Credit Card]].
+
+**2026-09-16 (same session) — Tesco loan origination pack filed.** Rupert
+supplied the full 11-page pack directly; filed as
+[[2025-08-19_tesco-loan-origination-pack]] with the PDF in `xx_media`. It
+establishes that the loan is **precomputed, not amortising** — see the entry
+and [[Tesco Loan]] for why that matters.
 
 **2026-09-09.** One item worth its own entry since 8 Sept:
 a Starling "problem with your scheduled payments" notice — the £25.97
@@ -168,6 +182,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2025-08-19_tesco-loan-origination-pack|2025-08-19 — Tesco Bank loan origination pack]] — backfilled 16 Sept 2026 from the paper pack; the signed CCA agreement, establishes the loan is precomputed (no monthly interest charges), free amortisation table available on request
 - [[2026-09-09_starling-tesco-space-payment-failed|2026-09-09 — Starling scheduled payment failed (Tesco Credit Card Space)]] — £25.97 minimum-payment DD failed on funding side, ⏳ Rupert needs to top up by 4pm today
 - [[2026-09-07_halifax-rate-increase-notice|2026-09-07 — Halifax standard rate increase notice (Heather's card)]] — rate rising from 19 Nov 2026, new rate not yet known
 - [[2026-09-04_halifax-payment-due-reminder|2026-09-04 — Halifax payment-due reminder (Heather's card)]] — confirms £177.98 minimum, due 10 Sept

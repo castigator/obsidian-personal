@@ -280,7 +280,24 @@ reconciles to **-£1,202.56** again. See [[NatWest Mastercard]].
 
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
-| Tesco Loan | -£1,602.60 | 2026-08-31 | [[Tesco Loan]] — £3,000 @ 9.8% APR, £139.74/month, opened Aug 2025 |
+| Tesco Loan | -£1,956.36 | 2026-08-31 | [[Tesco Loan]] — £3,000 @ 9.8% APR, £139.74/month, opened Aug 2025 |
+
+**✅ Tesco Loan ledger corrected by Rupert, 16 Sept 2026 — now reconciles.**
+The account had been seeded with the **advance** (£3,000) instead of the
+**total owed** (£3,353.76) while still deducting the full £139.74 per
+payment, which would have finished £353.76 *in credit*. Rupert restated the
+opening balance to **-£3,353.76**; verified the same day — 10 payments
+posted, running balance **-£1,956.36**, SUM cross-check agrees exactly, and
+the remaining 14 × £139.74 now lands precisely on £0.00. The figure above is
+the real outstanding liability, so this row no longer needs a caveat. The loan is a **precomputed** fixed-sum loan (interest calculated
+once at the outset and added to the advance, the £3,353.76 total divided by
+24), confirmed from the signed agreement filed 16 Sept 2026 — so there are no
+monthly interest postings for Banktivity to pick up, and none will ever
+appear. Actual remaining liability is **£1,956.36** (14 × £139.74); a true
+early-settlement figure is obtainable only from Tesco. Full detail, including
+the free amortisation table available on request and the corrected
+beginning-of-month payment pattern, is in [[Tesco Loan]] and
+[[2025-08-19_tesco-loan-origination-pack]].
 
 ### Loans from Anne (owed back to Anne)
 
