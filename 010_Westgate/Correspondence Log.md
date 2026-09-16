@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-15
+**Last checked:** 2026-09-16
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -119,6 +119,7 @@ up to date.
 | 2026-04-02 | support@fuseenergy.com | Mar payment | £136.70 scheduled 10 Apr |
 | 2026-05-05 | support@fuseenergy.com | Apr payment | £95.02 scheduled 8 May |
 | 2026-08-04 | support@fuseenergy.com | Jul payment | £79.32 scheduled 7 Aug |
+| 2026-09-15 | support@fuseenergy.com | Switch to Fixed Monthly Payments Today | Fixed Direct Debits now offered — spreads expected energy cost evenly across the year. No action taken |
 
 ## Anglian Water
 
@@ -135,6 +136,7 @@ up to date.
 | 2026-09-15 | noreply@anglianwater.co.uk | Your bill is ready. We're increasing your payments | Acct ***965 (9DS). Payment review: "You'll now pay £1120.00", previously £58.00 — email doesn't say monthly vs one-off. Suggests checking for leaks. **Superseded by the 16 Sep settlement** |
 | 2026-09-16 | Anglian Water (SMS) | Card payment received | Phone call resolved the dispute: leakage allowance **£3,308.17** applied, leaving **£32.88**, paid by card. Payment ref **lw194R** |
 | 2026-09-16 | Anglian Water (SMS) | Direct Debit has been set | 1st payment **£77.00 on 08.10.2026**, then £77.00 monthly until next review |
+| 2026-09-16 | noreply@anglianwater.co.uk | Your Direct Debit has changed | Acct ***965. Next payment £77.00 on or just after 8 Oct 2026, then £77.00 from 8 Nov 2026. Confirms the SMS; supersedes the £1,022 DD that had been set for 1 Oct |
 
 ## Fibrely (Broadband)
 
@@ -147,6 +149,7 @@ up to date.
 | Monthly | hello@fibrely.co.uk | Bill ready | Account F-0011074. £15.78 (Sep), then £29.99/month |
 | 2026-03-05 | no-reply@fibrely.co.uk | Price increase | £3.00/month increase from 1 Apr 2026 |
 | 2026-04-13 | hello@fibrely.co.uk | Bill ready | First bill at new rate: £32.99 |
+| 2026-09-14 | no-reply@payments.gocardless.com | Upcoming Direct Debit payment to Fibrely | £32.99, invoice FIB189625, debited from Starling ******88 |
 
 ## mydeposits
 
@@ -161,3 +164,9 @@ up to date.
 |---|---|---|---|
 | 2025-08-25 | confirmation@tvlicensing.co.uk | TV Licence application | Licence granted, monthly DD |
 | 2025-08-28 | donotreply@tvlicensing.co.uk | DD set up | Direct debit confirmed |
+
+## Urban Jungle (Contents Insurance)
+
+| Date | From | Subject | Key Content |
+|---|---|---|---|
+| 2026-09-16 | no-reply@myurbanjungle.com | Your Contents Insurance policy is renewing soon | Policy V2C-1755265621-QL renews automatically; next payment **£5.30 on 21 Sep 2026** from account ******5288 |

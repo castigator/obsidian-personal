@@ -41,7 +41,7 @@ content-start: 151
 | Gas & electricity | variable | — | Fuse Energy |
 | Broadband (Fibrely) | £32.99 | — | Direct debit |
 | TV Licence | — | — | Direct debit |
-| Insurance (Urban Jungle) | variable | — | — |
+| Insurance (Urban Jungle) | £5.30 | 21st of month | Auto-renewing monthly policy |
 
 ## Contract & Tenancy
 

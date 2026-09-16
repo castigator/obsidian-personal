@@ -5,11 +5,16 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-15. Nothing new to file — every sender search
-(Tesco, NatWest, M&S, Capital One, Barclays, Starling, Barclaycard,
-Halifax) and both keyword searches came back empty since 14 Sept. Five
-quiet days now; next expected are the M&S £175 DD and the Tesco Loan
-£139.74 at month-end.
+**Last checked:** 2026-09-16. Nothing new to file. One hit since 15 Sept: a
+Tesco Bank "view your latest statement online" notice (16 Sept, card ending
+2484) — routine statement-ready notice with **no figures in the body** (it
+points at Online Banking/the app), same not-worth-an-entry pattern as prior
+statement-ready notices, so not filed and nothing changed in
+[[Tesco Clubcard Credit Card]] — that card is at a settled £0.00, so there
+should be no minimum due on this statement. Every other sender search
+(NatWest, M&S, Capital One, Barclays, Starling, Barclaycard, Halifax) and
+both keyword searches came back empty. Six quiet days now; next expected are
+the M&S £175 DD and the Tesco Loan £139.74 at month-end.
 
 **2026-09-09.** One item worth its own entry since 8 Sept:
 a Starling "problem with your scheduled payments" notice — the £25.97

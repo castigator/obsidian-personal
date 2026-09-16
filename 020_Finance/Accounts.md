@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £479.50 | 2026-09-13 |
-| Starling - Joint | £111.78 | 2026-09-12 |
+| Starling - Main | £397.42 | 2026-09-15 |
+| Starling - Joint | £311.78 | 2026-09-14 |
 | Barclays - Current | £473.22 | 2026-09-07 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
@@ -128,6 +128,33 @@ from £100 each on 3 Sept to £50 each on 12 Sept, worth a passing glance
 but not obviously irregular). No debt-servicing or shared-debt movement in
 this window.
 
+**13–15 Sept 2026 — Starling - Main, ordinary spending plus a water-bill
+round trip.** £479.50→£397.42: Netflix £5.99 (13 Sept), then on 14 Sept
+Tesco £22.70, Colchester Arts Centre £11.00, MiPermit £2.45, The Centurion
+£13.05, plus a £58.00 transfer out to the `Starling - Water` Space — which
+came **straight back in on 15 Sept** (+£58.00, same "Water" label), after
+which the actual **Anglian Water direct debit of £32.88 came off Starling -
+Main directly**, not out of the Space. So the Water pot was filled at £58,
+emptied again, and the real bill was paid from the main account: the Space
+nets to £0.00 and its "as of" date moves from 17 Jun to 15 Sept without its
+balance changing. Reads as Rupert (or Starling's own bill-pot automation)
+correcting an over-estimated pot — the £58 pot figure was about £25 above
+the actual £32.88 bill. Nothing irregular, nothing owed.
+
+**✅ 14 Sept 2026 — £200 credit into Starling - Joint labelled "Django" is
+dog-sitting income.** £111.78→£311.78 on a single inbound £200 line item.
+Confirmed by Rupert 16 Sept 2026: **Django is a dog he and Mandy dog-sat
+for**, and the £200 is simply the fee, passed on via Mandy — ordinary
+income, nothing owed and nothing to chase. Flagged on the day only because
+the reference appears nowhere else in Banktivity's history, the vault, or
+the sibling `divorce` project, and it's the largest single credit this
+account has ever taken (every other is a £15–£130 shared-cost or
+Gainsborough top-up). Not a duplicate-feed artefact — the
+SUM-of-all-line-items check reconciles exactly to £311.78. Worth knowing
+the pattern: **ad-hoc third-party income can arrive in the joint account
+under a bare personal/pet-name reference**, so an unrecognised one-off
+credit here isn't automatically suspicious.
+
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
 [[2026-07-19_starling-joint-account-approved]]. Joint with Rupert's partner,  
@@ -168,7 +195,7 @@ is referenced elsewhere.
 | Starling - Westgate Rent | £1,000.00 | 2026-09-01 |
 | Starling - Broadband | £32.99 | 2026-09-01 |
 | Starling - Home Insurance | £5.30 | 2026-09-01 |
-| Starling - Water | £0.00 | 2026-06-17 |
+| Starling - Water | £0.00 | 2026-09-15 |
 | Starling - Council Tax | £0.00 | 2026-09-06 |
 | Starling - TV Licence | £0.08 | 2026-09-07 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
