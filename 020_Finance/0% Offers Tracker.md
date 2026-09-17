@@ -15,14 +15,18 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-09-16 (no offer emails this run — terms below
-unchanged; only the Tesco capacity note corrected now that card is settled).
+**Last updated:** 2026-09-17 — 🚨 **major correction:** the NatWest card is
+**not** on 0% and hasn't been since 28 July. Its promotional balance was
+repaid by the M&S transfer and the solicitor fee replaced it as full-rate
+purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
+16 Aug statement. See [[NatWest Mastercard]] and
+[[2026-08-16_natwest-statement-0pc-gone]].
 
 ## Rupert's own cards
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
-| NatWest Mastercard (…0354) | Intro BT (whole balance) | 0% / no fee | Expires 16 Feb 2027 | n/a — already applied to existing £1,502.56 balance | In use, not available for new debt |
+| NatWest Mastercard (…0354) | 🚨 **No live offer — 0% balance was repaid, not expired** | **26.436%** (2.203% monthly) on the whole balance | n/a | £8,744.89 available (limit £10,000, balance £1,255.11) | 🚨 **Now the most expensive live debt Rupert holds.** £52.55 interest charged 15 Sept. See [[NatWest Mastercard]] |
 | Tesco Clubcard (…2484) | Balance transfer *in* | 0% until Dec 2027 statement / 4.99% fee (min £5) | Request by 9 Oct 2026 (recurring monthly, likely to reappear) | ~£1,500.00 available credit (limit £1,500, balance £0.00 — fully settled 9 Sept, no pending collection, see [[Tesco Clubcard Credit Card]]) | **Available** — moves debt onto this card, doesn't produce cash |
 | M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £33.69 headroom only (limit £2,000, balance £1,966.31 — used 28 Jul for the Atkins Dellow payment) | Effectively maxed out until balance clears |
 | Capital One (…7498) | — | none current | — | £1,800 available (£0 balance) | No live offer; highest standard rate (30.34%) if a balance ever lands here |
@@ -37,9 +41,17 @@ unchanged; only the Tesco capacity note corrected now that card is settled).
 
 ## How to use this
 
+- 🚨 **Most urgent use of the Tesco window is now the NatWest balance, not
+  the shared debt.** NatWest is carrying **£1,255.11 at 26.436%** and
+  actively charging interest. Tesco's 0% BT offer (0% to the Dec 2027
+  statement, 4.99% fee, ~£1,500 available) would absorb essentially all of
+  it for roughly **£63 of fee** — but the **transfer window closes
+  9 October 2026**. This is the single highest-value action available in
+  this project right now. Rupert's decision; see [[NatWest Mastercard]].
 - **Rupert's own borrowing capacity for the shared-debt payoff:** Tesco
   Clubcard's 0% BT window is the only genuinely open, unused offer right
-  now (M&S is maxed out, NatWest's already committed). See
+  now (M&S is maxed out, NatWest is *not* 0% any more). Note the competing
+  claim on it above. See
   [[Paying Off 50% Shared Debt]] for how this fits the wider payoff
   strategy — the Halifax personal loan (£7,500, 6.4%) remains the primary
   plan, gated on the Card Split Agreement being signed.

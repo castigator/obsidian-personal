@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £397.42 | 2026-09-15 |
+| Starling - Main | £565.17 | 2026-09-16 |
 | Starling - Joint | £311.78 | 2026-09-14 |
-| Barclays - Current | £473.22 | 2026-09-07 |
+| Barclays - Current | £73.22 ⚠️ | 2026-09-16 |
 
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
@@ -142,10 +142,19 @@ correcting an over-estimated pot — the £58 pot figure was about £25 above
 the actual £32.88 bill. Nothing irregular, nothing owed.
 
 **✅ 14 Sept 2026 — £200 credit into Starling - Joint labelled "Django" is
-dog-sitting income.** £111.78→£311.78 on a single inbound £200 line item.
+dog-sitting money.** £111.78→£311.78 on a single inbound £200 line item.
 Confirmed by Rupert 16 Sept 2026: **Django is a dog he and Mandy dog-sat
-for**, and the £200 is simply the fee, passed on via Mandy — ordinary
-income, nothing owed and nothing to chase. Flagged on the day only because
+for**, and the £200 is the fee — nothing owed and nothing to chase.
+**Refinement (17 Sept refresh):** the matching leg has now posted — a £200
+debit from `Barclays - Current` the same day, also labelled "Django". So
+within the tracked accounts this is an **internal transfer, Barclays →
+Starling - Joint**, not an external credit arriving from outside. Barclays
+took no inbound payment in the run-up (it sat at £473.22 from 7 Sept until
+this went out), so the fee itself was presumably received outside the tracked
+accounts — cash or via Mandy directly — and Rupert then moved £200 of his own
+Barclays balance across to the joint account to represent it. Immaterial to
+the totals, but worth recording so the two legs aren't later mistaken for two
+separate £200 events. Flagged on the day only because
 the reference appears nowhere else in Banktivity's history, the vault, or
 the sibling `divorce` project, and it's the largest single credit this
 account has ever taken (every other is a £15–£130 shared-cost or
@@ -154,6 +163,26 @@ SUM-of-all-line-items check reconciles exactly to £311.78. Worth knowing
 the pattern: **ad-hoc third-party income can arrive in the joint account
 under a bare personal/pet-name reference**, so an unrecognised one-off
 credit here isn't automatically suspicious.
+
+**15–16 Sept 2026 — ordinary spending plus a £200 Barclays → Starling
+sweep.** `Starling - Main` £397.42→£565.17: three £10.75 Five Bells
+Cavendish items on 15 Sept, then **+£200 in on 16 Sept labelled "SURPLUS"**
+— the matching leg of a £200 debit from `Barclays - Current` the same day,
+so another internal transfer between Rupert's own accounts, not new money.
+`Starling - Broadband` swept £32.99→£0.00 on 16 Sept paying "Fibrely" (the
+broadband bill leaving its pot as designed; refills on the 1st).
+
+**⚠️ `Barclays - Current` is down to £73.22 and needs funding before
+2 October.** It fell £473.22→£73.22 on the two £200 transfers out (the
+14 Sept "Django" leg and the 16 Sept "SURPLUS" leg). Barclays is the account
+the **monthly shared-debt servicing** runs from — roughly **£574.48** goes
+out at the start of each month (£200 + £196.50 to Barclaycard, £177.98 to
+Halifax; see [[Shared Debt]] / [[Monthly Contributions]]). At £73.22 it
+cannot cover that. Rupert does normally top it up at the month rollover
+(£459.58 + £230.02 went in on 1 Sept), so this is most likely just the
+low point of the usual cycle rather than a problem — but it is a genuine
+£500 shortfall against a known, dated commitment, so worth a glance before
+the 2nd.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
@@ -193,7 +222,7 @@ is referenced elsewhere.
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-09-01 |
 | Starling - Spare Funds (was "Lucy Rent") | £633.00 | 2026-09-01 |
 | Starling - Westgate Rent | £1,000.00 | 2026-09-01 |
-| Starling - Broadband | £32.99 | 2026-09-01 |
+| Starling - Broadband | £0.00 | 2026-09-16 |
 | Starling - Home Insurance | £5.30 | 2026-09-01 |
 | Starling - Water | £0.00 | 2026-09-15 |
 | Starling - Council Tax | £0.00 | 2026-09-06 |
@@ -258,7 +287,7 @@ See individual notes for offer/APR detail.
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
 | Tesco Mastercard (Clubcard) | £0.00 | 2026-09-08 | [[Tesco Clubcard Credit Card]] — £25.97 minimum payment cleared, confirmed settled |
-| NatWest Mastercard | -£1,202.56 | 2026-09-08 | [[NatWest Mastercard]] — routine £300/month DD payment |
+| NatWest Mastercard | -£1,255.11 🚨 | 2026-09-15 | [[NatWest Mastercard]] — **no longer 0%**; £52.55 interest charged 15 Sept, whole balance at 26.436% |
 | Capital One | £0.00 | 2026-05-01 | [[Capital One]] |
 | M&S Mastercard | -£1,791.31 | 2026-09-05 | [[M&S Credit Card]] |
 
@@ -275,6 +304,21 @@ Banktivity had briefly shown -£902.56 off a second, single-sided £300
 credit dated 9 Sept that the NatWest feed re-imported alongside the 8 Sept
 two-legged transfer. Rupert cleared the duplicate the same day; the ledger
 reconciles to **-£1,202.56** again. See [[NatWest Mastercard]].
+
+**🚨 NatWest is no longer a 0% card — found 17 Sept 2026.** A **£52.55
+interest charge** posted on 15 Sept, the first ever on this card, taking it
+to **-£1,255.11**. The 16 Aug statement
+([[2026-08-16_natwest-0354-statement.pdf]]) shows the whole balance under
+*Purchases at 26.436%* with **no promotional row**. Cause, read off the
+statement's own transaction list: the £1,900 transfer in from M&S on 28 Jul
+**repaid the protected 0% balance in full**, and the £1,982 solicitor charge
+then landed as fresh full-rate purchase debt. The 0% wasn't lost to an
+expiry — it was repaid, and the costly borrowing was left behind. This makes
+NatWest **the most expensive debt Rupert currently holds**, and it
+invalidates the "£82 stranded at £1–2 interest" assumption in
+[[Solicitor Payment 0% Plan]]. The Tesco Clubcard 0% BT offer could absorb
+it for ~£63 of fee, but its window shuts **9 Oct 2026** — see
+[[0% Offers Tracker]] and [[2026-08-16_natwest-statement-0pc-gone]].
 
 ### Personal Loans (Rupert's Own Liabilities, not shared/Anne)
 

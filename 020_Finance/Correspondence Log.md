@@ -5,7 +5,34 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**Last checked:** 2026-09-16. Nothing new to file. One hit since 15 Sept: a
+**Last checked:** 2026-09-17. One new email, plus a **major finding from a
+statement that was already on disk**:
+
+- 🚨 **NatWest 0% is gone — whole balance at 26.436%.** A £52.55 interest
+  charge in Banktivity (15 Sept) led back to the **16 Aug statement**, which
+  shows no promotional balance at all and had warned "estimated interest
+  payment next month is £53.99". Filed as
+  [[2026-08-16_natwest-statement-0pc-gone]] with the PDF in `xx_media`.
+  Updates [[NatWest Mastercard]], [[0% Offers Tracker]],
+  [[Solicitor Payment 0% Plan]] and [[Accounts]].
+  **⚠️ Process failure worth remembering:** the 17 Aug refresh saw NatWest's
+  *email* ("statement ready", no figures) and logged it as "not worth its own
+  entry" — but the figures were in the PDF, which had been sitting in
+  `~/Downloads` since 17 Aug. A figure-free statement notice is not the same
+  as a statement with no news; for any card carrying a plan or promotional
+  balance, open the statement.
+- **Capital One Direct Debit reissue** (16 Sept) — admin notice, no figures,
+  but it predicts a **duplicate DD mandate 22 Sept – 5 Nov 2026**; don't
+  cancel either. Filed as
+  [[2026-09-16_capital-one-direct-debit-reissue]] because a stray mandate in
+  that window would otherwise look like an anomaly. Balance is £0.00, so no
+  collection should occur at all.
+
+All other sender and keyword searches since 15 Sept came back empty. The
+16 Sept Tesco "statement available" notice was already assessed last run
+(routine, no figures, card settled at £0.00).
+
+**Previously — last checked:** 2026-09-16. Nothing new to file. One hit since 15 Sept: a
 Tesco Bank "view your latest statement online" notice (16 Sept, card ending
 2484) — routine statement-ready notice with **no figures in the body** (it
 points at Online Banking/the app), same not-worth-an-entry pattern as prior
@@ -182,6 +209,8 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-16_capital-one-direct-debit-reissue|2026-09-16 — Capital One Direct Debit reissue]] — duplicate mandate expected 22 Sept–5 Nov 2026, do not cancel; balance £0.00 so no collection due
+- [[2026-08-16_natwest-statement-0pc-gone|2026-08-16 — NatWest statement: 0% balance gone, whole balance at 26.436%]] — 🚨 found 17 Sept from a £52.55 interest charge; the M&S transfer repaid the 0% balance and the solicitor fee replaced it at full rate
 - [[2025-08-19_tesco-loan-origination-pack|2025-08-19 — Tesco Bank loan origination pack]] — backfilled 16 Sept 2026 from the paper pack; the signed CCA agreement, establishes the loan is precomputed (no monthly interest charges), free amortisation table available on request
 - [[2026-09-09_starling-tesco-space-payment-failed|2026-09-09 — Starling scheduled payment failed (Tesco Credit Card Space)]] — £25.97 minimum-payment DD failed on funding side, ⏳ Rupert needs to top up by 4pm today
 - [[2026-09-07_halifax-rate-increase-notice|2026-09-07 — Halifax standard rate increase notice (Heather's card)]] — rate rising from 19 Nov 2026, new rate not yet known

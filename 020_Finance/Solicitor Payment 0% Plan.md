@@ -5,9 +5,33 @@ is to route it through NatWest and M&S so the whole amount sits on 0%
 interest, rather than paying standard purchase rates (24.9%–39.94%
 depending on card).
 
-**Status: EXECUTED 2026-07-28.** Figures below are what actually happened —
-some deviated from the original plan (Atkins Dellow's phone system capped
-the card payment at £1,900, not the full £1,982).
+**Status: EXECUTED 2026-07-28 — but it did NOT achieve 0%. See the
+correction immediately below before relying on anything in this note.**
+
+> ## 🚨 Correction (17 Sept 2026): the plan failed its own objective
+>
+> This note records the outcome as "£1,420.56 at 0% + £82.00 unprotected",
+> with the £82 expected to cost "roughly £1–2 in interest". **Both are
+> wrong.** The 16 Aug 2026 NatWest statement
+> ([[2026-08-16_natwest-0354-statement.pdf]]) shows the **entire £1,502.56
+> under *Purchases* at 26.436%**, with no promotional balance at all — and
+> **£52.55 of interest was charged on 15 Sept 2026**.
+>
+> **What actually happened:** the £1,900 transferred in from M&S on 28 Jul
+> **repaid the 0% balance-transfer balance outright** (taking the card
+> £479.44 into credit), and the £1,982 solicitor charge then landed as
+> entirely **new purchase debt** at the full rate. The M&S 0% capacity was
+> therefore spent repaying money that was *already* at 0%, while the genuinely
+> new, expensive borrowing was left sitting on NatWest.
+>
+> Also wrong above: the claim that Atkins Dellow's system capped the payment
+> at £1,900. The statement shows a **single £1,982.00 charge** — the full
+> invoice went on the card. The "£82 stranded" framing came from comparing
+> that charge against the £1,900 transferred away, not from a payment cap.
+>
+> The M&S side of the plan is unaffected and still on track. The NatWest side
+> needs rescuing — the Tesco Clubcard 0% BT window (closes **9 Oct 2026**)
+> could absorb the balance for ~£63 of fee. See [[NatWest Mastercard]].
 
 ## What actually happened
 
