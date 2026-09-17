@@ -159,14 +159,13 @@ Banktivity artefact — the same auto-matching failure mode as
 `feedback_banktivity_unmatched_duplicate_transfers`, just joining two
 unrelated items instead of duplicating one.
 
-**❓ Open question for Rupert:** if Django was cash in, **what was the
-separate £200 that left `Barclays - Current` on 14 Sept?** It is a real
-outflow (the running balance moves £473.22 → £273.22) and it is currently
-unidentified — the "Django" title on it came from the mis-pairing, not from
-the payment itself. This matters because Barclays is now down to £73.22
-ahead of the ~£574.48 servicing run at the start of October. Worth
-un-linking the two legs in Banktivity so the Barclays side can be
-identified on its own. Flagged on the day only because
+**The Barclays leg is separately explained — it is Heather's drain-excess
+withdrawal.** The £200 that left `Barclays - Current` on 14 Sept is Heather
+taking her half of the uncollected £400 drain insurance excess (see the
+15–16 Sept entry below); Rupert took his half out on 16 Sept as "SURPLUS".
+Nothing is unexplained. Banktivity has simply mis-titled Heather's
+withdrawal "Django" by auto-pairing it with the unrelated cash deposit —
+worth un-linking the two legs in Banktivity so each shows its own identity. Flagged on the day only because
 the reference appears nowhere else in Banktivity's history, the vault, or
 the sibling `divorce` project, and it's the largest single credit this
 account has ever taken (every other is a £15–£130 shared-cost or
@@ -192,11 +191,14 @@ drains/insurance side sits in the sibling `divorce` project, not here.
 broadband bill leaving its pot as designed; refills on the 1st).
 
 **⚠️ `Barclays - Current` is down to £73.22 and needs funding before
-2 October.** It fell £473.22→£73.22 on two £200 debits: the **16 Sept
-"SURPLUS"** (Rupert recovering his half of the uncollected £400 drain
-insurance excess — see above) and an **unidentified £200 on 14 Sept**, which
-Banktivity has wrongly attached to the Django cash deposit and which still
-needs explaining. Barclays is the account
+2 October.** It fell £473.22→£73.22 on **both halves of the uncollected £400
+drain insurance excess coming back out** — Heather's £200 on 14 Sept
+(mis-titled "Django" by Banktivity) and Rupert's £200 on 16 Sept
+("SURPLUS"). £473.22 − £400 = £73.22 exactly, which matches Rupert's own
+remark to Heather that the account holds "just enough to pay bills in there.
+No more, no less". Fully explained; the only open point is whether it needs
+topping up before the October servicing run, which he normally does at the
+month rollover. Barclays is the account
 the **monthly shared-debt servicing** runs from — roughly **£574.48** goes
 out at the start of each month (£200 + £196.50 to Barclaycard, £177.98 to
 Halifax; see [[Shared Debt]] / [[Monthly Contributions]]). At £73.22 it
