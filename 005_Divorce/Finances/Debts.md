@@ -50,13 +50,26 @@ Split joint cards so each party takes their portion independently (e.g. balance 
 - [[2026-07-23_message-to-heather-review-cards-and-drains]] — review of Rupert's draft message asking Heather to confirm the card split one way or the other, and raising the true 84%/16% housing-cost imbalance (£128.91/mo) once his Westgate costs are counted alongside Pebmarsh
 - [[2026-07-23_barclaycard-paydown-projection-and-split-interaction]] — 6-month minimum-payment projection for the Barclaycard, and the key correction that paying it down faster doesn't create free headroom for Rupert unless matched by Heather — the goal is an even split of the whole pool, not just this one card
 
-## Rupert's Personal Debts (~£7,182, not matrimonial)
+## Rupert's Personal Debts (~£6,211, not matrimonial)
+
+Updated 17 Sep 2026 from the finance project (was ~£7,182).
 
 | Debt | Balance | Monthly Payment |
 |------|---------|-----------------|
 | Stuart loan (father) | £3,000 | £0 |
-| Tesco loan | £2,161.56 | £139.74 |
-| NatWest | £2,020.56 | £300.00 |
+| Tesco loan | £1,956.36 | £139.74 |
+| NatWest | £1,255.11 | £300.00 |
 | M&S Mastercard | £0 | Cleared |
 | Capital One | £0 | Cleared |
 | Tesco Mastercard | £0 | Cleared |
+
+⚠️ **NatWest's 0% promotional rate is gone (found 17 Sep 2026).** The whole balance sits at
+**26.436%** and £52.55 of interest was charged on 15 Sep — the first interest ever charged on this
+card. The £1,982 Atkins Dellow solicitor charge (28 Jul) went on as new purchase debt at the full
+rate: the £1,900 M&S balance transfer the same day repaid the protected £1,420.56 0% balance
+outright rather than carrying the purchase away with it. Not matrimonial, but it is a **D81
+disclosure figure** and the interest cost is now real. Finance-side detail: `020_Finance/Accounts/NatWest Mastercard.md`
+and `020_Finance/Solicitor Payment 0% Plan.md`.
+
+- Tesco loan remaining liability is **14 payments × £139.74**, a precomputed (non-amortising) loan
+  — don't derive a schedule from the APR.

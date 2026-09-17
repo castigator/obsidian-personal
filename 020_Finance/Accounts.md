@@ -17,6 +17,20 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 | Starling - Joint | £311.78 | 2026-09-14 |
 | Barclays - Current | £73.22 ⚠️ | 2026-09-16 |
 
+**Starling account identification (confirmed 17 Sept 2026).** Starling uses
+a single sort code across its personal accounts, so the account *number* is
+what distinguishes them — easy to get wrong:
+
+| Account | Sort code | Account number | Confirmed by |
+|---|---|---|---|
+| `Starling - Main` | 60-83-71 | **29495288** | Two independent sources: the [[Tesco Loan]] agreement pack (repayments taken from 60-83-71 / 29495288) and Capital One's Direct Debit panel (60-83-71 / ****5288) |
+| `Starling - Joint` | 60-83-71 | **13428283** | Stored on the account record in Banktivity |
+
+`Starling - Main` is the workhorse: it funds the Tesco Loan (£139.74/mo),
+the Capital One DD mandate (fixed £100/mo, dormant while that card sits at
+£0), and the bill-pot Spaces. Don't assume a 60-83-71 reference means the
+joint account — check the account number.
+
 **✅ Daybreak Hotels £50 pending hold — resolved 12 Aug 2026.** Rupert paid  
 £60 to Daybreak Hotels a while back; Daybreak also put a £50 provisional  
 card authorisation (pending, not settled) on `Starling - Main` at the same  
@@ -312,7 +326,7 @@ See individual notes for offer/APR detail.
 |---|---:|---|---|
 | Tesco Mastercard (Clubcard) | £0.00 | 2026-09-08 | [[Tesco Clubcard Credit Card]] — £25.97 minimum payment cleared, confirmed settled |
 | NatWest Mastercard | -£1,255.11 🚨 | 2026-09-15 | [[NatWest Mastercard]] — **no longer 0%**; £52.55 interest charged 15 Sept, whole balance at 26.436% |
-| Capital One | £0.00 | 2026-05-01 | [[Capital One]] |
+| Capital One | £0.00 | 2026-09-17 | [[Capital One]] — verified from the web portal; ⚠️ web access being withdrawn, app access unresolved |
 | M&S Mastercard | -£1,791.31 | 2026-09-05 | [[M&S Credit Card]] |
 
 **Atkins Dellow solicitor payment (28 Jul 2026) executed as planned on both  
