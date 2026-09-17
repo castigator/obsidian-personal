@@ -145,16 +145,28 @@ the actual £32.88 bill. Nothing irregular, nothing owed.
 dog-sitting money.** £111.78→£311.78 on a single inbound £200 line item.
 Confirmed by Rupert 16 Sept 2026: **Django is a dog he and Mandy dog-sat
 for**, and the £200 is the fee — nothing owed and nothing to chase.
-**Refinement (17 Sept refresh):** the matching leg has now posted — a £200
-debit from `Barclays - Current` the same day, also labelled "Django". So
-within the tracked accounts this is an **internal transfer, Barclays →
-Starling - Joint**, not an external credit arriving from outside. Barclays
-took no inbound payment in the run-up (it sat at £473.22 from 7 Sept until
-this went out), so the fee itself was presumably received outside the tracked
-accounts — cash or via Mandy directly — and Rupert then moved £200 of his own
-Barclays balance across to the joint account to represent it. Immaterial to
-the totals, but worth recording so the two legs aren't later mistaken for two
-separate £200 events. Flagged on the day only because
+**⚠️ Banktivity mis-pairs this with a Barclays debit — the pairing is wrong,
+and it leaves a real £200 unexplained (17 Sept 2026).** Banktivity records
+the Django money as a **single two-legged transfer** (transaction `7385`,
+type 1): `Barclays - Current` -£200 → `Starling - Joint` +£200, both legs
+titled "Django". A refresh note briefly repeated that as fact — **it is
+wrong**. Rupert has confirmed the Django money was **cash paid in** to the
+joint account and has **nothing to do with Barclays**.
+
+The balances are unaffected either way (the Joint credit and the Barclays
+debit both genuinely happened), but the *relationship* between them is a
+Banktivity artefact — the same auto-matching failure mode as
+`feedback_banktivity_unmatched_duplicate_transfers`, just joining two
+unrelated items instead of duplicating one.
+
+**❓ Open question for Rupert:** if Django was cash in, **what was the
+separate £200 that left `Barclays - Current` on 14 Sept?** It is a real
+outflow (the running balance moves £473.22 → £273.22) and it is currently
+unidentified — the "Django" title on it came from the mis-pairing, not from
+the payment itself. This matters because Barclays is now down to £73.22
+ahead of the ~£574.48 servicing run at the start of October. Worth
+un-linking the two legs in Banktivity so the Barclays side can be
+identified on its own. Flagged on the day only because
 the reference appears nowhere else in Banktivity's history, the vault, or
 the sibling `divorce` project, and it's the largest single credit this
 account has ever taken (every other is a £15–£130 shared-cost or
@@ -164,17 +176,27 @@ the pattern: **ad-hoc third-party income can arrive in the joint account
 under a bare personal/pet-name reference**, so an unrecognised one-off
 credit here isn't automatically suspicious.
 
-**15–16 Sept 2026 — ordinary spending plus a £200 Barclays → Starling
-sweep.** `Starling - Main` £397.42→£565.17: three £10.75 Five Bells
-Cavendish items on 15 Sept, then **+£200 in on 16 Sept labelled "SURPLUS"**
-— the matching leg of a £200 debit from `Barclays - Current` the same day,
-so another internal transfer between Rupert's own accounts, not new money.
+**15–16 Sept 2026 — ordinary spending plus the drain-excess "SURPLUS".**
+`Starling - Main` £397.42→£565.17: three £10.75 Five Bells Cavendish items
+on 15 Sept, then **+£200 in on 16 Sept labelled "SURPLUS"** — a genuine
+two-legged transfer (transaction `7391`) out of `Barclays - Current`.
+**Explained by Rupert 17 Sept, from a WhatsApp exchange with Heather:** he
+and Heather had each put £200 into an account to cover a **£400 drain
+insurance excess** which the insurer "were meant to have collected when they
+did the drains but they didn't & haven't asked for it, so it is surplus".
+Heather withdrew her £200 ("am skint & need to pay oil – suggest you do the
+same") and Rupert has taken his out the same way. So this is Rupert
+recovering his own money, not new income and not a cost. Background to the
+drains/insurance side sits in the sibling `divorce` project, not here.
 `Starling - Broadband` swept £32.99→£0.00 on 16 Sept paying "Fibrely" (the
 broadband bill leaving its pot as designed; refills on the 1st).
 
 **⚠️ `Barclays - Current` is down to £73.22 and needs funding before
-2 October.** It fell £473.22→£73.22 on the two £200 transfers out (the
-14 Sept "Django" leg and the 16 Sept "SURPLUS" leg). Barclays is the account
+2 October.** It fell £473.22→£73.22 on two £200 debits: the **16 Sept
+"SURPLUS"** (Rupert recovering his half of the uncollected £400 drain
+insurance excess — see above) and an **unidentified £200 on 14 Sept**, which
+Banktivity has wrongly attached to the Django cash deposit and which still
+needs explaining. Barclays is the account
 the **monthly shared-debt servicing** runs from — roughly **£574.48** goes
 out at the start of each month (£200 + £196.50 to Barclaycard, £177.98 to
 Halifax; see [[Shared Debt]] / [[Monthly Contributions]]). At £73.22 it

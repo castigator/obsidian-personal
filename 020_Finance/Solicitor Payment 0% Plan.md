@@ -29,9 +29,41 @@ correction immediately below before relying on anything in this note.**
 > invoice went on the card. The "£82 stranded" framing came from comparing
 > that charge against the £1,900 transferred away, not from a payment cap.
 >
+> ### The specific design error, so it isn't repeated
+>
+> **A balance transfer arrives at the receiving card as a payment, and
+> payments are allocated by the card issuer — you cannot earmark one for a
+> purchase.** This plan assumed £1,900 transferred *off* NatWest would carry
+> the solicitor purchase away with it. It couldn't. Under Consumer Credit Act
+> allocation the incoming £1,900 went to the balance that existed at that
+> moment, which was the **0% balance transfer** — the only balance on the
+> card when it landed.
+>
+> The red flag that should have been caught at planning time: **£1,900 was
+> transferred against a balance of only £1,420.56.** Transferring more than
+> the balance you are protecting guarantees the promotional balance is wiped
+> out and the surplus (£479.44) becomes a credit — which is exactly what the
+> statement shows. The protected balance was destroyed to no purpose, the
+> £66.31 transfer fee bought 0% on money already at 0%, and the genuinely new
+> £1,982 of borrowing stayed behind at 26.436%.
+>
+> **Net position, stated fairly:** this is still slightly better than doing
+> nothing (£1,502.56 left at full rate rather than the full £1,982), but far
+> short of the intended £82 — roughly **£1,420 more at 26.436% than
+> planned**.
+>
+> **Rule for next time:** write down the intended end state *per balance
+> type*, never transfer more than the balance being protected, and **verify
+> against the next statement's SUMMARY OF BALANCES** rather than assuming
+> execution matched intent. See [[NatWest Mastercard]] and
+> [[2026-08-16_natwest-statement-0pc-gone]].
+>
 > The M&S side of the plan is unaffected and still on track. The NatWest side
 > needs rescuing — the Tesco Clubcard 0% BT window (closes **9 Oct 2026**)
-> could absorb the balance for ~£63 of fee. See [[NatWest Mastercard]].
+> could absorb the balance for ~£63 of fee. Crucially, **that transfer is
+> safe in a way this one wasn't**: NatWest now has *no* promotional balance
+> left to destroy, so an incoming transfer can only land against the 26.436%
+> debt. Transfer no more than the balance outstanding on the day.
 
 ## What actually happened
 
