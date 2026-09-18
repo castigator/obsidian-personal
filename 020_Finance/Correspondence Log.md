@@ -5,6 +5,32 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**Last checked:** 2026-09-18. The Gmail token had expired
+(`invalid_grant`) and blocked the first attempt; Rupert re-authorised via
+`auth.py` and the sweep then completed. **Fourth token expiry** (11 Aug,
+26 Aug, 3 Sept, 18 Sept) — the refresh token doesn't seem to survive much
+beyond a fortnight, so expect this roughly every other week.
+
+Four hits, **none needing its own entry**:
+- **Halifax, 17 Sept** — "your new credit card statement is ready"
+  (Heather's card ending 3123). No figures in the email, but it confirms a
+  **September statement exists** and that the **next payment is due
+  12 Oct**. ⏳ That statement is the best remaining chance to pin down the
+  **new standard rate effective 19 Nov** — it's in Heather's digital inbox,
+  not reachable via Gmail. Noted in [[Shared Debt]]; needs Rupert to ask her
+  to open it.
+- **NatWest, 17 Sept** — "your latest card statement is now available". This
+  is the notice for the **16 Sept statement Rupert already supplied**, which
+  is filed at [[2026-09-16_natwest-0354-statement.pdf]]. Nothing new — and
+  this time the statement itself was read, not just the notice.
+- **Capital One, 17 Sept** — "Did you log in on a new device?" (Android,
+  17 Sept 11:52). **Explained: Rupert's own app registration that day** (see
+  [[Capital One]]). Benign, no action.
+- **Tesco, 16 Sept** — statement-ready notice, already assessed last run
+  (routine, no figures, card settled at £0.00).
+
+All other sender and keyword searches came back empty.
+
 **2026-09-18.** NatWest's **16 Sept statement** supplied by Rupert
 ([[2026-09-16_natwest-0354-statement.pdf]], filed to `xx_media`) — it
 **confirms** the previous day's finding rather than changing it: SUMMARY OF

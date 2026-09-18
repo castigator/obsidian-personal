@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £565.17 | 2026-09-16 |
-| Starling - Joint | £311.78 | 2026-09-14 |
+| Starling - Main | £157.34 | 2026-09-17 |
+| Starling - Joint | £269.80 | 2026-09-17 |
 | Barclays - Current | £73.22 ⚠️ | 2026-09-16 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -222,6 +222,45 @@ low point of the usual cycle rather than a problem — but it is a genuine
 £500 shortfall against a known, dated commitment, so worth a glance before
 the 2nd.
 
+**⚠️ 17 Sept 2026 — the NatWest card's funding Space has been emptied into
+Savings Buffer.** Two chained transfers the same day: `Starling - NatWest
+Credit Card` **-£300 → `Starling - Main`** (txn 7400), then `Starling -
+Main` **-£300 → `Starling - Savings Buffer`** (txn 7401), taking that Space
+£0.50 → £300.50. Net effect on `Starling - Main` is nil; the £300 has simply
+moved from the card-payment pot into savings.
+
+**✅ Not a problem — confirmed by Rupert 18 Sept.** The Space empties and
+refills by design: **on the 1st or 2nd of each month £300 moves
+`Starling - Main` → `Starling - NatWest Credit Card` Space, and the card's
+DD is then paid out of that Space.** So a £0.00 balance mid-month is the
+normal resting state once the DD has gone, not a funding failure. The 17
+Sept sweep to Savings Buffer was just surplus being tidied away after the
+10 Sept payment. **No action needed before 11 Oct** — the Space will refill
+at the month rollover. Recorded here because this funding mechanism wasn't
+previously documented anywhere, and a £0.00 Space looks alarming without it.
+
+**16–17 Sept 2026 — `Starling - Main` £565.17→£157.34, ordinary spending.**
+Swan Long Melford ×3 and East of England Coop ×2 on 16 Sept; then on
+17 Sept the two £300 transfers above (netting to zero), Harpers Haslemere
+£158.40 and £132.60, and Tesco £40.00 and £15.20. `Starling - Joint`
+£311.78→£269.80 on a single £41.98 Tesco debit.
+
+**⏳ WATCH — Harpers Haslemere £158.40 refund outstanding.** Of the two
+Harpers Haslemere debits on 17 Sept, Rupert confirms **only the £132.60 is
+a real purchase**; the **£158.40 was cancelled** and should be refunded back
+to `Starling - Main`. **Not yet received as of 18 Sept 2026.** Check every
+`/refresh` for an incoming ~£158.40 credit from Harpers Haslemere and close
+this off when it lands. If it hasn't appeared within the usual card-refund
+window (typically 5–10 working days, so by roughly **1 Oct 2026**), it needs
+chasing with the merchant.
+
+**Cash position is at its pre-payday trough, which is normal.**
+`Starling - Main` £157.34 and `Barclays - Current` £73.22 are both low, but
+salary has landed around the 26th in recent months (£6,080.83 on 26 Aug), so
+the month-end commitments — the ~£574.48 servicing run from Barclays, the
+Tesco Loan £139.74, the M&S £175, and the 1st-of-month sweeps — fall after
+payday, not before it. Worth a glance rather than alarm.
+
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  
 [[2026-07-19_starling-joint-account-approved]]. Joint with Rupert's partner,  
@@ -255,7 +294,7 @@ is referenced elsewhere.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Savings Buffer | £0.50 | 2026-08-30 |
+| Starling - Savings Buffer | £300.50 | 2026-09-17 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-09-01 |
 | Starling - Spare Funds (was "Lucy Rent") | £633.00 | 2026-09-01 |
@@ -266,7 +305,7 @@ is referenced elsewhere.
 | Starling - Council Tax | £0.00 | 2026-09-06 |
 | Starling - TV Licence | £0.08 | 2026-09-07 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
-| Starling - NatWest Credit Card | £300.00 | 2026-09-08 |
+| Starling - NatWest Credit Card | £0.00 ⚠️ | 2026-09-17 |
 
 These read as budgeting sub-accounts (each a separate Starling "Space")  
 rather than real savings — most sit at £0 because they're swept for bills.  

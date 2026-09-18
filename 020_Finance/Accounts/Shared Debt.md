@@ -74,6 +74,20 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 Doesn't affect the 0% promo below, only the standard rate that would apply
 outside it.
 
+**📩 A September 2026 statement is now available (notice 17 Sept 2026) and
+is the best chance yet of pinning down that rate.** Halifax emailed Heather
+to say the September statement is ready; the email itself carries **no
+figures**, only that the **next payment is due 12 October 2026**. The
+statement sits in Heather's online-banking digital inbox — not reachable via
+Gmail, same blocker as the 7 Sept rate notice. **Worth Rupert asking Heather
+to open it**, since it should show both the new standard rate (or at least
+confirm the current one) and the up-to-date balance and minimum — all three
+feed the £574.48/month servicing figure and the 80/20 split. Until then the
+rate remains unknown.
+
+⏳ Note also the Halifax 0% transfer window below **closes 30 September
+2026** — 12 days out. Heather's decision, informational only.
+
 ### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
 - **Source:** recurring marketing email from Halifax, most recent 1 Sept 2026
 - **Rate:** 0.00% for 12 months on transfers

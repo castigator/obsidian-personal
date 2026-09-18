@@ -90,12 +90,16 @@ this is ever revisited. No one-off opportunity is being burned.
 
 ### What actually matters now
 
-- **Keep the £300/month DD running.** Next collection **11 Oct 2026**. It is
-  funded from the `Starling - NatWest Credit Card` Space, which held £300 at
-  the last check — that Space needs to stay topped up. This project has a
-  track record of Starling Space funding failures bouncing scheduled
-  payments (Aug and Sept 2026), and on a 26.436% card a missed payment would
-  be an expensive place for that to happen.
+- **The £300/month DD is funded automatically — no manual top-up needed.**
+  Confirmed by Rupert 18 Sept 2026: **on the 1st or 2nd of each month £300
+  moves `Starling - Main` → the `Starling - NatWest Credit Card` Space, and
+  the DD is then paid out of that Space.** So the Space sitting at £0.00
+  mid-month (as it did from 17 Sept) is its normal resting state after the
+  payment has gone, not a funding failure — it refills at the month
+  rollover. Next collection **11 Oct 2026**.
+  - The only thing worth watching is that `Starling - Main` holds enough at
+    the rollover to make that £300 sweep, since the same account also funds
+    the Tesco Loan (£139.74) and the M&S DD (£175).
 - **Don't spend on this card.** New purchases accrue from day one at
   26.436% — there is no interest-free grace period while a balance is being
   carried. That is exactly how this situation arose.
