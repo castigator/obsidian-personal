@@ -5,6 +5,15 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-18 (second run, same day).** Nothing new. All three hits (NatWest
+statement notice, Capital One new-device alert, Halifax statement-ready) were
+already assessed earlier today; every other sender and keyword search empty.
+Banktivity unchanged too — not a single line item has posted since 17 Sept,
+so no balance diffs to reconcile. Notable only as the **first clean sweep on
+the migrated OAuth credentials** (project `rupert-personal-507609`), which
+ran without a token error. ⏳ The Harpers Haslemere **£158.40 refund is still
+outstanding** — no credit has reached `Starling - Main`.
+
 **Last checked:** 2026-09-18. The Gmail token had expired
 (`invalid_grant`) and blocked the first attempt; Rupert re-authorised via
 `auth.py` and the sweep then completed. **Fourth token expiry** (11 Aug,

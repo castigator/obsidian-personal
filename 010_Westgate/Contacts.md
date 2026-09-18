@@ -12,7 +12,8 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] 2026 household canvass response due **11 September 2026** (see Electoral Registration below)
+- [ ] **Send copy ID to Electoral Services — quote ref 254490.** Application to join the electoral register was rejected 17 Sep 2026 (DWP couldn't verify identity). **Until this is done, Rupert can't vote in any election.** Simplest route: emailed copy of passport *or* UK photo driving licence to elections@baberghmidsuffolk.gov.uk. **Copies only — do not send originals.** See Electoral Registration below.
+- [ ] 2026 household canvass response was due **11 September 2026** — a register application clearly followed, so this was probably actioned, but it hasn't been confirmed either way (see Electoral Registration below)
 
 ## Landlord
 
@@ -55,6 +56,18 @@ household occupants — via registersecurely.com/BaberghandMidSuffolk, security 
 Actual vote registration (if wanted) is separate, via gov.uk/register-to-vote.
 
 📎 [[babergh-electoral.pdf|Electoral canvass letter]]
+
+**Registration rejected — ID needed (17 Sep 2026).** Letter ref **ESDE - 254490** (elector 254490),
+signed Arthur Charvonia, Electoral Registration Officer. The application to be added to the register
+was **unsuccessful because the details couldn't be verified against DWP records**. The letter states:
+"If you do not respond to this request, you will not be able to vote in any future elections." Accepted
+ID, **copies only, quoting ref 254490**, by email to elections@baberghmidsuffolk.gov.uk or by post:
+
+- **Type 1 — any ONE:** current passport, biometric residence permit, EEA identity card, UK photo driving licence, NI electoral identity card.
+- **Type 2 — one of these PLUS two more from Type 2 or 3:** UK paper driving licence, non-UK photo driving licence, birth certificate, marriage/civil partnership certificate, adoption certificate, firearms licence, police bail sheet.
+- **Type 3 — any FOUR:** mortgage statement (<12m), bank/building society statement or account-opening letter (<3m), credit card statement (<3m), financial/pension statement (<12m), council tax statement (<12m), utility bill (<3m), P45/P60 (<12m), benefit statement (<3m), government entitlement document (<3m).
+
+📎 [[BMSDC Documentary Evidence.pdf|Electoral registration — ID evidence request, 17 Sep 2026]]
 
 ## Utility Providers
 

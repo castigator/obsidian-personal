@@ -14,6 +14,7 @@ content-start: 151
 
 ## Important and To Do
 
+- [ ] **Check the 17 Sep 2026 bill in MyAccount.** First bill since the settlement; the email carried no figures. Confirm it applies the **£3,308.17** allowance, shows a clear balance after the £32.88 card payment, and that no £1,022 DD is still pending for 1 Oct.
 - [ ] **Check the payment level at the Feb 2027 bill / next review.** £77.00/month is above the ~£50–63 the smart-meter usage supports (~£500/yr plus standing charges), so a credit should build. Ask for a reduction if the balance runs well ahead. Call 03457 919 155.
 - **Caution for any future leak:** the Sep 2026 dispute was settled as a *leakage allowance*, not as the billing/meter-reading error we argued it was. Allowances are often limited to one per customer/property, and cl. 9.6(iii) lets Anglian refuse one where a previous repair was inadequate — so a **second claim at this property may be refused**. If a leak recurs, push the meter-exchange/reading argument rather than assuming an allowance is available. Full working is in the History section below.
 
