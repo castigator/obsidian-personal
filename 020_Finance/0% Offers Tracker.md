@@ -41,13 +41,15 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 
 ## How to use this
 
-- 🚨 **Most urgent use of the Tesco window is now the NatWest balance, not
-  the shared debt.** NatWest is carrying **£1,255.11 at 26.436%** and
-  actively charging interest. Tesco's 0% BT offer (0% to the Dec 2027
-  statement, 4.99% fee, ~£1,500 available) would absorb essentially all of
-  it for roughly **£63 of fee** — but the **transfer window closes
-  9 October 2026**. This is the single highest-value action available in
-  this project right now. Rupert's decision; see [[NatWest Mastercard]].
+- ✅ **Using the Tesco window for the NatWest balance was considered and
+  DECLINED (18 Sept 2026).** Moving the £1,255.11 would have cost £62.63 in
+  fee plus ~£17–20 of interest before it landed — **more than the ~£72–76 of
+  interest incurred by simply leaving it** and clearing it with the existing
+  £300/month by February 2027. The transfer bought cash flow (~£205/month
+  for 14 months), not savings, and Rupert's priority is total cost. The
+  9 Oct window is being allowed to lapse; since Tesco's offer is a recurring
+  monthly notice, nothing irreversible is lost. See
+  [[NatWest Mastercard]].
 - **Rupert's own borrowing capacity for the shared-debt payoff:** Tesco
   Clubcard's 0% BT window is the only genuinely open, unused offer right
   now (M&S is maxed out, NatWest is *not* 0% any more). Note the competing

@@ -62,23 +62,41 @@ forward figure is *"your estimated interest payment next month is
 **£26.81**"*. At £300/month the balance clears in roughly four more
 payments, paying 26.436% throughout on a falling balance.
 
-**Live alternative — the Tesco Clubcard 0% BT offer, window closes
-9 Oct 2026.** 0% until the Dec 2027 statement, 4.99% fee, ~£1,500 available
-credit against this £1,255.11 balance — roughly **£63 of fee** instead of
-26.436% APR. See [[0% Offers Tracker]] and [[Tesco Clubcard Credit Card]].
-**Rupert's decision, not actioned.**
+## ✅ DECIDED 18 Sept 2026 — leave the balance here, do not transfer
 
-**Timing now matters, and it works out favourably:**
-- The **next £300 DD is 11 Oct** — *after* the Tesco window shuts on
-  **9 Oct**. So the balance to transfer stays **£1,255.11** right up to the
-  deadline; no need to recalculate around a payment.
-- ⚠️ **Transferring £1,255.11 will not quite zero the card.** Interest
-  accrues daily and the next statement is ~16 Oct, so a small residue
-  (single-digit to low-tens of pounds) will still post afterwards. Expect
-  it — the card is not "closed" the day the transfer lands.
-- The 11 Oct £300 DD would then collect against that residue only (it takes
-  the lesser of the DD and what's owed), which conveniently mops it up.
-  Worth leaving the DD in place for that one cycle rather than cancelling
-  it, then reviewing.
-- Do **not** transfer more than the outstanding balance — that is precisely
-  the error that caused this situation. See [[Solicitor Payment 0% Plan]].
+**Rupert's decision: keep the balance on NatWest and clear it with the
+existing £300/month DD.** His priority is total cost and paying the debt
+down, not cash flow — and on that basis leaving it is simply the cheaper
+option.
+
+The Tesco 0% transfer was analysed in detail and **rejected on the numbers**:
+
+| Option | Cost | Cleared by | Monthly |
+|---|---:|---|---:|
+| **Leave it, £300/mo** ← chosen | **~£72–76** | **Feb 2027** | £300 |
+| Transfer, £95/mo | ~£81 | Dec 2027 | £95 |
+| Transfer, £300/mo | ~£81 | ~Feb 2027 | £300 |
+
+The 4.99% fee (£62.63) plus ~£17–20 of interest before the transfer landed
+would have come to **more** than simply paying the interest — the transfer
+bought cash-flow flexibility (~£205/month for 14 months), which isn't what
+Rupert wants here. Transferring *and* keeping the £300 payment would have
+been strictly worse: same finish date, £63 of fee for nothing.
+
+**Letting the 9 Oct window lapse costs nothing.** Tesco's balance-transfer
+offer is a **recurring monthly notice** whose terms roll forward (see
+[[Tesco Clubcard Credit Card]]), so it will almost certainly reappear if
+this is ever revisited. No one-off opportunity is being burned.
+
+### What actually matters now
+
+- **Keep the £300/month DD running.** Next collection **11 Oct 2026**. It is
+  funded from the `Starling - NatWest Credit Card` Space, which held £300 at
+  the last check — that Space needs to stay topped up. This project has a
+  track record of Starling Space funding failures bouncing scheduled
+  payments (Aug and Sept 2026), and on a 26.436% card a missed payment would
+  be an expensive place for that to happen.
+- **Don't spend on this card.** New purchases accrue from day one at
+  26.436% — there is no interest-free grace period while a balance is being
+  carried. That is exactly how this situation arose.
+- **Expected finish: February 2027**, total interest roughly £72–76.
