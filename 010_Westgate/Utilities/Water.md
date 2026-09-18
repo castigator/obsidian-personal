@@ -14,8 +14,8 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] **Check the 17 Sep 2026 bill in MyAccount.** First bill since the settlement; the email carried no figures. Confirm it applies the **£3,308.17** allowance, shows a clear balance after the £32.88 card payment, and that no £1,022 DD is still pending for 1 Oct.
-- [ ] **Check the payment level at the Feb 2027 bill / next review.** £77.00/month is above the ~£50–63 the smart-meter usage supports (~£500/yr plus standing charges), so a credit should build. Ask for a reduction if the balance runs well ahead. Call 03457 919 155.
+- [x] Check the post-settlement bill in MyAccount ✅ 2026-09-18 — allowance applied correctly; **balance is £65.53 debit, not zero** (the £32.88 was a part payment). £77.00 DD due 8 Oct 2026 will absorb it; the £1,022 DD is gone. See History below.
+- [ ] **Check the payment level at the Feb 2027 bill / next review.** £77.00/month (£924/yr) still looks above the ~£50–63/month the smart meter supports, but less wildly than first thought: Anglian now expect the **Feb 2027 bill at £386**, and the DD also has to clear the £65.53 debit first. Reassess once that bill lands — if a large credit has built, ask for a reduction. Call 03457 919 155.
 - **Caution for any future leak:** the Sep 2026 dispute was settled as a *leakage allowance*, not as the billing/meter-reading error we argued it was. Allowances are often limited to one per customer/property, and cl. 9.6(iii) lets Anglian refuse one where a previous repair was inadequate — so a **second claim at this property may be refused**. If a leak recurs, push the meter-exchange/reading argument rather than assuming an allowance is available. Full working is in the History section below.
 
 ## Current Details
@@ -51,9 +51,21 @@ Estimated annual usage £528.
 
 ### Billing dispute and leakage allowance (Sep 2026) — RESOLVED
 
-**Outcome (16 Sep 2026):** after a phone call, Anglian granted a leakage allowance of **£3,308.17**, leaving **£32.88** outstanding. Paid by card the same day (payment ref **lw194R**), so the account is clear. New direct debit set: **£77.00, first payment 8 Oct 2026**, then £77.00 monthly from 8 Nov 2026 until the next review (confirmed by SMS and by the "Your Direct Debit has changed" email, 16 Sep 2026). The £1,022.00 DD that had been set for 1 Oct 2026 is superseded.
+**Outcome (16 Sep 2026):** after a phone call, Anglian granted a leakage allowance of **£3,308.17**. New direct debit set: **£77.00, first payment 8 Oct 2026**, then £77.00 monthly from 8 Nov 2026 until the next review (confirmed by SMS and by the "Your Direct Debit has changed" email, 16 Sep 2026). The £1,022.00 DD that had been set for 1 Oct 2026 is superseded.
 
-- Outcome vs the fairness check below: we judged ≤ £250 fair, and they settled at £32.88 — better than the best case. Their £3,406.58 balance minus the allowance would have been £98.41, so they knocked off a further £65.53.
+**How the balance actually landed** (MyAccount screenshots, 18 Sep 2026) — the account was **not** cleared by the card payment:
+
+| | |
+|---|---|
+| Bill 14 Sep 2026 (re-issued 15 Sep) | £3,406.58 debit |
+| Less leakage allowance | −£3,308.17 |
+| Rebilled 16 Sep 2026 | **£65.53 debit** |
+| Card payment 16 Sep 2026 (ref lw194R) | −£32.88 |
+| **Balance now** | **£65.53 debit** |
+
+- The £32.88 quoted on the call was a **part payment, not the closing balance**. £3,406.58 − £3,308.17 = £98.41, less £32.88 = **£65.53 still owed**. It should be absorbed by the £77.00 DD on 8 Oct 2026 — no separate action needed, but don't record this account as clear.
+- Outcome vs the fairness check below: we judged **≤ £250 fair**, and the total left after the allowance was **£98.41** — comfortably inside fair, though not the "better than best case" reading first taken from the SMS alone.
+- **Next bill Feb 2027, now expected £386** (was quoted as "£1,706" before the settlement).
 - It was settled as a leakage allowance rather than the billing/meter-reading error we argued for — see the caution at the top of this note.
 
 **Trigger:** 15 Sep 2026 email, "Your bill is ready. We're increasing your payments" — payments to rise from £58.00 to **£1,120.00**, with no indication whether that was monthly or a one-off catch-up.

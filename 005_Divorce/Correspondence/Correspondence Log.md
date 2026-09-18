@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **16 Sep 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **18 Sep 2026** via direct
 Gmail API — see note below. Covering April 2024 – September 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -117,6 +117,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-07-28 | [certas-energy-dd-confirmation_LOCKH.md](heather/2026-07-28_certas-energy-dd-confirmation_LOCKH.md) 🔒H | Heather set up her own **£200/month Direct Debit with Certas Energy** (oil, Predict plan) — follows through on her 23 Jul "I'll contact certas" comment. ⚠️ Certas wasn't on the tracked-sender list — this is why it didn't surface in the sweep; added going forward. |
 | 2026-08-04 | [halifax-payment-received.md](heather/2026-08-04_halifax-payment-received.md) 🔒H | Routine Halifax notice — £62.83 min payment made on the card ending **3123**, confirming the card-split ⚠️ (was mistakenly noted as 0664). ⚠️ Halifax wasn't on the tracked-sender list — added going forward. |
 | 2026-09-03 | [halifax-payment-received-177.md](heather/2026-09-03_halifax-payment-received-177.md) 🔒H | Halifax notice — **£177.98 payment** on card ending 3123, well above the £62.83 tracked minimum. Possible voluntary overpayment; no balance given. |
+| 2026-09-17 | [halifax-september-statement-ready.md](heather/2026-09-17_halifax-september-statement-ready.md) 🔒H | Routine Halifax "statement ready" notice, card ending 3123, **September 2026** statement, next payment due **12 Oct 2026**. **No figures in the body** — points to Heather's own digital inbox, unreachable by Rupert. Logged as a cycle marker only; nothing changes, as this statement predates the **19 Nov rate rise**. The **November** statement is the one to re-check the £177.98 minimum and the £574.48/mo 80/20 split against. |
 
 ### [subsidence/](subsidence/)
 

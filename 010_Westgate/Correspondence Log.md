@@ -136,7 +136,7 @@ up to date.
 | 2026-09-15 | noreply@anglianwater.co.uk | Your bill is ready. We're increasing your payments | Acct ***965 (9DS). Payment review: "You'll now pay £1120.00", previously £58.00 — email doesn't say monthly vs one-off. Suggests checking for leaks. **Superseded by the 16 Sep settlement** |
 | 2026-09-16 | Anglian Water (SMS) | Card payment received | Phone call resolved the dispute: leakage allowance **£3,308.17** applied, leaving **£32.88**, paid by card. Payment ref **lw194R** |
 | 2026-09-16 | Anglian Water (SMS) | Direct Debit has been set | 1st payment **£77.00 on 08.10.2026**, then £77.00 monthly until next review |
-| 2026-09-17 | noreply@anglianwater.co.uk | Your bill is ready | Acct ***965. First bill since the settlement — no figures in the email, **check MyAccount** that it shows the £3,308.17 allowance and a clear balance |
+| 2026-09-17 | noreply@anglianwater.co.uk | Your bill is ready | Acct ***965. Rebill after the settlement. Checked in MyAccount 18 Sep: allowance applied, **balance £65.53 debit** (not cleared — the £32.88 was a part payment), next DD £77.00 on 8 Oct, next bill Feb 2027 expected £386 |
 | 2026-09-16 | noreply@anglianwater.co.uk | Your Direct Debit has changed | Acct ***965. Next payment £77.00 on or just after 8 Oct 2026, then £77.00 from 8 Nov 2026. Confirms the SMS; supersedes the £1,022 DD that had been set for 1 Oct |
 
 ## Fibrely (Broadband)
