@@ -5,6 +5,16 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-18.** NatWest's **16 Sept statement** supplied by Rupert
+([[2026-09-16_natwest-0354-statement.pdf]], filed to `xx_media`) — it
+**confirms** the previous day's finding rather than changing it: SUMMARY OF
+BALANCES again shows Purchases only, **£1,255.11 at 26.436%**, interest
+included £52.55, no promotional row. New forward figures now on record from
+NatWest itself: minimum £106.10, next DD **£300 on 11 Oct**, and estimated
+interest next month **£26.81** (replacing the project's own estimate).
+Notably the next DD falls *after* the Tesco transfer window shuts on 9 Oct —
+see [[NatWest Mastercard]].
+
 **Last checked:** 2026-09-17. One new email, plus a **major finding from a
 statement that was already on disk**:
 

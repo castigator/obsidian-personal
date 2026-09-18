@@ -6,9 +6,12 @@
   [[2026-02-16_natwest-balance-transfer-card-opened]]
 - **Card number:** **** 0354
 - **Credit limit:** £10,000.00
-- **Balance:** **-£1,255.11** (as of 2026-09-15) — up from -£1,202.56
-  because **£52.55 of interest was charged on 15 Sept**, the first interest
-  ever charged on this card. See the red-flag section below.
+- **Balance:** **-£1,255.11** — confirmed by the **16 Sept 2026 statement**
+  ([[2026-09-16_natwest-0354-statement.pdf]]), matching Banktivity exactly.
+  Up from -£1,202.56 because **£52.55 of interest was charged**, the first
+  interest ever on this card. (Banktivity dates it 15 Sept, the statement
+  16 Sept — a posting-date difference, not a discrepancy.)
+- **Minimum payment:** £106.10 · **Next DD:** **£300.00 on 11 Oct 2026**
 - **✅ Duplicate £300 payment resolved (11 Sept 2026).** Banktivity had
   briefly shown -£902.56: two £300 credits recorded for one real payment
   (8 Sept "Natwest Platinum Card", two-legged from the `Starling - NatWest
@@ -54,11 +57,28 @@ matching assumption in [[Solicitor Payment 0% Plan]].
 
 ### What it costs, and the option
 
-At £300/month the balance clears in roughly five payments, paying ~26.4%
-throughout (£52.55 in the first month, falling as the balance drops).
+**Confirmed by the 16 Sept statement, not estimated:** NatWest's own
+forward figure is *"your estimated interest payment next month is
+**£26.81**"*. At £300/month the balance clears in roughly four more
+payments, paying 26.436% throughout on a falling balance.
 
 **Live alternative — the Tesco Clubcard 0% BT offer, window closes
 9 Oct 2026.** 0% until the Dec 2027 statement, 4.99% fee, ~£1,500 available
 credit against this £1,255.11 balance — roughly **£63 of fee** instead of
-26.436% APR. See [[0% Offers Tracker]] and
-[[Tesco Clubcard Credit Card]]. **Rupert's decision, not actioned.**
+26.436% APR. See [[0% Offers Tracker]] and [[Tesco Clubcard Credit Card]].
+**Rupert's decision, not actioned.**
+
+**Timing now matters, and it works out favourably:**
+- The **next £300 DD is 11 Oct** — *after* the Tesco window shuts on
+  **9 Oct**. So the balance to transfer stays **£1,255.11** right up to the
+  deadline; no need to recalculate around a payment.
+- ⚠️ **Transferring £1,255.11 will not quite zero the card.** Interest
+  accrues daily and the next statement is ~16 Oct, so a small residue
+  (single-digit to low-tens of pounds) will still post afterwards. Expect
+  it — the card is not "closed" the day the transfer lands.
+- The 11 Oct £300 DD would then collect against that residue only (it takes
+  the lesser of the DD and what's owed), which conveniently mops it up.
+  Worth leaving the DD in place for that one cycle rather than cancelling
+  it, then reviewing.
+- Do **not** transfer more than the outstanding balance — that is precisely
+  the error that caused this situation. See [[Solicitor Payment 0% Plan]].
