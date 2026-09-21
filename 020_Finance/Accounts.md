@@ -431,6 +431,12 @@ the free amortisation table available on request and the corrected
 beginning-of-month payment pattern, is in [[Tesco Loan]] and
 [[2025-08-19_tesco-loan-origination-pack]].
 
+### Other Personal Credit Agreements
+
+| Item | Detail |
+|---|---|
+| Car Insurance (Tesco) | See [[Car Insurance]] — switched from 1st Central 7 Aug 2026; 11×£20.76 monthly DDs, first due 4 Oct 2026 |
+
 ### Loans from Anne (owed back to Anne)
 
 See [[Loans from Anne]].

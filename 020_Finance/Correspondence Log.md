@@ -5,6 +5,19 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-21 (car insurance, raised by Rupert, backfilled from 5–7 Aug).**
+Rupert asked why no car insurance payments had shown up. Traced to a
+provider switch that predates this project's tracking: 1st Central's
+renewal for WU11 RYM was due to auto-renew 20 Aug at a higher rate, so
+Rupert moved to **Tesco Car Insurance** instead (confirmed 7 Aug, cover
+19 Aug 2026 – 19 Aug 2027, policy 6004388E). Rupert supplied the full
+policy document, which resolved it: **11 monthly instalments of £20.76**
+are due **on/after the 4th of each month**, so nothing was missed —
+September had no instalment due, and **4 October 2026 is the first**. New
+account note: [[Car Insurance]]. Two emails filed (not previously logged):
+- [[2026-08-06_1st-central-renewal-notice|2026-08-06 — 1st Central renewal notice]] — quoted £33.43/month renewal, prompted the switch
+- [[2026-08-07_tesco-car-insurance-confirmed|2026-08-07 — Tesco Car Insurance confirmed]] — £41.63 deposit taken, policy 6004388E
+
 **2026-09-21.** Nothing new to file — the only hit since 18 Sept was a
 routine Barclaycard "Your statement is here" notice (Heather's card, 19
 Sept, no figures in the body), same not-worth-an-entry pattern as prior
@@ -264,6 +277,8 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-08-07_tesco-car-insurance-confirmed|2026-08-07 — Tesco Car Insurance confirmed]] — switched from 1st Central; policy 6004388E, £41.63 deposit, 11×£20.76 monthly DDs from 4 Oct 2026
+- [[2026-08-06_1st-central-renewal-notice|2026-08-06 — 1st Central renewal notice]] — quoted £33.43/month renewal (up from £27.66), prompted the switch to Tesco
 - [[2026-09-16_capital-one-direct-debit-reissue|2026-09-16 — Capital One Direct Debit reissue]] — duplicate mandate expected 22 Sept–5 Nov 2026, do not cancel; balance £0.00 so no collection due
 - [[2026-08-16_natwest-statement-0pc-gone|2026-08-16 — NatWest statement: 0% balance gone, whole balance at 26.436%]] — 🚨 found 17 Sept from a £52.55 interest charge; the M&S transfer repaid the 0% balance and the solicitor fee replaced it at full rate
 - [[2025-08-19_tesco-loan-origination-pack|2025-08-19 — Tesco Bank loan origination pack]] — backfilled 16 Sept 2026 from the paper pack; the signed CCA agreement, establishes the loan is precomputed (no monthly interest charges), free amortisation table available on request

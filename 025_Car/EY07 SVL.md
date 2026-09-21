@@ -1,3 +1,5 @@
+**Scrapped** — this car is dead. The insurance below is historical only.
+
 ## Insurance
 
 Hastings Direct - <https://www.hastingsdirect.com/myaccount/your-policy>
