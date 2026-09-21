@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £157.34 | 2026-09-17 |
-| Starling - Joint | £269.80 | 2026-09-17 |
-| Barclays - Current | £73.22 ⚠️ | 2026-09-16 |
+| Starling - Main | £30.46 | 2026-09-19 |
+| Starling - Joint | £256.20 | 2026-09-18 |
+| Barclays - Current | £32.65 ⚠️ | 2026-09-20 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -254,12 +254,23 @@ this off when it lands. If it hasn't appeared within the usual card-refund
 window (typically 5–10 working days, so by roughly **1 Oct 2026**), it needs
 chasing with the merchant.
 
+**17–20 Sept 2026 — ordinary spending, deeper into the pre-payday trough.**
+`Starling - Main` £157.34→£30.46: pub/grocery spend (Black Lion, Hare Inn,
+Perrywood, Amazon, Five Bells Cavendish, a £10 cash withdrawal). `Starling -
+Joint` £269.80→£256.20: two small debits (Tesco £41.98, Hare Inn £13.60).
+`Barclays - Current` £73.22→£32.65: a single £40.57 HomeServe direct debit
+(household drain-cover policy, routine). Nothing irregular; no Harpers
+Haslemere refund among these line items — still outstanding.
+
 **Cash position is at its pre-payday trough, which is normal.**
-`Starling - Main` £157.34 and `Barclays - Current` £73.22 are both low, but
-salary has landed around the 26th in recent months (£6,080.83 on 26 Aug), so
-the month-end commitments — the ~£574.48 servicing run from Barclays, the
-Tesco Loan £139.74, the M&S £175, and the 1st-of-month sweeps — fall after
-payday, not before it. Worth a glance rather than alarm.
+`Starling - Main` £30.46 and `Barclays - Current` £32.65 are both very low,
+but salary has landed around the 26th in recent months (£6,080.83 on
+26 Aug), so the month-end commitments — the ~£574.48 servicing run from
+Barclays, the Tesco Loan £139.74, the M&S £175, and the 1st-of-month sweeps
+— fall after payday, not before it. Barclays is now well below the
+~£574.48 it needs for the October servicing run if nothing lands before
+the 2nd — worth a closer watch than usual given how thin both balances now
+are.
 
 **Starling - Joint is new** (first appeared in the 2026-07-20 refresh).  
 Application approved by email 2026-07-19 — see  

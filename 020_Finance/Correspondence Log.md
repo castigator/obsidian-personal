@@ -5,6 +5,16 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-21.** Nothing new to file — the only hit since 18 Sept was a
+routine Barclaycard "Your statement is here" notice (Heather's card, 19
+Sept, no figures in the body), same not-worth-an-entry pattern as prior
+statement-ready notices. All other sender and keyword searches since 18
+Sept came back empty. ⏳ The Harpers Haslemere **£158.40 refund is still
+outstanding** — no credit has reached `Starling - Main` (checked against
+the 17–19 Sept line items).
+
+**Last checked:** 2026-09-21.
+
 **2026-09-18 (second run, same day).** Nothing new. All three hits (NatWest
 statement notice, Capital One new-device alert, Halifax statement-ready) were
 already assessed earlier today; every other sender and keyword search empty.
