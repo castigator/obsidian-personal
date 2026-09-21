@@ -5,6 +5,12 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-21 (M&S statement supplied by Rupert).** The 13 Sept 2026
+statement confirms the 0% balance transfer is still intact: balance
+£1,791.31 (unchanged), Balance Transfer rate 0.00%, £0.00 estimated
+interest, minimum payment £44.78, next payment due 8 October 2026. See
+[[2026-09-13_ms-statement-0pc-confirmed]] and [[M&S Credit Card]].
+
 **2026-09-21 (car insurance, raised by Rupert, backfilled from 5–7 Aug).**
 Rupert asked why no car insurance payments had shown up. Traced to a
 provider switch that predates this project's tracking: 1st Central's
@@ -277,6 +283,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-13_ms-statement-0pc-confirmed|2026-09-13 — M&S statement confirms 0% still live]] — balance £1,791.31 unchanged, 0.00% BT rate, next payment due 8 Oct 2026
 - [[2026-08-07_tesco-car-insurance-confirmed|2026-08-07 — Tesco Car Insurance confirmed]] — switched from 1st Central; policy 6004388E, £41.63 deposit, 11×£20.76 monthly DDs from 4 Oct 2026
 - [[2026-08-06_1st-central-renewal-notice|2026-08-06 — 1st Central renewal notice]] — quoted £33.43/month renewal (up from £27.66), prompted the switch to Tesco
 - [[2026-09-16_capital-one-direct-debit-reissue|2026-09-16 — Capital One Direct Debit reissue]] — duplicate mandate expected 22 Sept–5 Nov 2026, do not cancel; balance £0.00 so no collection due

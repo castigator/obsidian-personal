@@ -3,12 +3,18 @@
 - **Type:** Credit card
 - **Card number:** **** **** **** 0265
 - **Credit limit:** £2,000.00
-- **Balance:** -£1,791.31 (Banktivity, as of 2026-09-05) — down from
-  -£1,966.31 after the £175.00 fixed DD collected 5 Sept 2026 (matches the
-  07/09/26 collection date confirmed on the 13 Aug statement — landed a
-  couple of days early). Originally set by the Atkins Dellow 0%
-  balance-transfer plan executed 28 Jul 2026 (£1,900 balance transfer +
-  £66.31 fee, 3.49%). See [[Solicitor Payment 0% Plan]].
+- **Balance:** -£1,791.31 (Banktivity, as of 2026-09-05; confirmed by the
+  13 Sept 2026 statement too — no change) — down from -£1,966.31 after the
+  £175.00 fixed DD collected 5 Sept 2026 (matches the 07/09/26 collection
+  date confirmed on the 13 Aug statement — landed a couple of days early).
+  Originally set by the Atkins Dellow 0% balance-transfer plan executed
+  28 Jul 2026 (£1,900 balance transfer + £66.31 fee, 3.49%). See
+  [[Solicitor Payment 0% Plan]].
+- **13 Sept 2026 statement confirms the 0% is still live:** Balance
+  Transfer rate shown as 0.00% (effective p.a.), estimated interest £0.00.
+  Minimum payment £44.78, payment due date **8 October 2026**. Next £175
+  DD collection confirmed for the same date (08/10/26). See
+  [[2026-09-13_ms-statement-0pc-confirmed]].
 - **Direct debit:** amended 28 Jul 2026 from Minimum to **Fixed £175.00/month**
   (card ending 0645, statement date 13/03, due date 01/08) to clear the
   transferred balance inside the 0% window. **Confirmed landed correctly** —
@@ -28,6 +34,7 @@
 - **0% window:** 28 July 2026 → 28 July 2027
 - **Rate:** 0.00% for 12 months on transferred balances
 - **Fee:** 3.49% of amount transferred (minimum £5)
-- **Notes:** £33.69 headroom left under the £2,000 limit (confirmed again on
-  13 Aug 2026 statement — balance unchanged at £1,966.31, no interest
-  charged, £0.00 estimated interest).
+- **Notes:** £208.69 available to spend as of the 13 Sept 2026 statement
+  (balance now £1,791.31 after the first £175 DD) — confirmed again 0%,
+  £0.00 estimated interest. Previously £33.69 headroom on the 13 Aug 2026
+  statement (balance then still £1,966.31, pre-DD).
