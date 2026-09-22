@@ -318,6 +318,11 @@ is referenced elsewhere.
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
 | Starling - NatWest Credit Card | £0.00 ⚠️ | 2026-09-17 |
 
+**Planned: Starling - Amazon Prime Space (flagged 22 Sept 2026).** Not yet
+created. Rupert intends to set up a Space funded monthly (~£8) to pay the
+annual £95 Prime renewal (next due 22 Sept 2027) — see [[Reminders]]. Add it
+to the table once it appears in Banktivity.
+
 These read as budgeting sub-accounts (each a separate Starling "Space")  
 rather than real savings — most sit at £0 because they're swept for bills.  
 Worth confirming what these are actually for.
