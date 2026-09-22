@@ -18,6 +18,7 @@ content-start: 151
 - [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 - [x] Joint tenancy agreement fully executed ✅ 2026-08-21 — Rupert signed 20 Aug, Mandy 21 Aug, agent countersigned same day
 - [ ] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]]
+- [ ] Electoral Registration (ref 254490) — application rejected, DWP couldn't verify ID; copy ID needed or no vote in future elections. Reminder resent 21 Sep 2026, still not actioned — see [[Correspondence Log]]
 
 ## Key Dates
 

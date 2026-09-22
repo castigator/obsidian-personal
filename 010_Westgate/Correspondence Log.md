@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-21
+**Last checked:** 2026-09-22
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -171,6 +171,7 @@ up to date.
 | Date | From | Subject | Key Content |
 |---|---|---|---|
 | 2026-09-17 | elections@elections.baberghmidsuffolk.gov.uk | Electoral Registration — Evidence needed to complete your application. Elector 254490 | Application to join the register **rejected** — DWP couldn't verify identity. Copy ID needed quoting ref **254490**, or no vote in future elections. Attachment downloaded: [[BMSDC Documentary Evidence.pdf]] |
+| 2026-09-21 | elections@elections.baberghmidsuffolk.gov.uk | Electoral Registration — Evidence needed to complete your application. Elector 254490 | **Reminder resend** — identical content and attachment to the 17 Sep email, same ref 254490. No copy ID has been sent yet. |
 
 ## Urban Jungle (Contents Insurance)
 
