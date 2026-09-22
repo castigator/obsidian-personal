@@ -463,8 +463,8 @@ at the moment (no scheduled repayments).
 
 | Account | Banktivity balance | As of | Shared Debt.md figure |
 |---|---:|---|---|
-| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,274.24 (2026-07-20, from actual statement — supersedes spreadsheet) |
-| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,282.94 (2026-07-10, from spreadsheet) |
+| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,116.17 (2026-09-21, from Barclaycard's own persistent-debt notice — supersedes spreadsheet) |
+| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,330.58 (2026-09-07, from 16 Aug 2026 statement via WhatsApp) |
 | Ann - Barclaycard | -£2,809.00 | 2025-11-04 (stale) | -£1,409.00 (2026-07-10, from spreadsheet) |
 
 [[Shared Debt]] is being kept up to date from a spreadsheet, so it's the  

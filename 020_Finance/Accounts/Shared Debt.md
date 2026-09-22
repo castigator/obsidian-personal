@@ -27,7 +27,7 @@ re-check it, don't treat it as fixed.** Planned move to 50/50 remains
 theoretical — Rupert's read (7 Sep) is this is unlikely to happen soon
 given Heather's stance on the related card-split proposal (see below).
 
-As of 2026-07-10 (from spreadsheet) except Halifax and Barclaycard, updated 2026-09-07
+As of 2026-07-10 (from spreadsheet) except Halifax and Barclaycard, updated 2026-09-22
 from the actual statements (see below):
 
 ## Outstanding debts
@@ -35,13 +35,22 @@ from the actual statements (see below):
 | Account | Balance | Minimum payment |
 |---|---:|---:|
 | Halifax | -£6,330.58 | £177.98 | <!-- Heather's card, updated from 16 Aug 2026 statement (WhatsApp, supplied 7 Sep) -->
-| Barclaycard | -£7,196.21 | £196.50 | <!-- Heather's card, updated from 20 Aug 2026 statement (WhatsApp, supplied 7 Sep) -->
+| Barclaycard | -£7,116.17 | £196.50 | <!-- Heather's card, updated from a Barclaycard persistent-debt email citing "last statement balance", 21 Sep 2026 -->
 | Barclaycard (Ann) | -£1,409.00 | £200 | <!-- Anne's card (label correct; ownership confirmed 2026-07-15) -->
 
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
-**Total owed:** -£14,935.79 · **Total minimum payments:** £574.48/month (up from £466.66 — driven
+**Total owed:** -£14,855.75 · **Total minimum payments:** £574.48/month (up from £466.66 — driven
 almost entirely by Halifax's minimum jumping £62.83 → £177.98; see below)
+
+**⚠️ Barclaycard flagged for persistent debt (21 Sep 2026 email to Heather):**
+Barclaycard's own trigger — paying more in interest/fees than towards the
+principal — tripped on card ending 5002. Based on the last statement balance
+of £7,116.17, Barclaycard suggests raising the payment to £233/month (current
+minimum £196.50, current combined servicing split assumes £196.50). Not an
+immediate problem, but worth knowing this card is the one flagged, not
+Halifax — and it's the same card earmarked for Rupert under the proposed
+card split. No change made to the servicing split without Rupert's say-so.
 
 **Halifax minimum payment jump explained (7 Sep 2026):** Halifax's own minimum-repayment formula
 is 1% of balance + interest + fees, and the statement now shows this card's actual rate —

@@ -5,6 +5,19 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-22.** One new item since 21 Sept: a Barclaycard persistent-debt
+notice (Heather's card ending 5002) giving a fresh balance figure —
+£7,116.17, down from £7,196.21 — and flagging that minimum payments alone
+aren't reducing the principal much (see
+[[2026-09-21_barclaycard-persistent-debt-notice]], updates [[Shared Debt]]
+and [[Accounts]]). Banktivity: no new/removed accounts, ordinary spending
+only on all three current accounts; the Westgate Rent payout to the
+landlord (Julian Glasgow) on 21 Sept is the same routine monthly pattern
+seen every month since Oct 2025, nothing irregular. Every other sender and
+keyword search since 21 Sept came back empty.
+
+**Last checked:** 2026-09-22.
+
 **2026-09-21 (M&S statement supplied by Rupert).** The 13 Sept 2026
 statement confirms the 0% balance transfer is still intact: balance
 £1,791.31 (unchanged), Balance Transfer rate 0.00%, £0.00 estimated
@@ -283,6 +296,7 @@ even the recurring ones. See that note and `/refresh`'s step 3.**
 
 ## Entries
 
+- [[2026-09-21_barclaycard-persistent-debt-notice|2026-09-21 — Barclaycard persistent-debt notice (Heather's card)]] — fresh balance £7,116.17 (down from £7,196.21), suggests raising payment to £233/month
 - [[2026-09-13_ms-statement-0pc-confirmed|2026-09-13 — M&S statement confirms 0% still live]] — balance £1,791.31 unchanged, 0.00% BT rate, next payment due 8 Oct 2026
 - [[2026-08-07_tesco-car-insurance-confirmed|2026-08-07 — Tesco Car Insurance confirmed]] — switched from 1st Central; policy 6004388E, £41.63 deposit, 11×£20.76 monthly DDs from 4 Oct 2026
 - [[2026-08-06_1st-central-renewal-notice|2026-08-06 — 1st Central renewal notice]] — quoted £33.43/month renewal (up from £27.66), prompted the switch to Tesco
