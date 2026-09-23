@@ -242,17 +242,41 @@ previously documented anywhere, and a £0.00 Space looks alarming without it.
 **16–17 Sept 2026 — `Starling - Main` £565.17→£157.34, ordinary spending.**
 Swan Long Melford ×3 and East of England Coop ×2 on 16 Sept; then on
 17 Sept the two £300 transfers above (netting to zero), Harpers Haslemere
-£158.40 and £132.60, and Tesco £40.00 and £15.20. `Starling - Joint`
+£158.40 and £132.60 (**both since cancelled — see the refund watch below**),
+and Tesco £40.00 and £15.20. `Starling - Joint`
 £311.78→£269.80 on a single £41.98 Tesco debit.
 
-**⏳ WATCH — Harpers Haslemere £158.40 refund outstanding.** Of the two
-Harpers Haslemere debits on 17 Sept, Rupert confirms **only the £132.60 is
-a real purchase**; the **£158.40 was cancelled** and should be refunded back
-to `Starling - Main`. **Not yet received as of 18 Sept 2026.** Check every
-`/refresh` for an incoming ~£158.40 credit from Harpers Haslemere and close
-this off when it lands. If it hasn't appeared within the usual card-refund
-window (typically 5–10 working days, so by roughly **1 Oct 2026**), it needs
-chasing with the merchant.
+**⏳ WATCH — Harpers Haslemere £291.00 refund outstanding (revised 23 Sept
+2026 — now BOTH bookings, was £158.40).** Both 17 Sept Harpers Haslemere
+debits on `Starling - Main` are cancelled bookings, so the whole £291.00 is
+owed back:
+
+| Debit | Amount | Status |
+|---|---:|---|
+| Harpers Haslemere (10:35) | £158.40 | **Booking.com** (conf 6716612871), cancelled **18 Sept** — refund was due by ~25 Sept, **now overdue** |
+| Harpers Haslemere (10:36) | £132.60 | **Direct** (ref 1a0b3dc33c3), cancelled **23 Sept** — refund window runs to ~7 Oct, not late yet |
+| **Total owed** | **£291.00** | |
+
+Both were bookings for **the same night, Fri 2 Oct 2026** — one through
+Booking.com, one direct — and both were cancelled inside the free-cancellation
+window, so there is no cancellation fee on either and the full £291.00 is
+owed. Full detail, references and contact number in
+[[2026-09-23_harpers-haslemere-both-bookings-cancelled]].
+
+**The two legs are on different clocks:**
+- **£158.40 (Booking.com), cancelled 18 Sept — this one is now overdue.**
+  Booking.com's cancellation email promised a refund "in the next 7 days"
+  (i.e. by ~25 Sept) and explicitly pointed at the hotel, not Booking.com,
+  if it doesn't arrive. **This is the leg to chase**, on 01428 776 560,
+  quoting conf **6716612871**.
+- **£132.60 (direct), cancelled 23 Sept** — 5–10 working days runs to about
+  **7 Oct 2026**. Not late yet; don't chase this one before then.
+
+**Neither received as of 23 Sept 2026** (feed runs to 21 Sept, nothing in
+email). Check every `/refresh` and close each leg off **separately** — a
+partial refund is the likely failure mode, so one credit landing does not
+clear the other. This is a material sum against a `Starling - Main` balance
+that has been sitting under £200.
 
 **17–20 Sept 2026 — ordinary spending, deeper into the pre-payday trough.**
 `Starling - Main` £157.34→£30.46: pub/grocery spend (Black Lion, Hare Inn,

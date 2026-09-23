@@ -5,6 +5,21 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-23 (Harpers Haslemere — four emails, found once
+`from:harpers-haslemere.co.uk` was added to the sweep).** Both bookings for
+Fri 2 Oct 2026 are cancelled and unrefunded — **£291.00 outstanding**. The
+£158.40 was via **Booking.com** (conf 6716612871), cancelled **18 Sept**, free
+of charge, with Booking.com promising a refund within 7 days (~25 Sept) and
+pointing at the hotel if it doesn't arrive — **that leg is now overdue and is
+the one to chase**, 01428 776 560. The £132.60 was **direct** (ref
+1a0b3dc33c3, includes a 15% book-direct discount), cancelled only **23 Sept**,
+so its window runs to ~7 Oct and it isn't late yet. Both cancellations were
+inside the free window (Booking.com's deadline was 29 Sept), so no fee is
+owed. See
+[[2026-09-23_harpers-haslemere-both-bookings-cancelled]] and [[Accounts]].
+Supersedes the 18 Sept reading that the £132.60 was a real purchase.
+See [[Accounts]]; chase the merchant if nothing has landed by ~1 Oct 2026.
+
 **2026-09-23.** Nothing new since 22 Sept — every sender and keyword search
 came back empty (the only Barclaycard hit is the already-filed 21 Sept
 persistent-debt notice). Banktivity: no new or removed accounts; Rupert moved
