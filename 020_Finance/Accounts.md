@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £30.46 | 2026-09-19 |
-| Starling - Joint | £256.20 | 2026-09-18 |
+| Starling - Main | £162.97 | 2026-09-21 |
+| Starling - Joint | £184.50 | 2026-09-21 |
 | Barclays - Current | £32.65 ⚠️ | 2026-09-20 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -308,8 +308,8 @@ is referenced elsewhere.
 | Starling - Savings Buffer | £300.50 | 2026-09-17 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-09-01 |
-| Starling - Spare Funds (was "Lucy Rent") | £633.00 | 2026-09-01 |
-| Starling - Westgate Rent | £1,000.00 | 2026-09-01 |
+| Starling - Spare Funds (was "Lucy Rent") | £450.00 | 2026-09-21 |
+| Starling - Westgate Rent | £0.00 | 2026-09-21 |
 | Starling - Broadband | £0.00 | 2026-09-16 |
 | Starling - Home Insurance | £5.30 | 2026-09-01 |
 | Starling - Water | £0.00 | 2026-09-15 |
@@ -317,6 +317,12 @@ is referenced elsewhere.
 | Starling - TV Licence | £0.08 | 2026-09-07 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
 | Starling - NatWest Credit Card | £0.00 ⚠️ | 2026-09-17 |
+
+**Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
+(21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
+Funds £633 → £450. Rupert's own transfers, partly to cover the annual
+Amazon Prime renewal (£95, due 22 Sept) against a thin Main balance. The
+£95 charge itself hasn't appeared in the feed yet — see [[Reminders]].
 
 **Planned: Starling - Amazon Prime Space (flagged 22 Sept 2026).** Not yet
 created. Rupert intends to set up a Space funded monthly (~£8) to pay the

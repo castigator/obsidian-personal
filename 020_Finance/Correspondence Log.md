@@ -5,6 +5,18 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-23.** Nothing new since 22 Sept — every sender and keyword search
+came back empty (the only Barclaycard hit is the already-filed 21 Sept
+persistent-debt notice). Banktivity: no new or removed accounts; Rupert moved
+£33 (20 Sept) and £150 (21 Sept) from `Starling - Spare Funds` to
+`Starling - Main` to cover the annual **Amazon Prime renewal, £95, 22 Sept**
+— the charge hasn't reached the feed yet, and no Amazon receipt has arrived.
+Prime now renews **22 Sept 2027**; Rupert plans a dedicated Starling Space
+for it (see [[Reminders]], [[Accounts]]). Westgate Rent paid out £1,000 to
+the landlord on 21 Sept as every month.
+
+**Last checked:** 2026-09-23.
+
 **2026-09-22.** One new item since 21 Sept: a Barclaycard persistent-debt
 notice (Heather's card ending 5002) giving a fresh balance figure —
 £7,116.17, down from £7,196.21 — and flagging that minimum payments alone
