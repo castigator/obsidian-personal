@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-22
+**Last checked:** 2026-09-24
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -80,6 +80,30 @@ up to date.
 | 2025-12-23 | sue@spearcommunications.co.uk | Skilled Ecology | Listed Building Consent for roof improvements; bat survey arranged for 8 Jan 2026 — see [[Building Works]] |
 | 2025-12-28 | sue@spearcommunications.co.uk | Bat Survey | Confirmed bat survey 10am on 8 January |
 
+### Sue Glasgow — WhatsApp
+
+Most day-to-day landlord contact happens here, not by email, so `/refresh` won't pick it up. Taken
+from screenshots Rupert shared on 2026-09-24. This is the **complete surviving chat**: it starts on 8 Jan 2026,
+and anything before that was lost because Sue had accidentally turned on Disappearing Messages. There
+have been no messages since 12 Aug 2026.
+
+| Date | From | Key Content |
+|---|---|---|
+| 2026-01-08 | Rupert | First surviving message: "That'll be great. Glad you worked it out", replying to something now lost. The date matches the bat survey (8 Jan, 10am), so it may be about that |
+| 2026-01-28 | Sue | Tree surgeon Charlie Brown to look at the garden apple trees before a winter prune. Rupert: any weekday is fine. Rupert suggested the rowan at the back could do with attention too; Sue agreed |
+| 2026-01-30 | Sue | Their gardener **Dan Beales** will do the job on **Fri 13 Feb** instead (no Charlie quote), clearing cuttings and including the rowan. Rupert: "Sounds good" |
+| 2026-02-13 | Sue / Rupert | Pruning day. Julian met Dan and showed him in through the back gate; the crew arrived around midday. Rupert: "Trees look fab – if a bit bald", with photos |
+| 2026-03-08 | Sue | Electrician **John** to **replace the electric panel Thu 12 Mar 9:15am** while Rupert was away. Julian to give access |
+| 2026-03-18 | Sue / Rupert | John upgraded the electrics but couldn't get into the office without the code. He still needs to fit a **junction box to protect the remote-control switch**. Rupert: fine if the RC circuit can be isolated, schedule if a full disconnect is needed; John can WhatsApp him directly |
+| 2026-04-01 | Sue | Asked whether John had finalised the upgrade. **Roof**: Listed consent going well, roofer **Jason** tentatively booked **w/c 18 May**, scaffolding both sides, a few days' work |
+| 2026-04-02 | Rupert / Sue | Rupert: no word from John. 18 May is fine, and asked to avoid 15–28 June. Sue: in the diary, Listed Consent expected within a couple of weeks, and she'll chase John |
+| 2026-05-10 | Rupert / Sue | Rupert asked if the roof was still on for w/c 18th. Sue: confirmed, and she'd get a start time |
+| 2026-05-11 | Sue | Jason confirmed **start 18 May, 8am**. Rupert OK'd sharing his contact details |
+| 2026-05-17 | Sue | Jason arriving around 8am tomorrow, scaffolding first, Julian may drop by. **Roof works went ahead from 18 May 2026** (Rupert confirmed 2026-09-24 that they're done) |
+| 2026-07-10 | Sue / Rupert | Gas safety check due. Julian booking the engineer for **Wed 12 Aug 9–12**. Rupert confirmed it's in the calendar |
+| 2026-08-12 | Sue / Rupert | Check done mid-morning, all good. Engineer said the **boiler is 16+ years old and showing it**, but found no issues. He left the landlord copy with Rupert. Sue: Julian will collect it and send a copy to David Burr |
+
+
 ## Goodlord (Tenancy Platform)
 
 | Date | From | Subject | Key Content |
@@ -138,6 +162,7 @@ up to date.
 | 2026-09-16 | Anglian Water (SMS) | Direct Debit has been set | 1st payment **£77.00 on 08.10.2026**, then £77.00 monthly until next review |
 | 2026-09-17 | noreply@anglianwater.co.uk | Your bill is ready | Acct ***965. Rebill after the settlement. Checked in MyAccount 18 Sep: allowance applied, **balance £65.53 debit** (not cleared — the £32.88 was a part payment), next DD £77.00 on 8 Oct, next bill Feb 2027 expected £386 |
 | 2026-09-16 | noreply@anglianwater.co.uk | Your Direct Debit has changed | Acct ***965. Next payment £77.00 on or just after 8 Oct 2026, then £77.00 from 8 Nov 2026. Confirms the SMS; supersedes the £1,022 DD that had been set for 1 Oct |
+| 2026-09-23 | noreply@anglianwater.co.uk | Your recent contact with Anglian Water | Satisfaction survey only, following the phone call with **Victoria** (email dates the contact 15 Sep). No account info, no action needed. No attachments. |
 
 ## Fibrely (Broadband)
 

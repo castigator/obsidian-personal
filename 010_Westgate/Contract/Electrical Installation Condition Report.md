@@ -2,7 +2,8 @@
 
 ## Current Certificate (2026)
 
-Updated EICR issued March 2026 following inspection by John Turner on 8 Nov 2025. Sent by David Burr on 19 March 2026.
+Updated EICR issued March 2026 following inspection by John Turner on 8 Nov 2025. Sent by David Burr on 19 March 2026. It follows electrician John replacing the electric panel on 12 Mar 2026
+(arranged by Sue over WhatsApp — see [[Building Works#Other Landlord Works]]).
 
 ## Original Certificate (2020)
 

@@ -68,6 +68,9 @@ No defects identified. No warning advice issued.
 **2026-08-10:** Julian confirmed the gas engineer would come Wednesday 12 Aug morning to check gas
 supply and appliances — the annual renewal.
 
+**2026-08-12:** Rupert told Sue on WhatsApp that the check was done and passed. The engineer remarked the **boiler is 16+ years
+old and showing it**, though he found no issues. He left the landlord copy with Rupert.
+
 **2026-08-13/14:** The 12 Aug check went ahead — Julian collected a copy of the new certificate for
 his own records and to send to David Burr.
 
