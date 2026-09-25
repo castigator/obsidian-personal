@@ -26,3 +26,5 @@ roughly double the monthly interest.
   happen.
 
 Attachments: none.
+
+> **Superseded later on 25 Sep:** Heather's Barclaycard app screenshot shows the **18 Sep statement minimum is £186.45, not £196.50**. So £233 is **+£46.55/mo** (Rupert £37.24 / Heather £9.31 at 80/20). See [[2026-09-25_whatsapp-halifax-statement-barclaycard-app]].

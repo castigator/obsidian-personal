@@ -4,20 +4,20 @@ tags:
   - finance
 ---
 
-*Updated 23 Sep 2026 from finance vault `020_Finance/Accounts/Shared Debt.md` — Barclaycard from
-the 21 Sep 2026 persistent-debt notice ("last statement balance", 🔒H), Halifax from its 16 Aug 2026
-statement (supplied by Heather 7 Sep); Ann's card remains as of the 10 Jul 2026 spreadsheet*
+*Updated 25 Sep 2026 — Barclaycard from its 18 Sep 2026 statement (app screenshot Heather sent by
+WhatsApp 25 Sep), Halifax from its 16 Sep 2026 statement (PDF Heather sent by WhatsApp 25 Sep), see
+[[2026-09-25_whatsapp-halifax-statement-barclaycard-app]]; Ann's card remains as of the 10 Jul 2026 spreadsheet*
 
-## Joint Marital Debts (~£23,697)
+## Joint Marital Debts (~£23,632)
 
-Cards total **£14,855.75** (min payments £574.48/mo, split Rupert 80% £459.58 / Heather 20% £114.90;
+Cards total **£14,791.48** (min payments £562.82/mo, split Rupert 80% £450.26 / Heather 20% £112.56;
 planned change to 50/50 previously discussed, now superseded in practice by the specific card
 split below). Plus Ann loans £8,840 (corrected by Heather 15 Jul; repay from house sale).
 
 | Debt | Balance | Min Payment | Notes |
 |------|---------|-------------|-------|
-| Barclaycard | £7,116.17 | £196.50 | Heather's card, ending 5002. 20.68% simple p.a. (22.8% compound). Balance per 21 Sep 2026 persistent-debt notice (🔒H) — Barclaycard flags interest > principal repayment, suggests £233/mo. This is the card Rupert takes in the proposed split (below) |
-| Halifax credit card | £6,330.58 | £177.98 | Heather's card, ending 3123. 21.422% simple / 23.66% effective, no promo — 16 Aug 2026 statement. Rate rises again from 19 Nov 2026 |
+| Barclaycard | £7,116.17 | £186.45 | Heather's card, ending 5002. 20.68% simple p.a. (22.8% compound). 18 Sep 2026 statement (interest £116.46, min due 13 Oct). Credit limit £13,550. Persistent-debt notice (21 Sep): suggests £233/mo. This is the card Rupert takes in the proposed split (below) |
+| Halifax credit card | £6,266.31 | £176.37 | Heather's card, ending 3123. 21.422% simple / 23.66% effective, no promo balance left — 16 Sep 2026 statement (interest £113.71, min due 12 Oct). Limit £7,500. Rate rises again from 19 Nov 2026 |
 | Next | £0.00 | — | Cleared, no longer tracked |
 | Barclaycard (Ann) | £1,409.00 | £200.00 | Ann's card (ownership confirmed 15 Jul 2026) |
 | Loan from Ann (£3,318) | £3,318.00 | £0 | Repaid an MBNA card used for a balance transfer (Heather, 15 Jul). Check if formal paperwork exists |
@@ -26,7 +26,7 @@ split below). Plus Ann loans £8,840 (corrected by Heather 15 Jul; repay from ho
 **Proposed card split (15 Jul 2026, still unsigned as of 18 Aug — now gated on Heather's
 solicitor's advice rather than her buy-in specifically, see [[2026-07-22_card-split-loan-affordability-and-heather-risk]]):**
 Rupert takes the
-Barclaycard above (£7,116.17) alone; Heather keeps Halifax + Ann's Barclaycard (£7,739.58
+Barclaycard above (£7,116.17) alone; Heather keeps Halifax + Ann's Barclaycard (£7,675.31
 combined). Rupert assesses this as unlikely to happen (7 Sep 2026). This supersedes the earlier generic 50/50-of-everything framing. See finance
 repo `notes/paying-off-50pc-shared-debt.md`.
 

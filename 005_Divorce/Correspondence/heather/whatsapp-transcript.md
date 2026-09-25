@@ -2518,4 +2518,18 @@ before closing it out fully.
 
 ---
 
+### Fri 25 Sep 2026 *(from a single screenshot supplied 25 Sep; the 8 Sep 16:24 → 25 Sep 07:32 stretch is NOT yet backfilled)*
+
+**Heather:** *(07:32)* `[Image: a letter. Only the bottom edge is visible, with footer text "…Registered in Scotland No. SC083026…" (probably RBS). Content unknown.]` *(Rupert reacted 👍)*
+
+**Rupert:** *(07:39 ✓✓)* "Do you have bill statements?"
+
+**Heather:** *(07:45)* `[PDF: Statement_3123_Sep-26.pdf, 4 pages, 680 KB. This is the Halifax card 3123 statement dated 16 Sep 2026, filed as 2026-09-16_halifax-statement-3123.pdf]`
+
+**Heather:** *(07:45)* `[Image: Barclaycard app screenshot. Current balance £7,116.17, available credit £6,433.83, limit £13,550.00; last statement £7,116.17 18/09/26; min payment £186.45 due 13/10/26; interest charge 18 Sep +£116.46; payment 3 Sep −£196.50]` "Can't download statement at the moment - I forwarded an email to you from Barclay card with the suggestion that we pay £233 min `[caption continues; cut off in the screenshot]`"
+
+`[See [[2026-09-25_whatsapp-halifax-statement-barclaycard-app]].]`
+
+---
+
 *(Transcript continues from here in the next backfill session — see Progress tracker above.)*
