@@ -5,6 +5,12 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-25 (second sweep).** Nothing new. The only hits were the Barclays
+app notices already seen. Banktivity: the £95.00 to Dylan has now imported
+(`Starling - Main` £206.21→£111.21), so the Prime episode is fully closed on
+the feed side. No new or removed accounts. Harpers £291.00 still not
+refunded. See [[Accounts]].
+
 **2026-09-25 (Amazon Prime — £95 charged to an unrecognised card).** The
 missing £95.00 was charged on 22 Sept to **"NatWest Debit Mastercard ••••
 3963"** (order D01-2781267-8319064), a card **Rupert does not recognise** and

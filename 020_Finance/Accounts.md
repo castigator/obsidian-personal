@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £206.21 | 2026-09-25 |
+| Starling - Main | £111.21 | 2026-09-25 |
 | Starling - Joint | £132.58 | 2026-09-25 |
 | Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
 
@@ -279,6 +279,11 @@ shows no Harpers credit at all, and nothing in email. The Booking.com leg's
 partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
+
+**25 Sept 2026 — £95.00 to Dylan now in Banktivity.** `Starling - Main`
+£206.21→£111.21 via a single "Dylan Thomas" -£95.00 line item (the Amazon
+Prime repayment, ref "Amazon Whoopsie"). SUM of line items reconciles to
+£111.21. Import lag closed; nothing else new on any account.
 
 **17–20 Sept 2026 — ordinary spending, deeper into the pre-payday trough.**
 `Starling - Main` £157.34→£30.46: pub/grocery spend (Black Lion, Hare Inn,
