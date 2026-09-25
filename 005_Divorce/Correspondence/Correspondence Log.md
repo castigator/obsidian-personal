@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **24 Sep 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **25 Sep 2026** via direct
 Gmail API — see note below. Covering April 2024 – September 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -120,6 +120,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-09-17 | [halifax-september-statement-ready.md](heather/2026-09-17_halifax-september-statement-ready.md) 🔒H | Routine Halifax "statement ready" notice, card ending 3123, **September 2026** statement, next payment due **12 Oct 2026**. **No figures in the body** — points to Heather's own digital inbox, unreachable by Rupert. Logged as a cycle marker only; nothing changes, as this statement predates the **19 Nov rate rise**. The **November** statement is the one to re-check the £177.98 minimum and the £574.48/mo 80/20 split against. |
 | 2026-09-21 | [barclaycard-persistent-debt-notice.md](heather/2026-09-21_barclaycard-persistent-debt-notice.md) 🔒H | Barclaycard persistent-debt notice, card ending **5002** (the one earmarked for Rupert). **Last statement balance £7,116.17** (was £7,196.21) — shared card total now **£14,855.75**. Suggests £233/mo vs £196.50 minimum. Missed by the 22 Sep sweep (Barclaycard not a tracked sender — now added); finance caught it first. |
 | 2026-09-23 | [heather-self-forwarded-financial-docs.md](heather/2026-09-23_heather-self-forwarded-financial-docs.md) 🔒H | **Heather emails herself three sets of financial documents** (no body text): the 18 Aug E.ON bill (credit £521.36, DD cut to £57.96, which answers the open E.ON question), her **Nationwide FlexAccount statement** (salary £1,546.20 vs the £1,471 modelled, **two other Nationwide accounts**, a **Member Credit Card** not on the shared-debt list, £114.90 servicing share confirmed paid), and photos of the 29 Aug RBS statement (already on file). All downloaded. Check her D81 against these. |
+| 2026-09-25 | [heather-forwards-barclaycard-persistent-debt-notice.md](heather/2026-09-25_heather-forwards-barclaycard-persistent-debt-notice.md) | **Heather forwards the Barclaycard persistent-debt notice to Rupert** (card 5002, no message added). The **£7,116.17 balance is now in Rupert's own records**, so it's no longer 🔒H only. Barclaycard suggests £233/mo against the £196.50 minimum, which would cost Rupert £29.20/mo more at 80/20. Not replied to yet. |
 
 ### [subsidence/](subsidence/)
 

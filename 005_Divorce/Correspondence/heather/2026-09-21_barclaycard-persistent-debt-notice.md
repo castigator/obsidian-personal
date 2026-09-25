@@ -1,7 +1,8 @@
 # 2026-09-21 — Barclaycard persistent-debt notice (Heather's card, ending 5002)
 
 > 🔒 **Source: Heather's mailbox (heather@pebmarsh.com), Rupert not a recipient.** Seen via domain
-> access only — don't act on this openly; work from Rupert's own paper trail (e.g. a statement
+> access only. **Update 25 Sep 2026: Heather forwarded this to Rupert herself
+> ([[2026-09-25_heather-forwards-barclaycard-persistent-debt-notice]]), so it can now be used openly.** Originally: don't act on this openly; work from Rupert's own paper trail (e.g. a statement
 > Heather supplies via WhatsApp).
 
 - **From:** Barclaycard <barclaycard@emails.barclaycard.co.uk>

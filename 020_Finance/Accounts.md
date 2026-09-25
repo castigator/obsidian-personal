@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £162.97 | 2026-09-21 |
-| Starling - Joint | £184.50 | 2026-09-21 |
-| Barclays - Current | £32.65 ⚠️ | 2026-09-20 |
+| Starling - Main | £206.21 | 2026-09-25 |
+| Starling - Joint | £132.58 | 2026-09-25 |
+| Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -247,8 +247,9 @@ and Tesco £40.00 and £15.20. `Starling - Joint`
 £311.78→£269.80 on a single £41.98 Tesco debit.
 
 **⏳ WATCH — Harpers Haslemere £291.00 refund outstanding (revised 23 Sept
-2026 — now BOTH bookings, was £158.40).** Both 17 Sept Harpers Haslemere
-debits on `Starling - Main` are cancelled bookings, so the whole £291.00 is
+2026 — now BOTH bookings, was £158.40).** Both **18 Sept** Harpers Haslemere
+debits on `Starling - Main` (dated 17 Sept before the feed re-dated itself —
+the emails confirm 18 Sept) are cancelled bookings, so the whole £291.00 is
 owed back:
 
 | Debit | Amount | Status |
@@ -272,8 +273,9 @@ owed. Full detail, references and contact number in
 - **£132.60 (direct), cancelled 23 Sept** — 5–10 working days runs to about
   **7 Oct 2026**. Not late yet; don't chase this one before then.
 
-**Neither received as of 23 Sept 2026** (feed runs to 21 Sept, nothing in
-email). Check every `/refresh` and close each leg off **separately** — a
+**Neither received as of 25 Sept 2026** — the feed now runs to 25 Sept and
+shows no Harpers credit at all, and nothing in email. The Booking.com leg's
+7-day promise expires **today (25 Sept)**, so it is now chaseable. Check every `/refresh` and close each leg off **separately** — a
 partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
@@ -332,10 +334,10 @@ is referenced elsewhere.
 | Starling - Savings Buffer | £300.50 | 2026-09-17 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-09-01 |
-| Starling - Spare Funds (was "Lucy Rent") | £450.00 | 2026-09-21 |
+| Starling - Spare Funds (was "Lucy Rent") | £219.30 ⚠️ | 2026-09-23 |
 | Starling - Westgate Rent | £0.00 | 2026-09-21 |
 | Starling - Broadband | £0.00 | 2026-09-16 |
-| Starling - Home Insurance | £5.30 | 2026-09-01 |
+| Starling - Home Insurance | £0.00 | 2026-09-23 |
 | Starling - Water | £0.00 | 2026-09-15 |
 | Starling - Council Tax | £0.00 | 2026-09-06 |
 | Starling - TV Licence | £0.08 | 2026-09-07 |
@@ -348,10 +350,62 @@ Funds £633 → £450. Rupert's own transfers, partly to cover the annual
 Amazon Prime renewal (£95, due 22 Sept) against a thin Main balance. The
 £95 charge itself hasn't appeared in the feed yet — see [[Reminders]].
 
+**⚠️ Starling - Spare Funds is draining fast — £633 → £219.30 in nine days
+(25 Sept 2026).** Five transfers out to `Starling - Main` since 20 Sept: £33,
+£150, £150, £128.70 and £102 (the £102 was spent the same day on PayPal).
+Spare Funds has been the shock-absorber for the whole pre-payday trough this
+cycle, and at £219.30 it has much less left in it than usual going into the
+month-end. Worth Rupert's awareness — **the ~£574.48 of shared-debt servicing
+lands in the first week of October**, and `Barclays - Current` (£32.65) still
+needs funding for it.
+
+**📅 Banktivity feed re-dated everything by +1 day (noticed 25 Sept 2026).**
+Transactions previously dated 17–21 Sept now read 18–22 Sept — the Harpers
+Haslemere debits, the Westgate Rent payout, the Spare Funds transfers, all
+shifted one day later. The **later dating is the correct one**: the Harper's
+booking confirmation emails are timestamped Fri 18 Sept, matching the revised
+£158.40/£132.60 debit date of 18 Sept, not 17 Sept. Treat a wholesale one-day
+shift as the feed settling, not as new or duplicated transactions — the line
+items and amounts are identical.
+
 **Planned: Starling - Amazon Prime Space (flagged 22 Sept 2026).** Not yet
 created. Rupert intends to set up a Space funded monthly (~£8) to pay the
 annual £95 Prime renewal (next due 22 Sept 2027) — see [[Reminders]]. Add it
 to the table once it appears in Banktivity.
+
+**✅ The 2026 Prime £95.00 WAS charged — 22 Sept 2026, but to a NatWest card
+ending 3963 (Amazon Wallet, confirmed 25 Sept).** Order
+#D01-2781267-8319064, shown as "Charged", so the renewal did collect and
+Prime is not at risk. It never appeared in Banktivity because it didn't touch
+any tracked account.
+
+**⚠️ Card ****3963 is unidentified, and the £95 has not left any account
+Rupert holds (confirmed 25 Sept 2026).** Amazon labels it a NatWest **Debit**
+Mastercard and shows the charge as "Charged", but:
+- **Rupert confirms he has no NatWest current account** — only the
+  Mastercard. So there is no debit account for a NatWest debit card to draw
+  on.
+- **The NatWest credit card (**** 0354) never saw it.** Its own app shows
+  just two transactions for 25 Aug–25 Sept: -£52.55 interest (16 Sept) and
+  +£300.00 direct debit (10 Sept), balance -£1,255.11, no pending
+  transactions. Banktivity matches exactly. **The £95 is definitively not on
+  the 26.436% card.**
+- **Not `Starling - Main` (**** 1949)** either, and a search of **every**
+  account in Banktivity for any £95.00 since 1 Aug 2026 returns **nothing**.
+
+**✅ Card ****3963 identified — it's Dylan's (25 Sept 2026).** Amazon's Wallet
+shows it as **MR DYLAN A THOMAS, expiry 10/2028**: Dylan's NatWest debit card,
+stored on Rupert's Amazon account, which the Prime renewal billed instead of
+Rupert's own default. That closes the question — no unauthorised access, no
+missing account of Rupert's, and the "don't spend on the NatWest card" rule
+was never at risk.
+
+**Outcome: Rupert owes Dylan £95.00** and is repaying him and removing the
+card. Starling ****1949 is already the wallet default, so Prime should fall
+back to it for the 22 Sept 2027 renewal — worth confirming on the membership
+page once the card is gone, since a subscription can hold its own payment
+method separately from the wallet default. Full evidence trail in
+[[2026-09-25_amazon-prime-charged-to-unknown-card-3963]].
 
 These read as budgeting sub-accounts (each a separate Starling "Space")  
 rather than real savings — most sit at £0 because they're swept for bills.  

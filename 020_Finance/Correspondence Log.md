@@ -5,6 +5,29 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-25 (Amazon Prime — £95 charged to an unrecognised card).** The
+missing £95.00 was charged on 22 Sept to **"NatWest Debit Mastercard ••••
+3963"** (order D01-2781267-8319064), a card **Rupert does not recognise** and
+which matches nothing he holds — his only NatWest product is the ****0354
+credit card, whose statement shows no £95 and no pending items, and no £95.00
+exists anywhere in Banktivity since August. Rupert is tracing the card. Full
+record, with screenshots, in
+[[2026-09-25_amazon-prime-charged-to-unknown-card-3963]].
+
+**2026-09-25.** Nothing new — the only hits were marketing (two identical
+Barclays "we've updated your app" notices, a Booking.com Genius promo) plus
+the already-filed 23 Sept Harper's cancellation. Banktivity: no new or removed
+accounts. ⏳ **Neither Harpers Haslemere refund has arrived** — £291.00 still
+outstanding, and the Booking.com leg's 7-day promise (£158.40) expires today,
+so it's now chaseable on 01428 776 560, conf 6716612871. ⚠️ **The Amazon Prime
+£95.00 still hasn't been charged** three days after renewal, against last
+year's same-day charge on `Starling - Main` — worth checking Amazon directly.
+⚠️ `Starling - Spare Funds` down to £219.30 from £633 in nine days. Also noted:
+the feed **re-dated everything by +1 day**, so the Harpers debits are 18 Sept
+(matching the emails), not 17 Sept. See [[Accounts]].
+
+**Last checked:** 2026-09-25.
+
 **2026-09-23 (Harpers Haslemere — four emails, found once
 `from:harpers-haslemere.co.uk` was added to the sweep).** Both bookings for
 Fri 2 Oct 2026 are cancelled and unrefunded — **£291.00 outstanding**. The
