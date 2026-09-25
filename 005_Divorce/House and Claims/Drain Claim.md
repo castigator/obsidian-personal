@@ -71,6 +71,12 @@ the account rather than paid direct as originally expected.
   for drain excess" while discussing the separate Hamish/tree invoice payment (see  
   [[Subsidence Claim]]) — implies £400 has actually been set aside somewhere, which may resolve  
   this, though not stated explicitly as such. Worth clarifying if it comes up naturally.
+- ⚠️ **17 Sep 2026: Heather took her £200 back** out of the joint
+  account, calling the uncollected excess "surplus" because she's "skint & need to pay oil." She
+  suggested Rupert take his £200 too. Rupert objected at first, then **took his £200 as well**. The
+  whole £400 is now out of the joint account. **Nobody has billed the excess yet, but it isn't
+  cancelled.** If it is billed, the assumption is that each pays £200 (not agreed in writing). See
+  [[2026-09-25_whatsapp-drain-excess-withdrawal]].
 - ✅ **13 Aug — reply sent, query answered same day, effectively closed out.** Rupert's reply  
   ([[2026-08-13_rupert-reply-scope-query]], git repo) itemised both  
   scopes side by side and asked (a) does the work cover the same ground, (b) what value did it  

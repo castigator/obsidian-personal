@@ -11,9 +11,13 @@ tags:
   screenshot `whatsapp-images/2026-09-25_whatsapp-halifax-pdf-barclaycard-app.png`
 
 ## The exchange
-- **Heather, 07:32:** an image, apparently a letter. The footer reads "…Registered in Scotland No.
-  SC083026…", which looks like RBS. Only the bottom edge is visible in the screenshot, so the content
-  is unknown. Rupert reacted 👍.
+- **Heather, 07:32:** a photo of a page of the **RBS One Account statement (28 Aug position)**, now
+  seen in full in a second screenshot. Rupert reacted 👍. It shows the value £390,000, balance
+  £309,940.86, difference £80,059.14, £178,364.61 behind the repayment guide, and budget £3,423.05. These
+  match the figures already on file. The photo is low resolution. It appears to show interest for 3–31
+  Aug of **£1,750.19, collected 22/09/2026**. That is the collection after the £1,990.77 charged 25 Aug,
+  and it's already recorded in [[RBS Mortgage Notification]]. **This is the same statement Heather emailed to herself on 23 Sep
+  (🔒H), and now she has sent it to Rupert directly.**
 - **Rupert, 07:39:** "Do you have bill statements?"
 - **Heather, 07:45:** `Statement_3123_Sep-26.pdf` (4 pages). Despite the Barclaycard context, this is
   the **Halifax** statement, card ending 3123.
@@ -63,9 +67,10 @@ becomes about £117.
   Rupert's own paper trail.
 
 ## Still open
-- Reply to Heather on the £233 question (not yet answered).
-- The 07:32 image (probably RBS) needs a full screenshot if it matters.
-- WhatsApp transcript: the 8 Sep 16:24 → 25 Sep 07:32 stretch hasn't been backfilled.
+- **The £233 suggestion:** Rupert wants to review his options before agreeing to pay more. This
+  isn't a question waiting on a reply, and it's parked for a future session.
+- Transcript backfilled 25 Sep with no gaps. The drain-excess exchange was 17 Sep, see
+  [[2026-09-25_whatsapp-drain-excess-withdrawal]].
 
 ## Related
 - [[2026-09-25_heather-forwards-barclaycard-persistent-debt-notice]]

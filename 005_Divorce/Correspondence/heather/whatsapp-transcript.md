@@ -30,7 +30,7 @@ remain in place for quick topic lookup. This file is the raw record.
 
 ## Progress tracker
 
-**Covered so far: 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
+**Covered so far: 3 Jul 2025 → 25 Sep 2026, 07:45 (backfilled 25 Sep, no known gaps from 8 Sep onward)** · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
 screenshot supplied) and one unresolved message (28 Aug 12:25, WhatsApp send-delay placeholder
 only, text unknown).** Rupert states 3 Jul 2025 is the earliest point he could scroll back to
 ("the beginning of time") — treated as the start of the transcript unless earlier messages surface
@@ -2518,9 +2518,51 @@ before closing it out fully.
 
 ---
 
-### Fri 25 Sep 2026 *(from a single screenshot supplied 25 Sep; the 8 Sep 16:24 → 25 Sep 07:32 stretch is NOT yet backfilled)*
+### Tue 8 Sep 2026 *(continued. Backfilled 25 Sep from screenshot `whatsapp-images/2026-09-25_whatsapp-backfill-08sep-13sep.png`)*
 
-**Heather:** *(07:32)* `[Image: a letter. Only the bottom edge is visible, with footer text "…Registered in Scotland No. SC083026…" (probably RBS). Content unknown.]` *(Rupert reacted 👍)*
+**Rupert:** *(19:44 ✓✓, Forwarded)* "We are coming to the end. Steve really struggling to breathe. Dr Taussig came in and we said goodbye. Steve thanked him for everything and all treatment will stop. Palliative care team are organising pump to make things easier for Steve. We want things to be over as comfortably and quickly as possible. Steve and Sam have already said everything they needed to say and Steve only wants to see me here so no mad phone calls to school. I will speak to Sam after school. Do not know how long it will be, please God it does not take days. I will stay until it is over."
+
+**Rupert:** *(19:44 ✓✓, Forwarded)* "Sam and Amrutha coming to be with me. Steve very much more comfortable and has been sleeping. I still hope it will be today."
+
+**Heather:** *(19:49)* "So sorry - thank you for letting me know"
+
+---
+
+### Wed 9 Sep 2026
+
+**Rupert:** *(17:50 ✓✓)* "I guess you heard that he went last night? Erica and Sam are okay."
+
+**Heather:** *(17:52)* "Yup Erica messaged me this morning - so sad..."
+
+---
+
+### Sun 13 Sep 2026
+
+**Rupert:** *(12:37 ✓✓)* "I gather you're planning to go to Steve's funeral on 2nd... Can you let me know your plans and whether your Mum and David are involved?"
+
+**Heather:** *(12:50)* "No -  Mum & David are not coming - not sure what you mean about plans ? I'll get the train/ taxi ( probs travel down with Dylan)  is it an issue for you if I am there ?"
+
+**Rupert:** *(13:02 ✓✓)* "I'm just wanting to arrange accommodation for the kids, so I wanted to understand your movements. I also want to be clear on the landscape, so Mandy knows what to expect..."
+
+`[Personal, not divorce-substantive: Steve's death (8 Sep night) and his funeral on 2 Oct. Heather is attending, travelling by train/taxi, probably with Dylan. Her Mum and David are not coming.]`
+
+---
+
+### Thu 17 Sep 2026 *(date confirmed from `whatsapp-images/2026-09-25_whatsapp-backfill-17sep-date.png`, and nothing between 13 Sep 13:02 and this)*
+
+**Heather:** *(06:54)* "Have taken £200 from joint account ( from drain supposed excess) am skint & need to pay oil - suggest you do the same"
+
+**Rupert:** *(07:07 ✓✓)* "How is that going to work? There should be just enough to pay billed in there. No more, no less"
+
+**Heather:** *(07:12)* "We both put £200 in account to pay the drain insurance  excess of £400 which they were meant to have collected when they did the drains but they didn't & haven't asked for it so it is surplus"
+
+`[Heather has withdrawn her £200 half of the £400 drain-excess set-aside (Ageas 6866220H) from the joint Barclays account. She calls it surplus because nobody has collected the excess, and suggests Rupert take his £200 too. Rupert's 07:07 challenge is left unresolved. See [[2026-09-25_whatsapp-drain-excess-withdrawal]].]`
+
+---
+
+### Fri 25 Sep 2026
+
+**Heather:** *(07:32)* `[Image: photo of an RBS One Account mortgage statement page, 28 Aug 2026 position (low resolution, figures read as best possible). Home value £390,000.00; balance £309,940.86; difference £80,059.14. Interest 3 Aug to 31 Aug at 7.10%, total £1,750.19, to be collected 22/09/2026. Repayment guide: planned balance £131,576.25, £178,364.61 behind; budget £3,423.05 next month.]` *(Rupert reacted 👍)*
 
 **Rupert:** *(07:39 ✓✓)* "Do you have bill statements?"
 

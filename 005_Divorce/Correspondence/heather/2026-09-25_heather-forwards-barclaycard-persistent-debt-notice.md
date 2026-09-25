@@ -21,7 +21,7 @@ roughly double the monthly interest.
   is **£196.50** and Barclaycard suggests **£233**, which is **£36.50/mo more**. Under the current
   80/20 split, Rupert would pay **£29.20** of that and Heather **£7.30**. That would take total card
   servicing from £574.48 to about £610.98/mo (Rupert £488.78 / Heather £122.20). **Nothing has been
-  agreed. This is Rupert's decision, and he hasn't replied yet.**
+  agreed.** Rupert will review his options before agreeing to any increase (future session).
 - It's the card earmarked for Rupert under the card split, which he now considers unlikely to
   happen.
 
