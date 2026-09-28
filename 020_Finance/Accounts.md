@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £111.21 | 2026-09-25 |
-| Starling - Joint | £132.58 | 2026-09-25 |
+| Starling - Main | £58.72 | 2026-09-28 |
+| Starling - Joint | £101.14 | 2026-09-27 |
 | Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -280,6 +280,20 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**28 Sept 2026 — Mandy's rent in, £450 parked in Spare Funds; salary not
+yet in.** `Starling - Main` £111.21→£58.72: £500.00 in from Mandy ("MANDY
+Sept RENT", 26 Sept), £450.00 out to `Starling - Spare Funds` (27 Sept), and
+pub/grocery spend 25–28 Sept (Swan and Ex-Servicemen's Long Melford, £10
+cash, Nethergate Brewery ×4, Budgens, Co-op, PayPal £9.99). SUM of line
+items reconciles to £58.72. `Starling - Spare Funds` £219.30→£669.30 (the
+£450). `Starling - Joint` £132.58→£101.14 (Tesco, Long Melford, Perrywood,
+Nethergate). `Gainsborough - Joint` paid the £130.00 HealthSpa DD (Compleat
+Enterprises) on 28 Sept, back to £0.00, as usual. **No salary credit yet.** It
+landed 28 Jun, 29 Jul and 26 Aug (all "P751 00111041", ~£6,081), so a
+late-month arrival is within range. Watch for it. Still no Harpers refund.
+`Barclays - Current` unchanged at £32.65. It needs ~£562.82 for the October
+servicing run (see [[Shared Debt]]).
+
 **25 Sept 2026 — £95.00 to Dylan now in Banktivity.** `Starling - Main`
 £206.21→£111.21 via a single "Dylan Thomas" -£95.00 line item (the Amazon
 Prime repayment, ref "Amazon Whoopsie"). SUM of line items reconciles to
@@ -338,8 +352,8 @@ is referenced elsewhere.
 |---|---:|---|
 | Starling - Savings Buffer | £300.50 | 2026-09-17 |
 | Starling - Stash | £0.00 | 2026-02-17 |
-| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-09-01 |
-| Starling - Spare Funds (was "Lucy Rent") | £219.30 ⚠️ | 2026-09-23 |
+| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-09-28 |
+| Starling - Spare Funds (was "Lucy Rent") | £669.30 | 2026-09-27 |
 | Starling - Westgate Rent | £0.00 | 2026-09-21 |
 | Starling - Broadband | £0.00 | 2026-09-16 |
 | Starling - Home Insurance | £0.00 | 2026-09-23 |
@@ -355,6 +369,7 @@ Funds £633 → £450. Rupert's own transfers, partly to cover the annual
 Amazon Prime renewal (£95, due 22 Sept) against a thin Main balance. The
 £95 charge itself hasn't appeared in the feed yet — see [[Reminders]].
 
+**(Resolved 28 Sept: £450 moved back in from Main, Spare Funds now £669.30.)**
 **⚠️ Starling - Spare Funds is draining fast — £633 → £219.30 in nine days
 (25 Sept 2026).** Five transfers out to `Starling - Main` since 20 Sept: £33,
 £150, £150, £128.70 and £102 (the £102 was spent the same day on PayPal).
