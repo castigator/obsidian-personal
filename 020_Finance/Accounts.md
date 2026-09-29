@@ -288,8 +288,9 @@ that has been sitting under £200.
 £7.71, Shelley Lawrence £17 and the Budgens already counted. `Starling -
 Joint` -£5 Tesco. **voco Lythe Hill £128.70 (1 Oct stay, non-refundable)
 hasn't been charged yet.** The hotel can take it any time up to arrival
-day. Rupert's covering transfer (£128.70, 23 Sept) came from Spare Funds,
-not Savings Buffer. See [[2026-09-23_voco-lythe-hill-booking]].
+day. Rupert's £128.70 covering transfer on 23 Sept has been spent: Main is
+volatile, and it fell to £6.85 before the charge came. The charge will need
+covering again when it lands. See [[2026-09-23_voco-lythe-hill-booking]].
 
 **29 Sept 2026 — pre-payday trough, `Starling - Main` £6.85.**
 £58.72→£6.85 on pub/grocery spend only: The Black Lion ×5 on 28 Sept
