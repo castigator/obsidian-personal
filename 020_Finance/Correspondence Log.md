@@ -5,6 +5,12 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
+(£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the
+**voco Lythe Hill** booking (#28501872, 1 Oct, £128.70 non-refundable). It
+isn't charged yet, and the hotel can take it any time up to arrival. See
+[[2026-09-23_voco-lythe-hill-booking]].
+
 **2026-09-29.** Nothing new. All searches came back empty, and a check
 confirmed Gmail search is working. Still no Harpers Haslemere refund
 (£291.00). Banktivity: `Starling - Main` is down to £6.85, the usual pre-payday

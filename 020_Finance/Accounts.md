@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £6.85 ⚠️ | 2026-09-29 |
+| Starling - Main | £292.44 | 2026-09-29 |
 | Starling - Joint | £101.14 | 2026-09-27 |
 | Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
 
@@ -246,7 +246,9 @@ Swan Long Melford ×3 and East of England Coop ×2 on 16 Sept; then on
 and Tesco £40.00 and £15.20. `Starling - Joint`
 £311.78→£269.80 on a single £41.98 Tesco debit.
 
-**⏳ WATCH — Harpers Haslemere £291.00 refund outstanding (revised 23 Sept
+**✅ RESOLVED 29 Sept 2026: both Harpers refunds landed in `Starling - Main` (£158.40 + £132.60 = £291.00).** History below.
+
+**(Closed) WATCH — Harpers Haslemere £291.00 refund outstanding (revised 23 Sept
 2026 — now BOTH bookings, was £158.40).** Both **18 Sept** Harpers Haslemere
 debits on `Starling - Main` (dated 17 Sept before the feed re-dated itself —
 the emails confirm 18 Sept) are cancelled bookings, so the whole £291.00 is
@@ -279,6 +281,15 @@ shows no Harpers credit at all, and nothing in email. The Booking.com leg's
 partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
+
+**29 Sept 2026 (later) — Harpers refunds in; Voco not yet charged.**
+`Starling - Main` £6.85→£292.44: **both Harpers Haslemere refunds** (+£158.40,
++£132.60), £19.30 in from Spare Funds (now £650.00), against Superwhisper
+£7.71, Shelley Lawrence £17 and the Budgens already counted. `Starling -
+Joint` -£5 Tesco. **voco Lythe Hill £128.70 (1 Oct stay, non-refundable)
+hasn't been charged yet.** The hotel can take it any time up to arrival
+day. Rupert's covering transfer (£128.70, 23 Sept) came from Spare Funds,
+not Savings Buffer. See [[2026-09-23_voco-lythe-hill-booking]].
 
 **29 Sept 2026 — pre-payday trough, `Starling - Main` £6.85.**
 £58.72→£6.85 on pub/grocery spend only: The Black Lion ×5 on 28 Sept
@@ -360,7 +371,7 @@ is referenced elsewhere.
 | Starling - Savings Buffer | £300.50 | 2026-09-17 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-09-28 |
-| Starling - Spare Funds (was "Lucy Rent") | £669.30 | 2026-09-27 |
+| Starling - Spare Funds (was "Lucy Rent") | £650.00 | 2026-09-29 |
 | Starling - Westgate Rent | £0.00 | 2026-09-21 |
 | Starling - Broadband | £0.00 | 2026-09-16 |
 | Starling - Home Insurance | £0.00 | 2026-09-23 |
