@@ -280,14 +280,13 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
-**29 Sept 2026 — still no salary; `Starling - Main` down to £6.85.**
+**29 Sept 2026 — pre-payday trough, `Starling - Main` £6.85.**
 £58.72→£6.85 on pub/grocery spend only: The Black Lion ×5 on 28 Sept
 (£34.18) and Budgens £17.69 on 29 Sept. SUM of line items reconciles to
-£6.85. No other account moved. **The salary still hasn't landed.** It came
-on 26 Aug last month, so this is now three days later than that. The
-1st-of-month sweeps and the Barclays servicing top-up (~£562.82) both depend
-on it. `Starling - Spare Funds` (£669.30) is the only buffer. Still no
-Harpers refund.
+£6.85. No other account moved. **Salary lands on the last working day of
+the month** (confirmed by Rupert 29 Sept). It's scheduled in Starling for
+**30 Sept**, so it isn't late, and it lands before the 1st-of-month sweeps
+and the Barclays servicing top-up. Still no Harpers refund.
 
 **28 Sept 2026 — Mandy's rent in, £450 parked in Spare Funds; salary not
 yet in.** `Starling - Main` £111.21→£58.72: £500.00 in from Mandy ("MANDY
@@ -297,9 +296,8 @@ cash, Nethergate Brewery ×4, Budgens, Co-op, PayPal £9.99). SUM of line
 items reconciles to £58.72. `Starling - Spare Funds` £219.30→£669.30 (the
 £450). `Starling - Joint` £132.58→£101.14 (Tesco, Long Melford, Perrywood,
 Nethergate). `Gainsborough - Joint` paid the £130.00 HealthSpa DD (Compleat
-Enterprises) on 28 Sept, back to £0.00, as usual. **No salary credit yet.** It
-landed 28 Jun, 29 Jul and 26 Aug (all "P751 00111041", ~£6,081), so a
-late-month arrival is within range. Watch for it. Still no Harpers refund.
+Enterprises) on 28 Sept, back to £0.00, as usual. **No salary credit yet** ("P751 00111041", ~£6,081). It lands on the last
+working day of the month, so it isn't due yet. Still no Harpers refund.
 `Barclays - Current` unchanged at £32.65. It needs ~£562.82 for the October
 servicing run (see [[Shared Debt]]).
 

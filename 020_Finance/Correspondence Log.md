@@ -7,8 +7,8 @@ entries live in `Correspondence/`.
 
 **2026-09-29.** Nothing new. All searches came back empty, and a check
 confirmed Gmail search is working. Still no Harpers Haslemere refund
-(£291.00). Banktivity: `Starling - Main` is down to £6.85 and the salary
-hasn't landed yet. See [[Accounts]]. Also fixed the stale Halifax figure in
+(£291.00). Banktivity: `Starling - Main` is down to £6.85, the usual pre-payday
+trough. The salary is scheduled for 30 Sept, the last working day of the month. See [[Accounts]]. Also fixed the stale Halifax figure in
 [[Accounts]]'s shared-debt table (£6,330.58→£6,266.31).
 
 **2026-09-28.** Nothing new. The only hits were the two Barclays "we've
