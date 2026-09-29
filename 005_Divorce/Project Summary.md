@@ -56,7 +56,7 @@ Rupert's confirmed pension CETV is ~£183,487. Heather's is likely much smaller.
 | Subsidence claim | **6843593K** |
 | Post Office home insurance | **H0000011333** (policy ref S2520891) |
 | RBS mortgage | **#11177343** (0345 300 4013) |
-| HomeServe drain insurance | **443906608** (expired 14 Apr 2026) |
+| HomeServe drain insurance | **443906608** (renewed 15 Apr 2026, £40.57/mo) |
 | Co-op wills reference | 6897421 |
 
 ## Priority Actions

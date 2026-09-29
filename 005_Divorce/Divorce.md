@@ -78,7 +78,7 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 | Subsidence claim | 6843593K — **liability accepted 11 May 2026** |
 | PO home insurance | H0000011333 (policy ref S2520891) |
 | RBS mortgage | #11177343 — £309,700 outstanding (31 Mar 2026), 7.10% rate |
-| HomeServe drains | 443906608 (expired 14 Apr 2026) |
+| HomeServe drains | 443906608 (renewed 15 Apr 2026, £40.57/mo) |
 | Co-op wills | 6897421 |
 
 ## Wills
