@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £58.72 | 2026-09-28 |
+| Starling - Main | £6.85 ⚠️ | 2026-09-29 |
 | Starling - Joint | £101.14 | 2026-09-27 |
 | Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
 
@@ -279,6 +279,15 @@ shows no Harpers credit at all, and nothing in email. The Booking.com leg's
 partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
+
+**29 Sept 2026 — still no salary; `Starling - Main` down to £6.85.**
+£58.72→£6.85 on pub/grocery spend only: The Black Lion ×5 on 28 Sept
+(£34.18) and Budgens £17.69 on 29 Sept. SUM of line items reconciles to
+£6.85. No other account moved. **The salary still hasn't landed.** It came
+on 26 Aug last month, so this is now three days later than that. The
+1st-of-month sweeps and the Barclays servicing top-up (~£562.82) both depend
+on it. `Starling - Spare Funds` (£669.30) is the only buffer. Still no
+Harpers refund.
 
 **28 Sept 2026 — Mandy's rent in, £450 parked in Spare Funds; salary not
 yet in.** `Starling - Main` £111.21→£58.72: £500.00 in from Mandy ("MANDY
@@ -573,7 +582,7 @@ at the moment (no scheduled repayments).
 | Account | Banktivity balance | As of | Shared Debt.md figure |
 |---|---:|---|---|
 | Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,116.17 (2026-09-21, from Barclaycard's own persistent-debt notice — supersedes spreadsheet) |
-| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,330.58 (2026-09-07, from 16 Aug 2026 statement via WhatsApp) |
+| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,266.31 (2026-09-16 statement via WhatsApp, synced from divorce 28 Sep) |
 | Ann - Barclaycard | -£2,809.00 | 2025-11-04 (stale) | -£1,409.00 (2026-07-10, from spreadsheet) |
 
 [[Shared Debt]] is being kept up to date from a spreadsheet, so it's the  

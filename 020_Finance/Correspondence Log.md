@@ -5,6 +5,12 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-29.** Nothing new. All searches came back empty, and a check
+confirmed Gmail search is working. Still no Harpers Haslemere refund
+(£291.00). Banktivity: `Starling - Main` is down to £6.85 and the salary
+hasn't landed yet. See [[Accounts]]. Also fixed the stale Halifax figure in
+[[Accounts]]'s shared-debt table (£6,330.58→£6,266.31).
+
 **2026-09-28.** Nothing new. The only hits were the two Barclays "we've
 updated your app" notices already seen. Still no Harpers Haslemere refund
 email or credit (£291.00). **Divorce cross-check corrected shared-debt
@@ -14,7 +20,7 @@ min £186.45 (18 Sep app), so the total is £14,791.48 and servicing is
 moved to Spare Funds (now £669.30), and the salary credit hasn't landed yet.
 See [[Accounts]].
 
-**Last checked:** 2026-09-28.
+**Last checked:** 2026-09-29.
 
 **2026-09-25 (second sweep).** Nothing new. The only hits were the Barclays
 app notices already seen. Banktivity: the £95.00 to Dylan has now imported
