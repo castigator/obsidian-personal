@@ -1,24 +1,27 @@
 # Monthly Contributions (household: Rupert & Heather)
 
-From spreadsheet, as of 2026-07-10, **except Debt servicing, updated 28 Sep 2026** (see below —
-the Mortgage/Scheduled transactions/Cats/Lucy food rows are last confirmed via WhatsApp 27 Aug
-2026 at different figures than shown here — £1,990.77 mortgage, £287.52 scheduled transactions —
-not yet reconciled into this table, flagged for a future pass, not guessed at here):
+From the shared sheet ("Heather and Rupert Finance"), **as of 30 Sep 2026**. All rows are
+reconciled to it. The Cats row has gone. The sheet's salary basis is Rupert £5,888.37 /
+Heather £1,470.50, which gives the 80/20 split:
 
 | Category | Combined | Rupert | Heather |
 |---|---:|---:|---:|
-| Mortgage | £1,871.42 | £1,497.14 | £374.28 |
-| Scheduled transactions | £719.69 | £575.75 | £143.94 |
-| Cats | £65.00 | £65.00 | — |
-| Debt servicing | £562.82 | £450.26 | £112.56 |
+| Mortgage | £1,750.19 | £1,400.15 | £350.04 |
+| Scheduled transactions | £287.52 | £230.02 | £57.50 |
+| Debt servicing | £609.37 | £487.50 | £121.87 |
 | Lucy food | £250.00 | £200.00 | £50.00 |
-| **Total** | **£3,468.93** | **£2,788.15** | **£680.78** |
+| **Total** | **£2,897.08** | **£2,117.66** | **£529.42** |
+
+Scheduled transactions are the three "current" Barclays DDs: Post Office Home Insurance £66.95,
+BDC Council Tax £180.00 and HomeServe £40.57. **Rupert's Barclays top-up each month is £487.50 +
+£230.02 = £717.52**, matching the 1 Sept pattern of two transfers.
 
 ## Debt servicing
 
-- **Updated 28 Sep 2026:** now **£562.82** — Halifax £176.37 (16 Sep statement) + Barclaycard
-  £186.45 (18 Sep app) + Ann's £200, split **£450.26 / £112.56**. Synced from the divorce project.
-  Barclaycard's suggested £233 (Heather raised it 25 Sep) is under review there, not adopted.
+- **Updated 30 Sep 2026 (shared sheet):** now **£609.37**: Halifax £176.37 + Barclaycard
+  **£233** (the persistent-debt payment, now adopted) + Ann's £200, split **£487.50 / £121.87**.
+  Heather's £121.87 landed 29 Sep.
+- **28 Sep 2026:** £562.82 on the contractual minimums (Barclaycard £186.45).
 - **Previously (7 Sep 2026):** £574.48 was the sum of the actual current minimum payments on the shared
   debts (see [[Shared Debt]]) — Halifax £177.98 + Barclaycard £196.50 + Ann's Barclaycard £200 —
   the red-number outstanding debts only; the Anne loans are excluded. Was £454.65
@@ -28,7 +31,7 @@ not yet reconciled into this table, flagged for a future pass, not guessed at he
   missed-payment penalty). **This total moves month to month with the card statements — treat it
   as a live figure, not a fixed one**, and re-check against each new statement rather than assuming
   it holds.
-- **Current split: Rupert 80% (£450.26) / Heather 20% (£112.56).** This is a *servicing* split
+- **Current split: Rupert 80% (£487.50) / Heather 20% (£121.87).** This is a *servicing* split
   (who fronts the monthly minimums), separate from the *liability* split (who ultimately owes
   what — nominally 50/50) and separate again from the proposed card-split ownership deal.
 - **Planned change to 50/50 remains theoretical, not actioned** — Rupert's read (7 Sep 2026) is

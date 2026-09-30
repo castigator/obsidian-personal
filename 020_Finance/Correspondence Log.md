@@ -5,6 +5,13 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-09-30.** Nothing new of substance. The only hits were two identical
+Barclays "statement ready" notices (account ****0138, no figures), not filed.
+voco hasn't taken the £128.70 yet. Banktivity: salary £6,081.23 landed
+30 Sept, and Heather paid £121.87 + £57.50 into Barclays. See [[Accounts]].
+
+**Last checked:** 2026-09-30.
+
 **2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
 (£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the
 **voco Lythe Hill** booking (#28501872, 1 Oct, £128.70 non-refundable). It
@@ -25,8 +32,6 @@ min £186.45 (18 Sep app), so the total is £14,791.48 and servicing is
 £562.82/mo (80/20 £450.26 / £112.56). See [[Shared Debt]]. Banktivity: Mandy's £500 rent in, £450
 moved to Spare Funds (now £669.30), and the salary credit hasn't landed yet.
 See [[Accounts]].
-
-**Last checked:** 2026-09-29.
 
 **2026-09-25 (second sweep).** Nothing new. The only hits were the Barclays
 app notices already seen. Banktivity: the £95.00 to Dylan has now imported

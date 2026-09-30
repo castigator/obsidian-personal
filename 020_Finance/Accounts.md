@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £292.44 | 2026-09-29 |
-| Starling - Joint | £101.14 | 2026-09-27 |
-| Barclays - Current | £32.65 ⚠️ | 2026-09-21 |
+| Starling - Main | £6,162.92 | 2026-09-30 |
+| Starling - Joint | £96.14 | 2026-09-29 |
+| Barclays - Current | £212.02 | 2026-09-29 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -282,6 +282,19 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**30 Sept 2026 — salary in.** `Starling - Main` £292.44→£6,162.92: **salary
+£6,081.23** ("P751 00111041") on 30 Sept, the last working day, as expected.
+On 29 Sept Main also sent £200 to `Starling - Savings Buffer` (now £500.50)
+and paid Five Bells Cavendish £10.75. SUM of line items reconciles.
+`Barclays - Current` £32.65→£212.02 on two BGCs from Heather, both labelled
+"DEBT": **£121.87** and **£57.50**. Last month her debt payment was £114.90
+and the £57.50 was labelled "BILLS". **Both match the shared sheet
+(30 Sept):** £121.87 is her 20% of the new £609.37 servicing (Barclaycard
+now paying £233), and £57.50 is her 20% of the £287.52 scheduled DDs.
+Rupert's top-up is £487.50 + £230.02 = £717.52, which takes Barclays to
+£929.54 against £896.89 due. `Starling -
+Joint` £101.14→£96.14 (Tesco £5). **voco £128.70 still not charged.**
+
 **29 Sept 2026 (later) — Harpers refunds in; Voco not yet charged.**
 `Starling - Main` £6.85→£292.44: **both Harpers Haslemere refunds** (+£158.40,
 +£132.60), £19.30 in from Spare Funds (now £650.00), against Superwhisper
@@ -369,7 +382,7 @@ is referenced elsewhere.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Savings Buffer | £300.50 | 2026-09-17 |
+| Starling - Savings Buffer | £500.50 | 2026-09-29 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-09-28 |
 | Starling - Spare Funds (was "Lucy Rent") | £650.00 | 2026-09-29 |
@@ -591,7 +604,7 @@ at the moment (no scheduled repayments).
 
 | Account | Banktivity balance | As of | Shared Debt.md figure |
 |---|---:|---|---|
-| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,116.17 (2026-09-21, from Barclaycard's own persistent-debt notice — supersedes spreadsheet) |
+| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,274.24 (2026-09-30, shared sheet; paying £233/mo) |
 | Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,266.31 (2026-09-16 statement via WhatsApp, synced from divorce 28 Sep) |
 | Ann - Barclaycard | -£2,809.00 | 2025-11-04 (stale) | -£1,409.00 (2026-07-10, from spreadsheet) |
 

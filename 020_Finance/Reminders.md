@@ -3,6 +3,16 @@
 Small outstanding to-dos Rupert wants kept on file, not urgent enough for a
 dedicated note.
 
+- **Talk about automating the monthly sheet roll-over** (flagged 2026-09-30).
+  Rupert wants to discuss writing something to replace the manual monthly
+  steps: copying the Scheduled Transactions and Accounts and Balances tabs
+  from "Heather and Rupert Finance" into "Personal Finance", renaming the old
+  tabs to "<tab> - <Month>", and moving the new ones to the front. It could
+  also cover the Starling scheduled-payment amounts. **A discussion only, not
+  started yet.** Raise it at the start of a session instead of acting on it.
+  The workflow is described in memory (`reference_google_sheets`,
+  `user_monthly_cash_cycle`).
+
 - ~~**"Urban jungle"** (flagged 2026-07-23)~~ — fixed by Rupert 2026-07-24.
 
 - **Amazon Prime renews 22 Sept 2027** (flagged 2026-09-22) — annual plan,

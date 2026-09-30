@@ -4,8 +4,8 @@
 with as a separate workstream — do not mix into personal account tracking.
 
 **Liability convention: Rupert is liable for 50% of the shared debt**
-(generic framing — total now £14,791.48, so a strict 50% share would be
-~£7,396). **This generic 50/50 framing is superseded in practice** by a
+(generic framing — total now £14,949.55, so a strict 50% share would be
+~£7,475). **This generic 50/50 framing is superseded in practice** by a
 specific proposed card allocation worked out directly with Heather
 (15 Jul 2026, not yet confirmed — see `divorce` project for status):
 Rupert takes the Barclaycard above (£7,196.21) alone, Heather keeps
@@ -18,39 +18,41 @@ pay off his share in one move at the cheapest possible rate (see
 [[Paying Off 50% Shared Debt]]), leaving the remainder Heather's.
 None of the cards are in Rupert's name, so cash routes only.
 
-**Servicing:** combined minimum payments are **£562.82/month, split Rupert
-80% (£450.26) / Heather 20% (£112.56)** — updated 28 Sep 2026 (was £574.48;
-Halifax min £177.98 → £176.37 on the 16 Sep statement, Barclaycard min
-£196.50 → £186.45 per 18 Sep app screenshot). See [[Monthly
+**Servicing:** combined monthly payments are **£609.37/month, split Rupert
+80% (£487.50) / Heather 20% (£121.87)**. Updated 30 Sep 2026 from the shared
+sheet ("Heather and Rupert Finance"), which now pays **£233** on the
+Barclaycard (Barclaycard's persistent-debt suggestion) instead of the
+£186.45 minimum. Previously £562.82 (28 Sep), and £574.48 before that.
+Heather's first payments at the new split (£121.87 + £57.50 scheduled
+share) landed in `Barclays - Current` on 29 Sep. See [[Monthly
 Contributions]] for detail. **This total moves with each card statement —
 re-check it, don't treat it as fixed.** Planned move to 50/50 remains
 theoretical — Rupert's read (7 Sep) is this is unlikely to happen soon
 given Heather's stance on the related card-split proposal (see below).
 
-As of 2026-07-10 (from spreadsheet) except Halifax (16 Sep statement) and Barclaycard
-(18 Sep app), synced from the divorce project 2026-09-28:
+As of 2026-09-30, from the shared sheet (Halifax matches the 16 Sep statement):
 
 ## Outstanding debts
 
-| Account | Balance | Minimum payment |
+| Account | Balance | Monthly payment |
 |---|---:|---:|
 | Halifax | -£6,266.31 | £176.37 | <!-- Heather's card 3123, 16 Sep 2026 statement PDF (WhatsApp; synced from divorce 28 Sep) -->
-| Barclaycard | -£7,116.17 | £186.45 | <!-- Heather's card 5002, app screenshot 18 Sep 2026 (WhatsApp; synced from divorce 28 Sep) -->
+| Barclaycard | -£7,274.24 | £233.00 | <!-- Heather's card 5002, shared sheet 30 Sep 2026; £233 is the adopted persistent-debt payment (contractual min £186.45 per 18 Sep app) -->
 | Barclaycard (Ann) | -£1,409.00 | £200 | <!-- Anne's card (label correct; ownership confirmed 2026-07-15) -->
 
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
-**Total owed:** -£14,791.48 · **Total minimum payments:** £562.82/month (updated 28 Sep 2026 from
-the Halifax 16 Sep statement and Barclaycard 18 Sep app figures, via divorce; was £574.48)
+**Total owed:** -£14,949.55 · **Total monthly payments:** £609.37/month (shared sheet, 30 Sep 2026;
+was £562.82 on minimums)
 
 **⚠️ Barclaycard flagged for persistent debt (21 Sep 2026 email to Heather):**
 Barclaycard's own trigger — paying more in interest/fees than towards the
 principal — tripped on card ending 5002. Based on the last statement balance
 of £7,116.17, Barclaycard suggests raising the payment to £233/month (current
 minimum £186.45 per the 18 Sep app, which the servicing split now assumes).
-Heather has since suggested adopting the £233 (25 Sep) — that's +£46.55/mo,
-+£37.24/mo on Rupert's 80% share; being reviewed in the divorce project, not
-agreed. Not an
+Heather suggested adopting the £233 (25 Sep). **It's now in the shared
+sheet (30 Sep 2026)**, at +£46.55/mo overall and +£37.24/mo on Rupert's 80%
+share. Not an
 immediate problem, but worth knowing this card is the one flagged, not
 Halifax — and it's the same card earmarked for Rupert under the proposed
 card split. No change made to the servicing split without Rupert's say-so.
