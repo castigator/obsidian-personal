@@ -7,6 +7,7 @@ icon: ⚖️
 Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 years together). No-fault, irretrievable breakdown (England & Wales, post-April 2022 rules). Married 22 August 1998.
 
 ## Important and To Do
+- [ ] **Refinance the shared Barclaycard (5002).** It's £7,116.17 at 20.68% simple (22.8% compound), with about £116/mo of interest, and it's been flagged as persistent debt. Look at getting it off that rate. The card is in Heather's name, so a balance transfer onto one of your cards isn't possible; the routes are a cash route (e.g. the earlier £7,500 Halifax loan idea, which was tied to the unsigned card split), or Heather doing a BT/loan herself. See [[Debts]].
 
 - [x] **Divorce application ISSUED 16 Jun 2026** (submitted + £612 paid 12 Jun; court accepted 16 Jun). Case 1780-7415-8911-6303. **20-week clock running → apply for Conditional Order from 4 Nov 2026.** Rupert confirmed receipt on the portal. **Final Order: hold until financial consent order sealed.** ✅ 2026-06-16
 - [ ] **Nudge Heather to confirm receipt** on the divorce portal if she hasn't (doesn't block the clock, just tidies the case).

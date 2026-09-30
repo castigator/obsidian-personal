@@ -10,7 +10,7 @@ WhatsApp 25 Sep), Halifax from its 16 Sep 2026 statement (PDF Heather sent by Wh
 
 ## Joint Marital Debts (~£23,632)
 
-Cards total **£14,791.48** (min payments £562.82/mo, split Rupert 80% £450.26 / Heather 20% £112.56;
+Cards total **£14,791.48** (min payments £562.82/mo, split Rupert 80% £450.26 / Heather 20% £112.56. **From October the Barclaycard payment is £233 (agreed 30 Sep), so servicing is £609.37/mo: £487.50 / £121.87.**
 planned change to 50/50 previously discussed, now superseded in practice by the specific card
 split below). Plus Ann loans £8,840 (corrected by Heather 15 Jul; repay from house sale).
 

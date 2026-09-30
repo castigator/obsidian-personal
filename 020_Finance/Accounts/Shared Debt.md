@@ -4,7 +4,7 @@
 with as a separate workstream — do not mix into personal account tracking.
 
 **Liability convention: Rupert is liable for 50% of the shared debt**
-(generic framing — total now £14,949.55, so a strict 50% share would be
+(generic framing — total now £14,791.48, so a strict 50% share would be
 ~£7,475). **This generic 50/50 framing is superseded in practice** by a
 specific proposed card allocation worked out directly with Heather
 (15 Jul 2026, not yet confirmed — see `divorce` project for status):
@@ -37,12 +37,12 @@ As of 2026-09-30, from the shared sheet (Halifax matches the 16 Sep statement):
 | Account | Balance | Monthly payment |
 |---|---:|---:|
 | Halifax | -£6,266.31 | £176.37 | <!-- Heather's card 3123, 16 Sep 2026 statement PDF (WhatsApp; synced from divorce 28 Sep) -->
-| Barclaycard | -£7,274.24 | £233.00 | <!-- Heather's card 5002, shared sheet 30 Sep 2026; £233 is the adopted persistent-debt payment (contractual min £186.45 per 18 Sep app) -->
+| Barclaycard | -£7,116.17 | £233.00 | <!-- Heather's card 5002, 18 Sep app balance, matches shared sheet 30 Sep 2026 (corrected from a mis-transcribed £7,274.24, the 20 Jul figure); £233 is the adopted persistent-debt payment (contractual min £186.45 per 18 Sep app) -->
 | Barclaycard (Ann) | -£1,409.00 | £200 | <!-- Anne's card (label correct; ownership confirmed 2026-07-15) -->
 
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
-**Total owed:** -£14,949.55 · **Total monthly payments:** £609.37/month (shared sheet, 30 Sep 2026;
+**Total owed:** -£14,791.48 · **Total monthly payments:** £609.37/month (shared sheet, 30 Sep 2026;
 was £562.82 on minimums)
 
 **⚠️ Barclaycard flagged for persistent debt (21 Sep 2026 email to Heather):**

@@ -8,7 +8,7 @@ dedicated note.
   steps: copying the Scheduled Transactions and Accounts and Balances tabs
   from "Heather and Rupert Finance" into "Personal Finance", renaming the old
   tabs to "<tab> - <Month>", and moving the new ones to the front. It could
-  also cover the Starling scheduled-payment amounts. **A discussion only, not
+  also cover the Starling scheduled-payment amounts. **It must repoint the formulas:** renaming the old tabs drags the new plain tabs' cross-tab references (e.g. B8 → Scheduled Transactions) onto the "- <Month>" archive. Rupert fixed this by hand on 30 Sept 2026. **A discussion only, not
   started yet.** Raise it at the start of a session instead of acting on it.
   The workflow is described in memory (`reference_google_sheets`,
   `user_monthly_cash_cycle`).
