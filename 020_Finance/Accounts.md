@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £6,162.92 | 2026-09-30 |
-| Starling - Joint | £96.14 | 2026-09-29 |
-| Barclays - Current | £212.02 | 2026-09-29 |
+| Starling - Main | £5,725.16 | 2026-10-01 |
+| Starling - Joint | £205.29 | 2026-10-01 |
+| Barclays - Current | £32.02 | 2026-10-01 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -282,6 +282,23 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**1 Oct 2026 — month rollover starting; all ordinary.** SUM of line items
+reconciles on all three current accounts.
+- `Starling - Main` £6,162.92→£5,725.16. Late 30 Sept spend (Tesco ×2, Black
+  Lion ×3), DVLA £3.06, £65 to Joint (the HealthSpa leg), and **£300 to the
+  `Starling - NatWest Credit Card` Space**, which is now £300.00 for the 11 Oct DD
+  as designed.
+- `Barclays - Current` £212.02→£32.02. The **Braintree District Council £180** DD
+  (one of the £287.52 scheduled bills) went before Rupert's top-up. The top-up
+  (£487.50 + £230.02) is due on the 2nd. That would take the account to £749.54
+  against the £716.89 still due (£609.37 servicing + PO insurance £66.95 +
+  HomeServe £40.57), so it's still covered.
+- `Starling - Joint` £96.14→£205.29. Tesco £20.85, then the usual two £65
+  HealthSpa credits ("Rupert Thomas" / "Gainsborough:Rup").
+- Savings Buffer +£0.29 interest.
+
+**voco Lythe Hill £128.70 still not charged** (stay is today). Main can cover it.
+
 **30 Sept 2026 — salary in.** `Starling - Main` £292.44→£6,162.92: **salary
 £6,081.23** ("P751 00111041") on 30 Sept, the last working day, as expected.
 On 29 Sept Main also sent £200 to `Starling - Savings Buffer` (now £500.50)
@@ -382,7 +399,7 @@ is referenced elsewhere.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Savings Buffer | £500.50 | 2026-09-29 |
+| Starling - Savings Buffer | £500.79 | 2026-10-01 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-09-28 |
 | Starling - Spare Funds (was "Lucy Rent") | £650.00 | 2026-09-29 |
@@ -393,7 +410,7 @@ is referenced elsewhere.
 | Starling - Council Tax | £0.00 | 2026-09-06 |
 | Starling - TV Licence | £0.08 | 2026-09-07 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
-| Starling - NatWest Credit Card | £0.00 ⚠️ | 2026-09-17 |
+| Starling - NatWest Credit Card | £300.00 | 2026-10-01 |
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare

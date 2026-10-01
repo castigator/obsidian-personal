@@ -5,12 +5,17 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-01.** Nothing new. The only hits were yesterday's Barclays ****0138
+"statement ready" notices and a Booking.com marketing email. Banktivity: the
+NatWest Space was refilled with £300, the BDC £180 DD came out of Barclays, and
+voco still hasn't charged. See [[Accounts]].
+
 **2026-09-30.** Nothing new of substance. The only hits were two identical
 Barclays "statement ready" notices (account ****0138, no figures), not filed.
 voco hasn't taken the £128.70 yet. Banktivity: salary £6,081.23 landed
 30 Sept, and Heather paid £121.87 + £57.50 into Barclays. See [[Accounts]].
 
-**Last checked:** 2026-09-30.
+**Last checked:** 2026-10-01.
 
 **2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
 (£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the
