@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **1 Oct 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **5 Oct 2026** via direct
 Gmail API — see note below. Covering April 2024 – October 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -123,6 +123,8 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-09-25 | [heather-forwards-barclaycard-persistent-debt-notice.md](heather/2026-09-25_heather-forwards-barclaycard-persistent-debt-notice.md) | **Heather forwards the Barclaycard persistent-debt notice to Rupert** (card 5002, no message added). The **£7,116.17 balance is now in Rupert's own records**, so it's no longer 🔒H only. Barclaycard suggests £233/mo against the £196.50 minimum, which would cost Rupert £29.20/mo more at 80/20. Not replied to yet. |
 | 2026-09-25 | [whatsapp-halifax-statement-barclaycard-app.md](heather/2026-09-25_whatsapp-halifax-statement-barclaycard-app.md) | **WhatsApp Heather → Rupert** (answering his "Do you have bill statements?"). **Halifax 16 Sep statement PDF** (card 3123): **£6,266.31**, min **£176.37** due 12 Oct, no promo left. **Barclaycard app screenshot** (card 5002, 18 Sep statement): **£7,116.17**, min **£186.45** due 13 Oct. Cards now **£14,791.48**, min payments **£562.82/mo** (Rupert £450.26 / Heather £112.56). £233 suggestion is now +£46.55/mo over the minimum. A 07:32 image (probably RBS) isn't readable. |
 | 2026-09-17 | [whatsapp-drain-excess-withdrawal.md](heather/2026-09-25_whatsapp-drain-excess-withdrawal.md) | **WhatsApp: Heather took her £200 of the £400 drain-excess set-aside** out of the joint account ("skint & need to pay oil") and suggested Rupert take his too. Rupert objected; she replied that it's "surplus" because the excess was never collected. **Rupert then took his £200 too**, so the whole £400 is out. If Ageas ever bills it, each pays £200 (not in writing). Also backfilled 8–13 Sep: Steve's death and the 2 Oct funeral (Heather attending, probably with Dylan). |
+| 2026-10-01 | [halifax-balance-transfer-offer_LOCKH.md](heather/2026-10-01_halifax-balance-transfer-offer_LOCKH.md) 🔒H | Halifax marketing: **0% for 12 months, 5% fee, transfers by 31 Oct** on card 3123. Reveals **limit £7,500, only £1,233 available** (27 Sep). So a BT from the Barclaycard can only move ~£1,170: a partial help for the refinance to-do, not a fix. |
+| 2026-10-02 | [certas-september-statement_LOCKH.md](heather/2026-10-02_certas-september-statement_LOCKH.md) 🔒H | Certas September statement (PDF filed): account **£277.34 in credit**, oil DD rising **£200 → £237.98/mo from 20 Oct**. Heather's own cost, affordability context only. |
 
 ### [subsidence/](subsidence/)
 

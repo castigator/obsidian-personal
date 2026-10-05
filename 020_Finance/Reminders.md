@@ -30,6 +30,9 @@ dedicated note.
   card. Before the Prime Space is any use, confirm Prime's payment method is
   the Starling debit card (**** 1949), which is already the wallet default.
   See [[2026-09-25_amazon-prime-charged-to-unknown-card-3963]].
+  **Update 5 Oct 2026:** ✅ the `Starling - Amazon Prime` Space is set up
+  and funded at £8/month (first £8 on 2 Oct). Still to do: confirm Prime's
+  payment method is ****1949.
 
 - ~~**£95.00 owed to Dylan**~~ — **paid 25 Sept 2026** by Starling transfer,
   reference "Amazon Whoopsie", and the card removed from the Amazon wallet.

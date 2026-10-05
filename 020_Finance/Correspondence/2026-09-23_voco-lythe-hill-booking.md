@@ -7,4 +7,6 @@
 - **Card used:** not stated in the confirmation.
 - **Funding:** Rupert moved £128.70 into `Starling - Main` on 23 Sept to cover it (from `Starling - Spare Funds` in Banktivity). **That money is gone.** Main is volatile, so money parked there doesn't stay earmarked, and Main fell to £6.85 on 29 Sept before the charge came. When the £128.70 lands it has to be covered again.
 
+**✅ Charged 1 Oct 2026 on `Starling - Main` (Starling debit card):** £128.70, plus a separate £13.90 "Lythe Hill" charge (presumably extras on the stay). Stay checked out 2 Oct.
+
 **Status (29 Sept):** not yet charged. No Voco, Lythe Hill or IHG debit and no £128.70 debit on any account. This is within the terms. Worth checking which card is on the booking, since the confirmation doesn't say.

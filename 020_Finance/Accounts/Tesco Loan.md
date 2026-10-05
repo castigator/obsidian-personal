@@ -111,8 +111,8 @@ names Barclays as the creditor.
 
 | Figure | Amount | What it is |
 |---|---:|---|
-| Banktivity ledger balance | **-£1,956.36** (as of 2026-08-31) | ✅ Corrected 16 Sept 2026 — opening balance restated to the total owed (£3,353.76). Now **agrees exactly** with the remaining contractual liability below, so these are no longer two different numbers. |
-| Remaining contractual liability | **£1,956.36** | 14 remaining payments × £139.74. What it actually costs to run to term. |
+| Banktivity ledger balance | **-£1,816.62** (as of 2026-10-02, 11 payments; was -£1,956.36 as of 2026-08-31) | ✅ Corrected 16 Sept 2026 — opening balance restated to the total owed (£3,353.76). Now **agrees exactly** with the remaining contractual liability below, so these are no longer two different numbers. |
+| Remaining contractual liability | **£1,816.62** | 13 remaining payments × £139.74. What it actually costs to run to term. |
 | Early settlement figure | **only Tesco can say** | Must be requested. Includes a statutory CCA rebate of future interest, but also 28 days' interest (see below). |
 
 ### ✅ Ledger seeding — found and fixed, 16 Sept 2026

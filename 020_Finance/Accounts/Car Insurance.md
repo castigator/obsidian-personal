@@ -24,6 +24,9 @@ and the [[2026-08-07_tesco-car-insurance-confirmed|7 Aug confirmation email]].
   19.2% APR representative); total payable: £269.99
 - 12-month credit agreement
 
+**✅ First monthly DD landed 5 Oct 2026:** £20.76 from `Starling - Main`
+("Tesco Bank"). 10 instalments left. Watch closed.
+
 **No September instalment was due or missed** — checked against Banktivity,
 no £20.76 (or similarly-titled) line item appears anywhere in September.
 Working backwards from the "4th of the month" wording and the 19 Aug cover

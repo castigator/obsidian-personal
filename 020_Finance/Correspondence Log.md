@@ -5,6 +5,20 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-05 (second pass).** No new email. Rupert fixed two things in
+Banktivity: the Tesco Loan 2 Oct payment is now paired (-£1,816.62), and the
+Amazon Prime Space's £8 is now paired (the £5.54 was a separate Amazon debit).
+See [[Accounts]].
+
+**2026-10-05.** Nothing new to file. Halifax's recurring 0% BT/MT offer on
+Heather's card has rolled to **31 Oct**, with £1,233 available. It went into
+[[0% Offers Tracker]] and [[Shared Debt]] only. Also seen: a routine Halifax
+"payment received" (3 Oct), the Barclays annual statement of fees for ****0138
+(no figures), and IHG/Booking.com marketing. Banktivity: ✅ **voco £128.70
+charged 1 Oct on Main** (+£13.90 extras). The 2 Oct scheduled payments all went
+at the October figures, the first car insurance DD (£20.76) went on 5 Oct, and
+two new Spaces appeared (ID Mobile, Amazon Prime). See [[Accounts]].
+
 **2026-10-01.** Nothing new. The only hits were yesterday's Barclays ****0138
 "statement ready" notices and a Booking.com marketing email. Banktivity: the
 NatWest Space was refilled with £300, the BDC £180 DD came out of Barclays, and
@@ -15,7 +29,7 @@ Barclays "statement ready" notices (account ****0138, no figures), not filed.
 voco hasn't taken the £128.70 yet. Banktivity: salary £6,081.23 landed
 30 Sept, and Heather paid £121.87 + £57.50 into Barclays. See [[Accounts]].
 
-**Last checked:** 2026-10-01.
+**Last checked:** 2026-10-05.
 
 **2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
 (£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the

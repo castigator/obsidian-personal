@@ -104,17 +104,17 @@ confirm the current one) and the up-to-date balance and minimum — all three
 feed the £574.48/month servicing figure and the 80/20 split. Until then the
 rate remains unknown.
 
-⏳ Note also the Halifax 0% transfer window below **closes 30 September
-2026** — 12 days out. Heather's decision, informational only.
+⏳ The Halifax 0% transfer window below has **rolled forward to 31 October
+2026** (1 Oct email). Heather's decision, informational only.
 
 ### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
-- **Source:** recurring marketing email from Halifax, most recent 1 Sept 2026
+- **Source:** recurring marketing email from Halifax, most recent 1 Oct 2026
 - **Rate:** 0.00% for 12 months on transfers
 - **Fee:** 5% of amount transferred
-- **Transfer window:** must request by 30 September 2026 (rolled forward from 31 Aug)
-- **Credit limit:** £7,500; **available:** £1,169 (as at 24 Aug 2026, implies
-  balance ≈ £6,331 — broadly consistent with the £6,282.94 spreadsheet figure
-  above)
+- **Transfer window:** must request by 31 October 2026 (rolled forward again from 30 Sept)
+- **Credit limit:** £7,500; **available:** £1,233 (as at 27 Sept 2026, implies
+  balance ≈ £6,267, consistent with the £6,266.31 16 Sep statement). Previously
+  £1,169 as at 24 Aug
 - **Status:** Heather's card, Heather's decision — Rupert can't action this
   himself. Only relevant if she chooses to use it (e.g. to shift her own
   Barclaycard balance here to cut interest), which wouldn't change the

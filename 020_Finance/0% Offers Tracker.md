@@ -15,7 +15,11 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-09-17 — 🚨 **major correction:** the NatWest card is
+**Last updated:** 2026-10-05 — Halifax (Heather's) BT/MT window rolled to
+31 Oct, £1,233 available. Barclaycard's purchase-offer activation date
+(30 Sept) has passed with no new offer email seen.
+
+**2026-09-17:** 🚨 **major correction:** the NatWest card is
 **not** on 0% and hasn't been since 28 July. Its promotional balance was
 repaid by the M&S transfer and the solicitor fee replaced it as full-rate
 purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
@@ -35,7 +39,7 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
-| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee | Request by 30 Sept 2026 | £1,169 available as at 24 Aug 2026 (limit £7,500) | Heather's decision only — see [[Shared Debt]] |
+| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee | Request by **31 Oct 2026** (rolled forward 1 Oct) | £1,233 available as at 27 Sept 2026 (limit £7,500) | Heather's decision only — see [[Shared Debt]] |
 | Barclaycard (Heather's, …5002) | Purchases only (not BT/MT) | 0% / no fee | Activate by 30 Sept 2026 in-app; runs to 1 Apr 2027 | £6,275.76 available (limit £13,550) — as at 20 Jul, not re-confirmed this offer | Rolled forward 4 Sept 2026 — see [[Shared Debt]] |
 | Barclaycard (Ann's) | — | none known | — | not tracked | Never surfaced by email search |
 
