@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £969.95 | 2026-10-05 |
+| Starling - Main | £937.95 | 2026-10-05 |
 | Starling - Joint | £5.84 | 2026-10-04 |
 | Barclays - Current | £73.22 | 2026-10-05 |
 
@@ -281,6 +281,9 @@ shows no Harpers credit at all, and nothing in email. The Booking.com leg's
 partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
+
+**5 Oct 2026 (late) — `Starling - Main` £969.95→£937.95:** three Five Bells
+Cavendish items (£10.80, £10.80, £10.40). SUM reconciles. Nothing else moved.
 
 **2–5 Oct 2026 — month rollover done; everything went out at the October figures.**
 SUM of line items reconciles on Main, Joint and Barclays.
