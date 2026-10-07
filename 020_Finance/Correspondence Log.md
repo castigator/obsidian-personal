@@ -5,6 +5,10 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-07 (second pass).** No new email. Banktivity: Main £652.07 (the 6 Oct
+£100 to Joint is now paired). Joint £205.84 includes a single-sided £100 "Rupert:
+Groceries" (7 Oct), possibly a duplicate. See [[Accounts]].
+
 **2026-10-07.** Nothing new. The only hit was the 6 Oct Halifax "time to make a
 payment" reminder, already logged yesterday. Banktivity: Main down to £752.07
 on ordinary spend (incl. a £22.99 Amazon purchase that Banktivity had wrongly

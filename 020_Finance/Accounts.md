@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £752.07 | 2026-10-07 |
-| Starling - Joint | £105.84 | 2026-10-06 |
+| Starling - Main | £652.07 | 2026-10-07 |
+| Starling - Joint | £205.84 ⚠️ | 2026-10-07 |
 | Barclays - Current | £73.22 | 2026-10-05 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -282,8 +282,15 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**7 Oct 2026 (later refresh) — `Starling - Main` now £652.07, `Starling - Joint` £205.84 ⚠️.**
+SUM reconciles on both. Banktivity has now paired the 6 Oct £100 "Shopping" into
+Joint with a −£100 on Main, so Main is £100 lower than the £752.07 reported earlier.
+A **second £100 into Joint, "Rupert: Groceries" (7 Oct)**, has **no counterpart leg**
+(single-sided, txn Z_PK 7626). That fits the dual-feed duplicate pattern, so it may be
+the same £100 recorded twice, and Joint may really be £105.84. Unconfirmed, ask Rupert.
+
 **6–7 Oct 2026 — `Starling - Main` £937.95→£752.07, ordinary spending.** SUM
-reconciles on Main and Joint.
+reconciles on Main and Joint. (Superseded: see the later 7 Oct entry above.)
 - Out: "Committed Funds" £108.54, Fuse Energy £75.52, Amazon £22.99 (purchase),
   Anthropic £18, Co-op £18.85, Audible £5.99, Black Lion £4.72 + £9.27.
 - In: Friday Hotel £55, "BluetoothSpeaker" £23.
