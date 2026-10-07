@@ -14,7 +14,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 | Account | Balance | As of |
 |---|---:|---|
 | Starling - Main | £652.07 | 2026-10-07 |
-| Starling - Joint | £205.84 ⚠️ | 2026-10-07 |
+| Starling - Joint | £205.84 | 2026-10-07 |
 | Barclays - Current | £73.22 | 2026-10-05 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -282,12 +282,17 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
-**7 Oct 2026 (later refresh) — `Starling - Main` now £652.07, `Starling - Joint` £205.84 ⚠️.**
-SUM reconciles on both. Banktivity has now paired the 6 Oct £100 "Shopping" into
-Joint with a −£100 on Main, so Main is £100 lower than the £752.07 reported earlier.
-A **second £100 into Joint, "Rupert: Groceries" (7 Oct)**, has **no counterpart leg**
-(single-sided, txn Z_PK 7626). That fits the dual-feed duplicate pattern, so it may be
-the same £100 recorded twice, and Joint may really be £105.84. Unconfirmed, ask Rupert.
+**7 Oct 2026 (later refresh) — `Starling - Main` £652.07, `Starling - Joint` £205.84.
+Both correct (Rupert confirmed).** There are two real £100 deposits into Joint:
+- **6 Oct "Shopping"** is **Mandy's** £100. "Shopping" is how her deposits always
+  appear, categorised "Transfer from Mandy".
+- **7 Oct "Rupert: Groceries"** is **Rupert's** £100 from Main (the only transfer he made).
+
+Banktivity matched Main's −£100 to Mandy's 6 Oct deposit instead of Rupert's 7 Oct
+one, so the 7 Oct deposit was left uncategorised. Linking it to Main as things stood
+would have created a second −£100 on Main (£552.07, wrong). Fix: re-categorise the
+6 Oct deposit as "Transfer from Mandy" and link the 7 Oct deposit to Main's existing
+−£100. Mandy usually matches Rupert's contributions (Sep: £100+£100, £50+£50).
 
 **6–7 Oct 2026 — `Starling - Main` £937.95→£752.07, ordinary spending.** SUM
 reconciles on Main and Joint. (Superseded: see the later 7 Oct entry above.)
