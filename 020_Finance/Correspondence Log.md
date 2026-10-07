@@ -7,8 +7,9 @@ entries live in `Correspondence/`.
 
 **2026-10-07.** Nothing new. The only hit was the 6 Oct Halifax "time to make a
 payment" reminder, already logged yesterday. Banktivity: Main down to £752.07
-on ordinary spend, £22.99 topped up into the Amazon Prime Space (now £30.99),
-and £100 into Joint. See [[Accounts]].
+on ordinary spend (incl. a £22.99 Amazon purchase that Banktivity had wrongly
+paired into the Prime Space; Rupert fixed it, Space still £8), and £100 into
+Joint. See [[Accounts]].
 
 **2026-10-06.** Nothing new to file. One Halifax "time to make a payment"
 reminder to Heather: minimum £176.37 due 12 Oct, already paid from Barclays on

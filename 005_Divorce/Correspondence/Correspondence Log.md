@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **6 Oct 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **7 Oct 2026** via direct
 Gmail API — see note below. Covering April 2024 – October 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
