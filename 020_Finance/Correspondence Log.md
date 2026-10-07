@@ -5,6 +5,11 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-07.** Nothing new. The only hit was the 6 Oct Halifax "time to make a
+payment" reminder, already logged yesterday. Banktivity: Main down to £752.07
+on ordinary spend, £22.99 topped up into the Amazon Prime Space (now £30.99),
+and £100 into Joint. See [[Accounts]].
+
 **2026-10-06.** Nothing new to file. One Halifax "time to make a payment"
 reminder to Heather: minimum £176.37 due 12 Oct, already paid from Barclays on
 3 Oct (Halifax confirmed receipt the same day). Banktivity: only £32 of pub
@@ -34,7 +39,7 @@ Barclays "statement ready" notices (account ****0138, no figures), not filed.
 voco hasn't taken the £128.70 yet. Banktivity: salary £6,081.23 landed
 30 Sept, and Heather paid £121.87 + £57.50 into Barclays. See [[Accounts]].
 
-**Last checked:** 2026-10-06.
+**Last checked:** 2026-10-07.
 
 **2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
 (£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the

@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £937.95 | 2026-10-05 |
-| Starling - Joint | £5.84 | 2026-10-04 |
+| Starling - Main | £752.07 | 2026-10-07 |
+| Starling - Joint | £105.84 | 2026-10-06 |
 | Barclays - Current | £73.22 | 2026-10-05 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -282,6 +282,16 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**6–7 Oct 2026 — `Starling - Main` £937.95→£752.07, ordinary spending.** SUM
+reconciles on Main, Joint and the Amazon Prime Space.
+- Out: "Committed Funds" £108.54, Fuse Energy £75.52, Anthropic £18, Co-op
+  £18.85, Audible £5.99, Black Lion £4.72 + £9.27.
+- In: Friday Hotel £55, "BluetoothSpeaker" £23.
+- **£22.99 moved Main → `Starling - Amazon Prime` Space (6 Oct)**, so the
+  Space is now £30.99 (it was £8). That's on top of the planned ~£8/mo. Rupert's
+  own top-up, reason not recorded.
+- `Starling - Joint` £5.84→£105.84: £100 in, labelled "Shopping" (6 Oct).
+
 **5 Oct 2026 (late) — `Starling - Main` £969.95→£937.95:** three Five Bells
 Cavendish items (£10.80, £10.80, £10.40). SUM reconciles. Nothing else moved.
 
@@ -438,7 +448,7 @@ is referenced elsewhere.
 | Starling - TV Licence | £15.59 | 2026-10-02 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
 | Starling - NatWest Credit Card | £300.00 | 2026-10-01 |
-| Starling - Amazon Prime 🆕 | £8.00 | 2026-10-02 |
+| Starling - Amazon Prime 🆕 | £30.99 | 2026-10-06 |
 | Starling - ID Mobile 🆕 | £44.99 | 2026-10-02 |
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
