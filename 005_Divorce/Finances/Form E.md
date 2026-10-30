@@ -148,7 +148,7 @@ Status flags: ✅ known and current · 🟡 known but needs a formal/updated fig
 ## Part 5 — Income
 
 - ✅ Rupert: net £5,888/mo (rose to £6,109 from Jan 2026), P60 gross £116,012.69. See [[Income & Costs]].
-- 🟡 Heather: net ~£1,471/mo (existing figure) — **30 Jul: self-reported £21,715/yr salary** via
+- 🟡 Heather: **26 Oct: self-reported £23,034 gross / £1,587.46/mo net** via WhatsApp (supersedes below). Previously net ~£1,471/mo — **30 Jul: self-reported £21,715/yr salary** via
   WhatsApp (Nov/Dec 25 figures, gross presumed). Roughly consistent with the existing net figure
   but not identical — still not verified against an actual payslip.
 - 🔴 State pension projections — Rupert's £1,042/mo projected is noted; Heather's not yet checked.

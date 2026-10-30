@@ -5,6 +5,41 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-29.** No new email. Divorce unchanged. Banktivity: Joint £29.09 (Tesco £7.40), Main £67.37 (Superwhisper £7.68). See [[Accounts]].
+
+**2026-10-28.** No new email (only the same 26 Oct Barclays investing promo to Heather, discarded). Divorce unchanged. Banktivity: another £100 from Savings Buffer to Main on 27 Oct (Buffer £300.79), Main £75.05 after Tesco, pub and PayPal spend, and Gainsborough - Joint paid the £130 HealthSpa DD on 28 Oct (now £0). See [[Accounts]].
+
+**2026-10-27 (second pass).** No new email (the same Barclays promo). Divorce unchanged. Banktivity: Joint £36.49 after East of England Co-op £25.50. Nothing else moved. Rupert confirmed Starling shows Joint at £36.49, so Banktivity was right and the 26 Oct £21.99 was wrong. See [[Accounts]].
+
+**2026-10-27.** No new email (only a Barclays investing promo to Heather, discarded). From divorce: Ann's card is ~£646.51 on Heather's own spreadsheet (unconfirmed), so cards are ~£13,862.29. The final October sheet's servicing is £611.09 (80/20 £488.87 / £122.22). [[Shared Debt]] is updated. Banktivity: Main £48.01, Barclays £212.37 (Heather's £57.50 + £122.22 on 26 Oct), Joint £61.99 (£40 above the 26 Oct figure, query raised). See [[Accounts]].
+
+**2026-10-26.** No new email (only the already-seen 21 Oct Barclaycard notice). From divorce: Heather's 24 Oct email confirms there will be no card split, and she sent both October statements (Barclaycard £7,009.81, Halifax £6,205.97), and [[Shared Debt]] is updated. Banktivity: Main £90.48, £100 out of Savings Buffer, Spare Funds £0, a new `Committed - Joint` Space £85, Tesco card -£71.52 (1Password), and a £5.99 Amazon purchase mis-paired into Prime. See [[Accounts]].
+
+**2026-10-22.** No new email (only the already-seen Barclaycard notice and Halifax promo). Banktivity: Monica Vinader £166.45 bought and refunded on Main (the refund paid for a replacement order, so this is closed). Spare Funds £133.55. Westgate rent of £1,000 paid. See [[Accounts]].
+
+**2026-10-21 (second pass).** No new email. Banktivity: the £46.74 Amazon purchase has been fixed (now Purchases, and the Prime Space is back to £8). Everything else is unchanged. Main £5.96.
+
+**2026-10-21.** Barclaycard emailed Heather on 21 Oct that the statement for 5002 is ready. It has no figures, it's recurring, and it's noted in [[Shared Debt]]. Halifax Disneyland promo discarded. Banktivity: Main £5.96 after £46.74 "Amazon Prime" was paired into the Prime Space (£54.74). Rupert confirmed it was a purchase, mis-paired, and the Space is really £8. See [[Accounts]].
+
+**2026-10-20.** Nothing new. The only hit was a Halifax "Win a trip to Disneyland Paris" promo to Heather (discarded). Banktivity matches the post-X-MATCH figures (Main £77.34, Joint £145.65, Spare Funds £350). See [[Accounts]].
+
+**2026-10-19.** Two notices, neither with figures. [[2026-10-17_natwest-statement-ready|NatWest 16 Oct statement]]: Banktivity shows £25.97 interest, and the balance is -£981.08. Halifax October statement ready for Heather, next payment due 12 Nov (recurring, not filed separately; see [[Shared Debt]]). Banktivity: Main £67.34 (£250 from Spare Funds, now £450), HomeServe £40.57 from Barclays (£32.65), Broadband Fibrely £32.99. See [[Accounts]].
+
+**2026-10-16.** Nothing new to file. Halifax sent Heather an "offer ends soon" email on 15 Oct (still 31 Oct, 0% for 12mo, 5% fee). Available credit is now £1,410 as at 12 Oct, up from £1,233. The [[0% Offers Tracker]] has been updated. The M&S survey was discarded. Banktivity: Main £65.89 after Tesco £100.06 and Tesco Petrol £72.80 on 16 Oct. See [[Accounts]].
+
+**2026-10-15.** Nothing new. The only hit was an M&S Bank "Have Your Say" survey (discarded).
+Banktivity: Main £238.75, Joint £79.64, ordinary spending. See [[Accounts]].
+
+**2026-10-14 (second pass).** No new email. Banktivity: Main £260.30. The £100
+mis-match is corrected in the balance (the 7 Oct Main row was removed), a £283 top-up came from Spare
+Funds, and there's a new Committed Funds Space (Leonardo Hotels £108.54, now £0). See [[Accounts]].
+
+**2026-10-14.** Nothing new to file. No hits from any tracked sender since 7 Oct
+(search verified working against unfiltered mail). The only near-miss was two Next
+emails to Heather (£5 minimum due, then paid), which aren't tracked. Banktivity:
+the NatWest £300 DD went 12 Oct (−£955.11), and Main is ~£2.19 real once the
+pending £100 fix is applied. See [[Accounts]].
+
 **2026-10-07 (second pass).** No new email. Banktivity: Main £652.07 (the 6 Oct
 £100 to Joint is now paired). Joint £205.84 is correct: Mandy's £100 (6 Oct) plus
 Rupert's £100 (7 Oct). Banktivity paired Main's −£100 to the wrong one. See [[Accounts]].
@@ -44,7 +79,7 @@ Barclays "statement ready" notices (account ****0138, no figures), not filed.
 voco hasn't taken the £128.70 yet. Banktivity: salary £6,081.23 landed
 30 Sept, and Heather paid £121.87 + £57.50 into Barclays. See [[Accounts]].
 
-**Last checked:** 2026-10-07.
+**Last checked:** 2026-10-15.
 
 **2026-09-29 (second pass).** ✅ **Harpers Haslemere refunds both landed**
 (£158.40 + £132.60 = £291.00, 29 Sept), so that watch is closed. Filed the

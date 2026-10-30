@@ -35,10 +35,10 @@ whether a lender will touch the property at all while the subsidence claim is st
 - **Subsidence claim status:** liability accepted, trees removed, repairs due Feb–Apr 2027, final
   update May 2027. **Michaels' clear view: lenders won't lend on an active claim.** This is the
   central constraint on a buyout — see "Open questions" below.
-- **Joint marital debt:** ~£23,807 (cards £14,966.18 + Ann loans £8,840.66) — would need
+- **Joint marital debt:** ~£22,703 (cards £13,862.29 + Ann loans £8,840.66, 26 Oct) — would need
   resolving as part of any buyout settlement, same as under a sale.
-- **Rupert's income:** £6,109/mo net. **Heather's income:** ~£1,471/mo net (existing figure; her
-  own 30 Jul self-report of ~£21,715/yr gross is roughly consistent, not payslip-verified).
+- **Rupert's income:** £6,109/mo net. **Heather's income:** £1,587.46/mo net, £23,034 gross
+  (self-reported 26 Oct 2026; not payslip-verified). At 4–4.5x that's roughly £92k–£104k of borrowing.
 - **Rupert's goals** (unchanged by this option): 50/50 split of matrimonial assets, clean break,
   full decoupling from joint debt. A buyout needs to deliver these just as a sale would — it's a
   mechanism, not a different target split.

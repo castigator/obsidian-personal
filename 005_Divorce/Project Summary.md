@@ -41,7 +41,7 @@ Heather and Rupert had a joint estate planning appointment with Co-op Legal Serv
 ## Key Strategic Issues
 
 ### Spousal Maintenance Risk
-Given the income gap (Rupert ~£6,109/mo vs Heather ~£1,471/mo) and 27 years of marriage, Heather's solicitor is likely to raise spousal maintenance. Courts now favour fixed-term orders over open-ended ones, and Heather being employed supports a clean break argument. The pension gap is the main complication — address via offsetting if possible. See `heather-affordability.md` for modelling.
+Given the income gap (Rupert ~£6,109/mo vs Heather ~£1,587/mo) and 27 years of marriage, Heather's solicitor is likely to raise spousal maintenance. Courts now favour fixed-term orders over open-ended ones, and Heather being employed supports a clean break argument. The pension gap is the main complication — address via offsetting if possible. See `heather-affordability.md` for modelling.
 
 ### House Sale Timing
 The subsidence insurance claim (ref **6843593K**, Post Office policy **H0000011333**, handled by GHG Solutions) creates a tension: wait for resolution and sell at ~£550k, or sell now at ~£450k. Each month of delay costs ~£4,000 in dual housing costs. Cause now confirmed: root-induced clay shrinkage (Maple + Willow). GHG targets repairs concluding Apr 2027, final update May 2027 — 13 months from now. Separate drain damage (£9,360, tree root ingress) needs a separate PO claim under "accidental damage to underground services" — Heather has not yet submitted this. See `house-sale.md`.

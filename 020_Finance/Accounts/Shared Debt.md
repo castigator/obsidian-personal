@@ -3,6 +3,8 @@
 **Kept discrete from personal finances.** These are shared debts to be dealt
 with as a separate workstream — do not mix into personal account tracking.
 
+**🆕 24 Oct 2026: Heather's email confirms there will be no card split.** The split was Rupert's July proposal, which she had already rejected. Her email now says "I'm not suggesting splitting the credit card debt". Both cards stay marital in the financial order, whichever name they're in. She'll balance-transfer the Halifax to a new 0% card herself, and she has asked Rupert to "do the same for the Barclaycard". Whether that's possible depends on the issuer: many refuse a BT from a card in someone else's name, so the alternative is a money transfer or loan to Heather. **Rupert replied on Sun 25 Oct at 11:05.** He doesn't know if he has "either the means or the inclination" to refinance the Barclaycard: the refinancing headroom went on the solicitor after she rejected the July proposal. He **"won't be moving any of the debt into my name"** without a signed agreement like the July one. He also pushed back on Form E and mediation in favour of a D81 and consent order. **Bills:** the current arrangement continues "for the coming month", but if they're heading into mediation he'll reconsider whether "a straight split is fairer". Source: Heather's email, Sat 24 Oct 14:04, filed in divorce as `Correspondence/heather/2026-10-24_heather-finance-form-e-mediation-cards.md`. The proposed allocation below is therefore **historical**.
+
 **Liability convention: Rupert is liable for 50% of the shared debt**
 (generic framing — total now £14,791.48, so a strict 50% share would be
 ~£7,475). **This generic 50/50 framing is superseded in practice** by a
@@ -18,32 +20,31 @@ pay off his share in one move at the cheapest possible rate (see
 [[Paying Off 50% Shared Debt]]), leaving the remainder Heather's.
 None of the cards are in Rupert's name, so cash routes only.
 
-**Servicing:** combined monthly payments are **£609.37/month, split Rupert
-80% (£487.50) / Heather 20% (£121.87)**. Updated 30 Sep 2026 from the shared
-sheet ("Heather and Rupert Finance"), which now pays **£233** on the
-Barclaycard (Barclaycard's persistent-debt suggestion) instead of the
-£186.45 minimum. Previously £562.82 (28 Sep), and £574.48 before that.
-Heather's first payments at the new split (£121.87 + £57.50 scheduled
-share) landed in `Barclays - Current` on 29 Sep. See [[Monthly
+**Servicing:** combined monthly payments are **£611.09/month, split Rupert
+80% (£488.87) / Heather 20% (£122.22)**. Updated 27 Oct 2026 from the final
+October sheet (sent 26 Oct 17:05, synced from divorce): Halifax £178.09 (new
+minimum), Barclaycard £233, Ann £200. Heather's £122.22 + £57.50 landed in
+`Barclays - Current` on 26 Oct. Previously £609.37 (30 Sep, Halifax at
+£176.37), £562.82 (28 Sep) and £574.48 before that. See [[Monthly
 Contributions]] for detail. **This total moves with each card statement —
 re-check it, don't treat it as fixed.** Planned move to 50/50 remains
 theoretical — Rupert's read (7 Sep) is this is unlikely to happen soon
 given Heather's stance on the related card-split proposal (see below).
 
-As of 2026-09-30, from the shared sheet (Halifax matches the 16 Sep statement):
+Balances as of the October statements (Heather emailed them 24 Oct, synced from divorce 26 Oct). Monthly payments are still the October shared-sheet figures:
 
 ## Outstanding debts
 
 | Account | Balance | Monthly payment |
 |---|---:|---:|
-| Halifax | -£6,266.31 | £176.37 | <!-- Heather's card 3123, 16 Sep 2026 statement PDF (WhatsApp; synced from divorce 28 Sep) -->
-| Barclaycard | -£7,116.17 | £233.00 | <!-- Heather's card 5002, 18 Sep app balance, matches shared sheet 30 Sep 2026 (corrected from a mis-transcribed £7,274.24, the 20 Jul figure); £233 is the adopted persistent-debt payment (contractual min £186.45 per 18 Sep app) -->
-| Barclaycard (Ann) | -£1,409.00 | £200 | <!-- Anne's card (label correct; ownership confirmed 2026-07-15) -->
+| Halifax | -£6,205.97 | £178.09 (min, due 12 Nov) | <!-- Heather's card 3123, 18 Oct 2026 statement, 21.422%/23.66%, no promo; rate rises 19 Nov -->
+| Barclaycard | -£7,009.81 | £233.00 (contractual min £195.47 due 16 Nov) | <!-- Heather's card 5002, 20 Oct 2026 statement, 20.68% -->
+| Barclaycard (Ann) | ~-£646.51 | £200 | <!-- Anne's card. Heather's own spreadsheet figure (26 Oct 2026 WhatsApp), not a statement; Heather is confirming with her parents. Was £1,409.00 (10 Jul) -->
 
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
-**Total owed:** -£14,791.48 · **Total monthly payments:** £609.37/month (shared sheet, 30 Sep 2026;
-was £562.82 on minimums)
+**Total owed:** ~-£13,862.29 (was -£14,624.78; the drop is Ann's card, still unconfirmed) · **Total monthly payments:** £611.09/month (final October sheet, 26 Oct 2026;
+was £609.37)
 
 **⚠️ Barclaycard flagged for persistent debt (21 Sep 2026 email to Heather):**
 Barclaycard's own trigger — paying more in interest/fees than towards the
@@ -64,6 +65,8 @@ Not a missed-payment penalty; Heather also flagged (WhatsApp 27 Aug) that flight
 put on this card, but the statement confirms that spend (£219.61) was paid off within 11 days
 (16→27 Jul) and isn't why the minimum rose. Full detail: vault (divorce project)
 `Correspondence/heather/whatsapp-transcript.md`, 27 Aug 2026 entries.
+
+**📩 21 Oct 2026: Barclaycard (5002) October statement is ready.** Heather's card. The email has no figures. Heather emailed the statement on 24 Oct: £7,009.81, min £195.47 due 16 Nov (table above).
 
 **Barclaycard detail (20 Jul 2026 statement, ending 5002 — the specific
 card earmarked for Rupert in the proposed card split, see `divorce` project):**
@@ -88,6 +91,8 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 Doesn't affect the 0% promo below, only the standard rate that would apply
 outside it.
 
+**📩 17 Oct 2026: Halifax's October statement is ready** (in Heather's digital inbox, no figures in the email). The next payment is due **12 Nov 2026**. It still predates the 19 Nov rise, so it won't show the new rate. The only way to get it is from Heather via WhatsApp. The **November** statement is still the one to get.
+
 **✅ Update 28 Sep 2026: Heather sent the 16 Sep statement by WhatsApp**
 (balance £6,266.31, min £176.37, no promo). It **predates the 19 Nov rise**,
 so the new rate is still unknown — the **November statement** is now the one
@@ -108,13 +113,13 @@ rate remains unknown.
 2026** (1 Oct email). Heather's decision, informational only.
 
 ### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
-- **Source:** recurring marketing email from Halifax, most recent 1 Oct 2026
+- **Source:** recurring marketing email from Halifax, most recent 15 Oct 2026 ("ends soon")
 - **Rate:** 0.00% for 12 months on transfers
 - **Fee:** 5% of amount transferred
 - **Transfer window:** must request by 31 October 2026 (rolled forward again from 30 Sept)
-- **Credit limit:** £7,500; **available:** £1,233 (as at 27 Sept 2026, implies
-  balance ≈ £6,267, consistent with the £6,266.31 16 Sep statement). Previously
-  £1,169 as at 24 Aug
+- **Credit limit:** £7,500; **available:** £1,410 (as at 12 Oct 2026, implies
+  balance ≈ £6,090, after the £176.37 payment on 3 Oct). Previously £1,233 as at
+  27 Sept, £1,169 as at 24 Aug
 - **Status:** Heather's card, Heather's decision — Rupert can't action this
   himself. Only relevant if she chooses to use it (e.g. to shift her own
   Barclaycard balance here to cut interest), which wouldn't change the

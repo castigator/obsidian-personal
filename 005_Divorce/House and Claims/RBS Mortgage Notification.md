@@ -439,6 +439,26 @@ noted as a fact about how RBS has handled it"** — not an open action item any 
 account statement — ready to cite directly when raising with Alan, rather than relying on a call
 transcript. Still open: Heather's own RBS contact-details registration.
 
+### September 2026 Statement — still over facility, gap narrowing slightly (14 Oct 2026)
+
+Statement dated 01 Oct 2026, covering 30/08/2026–30/09/2026. Filed:
+`Correspondence/rbs/2026-10-01_rbs-monthly-statement.pdf`.
+
+- Opening balance 30/08/2026: −£309,940.86 (matches the August closing figure).
+- Money in: **£1,942.65**, made up of Rupert's £1,592.62 (BACS 02/09, "HEATHER - MORTGAGE") and
+  Heather's £350.03 (BACS 25/09).
+- Interest collected 22/09/2026: **£1,750.19** ("31AUG A/C 11177343").
+- **Closing balance 30/09/2026: −£309,748.40**, down £192.46.
+- **Facility £308,368.00, available facility £0.00**, so the account is still **£1,380.40 over**
+  (down from £1,572.86). That is the second month of over-facility in writing.
+- **Next interest: £1,809.52** for 01/09–30/09 at 7.10%, to be collected **26/10/2026**. The
+  October shared-sheet mortgage line (£1,750.19) is the August interest figure, so it falls
+  £59.33 short of this collection.
+- Valuation on file: still £390,000. Equity per RBS: **£80,251.60**.
+- Repayment guide: planned £128,195.18 vs actual £309,748.40 → **£181,553.22 behind guide**
+  (still widening, from £178,364.61). RBS's suggested budget: £3,502.77 next month (£1,809.52
+  interest + £1,693.25 to reduce the balance).
+
 ### Related
 - [[House Sale]]
 - [[Subsidence Claim]]

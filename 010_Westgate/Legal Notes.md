@@ -13,7 +13,7 @@ content-start: 151
 ## Important and To Do
 
 - [x] Mandy signed via Goodlord ✅ 21 Aug 2026 06:48 UTC — **agreement fully executed**, agent countersigned same day
-- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged; David Burr hasn't called her in, and as of 2026-09-08 Rupert is **deliberately not chasing it either** — doesn't expect them to come back to it
+- [-] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged; David Burr hasn't called her in, and as of 2026-09-08 Rupert is **deliberately not chasing it either** — doesn't expect them to come back to it — dropped: Rupert decided not to chase it ❌ 2026-09-08
 - [ ] £150+VAT fee for the new agreement (agreed 2026-08-08) — David Burr hasn't invoiced/chased it; Rupert deliberately not raising it either
 
 ## Renters' Rights Act 2025 (in force 1 May 2026)

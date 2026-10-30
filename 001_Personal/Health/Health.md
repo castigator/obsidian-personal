@@ -14,15 +14,16 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
   Prompted by Chemist4U's healthcare professional (2 Sep) flagging that annual GP asthma review is  
   overdue and that their private service won't keep supplying more than one reliever inhaler every  
   3 months without it.
+  **As of 21 Oct, no reply in Gmail from the practice or Accurx, more than 6 weeks on. Chase it.**
 
 ### Current
 
 - **GP:** The Elizabeth Courtauld Surgery, Factory Lane West, Halstead, CO9 1EX. Repeat  
   prescriptions requested via the practice's online form (Accurx-powered), monthly-ish cadence —  
-  most recent 8 Sep 2026.
+  most recent 14 Oct 2026.
 - **Smoking cessation (Varenicline/Champix, private):** ordered via OnlineClinic  
   (onlineclinic.co.uk), maintenance pack (1mg, 28 tablets, £44.99), roughly monthly since at least  
-  Jan 2026. Most recent order 8 Sep 2026 (#2252230741, pending doctor review). See also  
+  Jan 2026. Most recent order 8 Sep 2026 (#2252230741), approved and dispatched 9 Sep. See also  
   [[Smoking]] for the quit-timeline reference note.
 - **Ventolin (reliever inhaler, private):** ordered via Chemist4U (chemist-4-u.com) when needed —  
   most recent consultation approved 1 Sep 2026, shipped 2 Sep 2026. Chemist4U's own HCP guidance:  
@@ -31,10 +32,15 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 ### Correspondence Log
 
-**Last checked:** 2026-09-08
+**Last checked:** 2026-10-29
 
 | Date | From | Subject | Key Content |
 |------|------|---------|--------------|
+| 2026-10-26 | GP website forms (gpsurgery.net) | Repeat prescription request | Submitted 26/10/2026, ready to collect in 3 working days |
+| 2026-10-14 | GP website forms (gpsurgery.net) | Repeat prescription request | Submitted 14/10/2026, ready to collect in 3 working days |
+| 2026-09-16 | OnlineClinic | Important information about your order | Generic "you have messages" notice. Content is only in the OnlineClinic Message Centre (not checked) |
+| 2026-09-09 | OnlineClinic | Order Dispatched (#2252230741) | Approved by doctor and dispatched |
+| 2026-09-08 | OnlineClinic | Order #2252230741 requires additional information | Put on hold for clinician follow-up questions. Resolved, because it was dispatched 9 Sep |
 | 2026-09-08 | Elizabeth Courtauld Surgery (Accurx) | Asthma review request submitted | Ref `64dff80c-2535-4ce0-b2d2-e4ac19620b29`; practice to respond within 3 working days |
 | 2026-09-08 | GP website forms (gpsurgery.net) | Repeat prescription request | Submitted 08/09/2026, ready to collect in 3 working days |
 | 2026-09-08 | OnlineClinic | Order Received (#2252230741) | Varenicline maintenance 1mg×28, £44.99, pending doctor review. Patient info leaflet: [[Varenicline Patient Information.pdf]] |

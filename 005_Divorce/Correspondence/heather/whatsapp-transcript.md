@@ -30,7 +30,7 @@ remain in place for quick topic lookup. This file is the raw record.
 
 ## Progress tracker
 
-**Covered so far: 3 Jul 2025 → 25 Sep 2026, 07:45 (backfilled 25 Sep, no known gaps from 8 Sep onward)** · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
+**Covered so far: 3 Jul 2025 → 29 Oct 2026, 21:56 (no known gaps from 8 Sep onward)** · *Before that:* 3 Jul 2025 → 29 Oct 2026, 11:52 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 10:01 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 09:30 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 17:05 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 15:03 · *Earlier still:* 3 Jul 2025 → 26 Oct 2026, 13:50 · *Earlier:* 3 Jul 2025 → 25 Sep 2026, 07:45 · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
 screenshot supplied) and one unresolved message (28 Aug 12:25, WhatsApp send-delay placeholder
 only, text unknown).** Rupert states 3 Jul 2025 is the earliest point he could scroll back to
 ("the beginning of time") — treated as the start of the transcript unless earlier messages surface
@@ -2568,9 +2568,139 @@ before closing it out fully.
 
 **Heather:** *(07:45)* `[PDF: Statement_3123_Sep-26.pdf, 4 pages, 680 KB. This is the Halifax card 3123 statement dated 16 Sep 2026, filed as 2026-09-16_halifax-statement-3123.pdf]`
 
-**Heather:** *(07:45)* `[Image: Barclaycard app screenshot. Current balance £7,116.17, available credit £6,433.83, limit £13,550.00; last statement £7,116.17 18/09/26; min payment £186.45 due 13/10/26; interest charge 18 Sep +£116.46; payment 3 Sep −£196.50]` "Can't download statement at the moment - I forwarded an email to you from Barclay card with the suggestion that we pay £233 min `[caption continues; cut off in the screenshot]`"
+**Heather:** *(07:48)* `[Image: Barclaycard app screenshot. Current balance £7,116.17, available credit £6,433.83, limit £13,550.00; last statement £7,116.17 18/09/26; min payment £186.45 due 13/10/26; interest charge 18 Sep +£116.46; payment 3 Sep −£196.50]` "Can't download statement at the moment - I forwarded an email to you from Barclay card with the suggestion that we pay £233 min" *(full caption and 07:48 timestamp confirmed 26 Oct from `whatsapp-images/2026-10-26_whatsapp-backfill-25sep-26oct-2.png`; earlier entry had 07:45 and a cut-off caption)*
 
 `[See [[2026-09-25_whatsapp-halifax-statement-barclaycard-app]].]`
+
+---
+
+### Tue 29 Sep 2026 *(backfilled 26 Oct from `whatsapp-images/2026-10-26_whatsapp-backfill-25sep-26oct-1..4.png`; no messages between 25 Sep 07:48 and this)*
+
+**Rupert:** *(10:12 ✓✓)* `[Image: cropped spreadsheet table, columns "Who" / "Amount": Post Office Home Insurance £66.95; BDC Council Tax £180.00; Homeserve £40.57]` "Anything changed on these?"
+
+**Rupert:** *(10:26 ✓✓)* `[Image: shared spreadsheet. Monthly Contributions, Combined / Rupert / Heather: Mortgage −£1,750.19 / −£1,400.15 / −£350.04; Scheduled transactions −£287.52 / −£230.02 / −£57.50; Debt Servicing −£609.37 / −£487.50 / −£121.87; Lucy Food −£250.00 / −£200.00 / −£50.00; totals −£2,897.08 / −£2,117.66 / −£529.42. Outstanding Debts, Balance / Minimum Payment: Halifax −£6,266.31 / −176.37; Barclaycard −£7,274.24 / −233; Next £0.00 / 0; Barclaycard (Ann) −£1,409.00 / −200; Ann £3,318.00 / 0; Ann £5,522.66 / 0]` "If we assume £233 for Barclaycard. this is how I have it."
+
+**Heather:** *(11:00, replying to Rupert's "Anything changed on these?")* "Nope"
+
+**Heather:** *(16:56, replying to Rupert's "If we assume £233 for Barclaycard. this is how I have it.")* "Yup agreed"
+
+`[£233/mo on the Barclaycard and the October contributions sheet agreed by Heather on 29 Sep (previously recorded elsewhere as 30 Sep). The sheet's Barclaycard balance of £7,274.24 differs from the 18 Sep statement figure of £7,116.17; the source of that figure isn't shown.]`
+
+---
+
+### Mon 26 Oct 2026 *(shown as "Today" in the screenshot, taken 26 Oct; no messages between 29 Sep 16:56 and this)*
+
+**Heather:** *(09:20)* "Can you send me a copy of your D81 - I have no idea what your salary & pensions are. I figured once we had all financial info between us - we could then discuss an agreement between us and go from there - I sent you my info months ago"
+
+**Rupert:** *(13:50 ✓✓, delivered; Heather last seen 09:54 at the time of the screenshot)* "If it's my salary and pensions you're after, here they are:
+
+Salary: £116,013 gross for the 2025/26 tax year (P60), currently £6,109 a month take-home.
+
+Pensions (transfer values):
+• Midel / Aviva: £14,132.62 (Jun 26)
+• Objective IT / Prudential: £27,425.39 (Aug 26)
+• Financial Times / Pearson: £70,972.14 (Apr 26)
+• Gamesys / HL SIPP: £86,088.36 (Aug 26)
+• Aristocrat / Standard Life: £22,169.37 (Jul 26)
+Total: £220,787.88
+
+Happy to send copies of the statements in due course. Could you send me the actual statements for yours too? The figures you gave me were from Nov/Dec last year, and I don't think we've got the Midel one yet. That way we're both working from the same, up-to-date numbers. The rest of the D81 is something we should be working together on..."
+
+`[Source: whatsapp-images/2026-10-26_whatsapp-rupert-income-pensions-1350.png. Sent version of the draft in 2026-10-26_draft-whatsapp-income-pensions-reply.md, with the opening "there isn't a D81 to send yet" sentence dropped, "in due course" added, and a closing D81 line added. Rupert's income and pension figures are now disclosed to Heather informally. Her formal CETV statements and Midel figure have been requested.]`
+
+**Heather:** *(15:03)* "Thanks - the Midel one is £12,462.83 July 26"
+
+`[Source: whatsapp-images/2026-10-26_whatsapp-heather-midel-1503.png. This is the first figure for Heather's own Midel/Aviva pension, which brings her self-reported total to £195,507.83. It's still a WhatsApp figure, not a statement. She didn't respond to the request for formal statements.]`
+
+**Heather:** *(15:31)* "Mortgage is £1,809.52"
+
+`[Source: whatsapp-images/2026-10-26_whatsapp-1531-1539-salary.png. This is the RBS interest collected 26 Oct (£1,809.52, interest period to 30 Sep). It replaces £1,750.19 on the shared sheet.]`
+
+**Rupert:** *(15:32 ✓✓)* "So, for you I have the following. Do you have more up-to-date figures?
+
+Salary: £21,715 gross (30 Jul), ~£1,471 a month take-home (estimate)
+
+Pensions (transfer values):
+• Midel / Aviva: £12,462.83 (Jul 26)
+• Vodafone: £89,748 (Nov/Dec 25)
+• Prudential Staff Pension (DB): £25,525 (Nov/Dec 25)
+• Essex County Council / LGPS (DB): £67,772 (Nov/Dec 25)
+Total: £195,507.83"
+
+**Heather:** *(15:39)* "Salary is now £23,034   monthly £1,587.46  - no updated pension  transfer values yet so no change"
+
+`[Heather's salary is now self-reported as £23,034 gross and £1,587.46 a month net. This replaces £21,715 / ~£1,471 (30 Jul). She says she has no updated pension transfer values, so her four figures stay at £195,507.83, all self-reported. She hasn't sent statements.]`
+
+**Rupert:** *(16:33 ✓✓, replying to Heather's "Mortgage is £1,809.52")* `[Image: shared spreadsheet, Monthly Contributions, Combined / Rupert / Heather: Mortgage −£1,809.52 / −£1,447.62 / −£361.90; Scheduled transactions −£287.52 / −£230.02 / −£57.50; Debt Servicing −£609.37 / −£487.50 / −£121.87; Lucy Food −£250.00 / −£200.00 / −£50.00; totals −£2,956.41 / −£2,165.13 / −£541.28]` "Yup. This is what's set up"
+
+`[Source: whatsapp-images/2026-10-26_whatsapp-1531-1633-sheet.png. Two errors in this version were corrected at 17:05. Debt servicing still used the old Halifax minimum (£176.37, not £178.09). The per-person totals left out Lucy Food, while the combined total included it.]`
+
+**Rupert:** *(16:35 ✓✓)* "Can I have updated balances  for all the cards"
+
+**Heather:** *(16:48)* `[Image: photo of a laptop screen showing an Excel repayment schedule for Ann's Barclaycard (slightly blurred). Dates run monthly from 01/03/2025 to 01/01/2027. A £200.00 payment appears each month from 01/03/2025 to 01/10/2026. An interest column starts 01/02/2026 at £37.99 and falls to £14.31 at 01/10/2026. Balance column: £4,209.00 (01/03/2025), falling £200 a month to £2,209.00 (01/01/2026), then £2,046.99 (01/02/2026), £1,882.20, £1,714.58, £1,544.07, £1,370.63, £1,194.20, £1,014.74, £832.19 (01/09/2026), £646.51 (01/10/2026), then £646.51 repeated to 01/01/2027. Side notes: "0 percent finishes" against 01/01/2026, "approximate interest of 1.72% - need to confirm" against each month Feb–Oct 2026, and "will be paid back approx Jan 27".]` "Mum's Barclaycard - need to confirm outstanding balance / they are in Mallorca"
+
+**Rupert:** *(16:49 ✓✓, replying to Heather's 16:48 image)* "So you're suggesting the balance is 646.51?"
+
+**Heather:** *(16:49)* `[PDF: Statement_3123_Oct-26.pdf, 4 pages, 680 KB. This is the Halifax card 3123 statement dated 18 Oct 2026, the same one attached to her 24 Oct email and already filed as 2026-10-18_halifax-3123-statement.pdf (sizes match).]`
+
+**Heather:** *(16:50, replying to Rupert's "So you're suggesting the balance is 646.51?")* "Yes - approximately"
+
+**Rupert:** *(16:51 ✓✓)* "And your Barclaycard?"
+
+**Heather:** *(16:51)* "Am trying to download it again but I sent it with the email" *(👍 reaction)*
+
+**Heather:** *(16:53)* `[PDF: Monthly BarclayCard Statement_20-OCT-26  21031641.pdf, 316 KB. This is the Barclaycard 5002 statement dated 20 Oct 2026, the same one attached to her 24 Oct email and already filed as 2026-10-20_barclaycard-5002-statement.pdf (sizes match).]`
+
+`[Sources: whatsapp-images/2026-10-26_whatsapp-1635-1651-cards.png, 2026-10-26_whatsapp-1648-1651-cards-2.png, 2026-10-26_whatsapp-1651-1705-final-sheet.png. Ann's card is now £646.51 "approximately", replacing £1,409 (Heather's 27 May estimate). The figure comes from Heather's own spreadsheet, not a statement, and she says it still needs confirming with her parents. The spreadsheet's flat £646.51 from Nov 2026 onward is just rows not yet filled in. At £200 a month the card clears around Jan/Feb 2027, which fits her "approx Jan 27".]`
+
+**Rupert:** *(17:05 ✓✓)* `[Image: corrected shared spreadsheet. Monthly Contributions, Combined / Rupert / Heather: Mortgage −£1,809.52 / −£1,447.62 / −£361.90; Scheduled transactions −£287.52 / −£230.02 / −£57.50; Debt Servicing −£611.09 / −£488.87 / −£122.22; Lucy Food −£250.00 / −£200.00 / −£50.00; totals −£2,958.13 / −£2,366.50 / −£591.63. Outstanding Debts, Balance / Minimum Payment: Halifax −£6,205.97 / −178.09; Barclaycard −£7,009.81 / −233; Next £0.00 / 0; Barclaycard (Ann) −£646.51 / −200; Ann £3,318.00 / 0; Ann £5,522.66 / 0]` "So the final picture for this month is this"
+
+`[This is the final October contributions sheet, replacing the 16:33 version. Debt servicing now uses the Halifax minimum of £178.09, and the per-person totals now include Lucy Food. Per-person totals are 80/20 of the combined figure, so each is 1p off the sum of its rounded rows. Heather's last seen was 17:12. No reply from her by the time of the screenshot.]`
+
+---
+
+### Thu 29 Oct 2026 *(shown as "Today" in the screenshot, taken 29 Oct; no messages between 26 Oct 17:05 and this)*
+
+`[No messages on 27 or 28 Oct. The screenshot runs straight from 26 Oct 17:05 to the "Today" divider.]`
+
+**Heather:** *(07:41)* "So the D81 seems to be a form that is used when both parties have agreed to the financial split etc. As far as I am aware we haven't had that conversation - are you thinking 50/50 split ?"
+
+**Rupert:** *(09:30 ✓✓)* "Exactly. That was the idea - we agree the finances between us and  apply for a Consent Order:
+
+• A draft consent order, drafted by a solicitor
+• A D81 form (Statement of Information), either one completed jointly or one each, signed by both of us
+• Form P (Pension Sharing Annex), if we agree that pensions are to be shared
+• A court fee, currently around £58
+
+We DID have this conversation ages ago - and we did "agree" to a straight 50/50 split.
+
+I'm happy with any "reasonable" agreement between us. It's only if you're going to push for something that I consider unreasonable that we need to go the  full Form E route.
+
+So, we need to choose the route. You need to tell me your intentions. Then - if we're going down the simpler route - we need to decide whether we produce separate D81/Form P or a shared one and whose solicitor drafts and submits.
+
+As I said, I  engaged a solicitor to do the above and have paid costs in advance to cover everything up to the submission - on the basis that we are amicable and agreed.
+
+Clearly you've engaged your own solicitor, who seems to be pushing you toward a less straightforward submission. Either we get together and work this out, or we introduce our respective solicitors to each otther and go from there..."
+
+`[Source: whatsapp-images/2026-10-29_whatsapp-0741-0930-route.png. The list in Rupert's message was sent as bullets, and its fee line drops the "(to be confirmed)" from the drafted text.]`
+
+**Heather:** *(10:01)* "I remember saying when you were still living  here that I wouldn't fleece you and maybe I did  say yes to 50/50 at the time  but it was a tricky time for both of us back then -  realistically there is no way I could buy another property ( even if I added on a mortgage approx £70ish k ) with my limited salary  whereas you clearly could ( Lucy is still living with me even it's only out of term time)  It's about us both coming out of it vaguely equal -   I will look at the numbers & yes we need to talk about it"
+
+`[Source: whatsapp-images/2026-10-29_whatsapp-0930-1001-fifty-fifty.png.]`
+
+**Rupert:** *(11:52 ✓✓)* "I'm not trying to fleece you either. But I'm not sure I "clearly could" buy another place - I'm 60, a mortgage at our age is a short term and a big monthly payment, and I'm renting now with debts of my own. We're in pretty much the same boat on that.
+
+And neither of us has to buy - renting is a perfectly sensible option for either of us. Lucy's an adult and can live with whichever of us she likes, so I don't think that should drive the split.
+
+Agree with "vaguely equal" though. How about we both fill in the D81 with our own figures - assets, pensions, income, where we'd each live - and then sit down with both versions and talk it through?"
+
+`[Source: whatsapp-images/2026-10-29_whatsapp-1001-1152-reply.png. Heather's last seen was 10:01 at the time of that screenshot. A later screenshot (30 Oct) shows the ticks blue, so she has since read it.]`
+
+**Heather:** *(17:35, image shown only in part)* `[Image: screenshot of a Virgin Money balance transfer confirmation, top cut off in Rupert's screenshot. Visible: a table with columns "Name of transfer" / "Amount requested" / "Amount approved" and one row "HALIFAX VISA" / "£6,000.00" / "£4,050.00". Then: "If the amount we've approved isn't the same as the amount you've requested, this is because: • we're unable to offer you a credit limit to cover the full transfer(s) you've requested, or • there was a problem with the transfer details you gave us. To find out more, please visit virginmoney.com/transfers. Please continue to pay your credit or store card(s) as you normally would until the above balance transfer(s) show(s) on your account. To confirm if a transfer is complete, you'll need to check with your credit or store card provider in the usual way you manage your account."]` "Have just done balance transfer to a virgin credit card 12 mths 0 %  from Halifax but only £4,050  ( all I could get)" *(👍 reaction)*
+
+**Heather:** *(21:56)* "Have downloaded D81 - Lucy is definitely part of the split in the fact that I would need 2 bedrooms -   I know Lucy is an adult but she wants to be with her mum in the holidays  & definitely  won't want to stay with you & Mandy - sorry if harsh  but realistic"
+
+`[Source: whatsapp-images/2026-10-29_whatsapp-1152-2156-virgin-bt-d81-lucy.png, taken 30 Oct (chat list shows these as "Yesterday"; Heather last seen 30 Oct 09:00). The top of the 17:35 image is cut off, so anything between 11:52 and that image can't be confirmed from this screenshot, though nothing else appears to be there. The 👍 reaction is presumably Rupert's. Heather moved £4,050 of the Halifax 3123 balance (£6,205.97 at 18 Oct) to a new Virgin Money card at 0% for 12 months. She had asked for £6,000. The transfer fee and the Halifax balance left over aren't shown. No reply from Rupert by the time of the screenshot.]`
 
 ---
 

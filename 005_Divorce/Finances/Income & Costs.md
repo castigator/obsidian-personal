@@ -22,8 +22,8 @@ Current transitional income and cost breakdown — not a post-settlement needs b
 
 ## Heather's Income
 
-- **Net monthly salary:** ~£1,471
-- Pays 20% of Pebmarsh costs
+- **Net monthly salary:** £1,587.46 (gross £23,034), self-reported on WhatsApp 26 Oct 2026; was ~£1,471 / £21,715 (30 Jul). Not payslip-verified. See [[2026-10-26_whatsapp-salary-ann-card-october-sheet]]
+- Pays 20% of Pebmarsh costs: £591.63/mo on the final October sheet (Rupert £2,366.50 of £2,958.13)
 
 ## Westgate Rental Costs (~£1,370–1,450/mo)
 

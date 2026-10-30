@@ -5,7 +5,7 @@ tags:
   - pensions
 ---
 
-*Updated 26 May 2026 from Aviva/Standard Life documents*
+*Updated 26 Oct 2026. HL SIPP moved to its 31 Aug Annual Statement and totals corrected. Rest as of 2 Sep 2026.*
 
 **For the working D81 CETV-chase tracker (active pensions only, running total), see  
 [[D81 Pension CETVs]].** This file stays the full reference — provider detail, contact channels,  
@@ -21,13 +21,20 @@ chase history, closed-out pensions, and Heather's pensions.
 | Code Collective | 2001–2005    | None (own company)               | —                                        | —     | Confirmed no pension |
 | Conchango       | 2005–2011    | None — Rupert's own assessment   | —                                        | 12 Aug 2026 | Closed out, never actually chased with a provider — see below |
 | Financial Times | 2011–2015    | Pearson (Money Purchase 2003 Section Leavers, member F70322/7872) | £70,972.14 | 5 Apr 2026 | Formal 2026 Benefit Statement, dated 8 May 2026 — see below |
-| Gamesys/Roxor   | 2016–2024    | HL Group SIPP (client no. 2326897) | £86,430.51                             | 18 Aug 2026 | Dated Portfolio Summary PDF — see below |
+| Gamesys/Roxor   | 2016–2024    | HL Group SIPP (client no. 2326897) | £86,088.36                             | 31 Aug 2026 | Formal Annual Statement (received 9 Sep 2026). See below |
 | Aristocrat      | 2023–present | Standard Life (plan D4600026000, scheme JQ3525) | £22,169.37                | 31 Jul 2026 | Formal Yearly Statement; portal separately shows £23,520.45 "total plan value" (18 Aug), not confirmed equivalent — see below |
 | State Pension   |              |                                  | £1,042/mo projected                      | —     | Projection, not a CETV |
 
-**Total confirmed value: ~£221,130.03** (all five active pensions now have formal/dated figures).
+**Total confirmed value: £220,787.88** (all five active pensions now have formal/dated figures).
 
-**Gamesys/Roxor CETV — settled 18 Aug 2026.** HL Group SIPP, client number 2326897. Dated  
+**Gamesys/Roxor CETV: updated 9 Sep 2026 from the formal Annual Statement.** Effective date
+**31 August 2026**, total **£86,088.36**. That's contributions since opening £57,115.46, transfers in
+£0.00 and other changes in value £28,972.90. It's up from £74,307.88 a year earlier, a 12-month gain of
+£11,780.48 after £586.94 charges. It **supersedes the 18 Aug portfolio pull below**, by −£342.15, which is
+ordinary market drift; the "Pending orders" caveat didn't turn out to matter. Detail:
+`Correspondence/pensions/2026-09-09_hl-group-sipp-annual-statement.md`.
+
+*Earlier figure (superseded), settled 18 Aug 2026:* HL Group SIPP, client number 2326897. Dated  
 Portfolio Summary PDF: stock value £86,401.19 + total cash £29.32 = **£86,430.51 total, valuation  
 as at 18-08-2026 13:27** — supersedes the undated £79,624 previously on file. For a self-invested  
 platform SIPP, total value directly equals transfer value — no insurer, no with-profits smoothing,  
@@ -244,10 +251,18 @@ reference, in case it's ever worth revisiting.
 
 | Scheme | Type | Administrator | CETV |
 |--------|------|---------------|------|
-| Midel | Same scheme as Rupert's — Heather also worked there | Aviva | Awaiting confirmation — Heather expects it's small ("probs not much though") |
+| Midel | Same employer as Rupert (1987–90), her own separate pot | Aviva | **£12,462.83** (self-reported on WhatsApp 26 Oct 2026, dated "July 26") |
 | Vodafone | Unknown — not previously on file | Unknown | **£89,748** (self-reported, Nov/Dec 25 figures) |
 | Prudential Staff Pension Scheme | Defined Benefit | XPS Administration | **£25,525** (self-reported, Nov/Dec 25 figures) |
 | Essex County Council (current employer) | Likely Defined Benefit — LGPS | Essex Pension Fund (presumed) | **£67,772** (self-reported, Nov/Dec 25 figures) |
+
+**Self-reported total: £195,507.83** (26 Oct 2026). That's the three 30 Jul figures (£183,045, Nov/Dec 2025)
+plus Midel £12,462.83 (Jul 2026). None of it is a formal statement yet. Rupert asked for statements on
+26 Oct; she sent the Midel figure but didn't respond to the request for statements.
+
+⚠️ **Prudential DB, 🔒H:** XPS told Heather on 20 May that she is "approaching your normal retirement
+date" and uploaded a retirement quotation to her portal. If she starts drawing it, this becomes **pension
+income** on the D81 (Q9 row C) rather than a CETV, which changes how it's treated. Can't be raised openly.
 
 **Discovery (15 May 2026):** Email from XPS Admin confirming updated transfer value estimate available. This is the first evidence of Heather's pension holdings. DB pensions can be very significant — formal CETV needed for Form E.
 
@@ -283,10 +298,12 @@ Heather may have additional pensions from other employers — full disclosure re
 
 ## Strategy
 
-Pension gap (Rupert ~£212,481 confirmed; Heather ~£183,045 self-reported/informal, still needs  
-formal CETVs) looks close in aggregate — but Rupert's total is mostly Defined Contribution while  
-Heather's known pensions (Prudential, likely Essex CC/LGPS) are Defined Benefit, so equal totals  
-don't necessarily mean equal value. See the open strategic question in [[Form E]]. This is the  
+The pension totals look close: Rupert **£220,787.88**, all formal; Heather **£195,507.83**, self-reported
+and informal, still needing formal CETVs. That's a gap of ~£25.3k in Rupert's favour (26 Oct, now
+including her Midel pot). But Rupert's
+pensions are all Defined Contribution, while Heather's known Prudential and Essex CC/LGPS pensions are
+Defined Benefit. DB CETVs often understate what the pension is really worth, so equal totals don't
+necessarily mean equal value. See the open strategic question in [[Form E]]. This is the  
 main complication for the [[Clean Break]] argument. Options:
 - **Pension sharing order** — court orders a percentage transfer
 - **Offsetting** — Heather receives more house equity in lieu of pension share

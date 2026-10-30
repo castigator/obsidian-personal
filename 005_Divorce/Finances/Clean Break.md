@@ -12,13 +12,13 @@ Rupert wants a **clean break consent order** — no ongoing spousal maintenance.
 
 **In favour:**
 - Courts now favour fixed-term orders over open-ended joint lives orders
-- Heather is employed (~£1,471/mo net)
+- Heather is employed (£1,587.46/mo net, £23,034 gross, self-reported 26 Oct 2026)
 - All three children are adults — no child arrangements
 - 50/50 asset split gives Heather a lump sum (£57k–£107k depending on sale timing)
 - Heather applying for single occupancy council tax discount (25% off) — confirms living independently
 
 **Against:**
-- Large income gap: Rupert ~£6,109/mo vs Heather ~£1,471/mo
+- Large income gap: Rupert ~£6,109/mo vs Heather ~£1,587/mo
 - 27 years of marriage — long marriage, strongest maintenance claims
 - Pension gap: Rupert ~£206k CETV, Heather has at least one DB pension (Prudential Staff Pension Scheme — CETV unknown)
 

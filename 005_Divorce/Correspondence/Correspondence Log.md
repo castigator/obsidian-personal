@@ -7,7 +7,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **7 Oct 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **28 Oct 2026** via direct
 Gmail API — see note below. Covering April 2024 – October 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -125,6 +125,12 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-09-17 | [whatsapp-drain-excess-withdrawal.md](heather/2026-09-25_whatsapp-drain-excess-withdrawal.md) | **WhatsApp: Heather took her £200 of the £400 drain-excess set-aside** out of the joint account ("skint & need to pay oil") and suggested Rupert take his too. Rupert objected; she replied that it's "surplus" because the excess was never collected. **Rupert then took his £200 too**, so the whole £400 is out. If Ageas ever bills it, each pays £200 (not in writing). Also backfilled 8–13 Sep: Steve's death and the 2 Oct funeral (Heather attending, probably with Dylan). |
 | 2026-10-01 | [halifax-balance-transfer-offer_LOCKH.md](heather/2026-10-01_halifax-balance-transfer-offer_LOCKH.md) 🔒H | Halifax marketing: **0% for 12 months, 5% fee, transfers by 31 Oct** on card 3123. Reveals **limit £7,500, only £1,233 available** (27 Sep). So a BT from the Barclaycard can only move ~£1,170: a partial help for the refinance to-do, not a fix. |
 | 2026-10-02 | [certas-september-statement_LOCKH.md](heather/2026-10-02_certas-september-statement_LOCKH.md) 🔒H | Certas September statement (PDF filed): account **£277.34 in credit**, oil DD rising **£200 → £237.98/mo from 20 Oct**. Heather's own cost, affordability context only. |
+| 2026-10-15 | [halifax-transfer-offer-ends-soon_LOCKH.md](heather/2026-10-15_halifax-transfer-offer-ends-soon_LOCKH.md) 🔒H | Halifax "ends soon" reminder, same 0%/5% offer to **31 Oct**. Available now **£1,410** (12 Oct), implying balance ~£6,090 after her October payment. BT route still only ~£1,343. Halifax rebranding to Lloyds. |
+| 2026-10-17 | [halifax-october-statement-ready_LOCKH.md](heather/2026-10-17_halifax-october-statement-ready_LOCKH.md) 🔒H | Halifax October statement ready (3123), no figures in the email; next payment due **12 Nov**. Predates the 19 Nov rate rise. Figures only via Heather on WhatsApp. |
+| 2026-10-21 | [barclaycard-october-statement-ready_LOCKH.md](heather/2026-10-21_barclaycard-october-statement-ready_LOCKH.md) 🔒H | Barclaycard 5002 October statement ready, no figures in the email. First since the £233/mo payment was adopted; tracked balance still £7,116.17 (18 Sep). |
+| 2026-10-24 | [heather-finance-form-e-mediation-cards.md](heather/2026-10-24_heather-finance-form-e-mediation-cards.md) | **Heather → Rupert: start disclosure.** Blank **Form E** from her solicitor, to fill separately; **mediation** proposed, forms needed first (Alan can post his to her). Cards: she'll BT Halifax to a 0% card, asks Rupert to do same for Barclaycard; **not splitting the card debt**, both stay marital. Mum's card £200/mo, paid off Jan 27. Oct statements attached: **Barclaycard £7,009.81 (min £195.47, due 16 Nov), Halifax £6,205.97 (min £178.09, due 12 Nov)**. |
+| 2026-10-24 | [garden-annexes-brochure_LOCKH.md](heather/2026-10-24_garden-annexes-brochure_LOCKH.md) 🔒H | Garden Annexes follow-up to Heather for Maple Tree House: she appears to have requested an annexe brochure. Housing-intention signal only. |
+| 2026-10-26 | [whatsapp-salary-ann-card-october-sheet.md](heather/2026-10-26_whatsapp-salary-ann-card-october-sheet.md) | **WhatsApp 15:31–17:05.** Heather: salary now **£23,034 gross / £1,587.46 net** (was £21,715 / ~£1,471); no updated pension values. **Ann's card ~£646.51** (her spreadsheet, not a statement; was £1,409). Halifax and Barclaycard Oct statements resent (same as 24 Oct). Rupert's final October sheet: **£2,958.13, Rupert £2,366.50 / Heather £591.63** (Halifax min £178.09; Lucy Food now in the per-person totals). Joint debt now ~£22,703. |
 
 ### [subsidence/](subsidence/)
 
@@ -151,6 +157,7 @@ Subsidence claim timeline. Claim ref: **6843593K** / Policy ref: **S2520891** / 
 | 2026-08-04 | [ghg-bank-details-verification-request.md](subsidence/2026-08-04_ghg-bank-details-verification-request.md) 🔒H | GHG requests Heather verify bank details (single-use link + phone call) for the £1,200 tree reimbursement, claim ref S2520891. |
 | 2026-08-07 | [ghg-tree-invoice-to-insurers.md](subsidence/2026-08-07_ghg-tree-invoice-to-insurers.md) 🔒H | GHG confirms tree invoice passed to insurer for direct payment. Next crack-monitoring round due August 2026, report to follow. |
 | 2026-09-07 | [ghg-august-crack-monitoring-report.md](subsidence/2026-09-07_ghg-august-crack-monitoring-report.md) 🔒H | **August 2026 crack readings.** Main (RH elevation) station **reversed and opened back up ~2.8–3.1mm** vs the June reading — taken shortly after vegetation removal, GHG treating as inconclusive. Front porch station stable. Repairs still gated on stability; **next reading Oct 2026** — pushes the "stability confirmed" milestone out at least one more cycle. |
+| 2026-10-07 | [ghg-october-monitoring-holding-update.md](subsidence/2026-10-07_ghg-october-monitoring-holding-update.md) 🔒H | Routine GHG holding letter: October crack readings due this month, report to follow. No new figures. |
 
 `subsidence/attachments/legacy-download/` — a raw dump of .eml/PDF files from before the topical
 notes above existed (claim correspondence, blank letters, CCTV/SI reports). Not deduped against
@@ -219,6 +226,7 @@ Also filed directly in `heather/` (received 27 Apr 2026):
 
 - [2026-07-30_rbs-voicemail-callback-request.md](rbs/2026-07-30_rbs-voicemail-callback-request.md) — RBS voicemail requesting a callback (screenshot + note).
 - [2026-07-31_rbs-callback-transcript.md](rbs/2026-07-31_rbs-callback-transcript.md) — Transcript of the 31 Jul RBS callback (recording also kept: `2026-07-31_rbs-callback-recording.mp3`).
+- [2026-10-01_rbs-monthly-statement.pdf](rbs/2026-10-01_rbs-monthly-statement.pdf). September statement: balance −£309,748.40, still £1,380.40 over the £308,368 facility. £1,809.52 interest due 26 Oct. Detail in [[RBS Mortgage Notification]].
 
 ### [solicitors/](solicitors/)
 

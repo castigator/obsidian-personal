@@ -17,7 +17,7 @@ content-start: 151
 - [x] Complete [[Checklist]] ✅ 2025-10-22
 - [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 - [x] Joint tenancy agreement fully executed ✅ 2026-08-21 — Rupert signed 20 Aug, Mandy 21 Aug, agent countersigned same day
-- [ ] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]]
+- [-] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]] — dropped: Rupert decided not to chase it ❌ 2026-09-08
 - [ ] Electoral Registration (ref 254490) — application rejected, DWP couldn't verify ID; copy ID needed or no vote in future elections. Reminder resent 21 Sep 2026, still not actioned — see [[Correspondence Log]]
 
 ## Key Dates
@@ -39,7 +39,7 @@ content-start: 151
 | Rent | £1,000.00 | 22nd of month | Standing order to landlord |
 | Council tax | ~£151.00 | 8th of month | Direct debit |
 | Water (Anglian) | £77.00 from 8 Oct 2026 (was £58.00; disputed £3,406.58 bill settled 16 Sep 2026 via leakage allowance — see [[Water]]) | 8th of month | Direct debit |
-| Gas & electricity | variable | — | Fuse Energy |
+| Gas & electricity | varies with usage, billed monthly in arrears (~£75–185). Fixed 24m tariff from 2 Dec 2026 to 30 Nov 2028; see [[Gas & Electricity]] | ~7th of month | Fuse Energy, direct debit |
 | Broadband (Fibrely) | £32.99 | — | Direct debit |
 | TV Licence | — | — | Direct debit |
 | Insurance (Urban Jungle) | £5.30 | 21st of month | Auto-renewing monthly policy |

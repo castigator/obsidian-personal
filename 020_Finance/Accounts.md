@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £652.07 | 2026-10-07 |
-| Starling - Joint | £205.84 | 2026-10-07 |
-| Barclays - Current | £73.22 | 2026-10-05 |
+| Starling - Main | £67.37 | 2026-10-29 |
+| Starling - Joint | £29.09 | 2026-10-28 |
+| Barclays - Current | £212.37 | 2026-10-26 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -282,6 +282,38 @@ partial refund is the likely failure mode, so one credit landing does not
 clear the other. This is a material sum against a `Starling - Main` balance
 that has been sitting under £200.
 
+**15 Oct 2026 — `Starling - Main` £238.75, `Starling - Joint` £79.64, ordinary spending.** Five Bells
+Cavendish £21.55 on Main, Tesco £32.05 on Joint (both 14 Oct). The SUM check matches.
+
+**14 Oct 2026 (later refresh) — `Starling - Main` £260.30; the £100 is fixed in the balance, but paired the other way round.**
+Rupert deleted the 7 Oct "Rupert: Groceries" −£100 on Main. That put Main back up by £100 (it was
+£2.19 on 13 Oct, and the SUM check matches the running balance). But the 6 Oct "Shopping" −£100
+(15305) is still X-matched to Mandy's Joint deposit (15304), and Rupert's 7 Oct +£100 into Joint
+(15321) now has no Main side. The balances are correct; only the labelling is reversed.
+Then on 14 Oct: **£283 from Spare Funds → Main** (Spare Funds £983 → £700), Netflix £7.99 and Budgens
+£16.90.
+**New Space: `Starling - Committed Funds`** — £108.54 out of Main on 6 Oct, paid to Leonardo Hotels on
+9 Oct. Now £0.
+
+**14 Oct 2026 — `Starling - Main` real balance ~£2.19 (Banktivity −£97.81); the £100 fix is still pending.**
+The 6 Oct "Shopping" −£100 is still on Main (now Z_PK 15305; Banktivity renumbered rows, so the
+7618/7626/7627 refs above are stale). Correcting for it, Main is about **£2.19** after 8–13 Oct
+spending (incl. a Torquay trip: Imperial Hotel −£135/+£60, Kents Cavern, Yates). The SUM check
+matches the running balance. All ordinary. The 8 Oct bill pots went out (Water £77, Council Tax
+£152, TV Licence £15.45), then the **NatWest £300 DD on 12 Oct** (card −£955.11, Space £0) and
+iD Mobile £44.99 on 13 Oct. Joint £111.69 (Lamb and Flag, Nethergate, Co-op). Barclays is
+unchanged at £73.22; HomeServe £40.57 is still due ~20th.
+
+**8 Oct 2026 — the wrong £100 match on `Starling - Main` is now in the ledger; fix pending.**
+Banktivity now has **two** −£100s on Main to Joint:
+- 6 Oct "Shopping" (Z_PK 7618), X-MATCHed to Mandy's deposit
+- 7 Oct "Rupert: Groceries" (7627), an unlinked row with its own unlinked Joint row (7626)
+
+Only the 7 Oct one is real, so Main reads **£414.61 when it should be £514.61**.
+Joint £205.84 is correct (Rupert confirmed). Fix in Banktivity:
+1. Unlink the 6 Oct "Shopping" from Main and make it a plain Joint deposit, category "Transfer from Mandy".
+2. Link the 7 Oct Main and Joint rows into one transfer.
+
 **7 Oct 2026 (later refresh) — `Starling - Main` £652.07, `Starling - Joint` £205.84.
 Both correct (Rupert confirmed).** There are two real £100 deposits into Joint:
 - **6 Oct "Shopping"** is **Mandy's** £100. "Shopping" is how her deposits always
@@ -449,20 +481,38 @@ is referenced elsewhere.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Savings Buffer | £500.79 | 2026-10-01 |
+| Starling - Savings Buffer | £300.79 | 2026-10-27 |
 | Starling - Stash | £0.00 | 2026-02-17 |
-| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-10-02 |
-| Starling - Spare Funds (was "Lucy Rent") | £983.00 | 2026-10-02 |
-| Starling - Westgate Rent | £1,000.00 | 2026-10-02 |
-| Starling - Broadband | £32.99 | 2026-10-02 |
-| Starling - Home Insurance | £5.30 | 2026-10-02 |
-| Starling - Water | £77.00 | 2026-10-02 |
-| Starling - Council Tax | £152.00 | 2026-10-02 |
-| Starling - TV Licence | £15.59 | 2026-10-02 |
+| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-10-28 |
+| Starling - Spare Funds (was "Lucy Rent") | £0.00 | 2026-10-25 |
+| Starling - Westgate Rent | £0.00 | 2026-10-22 |
+| Starling - Broadband | £0.00 | 2026-10-19 |
+| Starling - Home Insurance | £0.00 | 2026-10-23 |
+| Starling - Water | £0.00 | 2026-10-08 |
+| Starling - Council Tax | £0.00 | 2026-10-08 |
+| Starling - TV Licence | £0.14 | 2026-10-08 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
-| Starling - NatWest Credit Card | £300.00 | 2026-10-01 |
-| Starling - Amazon Prime 🆕 | £8.00 | 2026-10-02 |
-| Starling - ID Mobile 🆕 | £44.99 | 2026-10-02 |
+| Starling - NatWest Credit Card | £0.00 | 2026-10-12 |
+| Starling - Amazon Prime 🆕 | £8.00 | 2026-10-26 |
+| Starling - ID Mobile 🆕 | £0.00 | 2026-10-13 |
+| Starling - Committed Funds 🆕 | £0.00 | 2026-10-09 |
+| Committed - Joint 🆕 (Joint Space) | £85.00 | 2026-10-22 |
+
+**16–19 Oct 2026, routine.** Spare Funds → Main £100 (16 Oct) and £150 (17 Oct), so Spare Funds is £450. Main covered Tesco £100.06, Tesco Petrol £72.80, Dog And Whistle £95 and pub/PayPal/RingGo spend, and is £67.34 at 18 Oct. Broadband paid Fibrely £32.99 on 19 Oct and is now £0. Barclays paid HomeServe £40.57 on 19 Oct as expected and is now £32.65.
+
+**19–20 Oct 2026, X-MATCH unpicked, all confirmed correct.** Mandy put £40 into Joint on 19 Oct ("COOK Christmas"). Banktivity X-MATCHed it to Rupert's own £40 Tesco shop on Main the same day (a real purchase, Rupert confirmed). Rupert re-categorised the Joint row to "Transfer from Mandy", which split them back into two items. Joint also had Tesco −£23.99 (19 Oct) and Rupert's £50 from Main (20 Oct, "COOK"). £100 went from Spare Funds to Main on 20 Oct. Main is £77.34, which Rupert confirmed. Joint is £145.65 and Spare Funds £350.
+
+**20 Oct 2026, later.** Main £77.34 → **£5.96**: Co-op £15.20, Black Lion £4.72 twice, and **£46.74 "Amazon Prime"** paired into the Amazon Prime Space (£8 → £54.74). **Rupert confirmed it was an ordinary Amazon purchase** that Banktivity mis-paired, the same as the £22.99 on 7 Oct. The Space is really **£8**. Main is unaffected at £5.96, since the money left Main either way. ✅ Rupert re-categorised it to Purchases (seen 21 Oct), and Banktivity now shows the Space at £8.
+
+**21–22 Oct 2026.** Spare Funds paid £166.45 into Main to cover a Monica Vinader purchase (£166.45, 21 Oct), and Monica Vinader **refunded the full £166.45 to Main on 22 Oct**. ✅ No need to return it: Rupert says the refund paid for a replacement Monica Vinader order that cost a bit more (not yet seen in Banktivity, 22 Oct). Closed. Another £50 went from Spare Funds to Main, and Main paid £19 at Swan Long Melford. Spare Funds is £133.55 and Main £203.41. Westgate Rent paid £1,000 to Julian Glasgow ("19 Westgate") on 22 Oct and is now £0.
+
+**22–25 Oct 2026.** Monica Vinader replacement order £179.95 on Main (22 Oct, expected; the £166.45 refund covered most of it). £5.99 Amazon purchase mis-paired into the Prime Space (22 Oct). ✅ Rupert re-categorised it to Household (26 Oct), and the Space is back to £8. Spare Funds drained to £0 (£33.55, £50, £50 to Main). **£100 from Savings Buffer to Main** on 25 Oct ("Transfer from Easy Saver"), so the Buffer is £400.79. The rest is ordinary pub, Tesco and Google TV spend, and Main is £90.48. Joint: Tesco £12.31 and £26.35, and **£85 into a new Joint Space, `Committed - Joint`** ("COOK - Christmas"). Joint is £21.99. Home Insurance paid Urban Jungle £5.30 on 23 Oct and is now £0. Banktivity put it under "Food Support", which looks wrong. Tesco card: 1Password £71.52 (22 Oct), the first spend since September.
+
+**26–27 Oct 2026.** Main £48.01: Budgens £18.39, PayPal £10.08 and Domino's £14 on 26 Oct. Barclays £212.37: Heather's monthly BGCs landed 26 Oct, £57.50 (bills share) and **£122.22 (her 20% of the £611.09 October servicing)**. **Joint is £61.99, not £21.99.** Banktivity's chain now runs £185.65 (20 Oct) → £173.34 → £88.34 → £61.99, and the SUM check agrees. That's £40 higher than the figure recorded on 26 Oct for the same transactions. The 19 Oct rows include two +£40 credits ("COOK Christmas" and "Tesco"). Asked Rupert which figure the Starling app shows. **27 Oct (second pass):** East of England Co-op £25.50 on Joint, so it's now £36.49. ✅ **Rupert confirmed the Starling app shows £36.49, so Banktivity is right.** The £21.99 recorded on 26 Oct was wrong, and both 19 Oct +£40 credits are genuine.
+
+**27–28 Oct 2026.** **Another £100 from Savings Buffer to Main** on 27 Oct ("Transfer from Easy Saver"), so the Buffer is £300.79, which is £200 down since 25 Oct. Main spend: Tesco £15.20 and £37.33, The Black Lion £10.44 (27 Oct), PayPal £9.99 (28 Oct). Main is £75.05 and the SUM check agrees. Gainsborough - Joint: the monthly £130 HealthSpa DD ("Fastpay Re Compleat Enterprises") went on 28 Oct, so it's at £0, as expected. Salary is due Fri 30 Oct.
+
+**28–29 Oct 2026.** Joint: Tesco £7.40 (28 Oct), so it's £29.09. Main: Superwhisper £7.68 (29 Oct), so it's £67.37. Nothing else moved.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
@@ -586,8 +636,8 @@ See individual notes for offer/APR detail.
 
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
-| Tesco Mastercard (Clubcard) | £0.00 | 2026-09-08 | [[Tesco Clubcard Credit Card]] — £25.97 minimum payment cleared, confirmed settled |
-| NatWest Mastercard | -£1,255.11 🚨 | 2026-09-15 | [[NatWest Mastercard]] — **no longer 0%**; £52.55 interest charged 15 Sept, whole balance at 26.436% |
+| Tesco Mastercard (Clubcard) | -£71.52 | 2026-10-23 | [[Tesco Clubcard Credit Card]] — 1Password £71.52 (22 Oct). The purchase rate is ≈39.94% APR once outside the interest-free window |
+| NatWest Mastercard | -£981.08 🚨 | 2026-10-16 | [[NatWest Mastercard]] — **no longer 0%**, whole balance at 26.436%; £25.97 interest on the 16 Oct statement |
 | Capital One | £0.00 | 2026-09-17 | [[Capital One]] — verified from the web portal; ⚠️ web access being withdrawn, app access unresolved |
 | M&S Mastercard | -£1,616.31 | 2026-10-02 | [[M&S Credit Card]] |
 
@@ -675,9 +725,9 @@ at the moment (no scheduled repayments).
 
 | Account | Banktivity balance | As of | Shared Debt.md figure |
 |---|---:|---|---|
-| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,274.24 (2026-09-30, shared sheet; paying £233/mo) |
-| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,266.31 (2026-09-16 statement via WhatsApp, synced from divorce 28 Sep) |
-| Ann - Barclaycard | -£2,809.00 | 2025-11-04 (stale) | -£1,409.00 (2026-07-10, from spreadsheet) |
+| Heather - Barclaycard | -£7,819.16 | 2025-11-04 (stale) | -£7,009.81 (2026-10-20 statement; paying £233/mo) |
+| Heather - Halifax | -£6,884.86 | 2025-11-04 (stale) | -£6,205.97 (2026-10-18 statement, synced from divorce 26 Oct) |
+| Ann - Barclaycard | -£2,809.00 | 2025-11-04 (stale) | ~-£646.51 (2026-10-26, Heather's spreadsheet, unconfirmed) |
 
 [[Shared Debt]] is being kept up to date from a spreadsheet, so it's the  
 more trustworthy figure for the three accounts above — Banktivity just  

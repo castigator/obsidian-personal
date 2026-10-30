@@ -16,10 +16,11 @@ Collective) and the State Pension (not a CETV) live in [[005_Divorce/Pensions]],
 | Midel | £14,132.62 | 19 Jun 2026 | ✅ Done |
 | Objective IT | £27,425.39 | 24 Aug 2026 | ✅ Done |
 | Financial Times | £70,972.14 | 5 Apr 2026 | ✅ Done |
-| Gamesys/Roxor | £86,430.51 | 18 Aug 2026 | ✅ Done |
+| Gamesys/Roxor | £86,088.36 | 31 Aug 2026 | ✅ Done (formal Annual Statement, superseded the 18 Aug portfolio pull of £86,430.51) |
 | Aristocrat | £22,169.37 | 31 Jul 2026 | ✅ Done |
 
-**Running total: £221,130.03 — all five active pensions now settled with formal/dated figures.**
+**Running total: £220,787.88 — all five active pensions now settled with formal/dated figures.**
+*(Corrected 26 Oct 2026: the total was still using the 18 Aug HL figure.)*
 
 ## Related
 

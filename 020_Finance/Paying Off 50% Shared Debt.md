@@ -15,7 +15,7 @@ but was dropped once it emerged the lender must sit **outside NatWest Group**
 (NatWest/RBS/Ulster Bank NI/Coutts) — RBS and NatWest share internal risk
 systems, so a NatWest-branded loan would be visible to RBS near-instantly.
 **Not yet drawn — still blocked on the Card Split Agreement being signed**
-(unsigned as of 24 Jul 2026). See [[Loan Application Answers]] and the
+(unsigned as of 24 Jul 2026). **🆕 24 Oct 2026: Heather's email confirms there will be no card split** (she had already rejected Rupert's July proposal). Both cards stay marital, and she has asked Rupert to balance-transfer the Barclaycard. Rupert's reply (25 Oct) says he won't move any of the debt into his name without a signed agreement, and he may not have the means or inclination to refinance anyway. That removes the loan's original trigger, so the cash-route question is open again. See [[Shared Debt]]. See [[Loan Application Answers]] and the
 `divorce` project's `CLAUDE.md` Session Status for the latest.
 
 ## Options, cheapest-first (assuming ~£7,400)

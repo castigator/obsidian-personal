@@ -11,7 +11,7 @@ Prepared by Rupert Thomas, 13 May 2026. Updated 26 May 2026. This document is a 
 | **Date of birth** | 19 June 1966 | 15 December 1966 |
 | **Address** | 19 Westgate Street, Long Melford, Suffolk, CO10 9DS (rental) | Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA (marital home) |
 | **Employment** | Software engineer (full-time, employed) | Office manager at a local primary school (full-time) |
-| **Net monthly income** | ~£6,109 | ~£1,471 |
+| **Net monthly income** | ~£6,109 | ~£1,587 (self-reported 26 Oct 2026) |
 | **Represented?** | No — seeking to instruct | Yes — solicitor instructed (name/firm unknown) |
 
 **Marriage date:** 22 August 1998 (27 years; ~40 years together as a couple)
@@ -121,7 +121,7 @@ There is also a **separate drain damage claim** (£9,360.63, tree root ingress, 
 **Rupert is effectively subsidising Heather's housing** — paying 80% of the marital home costs while also paying full costs of his own rental. This is unsustainable and a key driver for resolution.
 
 ### Heather's income
-- Net monthly salary: **~£1,471**
+- Net monthly salary: **£1,587.46** (£23,034 gross, self-reported 26 Oct 2026)
 - Potential benefits eligibility at this income level (Universal Credit etc.) — not yet researched
 - As of 26 May 2026, Heather is looking at applying for a **25% single occupancy council tax discount** at Pebmarsh, which would reduce the council tax bill
 
@@ -201,7 +201,7 @@ Given the relatively modest house equity, there may not be enough to offset the 
 
 ## 7. Spousal Maintenance — Risk Assessment
 
-Given the income gap (£6,109 vs £1,471) and 27 years of marriage, Heather's solicitor is likely to raise spousal maintenance. Rupert's position:
+Given the income gap (£6,109 vs ~£1,587) and 27 years of marriage, Heather's solicitor is likely to raise spousal maintenance. Rupert's position:
 
 **Arguments for clean break:**
 - Heather is employed full-time as an office manager and has earning capacity

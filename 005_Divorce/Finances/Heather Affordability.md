@@ -6,7 +6,7 @@ Updated 26 May 2026. This models Heather's financial independence post-settlemen
 
 ## Heather's Income
 
-- **Net monthly salary:** ~£1,471
+- **Net monthly salary:** ~£1,471 (modelled). ⚠️ **26 Oct 2026: Heather now self-reports £1,587.46/mo net (£23,034 gross)**, about £116/mo more. The scenarios below still use £1,471, so they slightly understate her surplus. See [[2026-10-26_whatsapp-salary-ann-card-october-sheet]]
 - **Employment:** Full-time office manager at a local primary school
 - **Age:** 59 (DOB 15 Dec 1966) — 7 years to state pension age (67)
 

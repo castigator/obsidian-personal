@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-09-24
+**Last checked:** 2026-10-26
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -144,6 +144,9 @@ have been no messages since 12 Aug 2026.
 | 2026-05-05 | support@fuseenergy.com | Apr payment | £95.02 scheduled 8 May |
 | 2026-08-04 | support@fuseenergy.com | Jul payment | £79.32 scheduled 7 Aug |
 | 2026-09-15 | support@fuseenergy.com | Switch to Fixed Monthly Payments Today | Fixed Direct Debits now offered — spreads expected energy cost evenly across the year. No action taken |
+| 2026-10-02 | support@fuseenergy.com | Sep payment | £75.52 scheduled 7 Oct |
+| 2026-10-13 | support@fuseenergy.com | Your fixed tariff is ending soon | Electricity fix (Aug Single Rate Fixed (15m) v2) ends 1 Dec, then moves to variable. Can schedule next tariff with no exit fees. Rates and switch comparison in [[Gas & Electricity]] |
+| 2026-10-15 | support@fuseenergy.com | Your new tariff is scheduled (×2) | Gas (10:50) and electricity (10:54) both scheduled to move to Oct Single Rate Fixed (24m) v5 after the current fix ends on 1 Dec 2026 |
 
 ## Anglian Water
 
@@ -176,6 +179,7 @@ have been no messages since 12 Aug 2026.
 | 2026-03-05 | no-reply@fibrely.co.uk | Price increase | £3.00/month increase from 1 Apr 2026 |
 | 2026-04-13 | hello@fibrely.co.uk | Bill ready | First bill at new rate: £32.99 |
 | 2026-09-14 | no-reply@payments.gocardless.com | Upcoming Direct Debit payment to Fibrely | £32.99, invoice FIB189625, debited from Starling ******88 |
+| 2026-10-14 | hello@fibrely.co.uk + GoCardless | Bill ready / upcoming DD | Invoice FIB204088, £32.99 (13 Sep–12 Oct), debit on or after 19 Oct. Routine; invoice PDFs not downloaded |
 
 ## mydeposits
 
@@ -203,3 +207,4 @@ have been no messages since 12 Aug 2026.
 | Date | From | Subject | Key Content |
 |---|---|---|---|
 | 2026-09-16 | no-reply@myurbanjungle.com | Your Contents Insurance policy is renewing soon | Policy V2C-1755265621-QL renews automatically; next payment **£5.30 on 21 Sep 2026** from account ******5288 |
+| 2026-10-16 | no-reply@myurbanjungle.com | Your Contents Insurance policy is renewing soon | Monthly renewal, **£5.30 on 21 Oct 2026** from ******5288. Attached quote summary ([[Urban Jungle Quote Summary 2026-10.pdf|Quote Summary Oct 2026]]) lists **1 adult, "Just Me" covered**, contents £11,000, no legal expenses or home emergency; Mandy not on the policy |

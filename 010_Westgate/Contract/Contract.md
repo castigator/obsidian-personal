@@ -14,7 +14,7 @@ content-start: 151
 
 - [x] Rupert signed the new joint agreement ✅ 2026-08-20
 - [x] Mandy signed via Goodlord ✅ 2026-08-21 06:48 UTC — **fully executed**, agent countersigned same day
-- [ ] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it
+- [-] Mandy's in-person Right to Rent passport check with David Burr — not yet arranged, no one's called her in for it — dropped: Rupert decided not to chase it ❌ 2026-09-08
 
 ## Current Agreement (2026 — Joint, periodic)
 
