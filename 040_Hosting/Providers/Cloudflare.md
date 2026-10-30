@@ -43,3 +43,4 @@ DreamHost keeps updating its own (now unused) copy of the zone. `dns/verify-zone
 ## Free plan
 
 DNS, unlimited static sites on Pages, and certificates are all included. Email Routing is free but inbound only (no sending). Pro ($20 a month) adds firewall and image features that aren't needed.
+- **Always Use HTTPS** is on for the pebmarsh.com zone (30 Oct 2026). It only affects proxied names (pebmarsh.com, www, ernis, honeycode); DNS-only names are untouched. HSTS is deliberately off.

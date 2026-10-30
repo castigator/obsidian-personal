@@ -10,13 +10,14 @@ Everything about the pebmarsh.com domains, websites, email and the providers beh
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-### Where Things Stand (29 Oct 2026)
+### Where Things Stand (30 Oct 2026)
 
 - **DNS:** pebmarsh.com moved to [[Cloudflare]] on 28 Oct 2026, and friendsofpebmarshchurch.uk on 29 Oct 2026. No DNS is left on [[DreamHost]].
 - **Hosting:** [[DreamHost]] Shared Unlimited, switched to **monthly** billing on 28 Oct 2026, so it can be cancelled once everything has moved.
 - **Security:** the [[Incident 2026-10 Backdoor]] is contained. The entry point is unknown.
 - **Old files:** archived to Google Drive and mostly deleted from DreamHost; see [[Hosting Archive]].
 - **First site off DreamHost:** [[Site - Ernis]], on a Cloudflare Worker deployed from GitLab `pebmarsh/ernis` (29 Oct 2026).
+- **pebmarsh.com is now a static site:** [[Site - pebmarsh.com]] moved from WordPress to a Cloudflare Worker, deployed from GitLab `pebmarsh/pebmarsh-com` (30 Oct 2026).
 - **GitLab:** a `pebmarsh` group with one private repo per site, plus `pebmarsh/pebmarsh` for this project.
 
 ### Map
@@ -43,4 +44,5 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 
 - Choose the email provider; follow up the dead-ISP forwards. See [[Hosting Email]].
 - Hand off the four organisation sites.
+- [[Site - pebmarsh.com]]: archive the old WordPress folder and database to Drive, then remove the website from DreamHost (keep the domain for mail). Turn off the `workers.dev` test address.
 - [[Mailchimp]]: Courtyard Stores welcome emails are failing.

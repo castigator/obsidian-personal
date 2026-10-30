@@ -27,11 +27,25 @@ The second compromise of pebmarsh.com in 2026, after [[Incident 2026-07 Malware]
 - **All 4 live WordPress sites:** sessions cleared and salts replaced. On [[Site - Parish Council]], which had no salts at all, salts were added and the dormant `admin` account deleted.
 - **Not found:** no core file tampering, no PHP files in uploads, no injected content.
 
+## Found 30 Oct 2026: SEO-spam cloaking on pebmarsh.com, missed since June
+
+Found while archiving the old WordPress site, after pebmarsh.com had moved to a static site.
+
+- `wp-content/themes/kelly/functions.php` (the active theme) had code labelled "Implement the LightSpeed cache". For any request whose user agent or referrer contained "gle" (Googlebot, and visitors arriving from Google), it posted the visitor's IP, user agent, referrer and URL to `http://buffer.secureplace4allimages.com/server_permanent2.php`. If the reply contained spam links it added them before `</body>`; if it was a whole page or a 404, it replaced the page.
+- `engine/wp-ajax.php` in the site root: a standalone copy that posts to `.../server_new.php` and echoes whatever comes back.
+- Both files are dated 17 Jun 2026 (the `engine/` folder 17 Jul, the July clean-up). So it was planted during the June–July compromise ([[Incident 2026-07 Malware]]) and survived that clean-up and the October audit. `wp core verify-checksums` can't see theme changes, and the audit doesn't look at theme files.
+- Ordinary visitors saw the normal site, so nobody noticed. Google may have indexed spam under pebmarsh.com.
+- It stopped when pebmarsh.com moved to the Cloudflare Worker on 30 Oct 2026. The old URLs now return 404, so any spam pages will drop out of Google.
+- Searched every PHP file under `~/www`: no copies on Parish Council, Courtyard Stores or FoPC. PCP (`/home/pebmarsh_pcp`, separate user) could not be searched from the `rupert` login.
+- Evidence: kept in the Drive archive `www-pebmarsh-wp.pebmarsh.com.tar.gz` (md5 645960e37ca0c70078bcf6deb8b90a8a).
+- Follow-ups: search PCP for `secureplace4allimages` / "LightSpeed cache"; add a theme-file check for these markers to `wp-audit.sh`; look in Google Search Console for pebmarsh.com spam pages or a security warning.
+
 ## Still open
 
 - Ask DreamHost for the 15–20 Oct access logs, and whether its own incident is related.
 - Two-factor login on the WordPress sites.
 - Blocking plugin installs from wp-admin (`DISALLOW_FILE_MODS`): Rupert decided to skip this unless it happens again.
 - Weekly audits: see [[Security Audit]].
+- Possible lead on the entry point (found 30 Oct 2026): pebmarsh.com had an empty `wp-content/uploads/wp-file-manager-pro/fm_backup/` folder, dated 17 Jul 2026 (its `index.html` 20 Jun 2026). The WP File Manager plugin itself is not installed. File-manager plugins are a common way in, and DreamHost's own 25 Oct notice mentioned a file manager. pebmarsh.com no longer runs WordPress (see [[Site - pebmarsh.com]]).
 
 The full report is in the project: `reports/findings-2026-10-27.md`.
