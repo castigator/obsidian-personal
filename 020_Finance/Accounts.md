@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £67.37 | 2026-10-29 |
+| Starling - Main | £6,075.43 | 2026-10-30 |
 | Starling - Joint | £29.09 | 2026-10-28 |
 | Barclays - Current | £212.37 | 2026-10-26 |
 
@@ -513,6 +513,8 @@ is referenced elsewhere.
 **27–28 Oct 2026.** **Another £100 from Savings Buffer to Main** on 27 Oct ("Transfer from Easy Saver"), so the Buffer is £300.79, which is £200 down since 25 Oct. Main spend: Tesco £15.20 and £37.33, The Black Lion £10.44 (27 Oct), PayPal £9.99 (28 Oct). Main is £75.05 and the SUM check agrees. Gainsborough - Joint: the monthly £130 HealthSpa DD ("Fastpay Re Compleat Enterprises") went on 28 Oct, so it's at £0, as expected. Salary is due Fri 30 Oct.
 
 **28–29 Oct 2026.** Joint: Tesco £7.40 (28 Oct), so it's £29.09. Main: Superwhisper £7.68 (29 Oct), so it's £67.37. Nothing else moved.
+
+**29–30 Oct 2026.** **Salary landed: £6,074.84** ("P751 00111041") on 30 Oct, the last working day, as expected. Later on 29 Oct, after the £67.37: Swan Long Melford £12, £12, £5.20 and £8.60, and Cloud £7.54, so Main was £22.03 before salary. East of England Co-op £21.44 (30 Oct). Main is £6,075.43 and the SUM check agrees. Nothing else moved. The 2 Nov transfers are next to check against the November sheet.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare

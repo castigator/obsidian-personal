@@ -3,7 +3,7 @@ tags:
   - hosting
 ---
 
-# Hosting Correspondence Log
+## Hosting Correspondence Log
 
 **Last checked:** 2026-10-28
 

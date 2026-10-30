@@ -3,7 +3,7 @@ tags:
   - hosting
 ---
 
-# Hosting Archive
+## Hosting Archive
 
 Everything on [[DreamHost]] that wasn't a live site was archived in October 2026, then moved to Google Drive. Back to [[Hosting]].
 
@@ -11,7 +11,7 @@ Everything on [[DreamHost]] that wasn't a live site was archived in October 2026
 - **How it was checked:** each archive's file count matched the server's. The Drive copies' sizes were checked against the manifest through the Drive API.
 - **Warning:** some archives contain old malware (e.g. `*.INFECTED.php` in the old pebmarsh.com `blog.old`, leftovers in thecodecollective). Google Drive may flag them. Never upload their contents to a web server.
 
-## What's in the big ones
+### What's in the Big Ones
 
 - **`home-data.tar` (9.5 GB):** family photos and videos from 2007–08: Daisy's 7th birthday, Dylan's birthday and Mallorca, Cala D'or 2007, Christmas 2007 and more. 833 photos and 211 `.avi` videos.
 - **`home-archive.tar.gz` (8.4 GB):**
@@ -27,7 +27,7 @@ Everything on [[DreamHost]] that wasn't a live site was archived in October 2026
   - The Code Collective Ltd QuickBooks books (2002).
   - ICS client documents.
 
-## Status (28 Oct 2026)
+### Status (28 Oct 2026)
 
 - **39 archives in Drive and verified:** their folders have been deleted from DreamHost.
 - **3 still uploading or unverified:** `home-data.tar`, `home-archive.tar.gz` and `home-Backups.tar.gz`. Once they're verified, delete `~/data`, `~/archive` and `~/Backups` from DreamHost.

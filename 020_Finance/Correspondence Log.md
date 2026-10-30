@@ -5,6 +5,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-10-30.** Barclays emailed on 29 Oct that the statement for the current account ending 0138 is ready. It has no figures and it's recurring, so it isn't filed separately. The copy sent to Heather and a Barclays Autumn Budget promo to her were discarded. From divorce: personal debts are now corrected to ~£7,486 (29 Oct), and nothing else changed. Banktivity: **salary £6,074.84** landed on Main on 30 Oct, so Main is £6,075.43. See [[Accounts]].
+
 **2026-10-29.** No new email. Divorce unchanged. Banktivity: Joint £29.09 (Tesco £7.40), Main £67.37 (Superwhisper £7.68). See [[Accounts]].
 
 **2026-10-28.** No new email (only the same 26 Oct Barclays investing promo to Heather, discarded). Divorce unchanged. Banktivity: another £100 from Savings Buffer to Main on 27 Oct (Buffer £300.79), Main £75.05 after Tesco, pub and PayPal spend, and Gainsborough - Joint paid the £130 HealthSpa DD on 28 Oct (now £0). See [[Accounts]].

@@ -4,13 +4,13 @@ tags:
 icon: 🌐
 ---
 
-# Hosting
+## Hosting
 
 Everything about the pebmarsh.com domains, websites, email and the providers behind them. The aim is to leave DreamHost: DNS on Cloudflare, static sites on Cloudflare Pages, email on a cheap provider, and the organisations' WordPress sites handed to their owners. See [[Hosting Migration Plan]].
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-## Where things stand (29 Oct 2026)
+### Where Things Stand (29 Oct 2026)
 
 - **DNS:** pebmarsh.com moved to [[Cloudflare]] on 28 Oct 2026, and friendsofpebmarshchurch.uk on 29 Oct 2026. No DNS is left on [[DreamHost]].
 - **Hosting:** [[DreamHost]] Shared Unlimited, switched to **monthly** billing on 28 Oct 2026, so it can be cancelled once everything has moved.
@@ -19,7 +19,7 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 - **First site off DreamHost:** [[Site - Ernis]], on a Cloudflare Worker deployed from GitLab `pebmarsh/ernis` (29 Oct 2026).
 - **GitLab:** a `pebmarsh` group with one private repo per site, plus `pebmarsh/pebmarsh` for this project.
 
-## Map
+### Map
 
 | Area | Notes |
 |---|---|
@@ -33,7 +33,7 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 | Old files | [[Hosting Archive]] |
 | Email trail | [[Hosting Correspondence Log]] |
 
-## Open items
+### Open Items
 
 - DreamHost's 25 Oct security notice expired some email and SFTP passwords: set new ones, tell the users, check the forwards. See [[DreamHost]].
 - 30 Oct 2026, 2–3pm UK: DreamHost database-server upgrade. Afterwards, check DNS for drift and that the sites load. See [[Cloudflare]].

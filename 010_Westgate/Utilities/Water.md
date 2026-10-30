@@ -41,7 +41,7 @@ Estimated annual usage £528.
 
 ![[Pasted image 20250819115238.png]]
 
-### Payment update (Mar 2026)
+### Payment Update (Mar 2026)
 
 ![[Pasted image 20260326100417.png]]
 
@@ -49,7 +49,7 @@ Estimated annual usage £528.
 
 - [x] Possible leak — smart meter detected ~10 litres/hour around the clock (job 68210571, 1 May 2026). Must fix within 30 days or Anglian may repair and pass costs on. Contact: 0345 268 2065, option 3 (Mon–Fri 8am–5pm) ✅ 2026-06-08
 
-### Billing dispute and leakage allowance (Sep 2026) — RESOLVED
+### Billing Dispute and Leakage Allowance (Sep 2026) — RESOLVED
 
 **Outcome (16 Sep 2026):** after a phone call, Anglian granted a leakage allowance of **£3,308.17**. New direct debit set: **£77.00, first payment 8 Oct 2026**, then £77.00 monthly from 8 Nov 2026 until the next review (confirmed by SMS and by the "Your Direct Debit has changed" email, 16 Sep 2026). The £1,022.00 DD that had been set for 1 Oct 2026 is superseded.
 

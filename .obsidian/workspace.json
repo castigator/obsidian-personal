@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "010_Westgate/Utilities/Water.md",
+                "file": "040_Hosting/Hosting Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Water"
+              "title": "Hosting Email"
             }
           }
         ],
@@ -216,8 +216,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e35d59b079089f1b",
+  "active": "4128d220f984b702",
   "lastOpenFiles": [
+    "040_Hosting/Hosting Correspondence Log.md",
+    "040_Hosting/Hosting Archive.md",
+    "040_Hosting/Hosting.md",
+    "010_Westgate/Utilities/Water.md",
+    "020_Finance/Correspondence Log.md.tmp.6338.4346a7325c63",
     "005_Divorce/Correspondence/heather/2026-10-01_halifax-balance-transfer-offer_LOCKH.md",
     "005_Divorce/Correspondence/heather/2026-10-02_certas-september-statement_LOCKH.md",
     "005_Divorce/Correspondence/heather/2026-10-02_certas-statement-9778375.pdf",
@@ -256,13 +261,8 @@
     "020_Finance/Correspondence/2026-09-16_capital-one-direct-debit-reissue.md",
     "020_Finance/Correspondence/2025-08-19_tesco-loan-origination-pack.md",
     "xx_media/2025-08-19_tesco-loan-agreement-pack.pdf",
-    "025_Car/Tesco Car Insurance - Welcome Pack and Signed Credit Agreement.pdf",
     "025_Car/EY07 SVL.md",
     "025_Car/WU11 RYM.md",
-    "001_Personal/_README.md",
-    "001_Personal/Health/Health.md",
-    "sortspec.md",
-    "README.md",
-    "001_Personal/Buses.md"
+    "001_Personal/_README.md"
   ]
 }

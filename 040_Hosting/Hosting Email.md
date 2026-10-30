@@ -77,13 +77,13 @@ Email on pebmarsh.com and its subdomains. It's all on [[DreamHost]] today. This 
 
 ## Provider options
 
-| Option | Cost | Fit |
-|---|---|---|
-| Cloudflare Email Routing | free | Ideal for the forwards. Inbound only: no sending. |
-| Migadu | about $19–48 a year, flat | Unlimited addresses and mailboxes, send-as on all of them. Strong fit. |
-| [[Joker]] Mailbox | about $12 a year **per mailbox** | Good for one or two mailboxes with aliases; too expensive for 12. |
-| Purelymail | about $10–20 a year | Cheapest; less polished. |
-| Google Workspace | $84 a year **per user** | Ruled out (per-user cost). |
+| Option                   | Cost                             | Fit                                                                    |
+| ------------------------ | -------------------------------- | ---------------------------------------------------------------------- |
+| Cloudflare Email Routing | free                             | Ideal for the forwards. Inbound only: no sending.                      |
+| Migadu                   | about $19–48 a year, flat        | Unlimited addresses and mailboxes, send-as on all of them. Strong fit. |
+| [[Joker]] Mailbox        | about $12 a year **per mailbox** | Good for one or two mailboxes with aliases; too expensive for 12.      |
+| Purelymail               | about $10–20 a year              | Cheapest; less polished.                                               |
+| Google Workspace         | $84 a year **per user**          | Ruled out (per-user cost).                                             |
 
 Leading idea: forwards on Cloudflare Email Routing, plus Migadu (or a couple of Joker mailboxes) for whoever needs to send or keep mail. Decide which of the 12 mailboxes really need storage; several already forward to Gmail.
 
