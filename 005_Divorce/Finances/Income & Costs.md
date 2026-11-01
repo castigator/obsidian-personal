@@ -14,7 +14,7 @@ Current transitional income and cost breakdown — not a post-settlement needs b
 
 ## Rupert's Income
 
-- **Net monthly salary:** £6,109 (from Jan 2026; was £5,888)
+- **Net monthly salary:** £6,074.84 (October 2026 payslip, paid 30 Oct: gross salary £9,916.67, pension −£396.67, tax £3,087.26 on code 452T, NI £357.90; filed `attachments/2026-10-30_payslip_roxor.pdf`). The working figure was £6,109 from Jan 2026 (was £5,888). The ~£34 drop is likely the tax code (452T) absorbing medical benefits-in-kind; not yet checked against finance
 - **P60 2025-26 (tax year to 5 Apr 2026):** gross pay **£116,012.69**, tax deducted £36,681.57,
   final tax code 536TM1, employee NI £4,282.90. Employer (payroll entity): **Roxor Gaming Limited**
   (PAYE ref 120/ME01453; the Aristocrat business). Filed: `attachments/2026-04-05_P60_2025-26_roxor.pdf`.
