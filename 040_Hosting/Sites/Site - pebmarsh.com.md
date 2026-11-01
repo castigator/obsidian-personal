@@ -22,7 +22,8 @@ Rupert's own village site. Back to [[Hosting]].
 
 ## The old WordPress site
 
-- WordPress 7.1.3, theme kelly, folder `~/www/pebmarsh/wp.pebmarsh.com` on [[DreamHost]], database `wp_pebmarsh_com` on `mysql.pebmarsh.com`. No longer reachable through pebmarsh.com.
+- WordPress 7.1.3, theme kelly, was in folder `~/www/pebmarsh/wp.pebmarsh.com` on [[DreamHost]], with database `wp_pebmarsh_com` on `mysql.pebmarsh.com`.
 - Plugins at the end: BoldGrid Easy SEO, BoldGrid Gallery, RSS Import, UpdraftPlus, WP Google Maps (its only marker was in California), WP Super Cache, WPForms Lite (not used on any page), DreamHost Panel Login.
 - Hacked in June–July 2026 ([[Incident 2026-07 Malware]]) and again in October 2026 ([[Incident 2026-10 Backdoor]]).
-- **Still to do:** archive the folder and a database dump to Drive, then remove the *website* (not the domain: mail lives there) from DreamHost.
+- **Removed 1 Nov 2026:** folder and database dump archived first to Drive "Hosting Archives" as `www-pebmarsh-wp.pebmarsh.com.tar.gz` (71 MB, md5 645960e37ca0c70078bcf6deb8b90a8a; it includes the SEO-spam malware, kept as evidence). Then the domain was set to **DNS Only** in the DreamHost panel (website hosting removed; domain and its mail kept), the database was deleted in the panel, and the folder was deleted from the server.
+- Side effect of DNS Only: DreamHost dropped its `ftp` and `ssh` records for the apex. Cloudflare's copies were unused; suggested deleting them.
