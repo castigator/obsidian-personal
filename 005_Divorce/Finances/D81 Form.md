@@ -12,6 +12,10 @@ for submission. This is the primary D81 tracking surface (per Rupert, 18 Aug 202
 is background scaffolding underneath it, [[D81 Pension CETVs]] is the detailed pension-CETV
 working tracker feeding Q8/Q10/Q12 below.
 
+**Filled working copy (from 1 Nov 2026):** `D81 - Rupert working copy.pdf` in this folder, generated from the
+repo's `d81/rupert-working-values.json`. Keep the two in step: when an answer changes here, change it there and
+regenerate. On it, Rupert is **provisionally the Applicant**; that's on [[Questions for Alan]].
+
 Status flags: ✅ have it · 🟡 have a figure but it's stale/informal/needs confirming · 🔴 missing
 entirely, chaseable now · ❓ open decision, not a data gap · ❌ not answerable yet — determined
 automatically at/by submission, nothing to chase
@@ -79,7 +83,7 @@ is in the question sections below.
 | Field | Status | Value |
 |---|---|---|
 | Q1 Marriage date | ✅ | 22 August 1998 |
-| Q1 Date started living together (if earlier) | ✅ | ~20 August 1985 (Rupert's recollection, approximate) — matches the "~40 years together" figure (1985→2025) |
+| Q1 Date started living together (if earlier) | ✅ | **20 August 1985**. Rupert confirmed 1 Nov 2026 he's using this date ("pretty sure"), going on memory. Matches the "~40 years together" figure (1985→2025) |
 | Q2 Date separated | ✅ | 22 August 2025 (Rupert, 26 Aug 2026) — exactly 27 years to the day after the marriage date |
 
 ## Q3–5 — Decree/order dates
@@ -95,7 +99,7 @@ is in the question sections below.
 | Field                     | Status | Value                                                                                                                                                                                                                                                                                                   |
 | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Applicant/Respondent DOBs | ✅      | Rupert: 19 June 1966. Heather: 15 December 1966                                                                                                                                                                                                                                                         |
-| Relevant children         | ✅      | Dylan (27), Daisy (26), Lucy (21) — all adults, none is a "child of the family under 18." Lucy could arguably be listed as a dependent child (university, ~£200/mo food money from Rupert) — **open question whether to include her at all given the form's own definition is "under 18 or dependent"** |
+| Relevant children         | ✅      | **Child 1: LUCY THOMAS, 06 12 2005.** Rupert decided 1 Nov 2026 to list her as dependent (university, lives with Heather out of term, ~£200/mo food money from Rupert). Dylan (27) and Daisy (26) are independent, so not listed. Implications are on [[Questions for Alan]] |
 
 ## Q7 — How was the consent order reached
 
@@ -111,7 +115,7 @@ wants **net-of-mortgage** property value, other capital, liabilities, and pensio
 
 | Row | Status | Value |
 |---|---|---|
-| A — Property 1 (Pebmarsh, after mortgage) | 🟡 | Mortgage **£309,748.40** (30 Sep 2026 statement). That's **£1,380.40 over the £308,368 agreed facility**, confirmed in writing; disclose it. Value is still a **range, not one figure**: £550k post-repair (Michaels, 13 Jun; St George £650k, 1 Sep 2025) vs £400k–£425k sold now, unrepaired (Michaels). RBS's own valuation on file is £390,000 (equity £80,251.60 on its numbers). Equity therefore runs from ~£80k–£115k as-is to ~£240k post-repair, before joint debt. **Which figure goes on the form is still open.** It probably waits on the subsidence timeline, or uses an as-is figure with a Q12 note |
+| A — Property 1 (Pebmarsh, after mortgage) | ✅ (pencil) | **Decided 1 Nov 2026: as-is midpoint £412,500 − mortgage £309,748.40 = equity £102,751.60, so £51,376 in each of the Applicant and Respondent columns** (joint, held equally; Child column blank). Post-repair figures (Michaels £550k, St George £650k, Rightmove £600k) and the live subsidence claim go in the Notes box. Refresh the mortgage figure from the latest statement at signing. **Address on the form (Rupert, 1 Nov 2026): MAPLE TREE HOUSE, 1 KINGS MEAD, PEBMARSH, ESSEX CO9 2NA** ("Kings Mead" is two words, as on the Land Registry/Rightmove record; Rightmove's postal town is Halstead). RBS's "£390,000 valuation" is exactly the **May 2007 purchase price** (Land Registry, 14 May 2007), so it's almost certainly the original purchase valuation still on file, not a current one. Mortgage **£309,748.40** (30 Sep 2026 statement). That's **£1,380.40 over the £308,368 agreed facility**, confirmed in writing; disclose it. Value is still a **range, not one figure**: £550k post-repair (Michaels, 13 Jun; St George £650k, 1 Sep 2025) vs £400k–£425k sold now, unrepaired (Michaels). RBS's own valuation on file is £390,000 (equity £80,251.60 on its numbers). Equity therefore runs from ~£80k–£115k as-is to ~£240k post-repair, before joint debt. **Which figure goes on the form is still open.** It probably waits on the subsidence timeline, or uses an as-is figure with a Q12 note |
 | Property 2 | ✅ N/A | Westgate is a rental, not an asset |
 | B — Other capital (bank/savings/ISAs) | 🟡 | **Rupert: ~£589 sole, ~£114 joint with Mandy** (Banktivity, 29 Oct, the day before payday, so the low point of the month). Sole: Barclays Current £212.37 (also where Heather's 20% share lands before it goes out), Starling Main £67.37, Savings Buffer £300.79, Amazon Prime space £8.00. Joint with Mandy: Starling Joint £29.09, Committed - Joint £85.00. No savings, ISAs or investments. Balances swing with the monthly cycle, so take them again on the day the form is finalised. **Open: does Rupert's car go in as an asset?** Heather's side: nothing disclosed. 🔒H her self-forwarded docs (23 Sep) show **two further Nationwide accounts** in her name, so check her figure against them when it arrives. Can't be raised openly |
 | D — Liabilities (excl. mortgage) | ✅ | **Joint: ~£22,703**, made up of cards £13,862.29 (Barclaycard 5002 £7,009.81 at 20 Oct; Halifax 3123 £6,205.97 at 18 Oct; Ann's Barclaycard ~£646.51) and Ann loans £8,840.66. ⚠️ Ann's ~£646.51 is from Heather's own spreadsheet (26 Oct WhatsApp), not a statement, so get a statement figure before drafting. These move monthly, so take the figures from the latest statements at drafting. **Card split is off:** Heather wrote on 24 Oct that both cards stay marital in the order "regardless of whose names they are in", so the form shows them as joint liabilities. **Rupert's personal (non-matrimonial): ~£7,486** (corrected 29 Oct). That's Stuart £3,000, M&S £1,616.31 (0% balance transfer from the solicitor-fee plan, £175/mo), Tesco loan £1,816.62, NatWest £981.08 (26.436%, no promo) and Tesco Mastercard £71.52 (22 Oct purchase). The earlier ~£5,798 wrongly showed M&S as cleared. Still a disclosure figure. 🔒H Heather appears to hold a Nationwide Member Credit Card that isn't on the shared list. Check her disclosure for it. See [[Debts]] |

@@ -8,7 +8,7 @@ tags:
 
 ## Property
 
-- **Address:** Maple Tree House, 1 Kingsmead, Pebmarsh, Essex, CO9 2NA
+- **Address:** Maple Tree House, 1 Kings Mead, Pebmarsh, Essex, CO9 2NA
 - **Mortgage:** £309,700 outstanding (31 Mar 2026) — RBS #11177343, 7.10% rate, early redemption penalty applies
 - **Value (no subsidence):** ~£550,000 (Michaels valuation Sep 2025; neighbour 1 Kings Mead asking £550k STC May 2026)
 - **Value (post-repair):** ~£650,000 (St George valuation Sep 2025)
@@ -19,6 +19,17 @@ tags:
 
 - **Michaels Property Consultants, Halstead** — Aaron Wilcock, 01787 322799. Valued at **£550,000** (as-is, assuming subsidence resolved)
 - **St George Property Group** — Sam Fox, 07485 498850. Valued at **£650,000** (post-repair)
+
+### Rightmove automated estimate (logged 1 Nov 2026)
+
+- **£600,000, range £525k–£675k** (Rightmove estimate updated 28 Oct 2026, from Rupert's screenshot of the tracked
+  "My home" page). Automated, and it knows nothing about the subsidence, so treat it as a third **post-repair**
+  indicator alongside Michaels £550k and St George £650k, not an as-is value.
+- Same page, Land Registry sale history: **bought 14 May 2007 for £390,000**, freehold, 4-bed detached, 164 sq m,
+  built 1973. RBS's "£390,000 valuation" on file is exactly this purchase price, so it's the original purchase
+  valuation, not a current one.
+- **D81 Q8 A decision (1 Nov 2026):** Rupert is using the **as-is midpoint, £412,500** (Michaels £400k–£425k).
+  Post-repair figures go in the D81 Notes. See [[D81 Form]].
 
 ### Comparable: 1 Kings Mead
 
