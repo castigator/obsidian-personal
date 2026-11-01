@@ -71,7 +71,7 @@ totals: ~£5,772 (15 Oct), ~£6,211 (17 Sep), ~£7,182 before that.
 | Debt | Balance | Monthly Payment |
 |------|---------|-----------------|
 | Stuart loan (father) | £3,000 | £0 |
-| Tesco loan | £1,816.62 | £139.74 |
+| Tesco loan (paid for the car, 2011 Citroën C3 Picasso WU11 RYM — Rupert, 1 Nov 2026) | £1,816.62 | £139.74 |
 | NatWest | £981.08 (Banktivity 16 Oct, after £25.97 interest on the 16 Oct statement) | £300.00 |
 | M&S Mastercard | £1,616.31 (Banktivity 2 Oct, 0% balance transfer) | £175.00 |
 | Capital One | £0 | Cleared |
