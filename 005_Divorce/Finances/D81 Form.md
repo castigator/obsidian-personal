@@ -12,9 +12,11 @@ for submission. This is the primary D81 tracking surface (per Rupert, 18 Aug 202
 is background scaffolding underneath it, [[D81 Pension CETVs]] is the detailed pension-CETV
 working tracker feeding Q8/Q10/Q12 below.
 
+**Snapshot 1 Nov 2026:** `D81 - Rupert working copy - snapshot 2026-11-01.pdf` (read-only, identical to the working copy as it stood after Q13/Q14 were drafted). Its answers file is the repo's `d81/rupert-working-values-snapshot-2026-11-01.json`.
+
 **Filled working copy (from 1 Nov 2026):** `D81 - Rupert working copy.pdf` in this folder, generated from the
 repo's `d81/rupert-working-values.json`. Keep the two in step: when an answer changes here, change it there and
-regenerate. On it, Rupert is **provisionally the Applicant**; that's on [[Questions for Alan]].
+regenerate. On it, Rupert is **provisionally the Applicant**; that's on [[Questions for Alan]]. **Heather's cells say TBC** wherever only she can supply the figure (Q8–Q11). Her Q10 B reads "103,774 + TBC": her half of the house proceeds plus her own capital. An "About this working copy" page at the front of the continuation sheets explains the TBCs.
 
 Status flags: ✅ have it · 🟡 have a figure but it's stale/informal/needs confirming · 🔴 missing
 entirely, chaseable now · ❓ open decision, not a data gap · ❌ not answerable yet — determined
@@ -144,13 +146,13 @@ Feeds from [[Income & Costs]].
 
 | Field | Status | Value |
 |---|---|---|
-| Q13 | 🔴 | Can't draft until there's an actual agreed division to explain. Rupert's goals (50/50, clean break) are already stated in [[Divorce]] hub as a starting point |
+| Q13 | 🟡 (working copy, for Rupert's review) | **Drafted 1 Nov 2026 as Rupert's proposal:** 27-year marriage, equal division of capital (repair, sell, clear joint debts, split 50/50), each keeps own pension (broadly similar, subject to formal valuations), each keeps own personal debts. Earlier note: Can't draft until there's an actual agreed division to explain. Rupert's goals (50/50, clean break) are already stated in [[Divorce]] hub as a starting point |
 
 ## Q14 — How each party will support themselves (if maintenance dismissed)
 
 | Field | Status | Value |
 |---|---|---|
-| Q14 | 🔴 | This is the clean-break argument itself — draws on [[Heather Affordability]] and [[Clean Break]], but neither is yet phrased as a court-ready answer to this specific question. ⚠️ [[Heather Affordability]] still uses her old £1,471/mo net; rerun with £1,587.46 before drafting. Her 29 Oct message ("both coming out of it vaguely equal") makes clear this is where she'll push |
+| Q14 | 🟡 (working copy, for Rupert's review) | **Drafted 1 Nov 2026 as Rupert's proposal, facts only:** Applicant's salary, ~£105k capital, pensions, state pension. Respondent's income "about £1,587 a month net, as reported by the Respondent; to be confirmed" (no date or WhatsApp, at Rupert's request), ~£104k capital, own pensions (TBC), state pension. Earlier note: This is the clean-break argument itself — draws on [[Heather Affordability]] and [[Clean Break]], but neither is yet phrased as a court-ready answer to this specific question. ⚠️ [[Heather Affordability]] still uses her old £1,471/mo net; rerun with £1,587.46 before drafting. Her 29 Oct message ("both coming out of it vaguely equal") makes clear this is where she'll push |
 
 ## Q15 — Where each party will live post-order
 
