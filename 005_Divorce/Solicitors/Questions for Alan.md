@@ -11,10 +11,19 @@ action list with checkboxes is [[Divorce]].)
 
 ## From the D81 walk-through (1 Nov 2026)
 
+- ⭐ **RUPERT'S BIGGEST QUESTION: the house can't be sold until well after the order is made. How does a consent
+  order deal with that?** Proposal is repair (subsidence claim) then sell at ~£550k and split the net proceeds 50/50,
+  but repairs depend on monitoring showing stability, so the sale is realistically mid-to-late 2027 at the earliest.
+  How is a deferred sale written into the order (trigger, deadline, who has conduct of the sale)? Should the split be
+  a percentage of net proceeds rather than fixed sums, since the price, mortgage balance and joint debts will all
+  have moved? Who pays the mortgage and house costs in the meantime, and on what split (currently 80/20)? Can the
+  divorce Final Order go through while the sale is still pending? Is the insurer's cash settlement option a better
+  route to an earlier clean break?
+
 - **D81 page 1, applicant/respondent labels.** The divorce is a joint application: Heather is Applicant 1,
   Rupert is Applicant 2. Who goes down as "Applicant" on the D81 and the consent order?
-- **D81 Q6, Lucy as a dependent child.** Rupert is listing Lucy (DOB 6 Dec 2005, at university, lives with
-  Heather out of term, Rupert pays ~£200/mo food money) as a child "dependent on the family". Is that right? Does
+- **D81 Q6, Lucy as a dependent child.** Rupert is listing Lucy (DOB 6 Dec 2005, at university in Norwich on her own
+  year-round tenancy at 48 Wycliffe Road, Rupert pays ~£200/mo food money) as a child "dependent on the family". Is that right? Does
   listing her open up an order for her support (the court can make orders for over-18s in education), and does it
   give any weight to Heather's "I need 2 bedrooms for Lucy" housing argument?
 
