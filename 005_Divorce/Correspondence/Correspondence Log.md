@@ -230,6 +230,10 @@ Also filed directly in `heather/` (received 27 Apr 2026):
 
 ### [solicitors/](solicitors/)
 
+- [2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md](solicitors/2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md) —
+  **Rupert → Alan, 1 Nov 2026 12:59 (sent).** D81 working draft (snapshot PDF attached) plus 11 questions. Q1: is anything
+  in it compromising before he shares it with Heather? Q2 (main): how a consent order handles a sale that happens
+  well after the order. Awaiting reply.
 - [2026-08-03_alan-d81-vs-form-e-answer.md](solicitors/2026-08-03_alan-d81-vs-form-e-answer.md) —
   ✅ **Alan Caldwell answers the D81 vs Form E question** (asked 30 Jul): **D81 confirmed**, not
   Form E. Needs CETVs from both parties' pension providers (total figure only on the form), a

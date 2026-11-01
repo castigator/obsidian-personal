@@ -9,6 +9,8 @@ Rupert's request while going through the printed D81. Add to it whenever somethi
 view. Mark an item `- ✓` with his answer and the date once it's answered. (Plain bullets only: the single
 action list with checkboxes is [[Divorce]].)
 
+**✉️ All items below were sent to Alan on 1 Nov 2026, 12:59** (email "D81 working draft and questions", with the D81 snapshot), as 11 numbered questions. Q1 asked whether anything in the draft could compromise Rupert before he shares it with Heather. Awaiting his reply. Add new questions under a fresh heading.
+
 ## From the D81 walk-through (1 Nov 2026)
 
 - ⭐ **RUPERT'S BIGGEST QUESTION: the house can't be sold until well after the order is made. How does a consent
