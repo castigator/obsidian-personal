@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £6,075.43 | 2026-10-30 |
-| Starling - Joint | £29.09 | 2026-10-28 |
-| Barclays - Current | £212.37 | 2026-10-26 |
+| Starling - Main | £5,844.77 | 2026-11-01 |
+| Starling - Joint | £197.76 | 2026-11-01 |
+| Barclays - Current | £751.26 | 2026-11-02 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -481,7 +481,7 @@ is referenced elsewhere.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Savings Buffer | £300.79 | 2026-10-27 |
+| Starling - Savings Buffer | £301.76 | 2026-11-01 |
 | Starling - Stash | £0.00 | 2026-02-17 |
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-10-28 |
 | Starling - Spare Funds (was "Lucy Rent") | £0.00 | 2026-10-25 |
@@ -492,8 +492,8 @@ is referenced elsewhere.
 | Starling - Council Tax | £0.00 | 2026-10-08 |
 | Starling - TV Licence | £0.14 | 2026-10-08 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
-| Starling - NatWest Credit Card | £0.00 | 2026-10-12 |
-| Starling - Amazon Prime 🆕 | £8.00 | 2026-10-26 |
+| Starling - NatWest Credit Card | £300.00 | 2026-11-01 |
+| Starling - Amazon Prime 🆕 | £8.00 | 2026-11-02 |
 | Starling - ID Mobile 🆕 | £0.00 | 2026-10-13 |
 | Starling - Committed Funds 🆕 | £0.00 | 2026-10-09 |
 | Committed - Joint 🆕 (Joint Space) | £85.00 | 2026-10-22 |
@@ -515,6 +515,8 @@ is referenced elsewhere.
 **28–29 Oct 2026.** Joint: Tesco £7.40 (28 Oct), so it's £29.09. Main: Superwhisper £7.68 (29 Oct), so it's £67.37. Nothing else moved.
 
 **29–30 Oct 2026.** **Salary landed: £6,074.84** ("P751 00111041") on 30 Oct, the last working day, as expected. Later on 29 Oct, after the £67.37: Swan Long Melford £12, £12, £5.20 and £8.60, and Cloud £7.54, so Main was £22.03 before salary. East of England Co-op £21.44 (30 Oct). Main is £6,075.43 and the SUM check agrees. Nothing else moved. The 2 Nov transfers are next to check against the November sheet.
+
+**30 Oct–2 Nov 2026.** Main: Mandy's "Oct Rent" £500 in (30 Oct). Spend: Gowlett Arms £10.80 and £42.80, Co-op £28.68 (30 Oct), Hare Inn £10.90 ×2 (31 Oct), Dunelm £31.50, Sainsbury's Petrol £64.09, Hare Inn £10.90 and £5.10 (1 Nov). **Amazon £49.99 (31 Oct, txn 7822) was mis-paired into the Prime Space again**, which went to £57.99. Rupert's first fix changed the Main side, so the transaction became Gifts / Prime Space and Main lost the charge. He then fixed it properly (2 Nov): Main −£49.99, categorised as Gifts, and the Prime Space is back to £8. The SUM check agrees: Main £5,844.77, Prime £8. 1 Nov transfers: £300 to the NatWest Credit Card Space (for the ~11 Nov DD), and £65 + £100 to Joint. Joint: Mandy's £50 "Shopping" (30 Oct), then Sainsbury's £46.33, so it's £197.76. Savings Buffer: £0.97 October interest, so it's £301.76. Barclays (2 Nov): Rupert's standing orders Debt £488.87 (matches the 80/20 servicing) and Bills £230.02 in, Braintree council tax £180 out, so it's £751.26. **Main's side of those two standing orders (−£718.89) isn't in Banktivity yet.** Expect Main to be about £5,125.88 once it is. The 2 Nov transfers haven't been checked against the November sheet yet.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
