@@ -72,6 +72,8 @@ Email on pebmarsh.com and its subdomains. It's all on [[DreamHost]] today. This 
 
 ### Follow-ups
 
+- **Checked 2 Nov 2026 (MX lookup):** 6 forwards go to domains whose name servers refuse every query, so no mail server can be found and mail almost certainly can't be delivered. The domains are still registered (with CSC, probably for EE), so this isn't proof the mailboxes are closed; a test email or asking the people would confirm. Affected: chris.nott@ and tricia.nott@ (fsnet), swanny@ (fsnet), heidi@ and norman.brown@ (fslife), terry@ (freeserve). Still deliverable: gary.storrar@ (cvshipping, Microsoft 365), harryness@ (pipex, now TalkTalk), ray.hales@ (btopenworld, BT), and roger@, roger.cuthbert@, mailinglist@ (cuthbert.uk.net, Freeola).
+
 - **Forwards to old ISP mailboxes** (Pipex, Freeserve/fsnet, fslife, BT Openworld) have probably closed, so mail to them bounces. Ask each person whether they still want the address, and where it should go.
 - **DreamHost's 25 Oct 2026 notice:** some email users' passwords were expired. See [[DreamHost]].
 
