@@ -45,8 +45,8 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 | harryness@ | maqj01@dial.pipex.com | |
 | ray.hales@ | ray.hales@btopenworld.com | |
 | mailinglist@ | roger@cuthbert.uk.net, rupert@pebmarsh.com | |
-| roger@ | roger@cuthbert.uk.net (+1) | |
-| roger.cuthbert@ | roger@cuthbert.uk.net (+1) | |
+| roger@ | roger@cuthbert.uk.net, rsc@icloud.com | |
+| roger.cuthbert@ | roger@cuthbert.uk.net, rsc@icloud.com | |
 | mapletree@ | rupertthomas@gmail.com | |
 
 **Discarded (3):** `noreply@`, `postmaster@` and `webmaster@` throw their mail away. `postmaster@` should point at a real inbox at the new provider.
@@ -80,6 +80,10 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 - **Model:** no stored mailboxes. Every address forwards (double forwards supported); senders use Gmail "Send mail as" with `smtp.forwardemail.net`, port 465, SSL, username = the full address, password generated per address in the Forward Email dashboard.
 - **Phases:** 1 set up in parallel (DNS records added, aliases recreated); 2 Rupert tests sending; 3 receiving tested on courtyardstores; 4 Heather, Daisy, Lucy switch Gmail; 5 pebmarsh.com MX switched; 6 parishcouncil and pcp; 7 two weeks' overlap; 8 remove DreamHost mail, its SPF/DKIM/autodiscover records, tighten DMARC.
 - **Phase 1 DNS, done 2 Nov 2026:** verification TXT, DKIM `fe-1f98178cbf._domainkey`, `fe-bounces` CNAME (DNS only), `include:spf.forwardemail.net` added to the apex SPF, DMARC reports to Forward Email (policy still `p=none`). MX unchanged. Not added: Forward Email's autoconfig/SRV records (no mailboxes) and its suggested `p=reject`.
+- **Aliases created 2 Nov 2026 (via the API):** rupert, heather (→ Heather + Rupert), daisy, lucy, dylan, gary.storrar, harryness, ray.hales, mailinglist (→ Roger + rupertthomas@gmail.com directly), mapletree, postmaster (→ Rupert; was discarded); noreply and webmaster disabled with silent drop (code 250). roger@ and roger.cuthbert@ (→ roger@cuthbert.uk.net + rsc@icloud.com). The 6 dead-ISP forwards are listed but disabled with a hard reject (550), so senders get an immediate "no such address" and Forward Email never retries or backscatters. Catch-all `*` deleted (unknown addresses are rejected, as at DreamHost). Not yet: jim@, linda@ (waiting on Rupert's test email).
+- **Phase 2 (2 Nov 2026):** rupert@ SMTP password generated (in 1Password); Gmail accepted the login. Outbound SMTP DNS verified 16:49, but the domain is **pending Forward Email admin approval** ("typically less than 24 hours"; they may email rupertthomas@gmail.com with questions). Until approved, Gmail send-as for rupert@ stays on DreamHost.
+- **Phase 3 done (2 Nov 2026):** courtyardstores.pebmarsh.com added to Forward Email (facebook@, mailinglist@, team@ → rupertthomas@gmail.com; noreply@ silent drop; catch-all deleted); its MX switched to mx1/mx2.forwardemail.net. Test from an outside p=reject domain arrived in 11 s with SPF, DKIM, DMARC and ARC all passing. The four @courtyardstores addresses in the DreamHost panel are now unused (delete in Phase 8).
+- **API key:** stored in `~/.config/pebmarsh/forwardemail-token` (mode 600) on the Mac; curl reads it via `-K <(printf …)` so it never appears on a command line.
 - Don't use Forward Email's "1-Click Setup": it would swap the MX records in one go.
 
 ### Provider Options
