@@ -13,46 +13,43 @@ Email on pebmarsh.com and its subdomains. It's all on [[DreamHost]] today. This 
 - **Sending as @pebmarsh.com:** needed by Rupert and anyone else who replies from their address.
 - **Proper SPF, DKIM and DMARC,** which Gmail enforces.
 
-### Inventory (28 Oct 2026, from the DreamHost panel)
+### Inventory (2 Nov 2026, from the DreamHost panel)
 
-#### pebmarsh.com (26 addresses)
+#### pebmarsh.com (23 addresses)
 
-**Mailboxes (12):** each needs its stored mail copied when moving.
+Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` deleted; `dylan@` became a forward to dylan010299@gmail.com; `noreply@` and `webmaster@` now discard their mail.
 
-| Address | Forwards to | Used |
-|---|---|---|
-| castigator@ | — | 0% |
-| daisy@ | daisy.jessica.thomas@gmail.com | 5% |
-| dylan@ | — | 0% |
-| heather@ | heather.heather.thomas@gmail.com (+1) | **85%** |
-| jim@ | — | 2% |
-| linda@ | — | 1% |
-| lucy@ | lucy.rowan.thomas@gmail.com | 3% |
-| noreply@ | — | 1% |
-| private@ | — | 4% |
-| rupert@ | rupertthomas@gmail.com | 6% |
-| twitter@ | — | **57%** |
-| webmaster@ | — | 0% |
+**Mailboxes (6):** each needs its stored mail copied when moving (or archiving, if nobody reads it there).
 
-**Forwards (13):**
+| Address | Name | Also forwards to | Used |
+|---|---|---|---|
+| daisy@ | Daisy | daisy.jessica.thomas@gmail.com | 5% (1.3 GB) |
+| heather@ | Heather | heather.heather.thomas@gmail.com, rupertthomas@gmail.com | **86%** (21 GB of 25) |
+| jim@ | Jim Holder | — (mailbox only) | 2% (448 MB) |
+| linda@ | Linda Holder | — (mailbox only) | 1% (150 MB) |
+| lucy@ | Lucy | lucy.rowan.thomas@gmail.com | 3% |
+| rupert@ | Rupert - Pebmarsh | rupertthomas@gmail.com | 6% |
+
+**Forwards (14):**
 
 | Address | Forwards to | Note |
 |---|---|---|
-| chris.nott@ | chris@jwpnottfarms.fsnet.co.uk | old ISP: check |
-| tricia.nott@ | chris@jwpnottfarms.fsnet.co.uk | old ISP: check |
+| chris.nott@ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet) |
+| tricia.nott@ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet) |
+| swanny@ | swanny@brambles20.fsnet.co.uk | undeliverable (fsnet) |
+| heidi@ | heidi@hpage.fslife.co.uk | undeliverable (fslife) |
+| norman.brown@ | norm@beechcot.fslife.co.uk | undeliverable (fslife) |
+| terry@ | terry@the-barnes.freeserve.co.uk | undeliverable (freeserve) |
+| dylan@ | dylan010299@gmail.com | was a mailbox until Nov 2026 |
 | gary.storrar@ | garystorrar@cvshipping.co.uk | |
-| harryness@ | maqj01@dial.pipex.com | old ISP: check |
-| heidi@ | heidi@hpage.fslife.co.uk | old ISP: check |
+| harryness@ | maqj01@dial.pipex.com | |
+| ray.hales@ | ray.hales@btopenworld.com | |
 | mailinglist@ | roger@cuthbert.uk.net (+1) | |
-| mapletree@ | rupertthomas@gmail.com | |
-| norman.brown@ | norm@beechcot.fslife.co.uk | old ISP: check |
-| ray.hales@ | ray.hales@btopenworld.com | old ISP: check |
 | roger@ | roger@cuthbert.uk.net (+1) | |
 | roger.cuthbert@ | roger@cuthbert.uk.net (+1) | |
-| swanny@ | swanny@brambles20.fsnet.co.uk | old ISP: check |
-| terry@ | terry@the-barnes.freeserve.co.uk | old ISP: check |
+| mapletree@ | rupertthomas@gmail.com | |
 
-**Discarded:** `postmaster@` (DreamHost throws its mail away). It should point at a real inbox at the new provider.
+**Discarded (3):** `noreply@`, `postmaster@` and `webmaster@` throw their mail away. `postmaster@` should point at a real inbox at the new provider.
 
 #### Subdomains (forwards only)
 
@@ -88,6 +85,8 @@ Email on pebmarsh.com and its subdomains. It's all on [[DreamHost]] today. This 
 | Google Workspace         | $84 a year **per user**          | Ruled out (per-user cost).                                             |
 
 Leading idea: forwards on Cloudflare Email Routing, plus Migadu (or a couple of Joker mailboxes) for whoever needs to send or keep mail. Decide which of the 12 mailboxes really need storage; several already forward to Gmail.
+
+- **Cloudflare Email Routing for a subdomain only (tried 2 Nov 2026):** the dashboard's "Onboard Domain" only offers the whole zone, and its first step adds Cloudflare MX (route1/2/3.mx.cloudflare.net), a DKIM key and probably SPF to **pebmarsh.com itself**, which would break the DreamHost mail. Not activated. Subdomains are added from the apex's settings after that. The API may allow subdomain-only, unconfirmed. Decision: subdomain forwards stay on DreamHost until the main email move.
 
 ### When Moving
 
