@@ -44,7 +44,7 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 | gary.storrar@ | garystorrar@cvshipping.co.uk | |
 | harryness@ | maqj01@dial.pipex.com | |
 | ray.hales@ | ray.hales@btopenworld.com | |
-| mailinglist@ | roger@cuthbert.uk.net (+1) | |
+| mailinglist@ | roger@cuthbert.uk.net, rupert@pebmarsh.com | |
 | roger@ | roger@cuthbert.uk.net (+1) | |
 | roger.cuthbert@ | roger@cuthbert.uk.net (+1) | |
 | mapletree@ | rupertthomas@gmail.com | |
