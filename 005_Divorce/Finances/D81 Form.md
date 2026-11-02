@@ -5,34 +5,34 @@ tags:
   - d81
 ---
 
-**Purpose:** a field-by-field mirror of the actual D81 form (`D81 - Statement of Information for
-Consent Order.pdf` in this folder, HMCTS 04.25 version, 24 questions) so we can see at a glance
-what's filled in, what's missing, and what's an open decision — before actually drafting the form
-for submission. This is the primary D81 tracking surface (per Rupert, 18 Aug 2026) — [[Form E]]
-is background scaffolding underneath it, [[D81 Pension CETVs]] is the detailed pension-CETV
+**Purpose:** a field-by-field mirror of the actual D81 form (`D81 - Statement of Information for  
+Consent Order.pdf` in this folder, HMCTS 04.25 version, 24 questions) so we can see at a glance  
+what's filled in, what's missing, and what's an open decision — before actually drafting the form  
+for submission. This is the primary D81 tracking surface (per Rupert, 18 Aug 2026) — [[Form E]]  
+is background scaffolding underneath it, [[D81 Pension CETVs]] is the detailed pension-CETV  
 working tracker feeding Q8/Q10/Q12 below.
 
 **Snapshot 1 Nov 2026:** `D81 - Rupert working copy - snapshot 2026-11-01.pdf` (read-only, identical to the working copy as it stood after Q13/Q14 were drafted). Its answers file is the repo's `d81/rupert-working-values-snapshot-2026-11-01.json`.
 
-**Filled working copy (from 1 Nov 2026):** `D81 - Rupert working copy.pdf` in this folder, generated from the
-repo's `d81/rupert-working-values.json`. Keep the two in step: when an answer changes here, change it there and
+**Filled working copy (from 1 Nov 2026):** `D81 - Rupert working copy.pdf` in this folder, generated from the  
+repo's `d81/rupert-working-values.json`. Keep the two in step: when an answer changes here, change it there and  
 regenerate. On it, Rupert is **provisionally the Applicant**; that's on [[Questions for Alan]]. **Heather's cells say TBC** wherever only she can supply the figure (Q8–Q11). Her Q10 B reads "103,774 + TBC": her half of the house proceeds plus her own capital. An "About this working copy" page at the front of the continuation sheets explains the TBCs.
 
-Status flags: ✅ have it · 🟡 have a figure but it's stale/informal/needs confirming · 🔴 missing
-entirely, chaseable now · ❓ open decision, not a data gap · ❌ not answerable yet — determined
+Status flags: ✅ have it · 🟡 have a figure but it's stale/informal/needs confirming · 🔴 missing  
+entirely, chaseable now · ❓ open decision, not a data gap · ❌ not answerable yet — determined  
 automatically at/by submission, nothing to chase
 
-*Tidied 29 Oct 2026: route context brought up to date, Rupert's other capital filled in, and his
-personal debts corrected (the M&S card was wrongly shown as cleared). Previous full refresh 26 Oct
+*Tidied 29 Oct 2026: route context brought up to date, Rupert's other capital filled in, and his  
+personal debts corrected (the M&S card was wrongly shown as cleared). Previous full refresh 26 Oct  
 (see [[2026-10-26_d81-form-refresh]]).*
 
-**Status (29 Oct 2026):** tracker set up 24 Aug; not yet drafted as a form. Rupert's own "before the
-order" figures are complete (summary below). The gaps are Heather's formal figures and everything
+**Status (29 Oct 2026):** tracker set up 24 Aug; not yet drafted as a form. Rupert's own "before the  
+order" figures are complete (summary below). The gaps are Heather's formal figures and everything  
 that depends on agreed terms.
 
-## Rupert's figures at a glance (29 Oct 2026)
+## Rupert's Figures at a Glance (29 Oct 2026)
 
-His column of the "before the order" questions, ready to go through. Each row's detail and source
+His column of the "before the order" questions, ready to go through. Each row's detail and source  
 is in the question sections below.
 
 | D81 item | Rupert | Status |
@@ -50,28 +50,28 @@ is in the question sections below.
 
 **Route context (live):**
 - **Agreed route:** D81 + consent order, no mediation, with Alan engaged (3 Aug). Rupert still holds to it (25 Oct).
-- **Heather, 24 Oct (email):** proposes Form E (each fills one in separately) and then mediation. Rupert doesn't accept the
-  switch, and **replied by email on Sun 25 Oct, 11:05** holding to the D81/consent-order route. See
+- **Heather, 24 Oct (email):** proposes Form E (each fills one in separately) and then mediation. Rupert doesn't accept the  
+  switch, and **replied by email on Sun 25 Oct, 11:05** holding to the D81/consent-order route. See  
   [[2026-10-24_heather-finance-form-e-mediation-cards]] and [[2026-10-25_draft-reply-to-heather-finance]] (the sent text).
-- **Heather, 26 Oct 09:20 (WhatsApp):** "Can you send me a copy of your D81… I sent you my info months ago."
-  ✅ **Answered 26 Oct 13:50.** Rupert sent his salary (£116,013 gross P60 / £6,109 net a month) and all
-  five pension values (£220,787.88), and asked for her formal statements and the Midel figure in return.
-  **Framing point:** the D81 isn't a one-sided disclosure form. It's normally a **joint**
-  statement filed *with* an agreed consent order, and Q8–Q16 describe the proposed outcome. There is no
-  "Rupert's D81" to send yet. What she's actually asking for is his **income and pension figures**, the
-  equivalent of her 30 Jul WhatsApp self-report. Those are ready (Q9 row A, Q8 row F below) and could be
+- **Heather, 26 Oct 09:20 (WhatsApp):** "Can you send me a copy of your D81… I sent you my info months ago."  
+  ✅ **Answered 26 Oct 13:50.** Rupert sent his salary (£116,013 gross P60 / £6,109 net a month) and all  
+  five pension values (£220,787.88), and asked for her formal statements and the Midel figure in return.  
+  **Framing point:** the D81 isn't a one-sided disclosure form. It's normally a **joint**  
+  statement filed *with* an agreed consent order, and Q8–Q16 describe the proposed outcome. There is no  
+  "Rupert's D81" to send yet. What she's actually asking for is his **income and pension figures**, the  
+  equivalent of her 30 Jul WhatsApp self-report. Those are ready (Q9 row A, Q8 row F below) and could be  
   shared as a disclosure summary without conceding the Form E/mediation route. (Not legal advice.)
-- **Heather, 29 Oct 07:41 (WhatsApp):** says the D81 is for when the split is already agreed and asks if Rupert is
-  "thinking 50/50". Rupert (09:30) says they agreed 50/50 "ages ago", explains what a consent order application
-  needs, and asks her to choose the route. **Heather (10:01) steps back from 50/50:** "maybe I did say yes… at the
-  time", she "could not buy another property (even if I added on a mortgage approx £70ish k)" while Rupert "clearly
-  could", Lucy lives with her out of term, and the aim is "both coming out of it vaguely equal". She'll "look at the
-  numbers". **Rupert (11:52)** replies that he's 60 and can't easily buy either, that neither has to buy, and that
-  Lucy is an adult. He **proposes they each fill in the D81 with their own figures** and then sit down with both.
-  So the "before the order" half of this form is now a working document to swap, not just the final filing. See
+- **Heather, 29 Oct 07:41 (WhatsApp):** says the D81 is for when the split is already agreed and asks if Rupert is  
+  "thinking 50/50". Rupert (09:30) says they agreed 50/50 "ages ago", explains what a consent order application  
+  needs, and asks her to choose the route. **Heather (10:01) steps back from 50/50:** "maybe I did say yes… at the  
+  time", she "could not buy another property (even if I added on a mortgage approx £70ish k)" while Rupert "clearly  
+  could", Lucy lives with her out of term, and the aim is "both coming out of it vaguely equal". She'll "look at the  
+  numbers". **Rupert (11:52)** replies that he's 60 and can't easily buy either, that neither has to buy, and that  
+  Lucy is an adult. He **proposes they each fill in the D81 with their own figures** and then sit down with both.  
+  So the "before the order" half of this form is now a working document to swap, not just the final filing. See  
   [[whatsapp-transcript]] (29 Oct).
 
-## Page 1 — Court and parties
+## Page 1 — Court and Parties
 
 | Field | Status | Value |
 |---|---|---|
@@ -80,7 +80,7 @@ is in the question sections below.
 | Applicant / Respondent names | ✅ | Rupert Thomas / Heather Thomas. The divorce is a **joint application**: Heather is Applicant 1 and Rupert is Applicant 2 (8 Jun, see [[2026-06-08_joint-divorce-application-rupert-invited]]). Who is "Applicant" for the financial order is set when the consent order is lodged. Alan to confirm the labelling |
 | Joint form or separate? | ❓ | Guidance recommends one joint form. Depends entirely on whether terms are agreed by the time this is drafted — default to joint unless a specific reason not to |
 
-## Q1–2 — Marriage and separation dates
+## Q1–2 — Marriage and Separation Dates
 
 | Field | Status | Value |
 |---|---|---|
@@ -88,7 +88,7 @@ is in the question sections below.
 | Q1 Date started living together (if earlier) | ✅ | **20 August 1985**. Rupert confirmed 1 Nov 2026 he's using this date ("pretty sure"), going on memory. Matches the "~40 years together" figure (1985→2025) |
 | Q2 Date separated | ✅ | 22 August 2025 (Rupert, 26 Aug 2026) — exactly 27 years to the day after the marriage date |
 
-## Q3–5 — Decree/order dates
+## Q3–5 — Decree/order Dates
 
 | Field | Status | Value |
 |---|---|---|
@@ -96,23 +96,23 @@ is in the question sections below.
 | Q4 Is this for interim maintenance? | ❓ | Presumed No (goal is a single clean-break consent order) — confirm |
 | Q5 Decree/Final Order granted? | ❌ | No — and by design: [[Divorce]] hub says hold Final Order until the consent order is sealed. Determined by process timing, not something to chase |
 
-## Q6 — Dates of birth / relevant children
+## Q6 — Dates of Birth / Relevant Children
 
 | Field                     | Status | Value                                                                                                                                                                                                                                                                                                   |
 | ------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Applicant/Respondent DOBs | ✅      | Rupert: 19 June 1966. Heather: 15 December 1966                                                                                                                                                                                                                                                         |
 | Relevant children         | ✅      | **Child 1: LUCY THOMAS, 06 12 2005.** Rupert decided 1 Nov 2026 to list her as dependent (university, lives with Heather out of term, ~£200/mo food money from Rupert). Dylan (27) and Daisy (26) are independent, so not listed. Implications are on [[Questions for Alan]] |
 
-## Q7 — How was the consent order reached
+## Q7 — How Was the Consent order Reached
 
 | Field | Status | Value |
 |---|---|---|
 | Q7 tick box | 🔴 | Nothing agreed yet, so there's no proposed consent order to describe. Options once terms are settled: discussion between parties (Rupert's preferred route) / negotiations through solicitors / out-of-court dispute resolution. **Heather is now actively pushing mediation** (24 Oct email, after Form E disclosure). Rupert hasn't agreed. If mediation does happen, this box changes |
 
-## Q8/Q10 — Money and property (before / after the order)
+## Q8/Q10 — Money and Property (before / after the order)
 
-Feeds from [[House Sale]], [[Debts]], [[D81 Pension CETVs]], [[005_Divorce/Pensions]]. The form
-wants **net-of-mortgage** property value, other capital, liabilities, and pensions cash-equivalent
+Feeds from [[House Sale]], [[Debts]], [[D81 Pension CETVs]], [[005_Divorce/Pensions]]. The form  
+wants **net-of-mortgage** property value, other capital, liabilities, and pensions cash-equivalent  
 — for both parties.
 
 | Row | Status | Value |
@@ -124,7 +124,7 @@ wants **net-of-mortgage** property value, other capital, liabilities, and pensio
 | F — Pensions (cash equivalent) | 🟡 | **Working copy (1 Nov 2026): Applicant F £220,788, G blank (no PPF), H total £254,628.** All five pensions are listed in the page 6 Notes box, which is now full; anything more needs a continuation sheet. Rupert: **£220,787.88**. ✅ All five have formal, dated figures: Midel £14,132.62, Objective IT £27,425.39 (24 Aug), FT/Pearson £70,972.14, HL SIPP £86,088.36 (31 Aug), Aristocrat £22,169.37. See [[D81 Pension CETVs]]. Heather: **£195,507.83** self-reported on WhatsApp: Vodafone £89,748, Prudential DB £25,525 and Essex/LGPS £67,772 (30 Jul, Nov/Dec 2025 figures), plus Midel/Aviva £12,462.83 (26 Oct, Jul 2026). Not formal CETVs, so it needs written statements before it can go on the form. 🔒H her Prudential DB quotation has been in her XPS portal since 20 May |
 | Q10 (post-order) equivalents | ✅ (working copy, Rupert's proposal) | **Filled 1 Nov 2026 on Rupert's proposal of repair, then sell at £550k:** £550,000 − mortgage £309,748.40 − sale costs £9,000 (estimate) − excess £1,000 − joint debts £22,702.95 = £207,548.65, so **£103,774 each**. Applicant B £105,075, D £7,486, E £97,590, F £220,788 (no pension order assumed), H £318,378. Respondent: A £0, B £103,774, rest hers. Q11 is the same as Q9 (A £6,075, G −£200/+£200, H £0, M £5,875). Explained on a continuation sheet (page 24), including the timing point: the sale won't happen until well after the order. That's Rupert's biggest question, at the top of [[Questions for Alan]]. Earlier note: Can't populate until there's an actual proposed split to model |
 
-## Q9/Q11 — Net income
+## Q9/Q11 — Net Income
 
 Feeds from [[Income & Costs]].
 
@@ -136,44 +136,44 @@ Feeds from [[Income & Costs]].
 | G/H — Child/spousal maintenance between parties | ❓ | **Working copy (1 Nov 2026): G = Lucy £200 (−£200 Applicant / +£200 Child). H blank.** Rupert decided not to show his 80% of the Pebmarsh costs (£2,166.51/mo) as spousal maintenance. The D81 has no outgoings section, so it's explained at Q12. I: −£200 / +£200 Child. M Applicant **£5,875**, Child £200. None currently paid — presumed nil pending the clean-break argument, but this is the crux question the whole D81 is building toward |
 | J/K — Maintenance to/from third parties | ✅ N/A | None identified |
 
-## Q12 — Other matters for the court
+## Q12 — Other Matters for the Court
 
 | Field | Status | Value |
 |---|---|---|
 | Q12 | ✅ (working copy) | **Filled 1 Nov 2026: ticked Yes, box says "See continuation sheet: Question 12"; the sheet is page 24 of the working copy.** It covers: (1) interim payments, £2,166.51/mo 80% of Pebmarsh costs + joint card servicing, plus Lucy £200, "not spousal maintenance"; (2) Rupert's own housing: Westgate rent £1,000 + all bills ~£420–470 (sheet says "His partner makes minimal, ad hoc contributions"); (3) subsidence; (4) RBS £1,380.40 over facility; (5) Objective IT pension trust, Heather co-trustee; (6) state pension £1,042/mo projected. Original planning notes: Natural place to flag:<br>• **Subsidence claim** (6843593K, liability accepted 11 May). Repairs depend on evidence the house is stable. The August readings opened back up ~2.8–3.1mm. The October reading is due, with a report late Oct / early Nov. The Feb–Apr 2027 repair window has slipped by at least one more cycle.<br>• **The house valuation range** and the sell-now-or-wait dilemma.<br>• **RBS over-facility** (£1,380.40 over at 30 Sep).<br>• **Rupert's Objective IT/Prudential pension is held under trust**, with Heather (as "Heather Jeffrey") as co-trustee.<br>• **DB-vs-DC mix**, if pensions are offset rather than shared.<br>The drain claim (Ageas 6866220H) is **closed out (14 Aug)**; only the uncollected £400 excess remains, so it's probably not worth a Q12 mention |
 
-## Q13 — Reasons for the proposed division
+## Q13 — Reasons for the Proposed Division
 
 | Field | Status | Value |
 |---|---|---|
 | Q13 | 🟡 (working copy, for Rupert's review) | **Drafted 1 Nov 2026 as Rupert's proposal:** 27-year marriage, equal division of capital (repair, sell, clear joint debts, split 50/50), each keeps own pension (broadly similar, subject to formal valuations), each keeps own personal debts. Earlier note: Can't draft until there's an actual agreed division to explain. Rupert's goals (50/50, clean break) are already stated in [[Divorce]] hub as a starting point |
 
-## Q14 — How each party will support themselves (if maintenance dismissed)
+## Q14 — How Each Party Will Support Themselves (if Maintenance dismissed)
 
 | Field | Status | Value |
 |---|---|---|
 | Q14 | 🟡 (working copy, for Rupert's review) | **Drafted 1 Nov 2026 as Rupert's proposal, facts only:** Applicant's salary, ~£105k capital, pensions, state pension. Respondent's income "about £1,587 a month net, as reported by the Respondent; to be confirmed" (no date or WhatsApp, at Rupert's request), ~£104k capital, own pensions (TBC), state pension. Earlier note: This is the clean-break argument itself — draws on [[Heather Affordability]] and [[Clean Break]], but neither is yet phrased as a court-ready answer to this specific question. ⚠️ [[Heather Affordability]] still uses her old £1,471/mo net; rerun with £1,587.46 before drafting. Her 29 Oct message ("both coming out of it vaguely equal") makes clear this is where she'll push |
 
-## Q15 — Where each party will live post-order
+## Q15 — Where Each Party Will Live Post-order
 
 | Field | Status | Value |
 |---|---|---|
 | Q15 | ✅ (working copy) | **Filled 1 Nov 2026:** Rupert at 19 Westgate Street, tenant. Heather and Lucy: "To be decided. The Applicant proposes that Property 1 is sold." Rupert corrected this: Q15 is about post-order housing, and his position is that the house is sold, so Maple Tree House must not appear as her future address. **Lucy (Rupert, 1 Nov 2026): 48 Wycliffe Road, Norwich NR4 7DX, tenant on a year-round tenancy** (not halls), so her housing doesn't depend on Heather's. Original notes: Depends entirely on whether the house is sold or Heather buys Rupert out (see [[Heather Buyout Scenario]], not yet modelled or raised with her). Not decided. Rupert: staying at Westgate (rental). **Heather, 29 Oct (WhatsApp):** she says she couldn't buy, even with a mortgage of "approx £70ish k", and that Rupert "clearly could". **Both are about 60** (Rupert 19 Jun 1966, Heather 15 Dec 1966), so both face the same short mortgage term. Rupert also has a weak credit file. Neither has to buy, and renting is a valid outcome. A written mortgage broker assessment for each of them would turn this from assertion into evidence. 🔒H a Garden Annexes follow-up to Heather (24 Oct) hints she may be planning to stay at Maple Tree House. Can't be cited |
 
-## Q16 — New relationships
+## Q16 — New Relationships
 
 | Field | Status | Value |
 |---|---|---|
 | Applicant (Rupert) | ✅ | **Ticked on the working copy, 1 Nov 2026.** Cohabiting — with Mandy Zimmer at Westgate |
 | Respondent (Heather) | 🟡 | No intention to remarry/cohabit, nobody else involved — Rupert's own assessment (26 Aug 2026), not confirmed directly by Heather or her solicitor |
 
-## Q17 — Notice to mortgage provider
+## Q17 — Notice to Mortgage Provider
 
 | Field | Status | Value                                                                                                                                                                                                      |
 | ----- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Q17   | ❓      | Only applies if the consent order provides for a property transfer — depends on whether the outcome is sale-and-split, a buyout (one party keeps the house and refinances), or transfer. Not decidable yet |
 
-## Q18–22 — Pension orders / notice to pension arrangement
+## Q18–22 — Pension Orders / Notice to Pension Arrangement
 
 | Field | Status | Value |
 |---|---|---|
@@ -186,15 +186,15 @@ Feeds from [[Income & Costs]].
 |---|---|---|
 | Q23–24 | 🔴 | Not applicable until there's an actual proposed order to sign against |
 
-## What's actually blocking progress
+## What's Actually Blocking Progress
 
 The form itself can't be meaningfully drafted until these resolve, roughly in priority order:
 
-1. **Route and the split itself.** Heather wants Form E then mediation (24 Oct). Rupert wants D81 + consent order
-   via Alan (25 Oct email). On 29 Oct (WhatsApp) she stepped back from 50/50 towards "vaguely equal", framed around
+1. **Route and the split itself.** Heather wants Form E then mediation (24 Oct). Rupert wants D81 + consent order  
+   via Alan (25 Oct email). On 29 Oct (WhatsApp) she stepped back from 50/50 towards "vaguely equal", framed around  
    housing need. Rupert proposed they each fill in the D81 with their own figures and then talk. Waiting for her reply.
-2. **Disclosure exchange.** Rupert's income and pension figures were **sent to Heather 26 Oct** (WhatsApp).
-   Still needed from her: **her four pension CETVs as formal written statements**, including the Midel figure
+2. **Disclosure exchange.** Rupert's income and pension figures were **sent to Heather 26 Oct** (WhatsApp).  
+   Still needed from her: **her four pension CETVs as formal written statements**, including the Midel figure  
    (requested 26 Oct), plus her other capital and personal debts.
 3. **A house valuation figure the form can actually use**, or an explicit decision to wait for the subsidence claim to resolve
 4. **Sale-and-split or buyout?** See [[Heather Buyout Scenario]]. This directly affects Q15/Q17

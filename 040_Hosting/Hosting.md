@@ -10,15 +10,15 @@ Everything about the pebmarsh.com domains, websites, email and the providers beh
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-### Where Things Stand (30 Oct 2026)
+### Where Things Stand (2 Nov 2026)
 
-- **DNS:** pebmarsh.com moved to [[Cloudflare]] on 28 Oct 2026, and friendsofpebmarshchurch.uk on 29 Oct 2026. No DNS is left on [[DreamHost]].
-- **Hosting:** [[DreamHost]] Shared Unlimited, switched to **monthly** billing on 28 Oct 2026, so it can be cancelled once everything has moved.
-- **Security:** the [[Incident 2026-10 Backdoor]] is contained. The entry point is unknown.
-- **Old files:** archived to Google Drive and mostly deleted from DreamHost; see [[Hosting Archive]].
-- **First site off DreamHost:** [[Site - Ernis]], on a Cloudflare Worker deployed from GitLab `pebmarsh/ernis` (29 Oct 2026).
-- **pebmarsh.com is now a static site:** [[Site - pebmarsh.com]] moved from WordPress to a Cloudflare Worker, deployed from GitLab `pebmarsh/pebmarsh-com` (30 Oct 2026).
-- **GitLab:** a `pebmarsh` group with one private repo per site, plus `pebmarsh/pebmarsh` for this project.
+- **DNS:** pebmarsh.com and friendsofpebmarshchurch.uk are on [[Cloudflare]]. No DNS is left on [[DreamHost]].
+- **Hosting:** [[DreamHost]] Shared Unlimited on **monthly** billing since 28 Oct 2026. Left there: [[Site - Parish Council]], [[Site - Friends of Pebmarsh Church]], [[Site - Pebmarsh Community Pub]] (WordPress) and the pebmarsh.com apex mail.
+- **Static sites on Cloudflare Workers:** [[Site - pebmarsh.com]] (30 Oct), [[Site - Ernis]] and [[Site - Honeycode]] (29 Oct), [[Site - Courtyard Stores]] (2 Nov). Old WordPress for pebmarsh.com and Courtyard Stores archived to Drive and removed.
+- **Email:** moving to Forward Email ($3/month), forward-only with Gmail "Send mail as". The three subdomains are already on it and tested; the apex switches after Forward Email approves outbound sending. See [[Hosting Email]].
+- **Security:** [[Incident 2026-10 Backdoor]] contained; SEO-spam cloaking malware found in the old pebmarsh.com theme on 30 Oct (follow-ups parked).
+- **Old files:** everything archived to Google Drive; `~/data`, `~/archive`, `~/Backups` deleted 2 Nov. See [[Hosting Archive]].
+- **GitLab:** group `pebmarsh`, one private repo per site (`ernis`, `pebmarsh-com`, `courtyardstores`) plus `pebmarsh/pebmarsh` for the ops folder.
 
 ### Map
 
@@ -36,12 +36,10 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 
 ### Open Items
 
-- DreamHost's 25 Oct security notice expired some email and SFTP passwords: set new ones, tell the users, check the forwards. See [[DreamHost]].
-- 30 Oct 2026, 2–3pm UK: DreamHost database-server upgrade. Afterwards, check DNS for drift and that the sites load. See [[Cloudflare]].
-- Verify the last three archives in Drive, then delete `~/data`, `~/archive` and `~/Backups`. See [[Hosting Archive]].
-- [[Site - Honeycode]] moved to Cloudflare and fully removed from DreamHost on 29 Oct 2026 (Workers + R2).
-
-- Choose the email provider; follow up the dead-ISP forwards. See [[Hosting Email]].
-- Hand off the four organisation sites.
-- [[Site - pebmarsh.com]]: old WordPress archived and removed from DreamHost (1 Nov 2026); `workers.dev` off. Unused apex `ftp`/`ssh` records deleted (2 Nov). Left: check Google Search Console for spam pages from the June–October cloaking malware.
-- [[Mailchimp]]: Courtyard Stores welcome emails are failing.
+- **Email move** ([[Hosting Email]]): wait for Forward Email's outbound SMTP approval; then Rupert tests sending; Heather, Daisy and Lucy switch Gmail; swap the apex MX; two weeks' overlap; remove DreamHost mail and its DNS leftovers; tighten DMARC.
+- jim@ and linda@ (Holder): Rupert to send a test email; decide whether to keep, then archive their mailboxes.
+- DreamHost's 25 Oct notice expired some email and SFTP passwords: largely moot once mail moves; check whether the `pebmarsh_pcp` SFTP user is affected. See [[DreamHost]].
+- Hand off Parish Council, FoPC and PCP to their owners (Krystal suggested for PCP; FoPC is registered charity 1184947, so free charity hosting).
+- Security follow-ups (parked 2 Nov): search PCP for the cloaking malware, add theme checks to `wp-audit.sh`, check Google Search Console. See [[Incident 2026-10 Backdoor]].
+- Parish Council: remove 5 unused themes (awaiting yes). FoPC: 4 plugin updates.
+- [[Mailchimp]]: Courtyard Stores welcome emails keep failing.

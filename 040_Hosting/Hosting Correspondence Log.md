@@ -5,12 +5,16 @@ tags:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-01
+**Last checked:** 2026-11-02
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-02 | DreamHost | "Database Deleted" (ticket 266200523): confirms `courtyardstores_pebmarsh` deleted by Rupert. | None |
+| 2026-11-01 | DreamHost | "Database Deleted" (ticket 266178878): confirms `wp_pebmarsh_com` deleted by Rupert. | None |
+| 2026-11-01 to 02 | Mailchimp | Courtyard Stores welcome email failed again (1 and 2 Nov). | Existing open item |
+| 2026-11-02 | Forward Email | Outbound SMTP for pebmarsh.com verified and pending admin approval; a follow-up email will come after review. (Also: new password generated for rupert@pebmarsh.com, expected.) | **Open:** wait for approval; answer any questions |
 | 2026-10-31 | Mailchimp | Courtyard Stores welcome email failed again (also 29 and 30 Oct). | Existing open item |
 | 2026-10-30 | DreamHost | Database server `iad1-mysql-e2-17b` upgrade complete. Checked 1 Nov: DNS matches, all sites 200. | None |
 | 2026-10-29 | Cloudflare | friendsofpebmarshchurch.uk is active on the Free plan. | None |
