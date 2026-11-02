@@ -74,6 +74,14 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 - **Forwards to old ISP mailboxes** (Pipex, Freeserve/fsnet, fslife, BT Openworld) have probably closed, so mail to them bounces. Ask each person whether they still want the address, and where it should go.
 - **DreamHost's 25 Oct 2026 notice:** some email users' passwords were expired. See [[DreamHost]].
 
+### Decision: Forward Email (2 Nov 2026)
+
+- **Provider:** [Forward Email](https://forwardemail.net), Enhanced Protection plan, $3/month ($18 per 6 months), paid by Rupert on 2 Nov 2026; account signed up with rupertthomas@gmail.com, deliberately not an @pebmarsh.com address. Auto-refund until 2 Dec 2026.
+- **Model:** no stored mailboxes. Every address forwards (double forwards supported); senders use Gmail "Send mail as" with `smtp.forwardemail.net`, port 465, SSL, username = the full address, password generated per address in the Forward Email dashboard.
+- **Phases:** 1 set up in parallel (DNS records added, aliases recreated); 2 Rupert tests sending; 3 receiving tested on courtyardstores; 4 Heather, Daisy, Lucy switch Gmail; 5 pebmarsh.com MX switched; 6 parishcouncil and pcp; 7 two weeks' overlap; 8 remove DreamHost mail, its SPF/DKIM/autodiscover records, tighten DMARC.
+- **Phase 1 DNS, done 2 Nov 2026:** verification TXT, DKIM `fe-1f98178cbf._domainkey`, `fe-bounces` CNAME (DNS only), `include:spf.forwardemail.net` added to the apex SPF, DMARC reports to Forward Email (policy still `p=none`). MX unchanged. Not added: Forward Email's autoconfig/SRV records (no mailboxes) and its suggested `p=reject`.
+- Don't use Forward Email's "1-Click Setup": it would swap the MX records in one go.
+
 ### Provider Options
 
 | Option                   | Cost                             | Fit                                                                    |
