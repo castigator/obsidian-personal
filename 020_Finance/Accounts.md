@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £5,844.77 | 2026-11-01 |
-| Starling - Joint | £197.76 | 2026-11-01 |
+| Starling - Main | £1,485.67 | 2026-11-02 |
+| Starling - Joint | £132.76 | 2026-11-02 |
 | Barclays - Current | £751.26 | 2026-11-02 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -483,18 +483,18 @@ is referenced elsewhere.
 |---|---:|---|
 | Starling - Savings Buffer | £301.76 | 2026-11-01 |
 | Starling - Stash | £0.00 | 2026-02-17 |
-| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £0.00 | 2026-10-28 |
-| Starling - Spare Funds (was "Lucy Rent") | £0.00 | 2026-10-25 |
-| Starling - Westgate Rent | £0.00 | 2026-10-22 |
-| Starling - Broadband | £0.00 | 2026-10-19 |
-| Starling - Home Insurance | £0.00 | 2026-10-23 |
-| Starling - Water | £0.00 | 2026-10-08 |
-| Starling - Council Tax | £0.00 | 2026-10-08 |
-| Starling - TV Licence | £0.14 | 2026-10-08 |
+| Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-11-02 |
+| Starling - Spare Funds (was "Lucy Rent") | £333.00 | 2026-11-02 |
+| Starling - Westgate Rent | £1,000.00 | 2026-11-02 |
+| Starling - Broadband | £32.99 | 2026-11-02 |
+| Starling - Home Insurance | £5.30 | 2026-11-02 |
+| Starling - Water | £77.00 | 2026-11-02 |
+| Starling - Council Tax | £152.00 | 2026-11-02 |
+| Starling - TV Licence | £15.65 | 2026-11-02 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
 | Starling - NatWest Credit Card | £300.00 | 2026-11-01 |
-| Starling - Amazon Prime 🆕 | £8.00 | 2026-11-02 |
-| Starling - ID Mobile 🆕 | £0.00 | 2026-10-13 |
+| Starling - Amazon Prime 🆕 | £16.00 | 2026-11-02 |
+| Starling - ID Mobile 🆕 | £44.99 | 2026-11-02 |
 | Starling - Committed Funds 🆕 | £0.00 | 2026-10-09 |
 | Committed - Joint 🆕 (Joint Space) | £85.00 | 2026-10-22 |
 
@@ -517,6 +517,8 @@ is referenced elsewhere.
 **29–30 Oct 2026.** **Salary landed: £6,074.84** ("P751 00111041") on 30 Oct, the last working day, as expected. Later on 29 Oct, after the £67.37: Swan Long Melford £12, £12, £5.20 and £8.60, and Cloud £7.54, so Main was £22.03 before salary. East of England Co-op £21.44 (30 Oct). Main is £6,075.43 and the SUM check agrees. Nothing else moved. The 2 Nov transfers are next to check against the November sheet.
 
 **30 Oct–2 Nov 2026.** Main: Mandy's "Oct Rent" £500 in (30 Oct). Spend: Gowlett Arms £10.80 and £42.80, Co-op £28.68 (30 Oct), Hare Inn £10.90 ×2 (31 Oct), Dunelm £31.50, Sainsbury's Petrol £64.09, Hare Inn £10.90 and £5.10 (1 Nov). **Amazon £49.99 (31 Oct, txn 7822) was mis-paired into the Prime Space again**, which went to £57.99. Rupert's first fix changed the Main side, so the transaction became Gifts / Prime Space and Main lost the charge. He then fixed it properly (2 Nov): Main −£49.99, categorised as Gifts, and the Prime Space is back to £8. The SUM check agrees: Main £5,844.77, Prime £8. 1 Nov transfers: £300 to the NatWest Credit Card Space (for the ~11 Nov DD), and £65 + £100 to Joint. Joint: Mandy's £50 "Shopping" (30 Oct), then Sainsbury's £46.33, so it's £197.76. Savings Buffer: £0.97 October interest, so it's £301.76. Barclays (2 Nov): Rupert's standing orders Debt £488.87 (matches the 80/20 servicing) and Bills £230.02 in, Braintree council tax £180 out, so it's £751.26. **Main's side of those two standing orders (−£718.89) isn't in Banktivity yet.** Expect Main to be about £5,125.88 once it is. The 2 Nov transfers haven't been checked against the November sheet yet.
+
+**2 Nov 2026: the monthly outflow, all paired correctly.** Out of Main: Barclays standing orders Debt £488.87 and Bills £230.02 (now landed on both sides, so Main was £5,125.88 as expected). Then Tesco Loan £139.74, DVLA £3.06, Lucy food £200, mortgage (Heather) £1,447.62, Water £77, Prime £8, 1Password £6, Spare Funds £333, Westgate Rent £1,000, Broadband £32.99, Council Tax £152, TV Licence £15.51, Home Insurance £5.30, ID Mobile £44.99, M&S £175. **Main is £1,485.67** and the SUM check agrees. The Spaces are refilled (the Prime Space is £16, its £8 plus this month's £8). Joint: +£65 "GAINSBOROUGH", then −£130 to Gainsborough - Joint, which is £130 ready for the HealthSpa DD, so Joint is £132.76. M&S is -£1,441.31 and the Tesco Loan is -£1,676.88 (12 payments left). Not yet checked against the November sheet.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
@@ -643,7 +645,7 @@ See individual notes for offer/APR detail.
 | Tesco Mastercard (Clubcard) | -£71.52 | 2026-10-23 | [[Tesco Clubcard Credit Card]] — 1Password £71.52 (22 Oct). The purchase rate is ≈39.94% APR once outside the interest-free window |
 | NatWest Mastercard | -£981.08 🚨 | 2026-10-16 | [[NatWest Mastercard]] — **no longer 0%**, whole balance at 26.436%; £25.97 interest on the 16 Oct statement |
 | Capital One | £0.00 | 2026-09-17 | [[Capital One]] — verified from the web portal; ⚠️ web access being withdrawn, app access unresolved |
-| M&S Mastercard | -£1,616.31 | 2026-10-02 | [[M&S Credit Card]] |
+| M&S Mastercard | -£1,441.31 | 2026-11-02 | [[M&S Credit Card]] |
 
 **Atkins Dellow solicitor payment (28 Jul 2026) executed as planned on both  
 cards.** M&S shows -£1,966.31 (£1,900 transfer + £66.31 fee); NatWest shows  
@@ -678,7 +680,7 @@ it for ~£63 of fee, but its window shuts **9 Oct 2026** — see
 
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
-| Tesco Loan | -£1,816.62 | 2026-10-02 | [[Tesco Loan]] — £3,000 @ 9.8% APR, £139.74/month, opened Aug 2025. 13 × £139.74 left |
+| Tesco Loan | -£1,676.88 | 2026-11-02 | [[Tesco Loan]] — £3,000 @ 9.8% APR, £139.74/month, opened Aug 2025. 12 × £139.74 left |
 
 **✅ Tesco Loan ledger corrected by Rupert, 16 Sept 2026 — now reconciles.**
 The account had been seeded with the **advance** (£3,000) instead of the

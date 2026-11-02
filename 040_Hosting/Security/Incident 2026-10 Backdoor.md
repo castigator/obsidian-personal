@@ -42,7 +42,7 @@ Found while archiving the old WordPress site, after pebmarsh.com had moved to a 
 
 ## Still open
 
-- Ask DreamHost for the 15–20 Oct access logs, and whether its own incident is related.
+- Not pursued: asking DreamHost for the 15–20 Oct access logs (Rupert's decision, 2 Nov 2026).
 - Two-factor login on the WordPress sites.
 - Blocking plugin installs from wp-admin (`DISALLOW_FILE_MODS`): Rupert decided to skip this unless it happens again.
 - Weekly audits: see [[Security Audit]].

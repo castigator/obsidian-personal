@@ -22,7 +22,7 @@ A read-only check of the whole [[DreamHost]] account, built after the [[Incident
 - **Known IP addresses:**
   - Rupert's home: 92.24.171.21.
   - The parish clerk: 145.224.67.126.
-  - 78.147.225.80, from the July clean-up sessions, is probably Rupert's but not confirmed.
+  - 78.147.225.80, from the July clean-up sessions, is Rupert's (confirmed 2 Nov 2026); in `KNOWN_IPS`.
 - **Signs to act on:**
   - New WordPress users, especially admins.
   - A "New User Registration" or "Admin Email Change" email.

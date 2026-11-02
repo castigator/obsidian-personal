@@ -3,8 +3,8 @@
 - **Type:** Credit card
 - **Card number:** **** **** **** 0265
 - **Credit limit:** £2,000.00
-- **Balance:** -£1,616.31 (Banktivity, as of 2026-10-02, after the October
-  £175.00 DD). Previously -£1,791.31 (as of 2026-09-05; confirmed by the
+- **Balance:** -£1,441.31 (Banktivity, as of 2026-11-02, after the November
+  £175.00 DD). Previously -£1,616.31 (as of 2026-10-02). Before that -£1,791.31 (as of 2026-09-05; confirmed by the
   13 Sept 2026 statement too) — down from -£1,966.31 after the
   £175.00 fixed DD collected 5 Sept 2026 (matches the 07/09/26 collection
   date confirmed on the 13 Aug statement — landed a couple of days early).

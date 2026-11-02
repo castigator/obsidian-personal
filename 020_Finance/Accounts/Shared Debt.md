@@ -41,6 +41,8 @@ Balances as of the October statements (Heather emailed them 24 Oct, synced from 
 | Barclaycard | -£7,009.81 | £233.00 (contractual min £195.47 due 16 Nov) | <!-- Heather's card 5002, 20 Oct 2026 statement, 20.68% -->
 | Barclaycard (Ann) | ~-£646.51 | £200 | <!-- Anne's card. Heather's own spreadsheet figure (26 Oct 2026 WhatsApp), not a statement; Heather is confirming with her parents. Was £1,409.00 (10 Jul) -->
 
+**🆕 29 Oct 2026: Heather moved £4,050 of the Halifax balance to a new Virgin Money card, 0% for 12 months** (from divorce's Session Status, sourced from her 29 Oct WhatsApp). The BT fee, the Virgin balance, what's left on Halifax and the new minimums are all **unknown**. The table above is still the October statement position until Heather sends figures. The card total shouldn't move much, apart from the fee, because this only moves debt between cards.
+
 (Next account removed 2026-07-10 — £0 balance, no longer tracked.)
 
 **Total owed:** ~-£13,862.29 (was -£14,624.78; the drop is Ann's card, still unconfirmed) · **Total monthly payments:** £611.09/month (final October sheet, 26 Oct 2026;
@@ -112,7 +114,14 @@ rate remains unknown.
 ⏳ The Halifax 0% transfer window below has **rolled forward to 31 October
 2026** (1 Oct email). Heather's decision, informational only.
 
-### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months
+### Virgin Money (Heather's new card) — balance transfer, 0% for 12 months 🆕
+- **Source:** Heather's 29 Oct 2026 WhatsApp, via divorce's Session Status. There's been no email from Virgin.
+- **Transferred:** £4,050 from Halifax (29 Oct 2026)
+- **Rate:** 0% for 12 months, so it runs to about Oct/Nov 2027
+- **Fee, limit, minimum payment:** unknown
+- **Status:** Heather's card. This is the move she said she'd make on 24 Oct. Rupert still won't BT the Barclaycard without signed paperwork.
+
+### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months (window closed 31 Oct 2026, not used; Heather went to Virgin instead)
 - **Source:** recurring marketing email from Halifax, most recent 15 Oct 2026 ("ends soon")
 - **Rate:** 0.00% for 12 months on transfers
 - **Fee:** 5% of amount transferred

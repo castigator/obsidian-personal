@@ -5,6 +5,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-11-02 (second pass).** No new email. **From divorce: on 29 Oct Heather moved £4,050 of the Halifax balance to a new Virgin Money card, 0% for 12 months.** The fee and new balances are unknown. [[Shared Debt]] and the [[0% Offers Tracker]] are updated, and Halifax's own 0% window closed unused on 31 Oct. Banktivity: the 2 Nov outflow has gone out and is paired correctly. Main £1,485.67, M&S -£1,441.31, Tesco Loan -£1,676.88, Spaces refilled. See [[Accounts]].
+
 **2026-11-02.** No new email. Divorce unchanged. Banktivity: another Amazon purchase (£49.99, 31 Oct) was mis-paired into the Prime Space. Rupert has now fixed it (Main −£49.99, categorised as Gifts, Prime back to £8). The 1 Nov transfers and the 2 Nov Barclays standing orders have landed, but Main's side of those standing orders isn't in Banktivity yet. See [[Accounts]].
 
 **2026-10-30.** Barclays emailed on 29 Oct that the statement for the current account ending 0138 is ready. It has no figures and it's recurring, so it isn't filed separately. The copy sent to Heather and a Barclays Autumn Budget promo to her were discarded. From divorce: personal debts are now corrected to ~£7,486 (29 Oct), and nothing else changed. Banktivity: **salary £6,074.84** landed on Main on 30 Oct, so Main is £6,075.43. See [[Accounts]].

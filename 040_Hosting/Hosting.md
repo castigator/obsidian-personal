@@ -43,5 +43,5 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 
 - Choose the email provider; follow up the dead-ISP forwards. See [[Hosting Email]].
 - Hand off the four organisation sites.
-- [[Site - pebmarsh.com]]: old WordPress archived and removed from DreamHost (1 Nov 2026); `workers.dev` off. Left: delete the unused `ftp`/`ssh` apex records in Cloudflare; check Google Search Console for spam pages from the June–October cloaking malware.
+- [[Site - pebmarsh.com]]: old WordPress archived and removed from DreamHost (1 Nov 2026); `workers.dev` off. Unused apex `ftp`/`ssh` records deleted (2 Nov). Left: check Google Search Console for spam pages from the June–October cloaking malware.
 - [[Mailchimp]]: Courtyard Stores welcome emails are failing.
