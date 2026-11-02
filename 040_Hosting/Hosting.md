@@ -39,7 +39,6 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 - DreamHost's 25 Oct security notice expired some email and SFTP passwords: set new ones, tell the users, check the forwards. See [[DreamHost]].
 - 30 Oct 2026, 2–3pm UK: DreamHost database-server upgrade. Afterwards, check DNS for drift and that the sites load. See [[Cloudflare]].
 - Verify the last three archives in Drive, then delete `~/data`, `~/archive` and `~/Backups`. See [[Hosting Archive]].
-- DreamHost ticket: remove `~/stuart.pebmarsh.com` and `~/archive/mindseye`.
 - [[Site - Honeycode]] moved to Cloudflare and fully removed from DreamHost on 29 Oct 2026 (Workers + R2).
 
 - Choose the email provider; follow up the dead-ISP forwards. See [[Hosting Email]].
