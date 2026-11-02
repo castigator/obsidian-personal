@@ -15,12 +15,11 @@ The current host for the websites, email and databases. Leaving it is the plan: 
   - `rupert`: everything except the pub.
   - `pebmarsh_pcp`: [[Site - Pebmarsh Community Pub]].
   - Old leftovers to delete: `dh_cs5sg7` and `dylanalfie` (Dylan), and `dh_cwdey6` (King's Head, 2018).
-- **Databases (5; `wp_pebmarsh_com` deleted 1 Nov 2026):**
+- **Databases (4; `wp_pebmarsh_com` deleted 1 Nov 2026, `courtyardstores_pebmarsh` 2 Nov 2026):**
 
   | Database | Site |
   |---|---|
   | `pbdb_parish` | parishcouncil |
-  | `courtyardstores_pebmarsh` | courtyardstores |
   | `friendsofpebmarshchurch_` | FoPC |
   | `pcpwp` | pcp |
   | `next_pebmarsh_com` | old concrete5 site, archived; **to delete** |
