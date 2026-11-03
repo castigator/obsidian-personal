@@ -24,7 +24,7 @@ None of the domains is registered at DreamHost, so leaving DreamHost involves no
   - pcp
   - honeycode (Cloudflare Worker, since 29 Oct 2026; www.honeycode deleted)
   - ernis (Cloudflare Worker, since 29 Oct 2026)
-  - glanceboard
+  - glanceboard (retired 3 Nov 2026; records deleted)
 - **Mail:** MX records on the apex, parishcouncil, courtyardstores and pcp. See [[Hosting Email]].
 - **DreamHost service names:** mysql, mysql.courtyardstores, mysql.pcp (WordPress database hosts), ftp, ssh, mail, mailboxes, webmail and autoconfig.
 - **Mailchimp signing records:** k2/k3._domainkey. See [[Mailchimp]].

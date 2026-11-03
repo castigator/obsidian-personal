@@ -23,7 +23,7 @@ Goal: stop paying DreamHost (about $156 a year) for hosting that's mostly unused
 1. **DNS to Cloudflare.**
    - pebmarsh.com: **done 28 Oct 2026** (52 records, all DNS only, verified).
    - friendsofpebmarshchurch.uk: **done 29 Oct 2026** (3 records, nameservers changed at uk-cheapest).
-2. **Static sites to Cloudflare:** each site gets its own private repo in the GitLab `pebmarsh` group, and Cloudflare deploys it as a Worker with static assets on every push. **[[Site - Ernis]] done 29 Oct 2026.** Next: [[Site - Honeycode]] (source already in `honeycode/honeycode-site`). [[Site - Glanceboard]] is empty: retire it or put up a placeholder.
+2. **Static sites to Cloudflare:** each site gets its own private repo in the GitLab `pebmarsh` group, and Cloudflare deploys it as a Worker with static assets on every push. **[[Site - Ernis]] done 29 Oct 2026.** Next: [[Site - Honeycode]] (source already in `honeycode/honeycode-site`). [[Site - Glanceboard]] was empty and was retired 3 Nov 2026.
 3. **Email:** see [[Hosting Email]]. Copy the stored mail out of the 12 mailboxes, recreate the forwards, switch MX/SPF/DKIM in Cloudflare, and keep DreamHost mail running for a week or two as a safety net.
 4. **Hand off the organisation sites:**
    - [[Site - Parish Council]], [[Site - Friends of Pebmarsh Church]], [[Site - Courtyard Stores]] and [[Site - Pebmarsh Community Pub]].
