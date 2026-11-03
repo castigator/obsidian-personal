@@ -22,3 +22,4 @@ tags:
   4 plugin updates are pending.
 - **Themes:** bravada, twentytwentyfive.
 - **Handoff:** the easiest of the four, because it already has its own domain. Transfer the domain to the Friends as well, or at least give them access to it.
+- **3 Nov 2026:** admin email and Rupert's user email changed to rupertthomas@gmail.com (was rupert@pebmarsh.com), ahead of removing the DreamHost mailbox.

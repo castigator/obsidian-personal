@@ -25,3 +25,4 @@ Pebmarsh Parish Council's website. **To hand off to the council.** Back to [[Hos
 - The council should own its hosting and, ideally, its own domain (a parish council domain), with a redirect from the old subdomain for a while.
 - It's the busiest of the organisation sites, so agree a date with the clerk.
 - The clerk's email address and the forwards need to move with it.
+- **3 Nov 2026:** admin email and Rupert's user email changed to rupertthomas@gmail.com (was rupert@pebmarsh.com), ahead of removing the DreamHost mailbox.
