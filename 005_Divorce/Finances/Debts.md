@@ -62,9 +62,9 @@ dealt with in the financial order, and the only live question is refinancing the
 - [[2026-07-23_message-to-heather-review-cards-and-drains]] — review of Rupert's draft message asking Heather to confirm the card split one way or the other, and raising the true 84%/16% housing-cost imbalance (£128.91/mo) once his Westgate costs are counted alongside Pebmarsh
 - [[2026-07-23_barclaycard-paydown-projection-and-split-interaction]] — 6-month minimum-payment projection for the Barclaycard, and the key correction that paying it down faster doesn't create free headroom for Rupert unless matched by Heather — the goal is an even split of the whole pool, not just this one card
 
-## Rupert's Personal Debts (~£7,171, not matrimonial)
+## Rupert's Personal Debts (~£7,099, not matrimonial)
 
-**Updated 2 Nov 2026 from finance after the 2 Nov payments:** Tesco loan £1,816.62 → £1,676.88 (12 × £139.74 left), M&S £1,616.31 → £1,441.31. Was ~£7,486. Corrected 29 Oct 2026 against the finance project. The earlier ~£5,798 (19 Oct) wrongly showed the M&S card as
+**Updated 3 Nov 2026:** Tesco Mastercard £71.52 → £0 (paid in full 2 Nov, per finance). Total ~£7,171 → ~£7,099. **Updated 2 Nov 2026 from finance after the 2 Nov payments:** Tesco loan £1,816.62 → £1,676.88 (12 × £139.74 left), M&S £1,616.31 → £1,441.31. Was ~£7,486. Corrected 29 Oct 2026 against the finance project. The earlier ~£5,798 (19 Oct) wrongly showed the M&S card as
 cleared: it still carries the £1,900 solicitor-fee balance transfer at 0%, being paid down at £175/mo. Earlier
 totals: ~£5,772 (15 Oct), ~£6,211 (17 Sep), ~£7,182 before that.
 
@@ -75,7 +75,7 @@ totals: ~£5,772 (15 Oct), ~£6,211 (17 Sep), ~£7,182 before that.
 | NatWest | £981.08 (Banktivity 16 Oct, after £25.97 interest on the 16 Oct statement) | £300.00 |
 | M&S Mastercard | £1,441.31 (Banktivity 2 Nov, 0% balance transfer) | £175.00 |
 | Capital One | £0 | Cleared |
-| Tesco Mastercard | £71.52 (1Password, 22 Oct) | Paid by DD |
+| Tesco Mastercard | £0 (the £71.52 paid in full 2 Nov) | Paid by DD |
 
 ⚠️ **NatWest's 0% promotional rate is gone (found 17 Sep 2026).** The whole balance sits at
 **26.436%** and £52.55 of interest was charged on 15 Sep — the first interest ever charged on this
