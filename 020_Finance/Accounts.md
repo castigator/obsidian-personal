@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,485.67 | 2026-11-02 |
+| Starling - Main | £1,358.58 | 2026-11-02 |
 | Starling - Joint | £132.76 | 2026-11-02 |
-| Barclays - Current | £751.26 | 2026-11-02 |
+| Barclays - Current | £140.17 | 2026-11-02 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -520,6 +520,8 @@ is referenced elsewhere.
 
 **2 Nov 2026: the monthly outflow, all paired correctly.** Out of Main: Barclays standing orders Debt £488.87 and Bills £230.02 (now landed on both sides, so Main was £5,125.88 as expected). Then Tesco Loan £139.74, DVLA £3.06, Lucy food £200, mortgage (Heather) £1,447.62, Water £77, Prime £8, 1Password £6, Spare Funds £333, Westgate Rent £1,000, Broadband £32.99, Council Tax £152, TV Licence £15.51, Home Insurance £5.30, ID Mobile £44.99, M&S £175. **Main is £1,485.67** and the SUM check agrees. The Spaces are refilled (the Prime Space is £16, its £8 plus this month's £8). Joint: +£65 "GAINSBOROUGH", then −£130 to Gainsborough - Joint, which is £130 ready for the HealthSpa DD, so Joint is £132.76. M&S is -£1,441.31 and the Tesco Loan is -£1,676.88 (12 payments left). Not yet checked against the November sheet.
 
+**2 Nov 2026, later.** Main £1,485.67 → **£1,358.58**: **Tesco card paid in full, £71.52** (txn 7856, paired correctly, so `Tesco Mastercard` is £0.00), PayPal £14.03, eBay £23.50, The Black Lion £10.44 and £7.60. The SUM check agrees. Barclays £751.26 → **£140.17**: the shared-card payments went out: Barclaycard £200 (Ann's card, £200/mo) and £233 (Heather's, as agreed), and the Halifax minimum £178.09 (Halifax confirmed receipt by email). Barclays also emailed on 2 Nov that the **Anglian Water direct debit on 0138 has been cancelled**. That DD last took £82 on 7 Jul 2026, so it has been dormant since then.
+
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
 Funds £633 → £450. Rupert's own transfers, partly to cover the annual
@@ -642,7 +644,7 @@ See individual notes for offer/APR detail.
 
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
-| Tesco Mastercard (Clubcard) | -£71.52 | 2026-10-23 | [[Tesco Clubcard Credit Card]] — 1Password £71.52 (22 Oct). The purchase rate is ≈39.94% APR once outside the interest-free window |
+| Tesco Mastercard (Clubcard) | £0.00 | 2026-11-02 | [[Tesco Clubcard Credit Card]] — the £71.52 (1Password, 22 Oct) was paid in full from Main on 2 Nov. The purchase rate is ≈39.94% APR once outside the interest-free window |
 | NatWest Mastercard | -£981.08 🚨 | 2026-10-16 | [[NatWest Mastercard]] — **no longer 0%**, whole balance at 26.436%; £25.97 interest on the 16 Oct statement |
 | Capital One | £0.00 | 2026-09-17 | [[Capital One]] — verified from the web portal; ⚠️ web access being withdrawn, app access unresolved |
 | M&S Mastercard | -£1,441.31 | 2026-11-02 | [[M&S Credit Card]] |

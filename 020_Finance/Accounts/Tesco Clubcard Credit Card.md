@@ -3,7 +3,7 @@
 - **Type:** Credit card (Tesco Bank, Mastercard)
 - **Card number:** **** **** **** 2484
 - **Credit limit:** £1,500.00
-- **Balance:** **£0.00** (as of 2026-09-08, Banktivity)
+- **Balance:** **£0.00** (as of 2026-11-02, Banktivity). 1Password £71.52 on 22 Oct, paid in full from Starling - Main on 2 Nov, inside the interest-free window
 - **Available credit:** £1,500.00
 - **Standard purchase rate:** 2.840% monthly (≈39.94% representative APR,
   compounded) — per statement dated 15 July 2026

@@ -5,6 +5,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-11-03.** **Barclays, 2 Nov: the Anglian Water direct debit on 0138 has been cancelled** (sent to both). It was dormant since 7 Jul. Rupert: presumably Heather, it's her side and doesn't affect his bill payments, so no action. See [[2026-11-02_barclays-anglian-water-dd-cancelled]]. Halifax's 2 Nov "payment received" to Heather (£178.09, the minimum paid from Barclays) is routine and not filed. Divorce is unchanged. Banktivity: **the Tesco card is cleared** (£71.52 from Main, 2 Nov), so Main is £1,358.58 after small spend, and Barclays is £140.17 after the shared-card payments (Barclaycard £200 + £233, Halifax £178.09). See [[Accounts]].
+
 **2026-11-02 (second pass).** No new email. **From divorce: on 29 Oct Heather moved £4,050 of the Halifax balance to a new Virgin Money card, 0% for 12 months.** The fee and new balances are unknown. [[Shared Debt]] and the [[0% Offers Tracker]] are updated, and Halifax's own 0% window closed unused on 31 Oct. Banktivity: the 2 Nov outflow has gone out and is paired correctly. Main £1,485.67, M&S -£1,441.31, Tesco Loan -£1,676.88, Spaces refilled. See [[Accounts]].
 
 **2026-11-02.** No new email. Divorce unchanged. Banktivity: another Amazon purchase (£49.99, 31 Oct) was mis-paired into the Prime Space. Rupert has now fixed it (Main −£49.99, categorised as Gifts, Prime back to £8). The 1 Nov transfers and the 2 Nov Barclays standing orders have landed, but Main's side of those standing orders isn't in Banktivity yet. See [[Accounts]].
