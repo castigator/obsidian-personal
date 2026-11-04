@@ -21,11 +21,16 @@ of [[Work Benefits]].
 - **Customer services:** 0151 702 0265, claims@medicash.org (Mon–Fri 8am–5pm)
 - **Claims:** through the My Medicash app (easiest), online, or a paper form from
   www.medicash.org/claim
-- **Details on file with Medicash (from the 6 Oct 2025 schedule):** address Maple Tree House,
-  1 Kings Mead, Pebmarsh CO9 2NA. Email Rupert.Thomas@anaxi.com. Contact preference: email. No
-  partner or children named on the policy.
+- **Details on file with Medicash:** address 19 Westgate Street, Long Melford, and email Rupert's
+  @aristocrat.com work address. Rupert updated both in the My Medicash app on 4 Nov 2026. Before
+  that, the 6 Oct 2025 schedule had Maple Tree House, Pebmarsh, and Rupert.Thomas@anaxi.com.
+  Contact preference: email. No partner or children named on the policy.
+- **App:** My Medicash, installed and registered on 4 Nov 2026.
 
 ### Allowances (Level 1, per benefit period)
+
+Checked against the live table in the My Medicash app on 4 Nov 2026, and every amount is the same
+as in the Sep 2025 PDF.
 
 | Benefit | Adult | Each child |
 |---|---|---|
@@ -41,14 +46,20 @@ of [[Work Benefits]].
 | Health screening | £150 | — |
 
 **Included services (no claim needed, in the app):** HealthLens facial health scan, SkinVision
-mole checks, Phio digital physiotherapy, eargym hearing checks, mProve YOURSELF wellbeing app,
-Best Doctors second medical opinions (0345 565 1852), 24-hour health and stress helpline
-(0345 565 1851), discounted health club membership, and Medicash Extras shopping discounts.
+mole checks, Phio digital physiotherapy, Digital Vision Check eye screening, eargym hearing
+checks, mProve YOURSELF wellbeing app, Best Doctors second medical opinions (0345 565 1852),
+24-hour health and stress helpline (0345 565 1851), discounted health club membership, Medicash
+Extras shopping discounts, Neurodevelopment Pathways (discounted neurodiversity and ADHD
+assessments, autism support, speech and language therapy), and DNA Insights (a discount on DNA
+health testing). Digital Vision Check, Neurodevelopment Pathways and DNA Insights are new since
+the Sep 2025 PDF.
 
 **Children:** up to four dependent children are covered free, until they turn 16, or until their
 24th birthday if in full-time education. Each child has their own allowances. They must be named
 on the policy **before** the treatment you claim for. They can be added at any time through the
-app. Named children can only be swapped at the start of a benefit period.
+app. Named children can only be swapped at the start of a benefit period. **Lucy qualifies**
+because she's under 24 and at university. Dylan and Daisy don't. Lucy needs adding in the app
+before she has any treatment to claim for.
 
 ### How to claim
 
@@ -97,11 +108,6 @@ app. Named children can only be swapped at the start of a benefit period.
 
 ### Open questions
 
-- Is the Sep 2025 benefit table still current for 2026/27? Medicash didn't send a new one for
-  1 Oct 2026, as far as these documents show. The My Medicash app shows the live table.
-- Are the contact details on the policy still right? The schedule has Maple Tree House and an
-  @anaxi.com email. Medicash sends policy changes to the last address and email it holds, and
-  receipts need the patient's address.
 - Do private prescriptions count? Rupert turned 60 on 19 Jun 2026, so his NHS prescriptions are
   free in England. His private items (Varenicline from OnlineClinic, Ventolin from Chemist4U, see
   [[Health]]) are a full private price, not a "prescription charge". Ask Medicash (0151 702 0265)
@@ -117,7 +123,10 @@ Benefit period 1 Oct 2026 – 30 Sep 2027.
 
 ### Documents
 
-- [[Medicash - Benefit Table Level 1 (Sep 2025).pdf]]: the allowances above
+- [[Medicash - Benefit Table from app (4 Nov 2026).jpeg]]: the live table from the app, the
+  current reference
+- [[Medicash - Benefit Table Level 1 (Sep 2025).pdf]]: the same amounts, without the three newer
+  services
 - [[Medicash - Policy Change Letter and Schedule (6 Oct 2025).pdf]]: the move to this table from
   1 Oct 2025, the realigned benefit period, and the policy schedule
 - [[Medicash - Terms and Conditions (Feb 2025).pdf]]: the full rules (claims are section 5, the
@@ -128,3 +137,9 @@ Benefit period 1 Oct 2026 – 30 Sep 2027.
 
 - 2026-11-04: Note created from the four PDFs in `~/Downloads/medicash/`. Copies of the PDFs
   are in `xx_media/`.
+- 2026-11-04: Rupert installed the My Medicash app. He changed the email on the policy from
+  anaxi.com to his aristocrat.com address, and the postal address from Maple Tree House, Pebmarsh,
+  to 19 Westgate Street.
+- 2026-11-04: Compared the app's benefit table and product summary with the PDFs. The allowances
+  haven't changed. Three included services have been added: Digital Vision Check, Neurodevelopment
+  Pathways and DNA Insights. Saved the app's benefit table screenshot to `xx_media/`.

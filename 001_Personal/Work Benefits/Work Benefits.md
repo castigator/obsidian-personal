@@ -14,8 +14,8 @@ through work expenses, not through any of the plans below. [[Health]] holds the 
 
 ### Important and To Do
 
-- Medicash: decide whether to add Dylan, Daisy and Lucy to the policy. It's free, and each child
-  gets their own allowances (see [[Medicash]]).
+- Medicash: add Lucy to the policy in the My Medicash app. She qualifies because she's under 24
+  and at university. It's free, and she gets her own allowances (see [[Medicash]]).
 - AXA Health Insurance: add the policy documents. No note yet.
 - Dental plan: add the details. No note yet. Check whether Rupert pays for it himself, because
   that decides whether Medicash will contribute towards the fees (see [[Medicash]]).
