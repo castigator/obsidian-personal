@@ -13,9 +13,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,358.58 | 2026-11-02 |
+| Starling - Main | £1,254.92 | 2026-11-04 |
 | Starling - Joint | £132.76 | 2026-11-02 |
-| Barclays - Current | £140.17 | 2026-11-02 |
+| Barclays - Current | £73.22 | 2026-11-04 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
 a single sort code across its personal accounts, so the account *number* is
@@ -521,6 +521,8 @@ is referenced elsewhere.
 **2 Nov 2026: the monthly outflow, all paired correctly.** Out of Main: Barclays standing orders Debt £488.87 and Bills £230.02 (now landed on both sides, so Main was £5,125.88 as expected). Then Tesco Loan £139.74, DVLA £3.06, Lucy food £200, mortgage (Heather) £1,447.62, Water £77, Prime £8, 1Password £6, Spare Funds £333, Westgate Rent £1,000, Broadband £32.99, Council Tax £152, TV Licence £15.51, Home Insurance £5.30, ID Mobile £44.99, M&S £175. **Main is £1,485.67** and the SUM check agrees. The Spaces are refilled (the Prime Space is £16, its £8 plus this month's £8). Joint: +£65 "GAINSBOROUGH", then −£130 to Gainsborough - Joint, which is £130 ready for the HealthSpa DD, so Joint is £132.76. M&S is -£1,441.31 and the Tesco Loan is -£1,676.88 (12 payments left). Not yet checked against the November sheet.
 
 **2 Nov 2026, later.** Main £1,485.67 → **£1,358.58**: **Tesco card paid in full, £71.52** (txn 7856, paired correctly, so `Tesco Mastercard` is £0.00), PayPal £14.03, eBay £23.50, The Black Lion £10.44 and £7.60. The SUM check agrees. Barclays £751.26 → **£140.17**: the shared-card payments went out: Barclaycard £200 (Ann's card, £200/mo) and £233 (Heather's, as agreed), and the Halifax minimum £178.09 (Halifax confirmed receipt by email). Barclays also emailed on 2 Nov that the **Anglian Water direct debit on 0138 has been cancelled**. That DD last took £82 on 7 Jul 2026, so it has been dormant since then.
+
+**3–4 Nov 2026, ordinary.** Main £1,358.58 → **£1,254.92**: East of England Co-op £37.68, The Black Lion £15.84 and £13.25 (3 Nov). On 4 Nov, Tesco car insurance £20.76 (the usual instalment, correctly categorised as Insurance, not the card or loan) and Amazon £16.13 (Groceries, not mis-paired into Prime). Barclays £140.17 → **£73.22**: the Post Office home insurance direct debit, £66.95, the same every month. The SUM check agrees for both.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
