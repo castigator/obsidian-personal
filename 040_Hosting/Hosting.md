@@ -10,10 +10,10 @@ Everything about the pebmarsh.com domains, websites, email and the providers beh
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-### Where Things Stand (2 Nov 2026)
+### Where Things Stand (4 Nov 2026)
 
 - **DNS:** pebmarsh.com and friendsofpebmarshchurch.uk are on [[Cloudflare]]. No DNS is left on [[DreamHost]].
-- **Hosting:** [[DreamHost]] Shared Unlimited on **monthly** billing since 28 Oct 2026. Left there: [[Site - Parish Council]], [[Site - Friends of Pebmarsh Church]], [[Site - Pebmarsh Community Pub]] (WordPress). No mail is left on DreamHost (4 Nov 2026).
+- **Hosting:** [[DreamHost]] Shared Unlimited on **monthly** billing since 28 Oct 2026. Left there: [[Site - Parish Council]], [[Site - Friends of Pebmarsh Church]], [[Site - Pebmarsh Community Pub]] (WordPress). FoPC is to move to uk-cheapest first. No mail is left on DreamHost (4 Nov 2026).
 - **Static sites on Cloudflare Workers:** [[Site - pebmarsh.com]] (30 Oct), [[Site - Ernis]] and [[Site - Honeycode]] (29 Oct), [[Site - Courtyard Stores]] (2 Nov). Old WordPress for pebmarsh.com and Courtyard Stores archived to Drive and removed.
 - **Email:** all on Forward Email ($3/month), forward-only with Gmail "Send mail as"; DreamHost mail and its DNS leftovers removed 4 Nov 2026. See [[Hosting Email]].
 - **Security:** [[Incident 2026-10 Backdoor]] contained; SEO-spam cloaking malware found in the old pebmarsh.com theme on 30 Oct (follow-ups parked).
@@ -38,7 +38,8 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 
 - **Email** ([[Hosting Email]]): move done 4 Nov 2026. Last step: tighten DMARC to `p=quarantine` after about a week of clean reports (around 11 Nov).
 - DreamHost's 25 Oct notice expired some email and SFTP passwords: mail is moot now; check whether the `pebmarsh_pcp` SFTP user is affected. See [[DreamHost]].
-- Hand off Parish Council, FoPC and PCP to their owners (Krystal suggested for PCP; FoPC is registered charity 1184947, so free charity hosting).
+- **FoPC (in progress, 4 Nov):** move it to uk-cheapest Micro (£4.95 + VAT a month), then move its DNS back to uk-cheapest, then later to Krystal's free charity hosting. Waiting to hear from **Denzil Fellows** (with Belinda, now running FoPC); John Flack, who owns the uk-cheapest account, has passed the thread to him. Need to confirm they still want the site and will take over the domain (expires 8 Apr 2027). See [[Site - Friends of Pebmarsh Church]].
+- Hand off the Parish Council and PCP sites. Options and prices are in [[Hosting Migration Plan]] step 4: WordPress.com or Krystal Managed suggested.
 - Security follow-ups (parked 2 Nov): search PCP for the cloaking malware, add theme checks to `wp-audit.sh`, check Google Search Console. See [[Incident 2026-10 Backdoor]].
 - Parish Council: remove 5 unused themes (awaiting yes). FoPC: 4 plugin updates.
 - [[Mailchimp]]: Courtyard Stores welcome emails keep failing.

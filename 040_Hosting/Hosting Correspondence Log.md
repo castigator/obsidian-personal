@@ -11,6 +11,8 @@ Newest first. One line per email that matters; routine noise (backup succeeded, 
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-04 | John Flack | Forwarded the FoPC thread to Denzil Fellows (12:25): Jonathan Nott is no longer involved; Denzil and Belinda now run FoPC. | Wait for Denzil to get in touch |
+| 2026-11-04 | Rupert (sent) | Reply to John, cc Perry Crimmins and Jonathan Nott (11:34): do they still want the site, and will they take over the domain (expires 8 Apr 2027)? | Sent |
 | 2026-11-04 | John Flack | Reply to Rupert's plan to move FoPC to uk-cheapest: John left FoPC about 18 months ago and has passed it to Perry and Jonathan, but his Cc line was empty. | Find out whether Perry and Jonathan got it; get a current trustee's OK. See [[Site - Friends of Pebmarsh Church]] |
 | 2026-11-04 | wordpress@friendsofpebmarshchurch.uk | Two password-reset emails (11:15, 11:17 UTC). Rupert's own reset: his login had been failing because its email changed on 3 Nov. | None; Rupert is back in |
 | 2026-11-03 | Mailchimp | Courtyard Stores welcome email failed again. Also a routine campaign-sent and one unsubscribe from the Pebmarsh Mailing List. | Existing open item |
