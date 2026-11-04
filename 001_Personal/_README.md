@@ -22,6 +22,9 @@ home elsewhere, it goes here.
   Dad's stay and the Boxing Day visit, food/seating/sleeping.
 - **Gainsborough/** — see [[Gainsborough]]. The Gainsborough Health Club & Spa membership, and the
   monthly receipt for work's £50 wellness-allowance claim.
+- **Work Benefits/** — see [[Work Benefits]]. Aristocrat's health benefits: the [[Medicash]] cash
+  plan, AXA Health Insurance and the dental plan. Covers what each one pays, how to claim, and a
+  claims log for each benefit period.
 
 ### History
 
@@ -35,3 +38,5 @@ pebmarsh items (Wiltshire Farm Foods, AmaraHealth). No starred items since 20 Oc
   ideas) and expanded it into the 2026 plan: present tracker, posting deadlines, Dad's stay, and the
   COOK food order (CK-15336227) with mains by day.
 - 2026-10-21: Added the `Gainsborough/` area for the gym/spa membership and wellness-allowance claims.
+- 2026-11-04: Added the `Work Benefits/` area. Its first note is [[Medicash]], built from the plan
+  documents in `~/Downloads/medicash/`. AXA and the dental plan are to follow.

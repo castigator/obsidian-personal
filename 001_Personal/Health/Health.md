@@ -30,6 +30,12 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
   don't rely on this in place of a GP-managed preventer regime; max one inhaler per 3 months  
   without a current asthma review — the direct trigger for the 8 Sep GP request above.
 
+### Claiming costs back
+
+- Dentist, optician, physio, consultant and scan costs can be partly claimed back through
+  [[Medicash]]. Keep the fully paid original receipt and claim within 26 weeks. See
+  [[Work Benefits]].
+
 ### Correspondence Log
 
 **Last checked:** 2026-10-29
