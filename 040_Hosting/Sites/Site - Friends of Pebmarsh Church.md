@@ -10,8 +10,9 @@ tags:
 
 - **URL:** https://friendsofpebmarshchurch.uk. About 580 visits a month. It has its own domain, registered at uk-cheapest until April 2027. See [[Hosting Domains]].
 - **DNS:** on [[Cloudflare]] since 29 Oct 2026 (records `@`, `www`, `mysql`, all DNS only). There's no email on this domain. When the site moves host, point `@` and `www` at the new host.
-- **Type:** WordPress 7.1.3 on DreamHost, folder `~/www/pebmarsh/friendsofpebmarshchurch.uk`.
-- **Database:** `friendsofpebmarshchurch_` on `mysql.friendsofpebmarshchurch.uk`.
+- **Type:** WordPress 7.1.4 (PHP 8.2) on DreamHost, folder `~/www/pebmarsh/friendsofpebmarshchurch.uk`. Size 403 MB: 136 MB of it is old UpdraftPlus backup sets in `wp-content/updraft` (don't copy them; about 270 MB without), plugins 124 MB, uploads 21 MB.
+- **Database:** `friendsofpebmarshchurch_` on `mysql.friendsofpebmarshchurch.uk`, 5 MB. `siteurl`/`home` are `https://www.friendsofpebmarshchurch.uk`.
+- **Login:** one user, `rupert` (administrator), email rupertthomas@gmail.com. Log in with the **username**, not the email. Rupert reset his password on 4 Nov 2026.
 - **Plugins:**
   - Image Regenerate & Select Crop
   - UpdraftPlus (emails a daily backup)
@@ -22,4 +23,10 @@ tags:
   4 plugin updates are pending.
 - **Themes:** bravada, twentytwentyfive.
 - **Handoff:** the easiest of the four, because it already has its own domain. Transfer the domain to the Friends as well, or at least give them access to it.
+- **Plan (decided 4 Nov 2026):**
+  1. Move the site to uk-cheapest **Micro** hosting (£4.95 + VAT a month: 1 site, 1 GB, 1 DB, Plesk with WordPress Toolkit), in the account that holds the domain.
+  2. Move the domain's DNS from Rupert's Cloudflare back to uk-cheapest, so nothing depends on Rupert.
+  3. Later, move to Krystal's free charity hosting (a trustee applies with charity no. 1184947 and photo ID; the site must carry a Krystal link). See [[Hosting Migration Plan]].
+  - Make the export on the day, not in advance; UpdraftPlus made a full backup on 4 Nov as a safety net. After the move, stop UpdraftPlus keeping copies on the server (1 GB limit).
+- **People:** the uk-cheapest account and the domain are **John Flack's** (john@ealp.co.uk); Rupert has the login. Rupert emailed him the plan on 4 Nov 2026. John replied that he left FoPC about 18 months ago, and said he had copied in **Perry and Jonathan**, who are still involved. His reply's Cc line was empty, though, so they may not have received it. The account and domain need to pass to a current trustee.
 - **3 Nov 2026:** admin email and Rupert's user email changed to rupertthomas@gmail.com (was rupert@pebmarsh.com), ahead of removing the DreamHost mailbox.
