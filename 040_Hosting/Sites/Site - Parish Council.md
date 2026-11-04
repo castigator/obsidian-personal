@@ -26,3 +26,5 @@ Pebmarsh Parish Council's website. **To hand off to the council.** Back to [[Hos
 - It's the busiest of the organisation sites, so agree a date with the clerk.
 - The clerk's email address and the forwards need to move with it.
 - **3 Nov 2026:** admin email and Rupert's user email changed to rupertthomas@gmail.com (was rupert@pebmarsh.com), ahead of removing the DreamHost mailbox.
+- **Clerk (2026):** Shelley Boydell, pebmarshparishclerk@gmail.com. The WordPress login `PPotter` is presumably a previous clerk's.
+- **Handoff (4 Nov 2026):** Rupert drafted an email asking the council to set up WordPress.com Personal (council-owned account, with rupert@pebmarsh.com as an administrator), or to choose a parish-council specialist. Rupert will do the move. WordPress.com can serve `parishcouncil.pebmarsh.com` on Personal: in the site's dashboard, Domains → Use a domain name I own, then add the records it shows in Cloudflare and keep the MX records. Install the Classic Editor plugin so editing stays the same. Draft saved in rupertthomas@gmail.com.

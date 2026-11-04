@@ -11,6 +11,7 @@ Newest first. One line per email that matters; routine noise (backup succeeded, 
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-04 | Rupert (sent) | To Kate Stubbs (stubbskeepers@btinternet.com): the PCP site is now static on Cloudflare; Rupert makes any changes; the contact form is now pcpshareholder@gmail.com; the WordPress site is archived and can come back on WordPress.com (about £40 a year) if she wants it. | Wait for Kate's reply |
 | 2026-11-04 | John Flack | Forwarded the FoPC thread to Denzil Fellows (12:25): Jonathan Nott is no longer involved; Denzil and Belinda now run FoPC. | Wait for Denzil to get in touch |
 | 2026-11-04 | Rupert (sent) | Reply to John, cc Perry Crimmins and Jonathan Nott (11:34): do they still want the site, and will they take over the domain (expires 8 Apr 2027)? | Sent |
 | 2026-11-04 | John Flack | Reply to Rupert's plan to move FoPC to uk-cheapest: John left FoPC about 18 months ago and has passed it to Perry and Jonathan, but his Cc line was empty. | Find out whether Perry and Jonathan got it; get a current trustee's OK. See [[Site - Friends of Pebmarsh Church]] |
