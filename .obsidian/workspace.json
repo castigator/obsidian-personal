@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "D81 - Field Values"
             }
+          },
+          {
+            "id": "66d1c42d40124f89",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "005_Divorce/Finances/D81 - Rupert working copy.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "D81 - Rupert working copy"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,10 +230,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e35d59b079089f1b",
+  "active": "66d1c42d40124f89",
   "lastOpenFiles": [
-    "040_Hosting/Hosting Email.md",
+    "005_Divorce/Analysis/2026-11-05_record-of-terms-contents.md",
     "005_Divorce/Finances/D81 - Field Values.md",
+    "040_Hosting/Hosting Email.md",
     "xx_media/BMSDC Failed Application Letter.pdf",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-02_whatsapp-1051-1630-pebmarsh-mailbox.png",
@@ -264,7 +277,6 @@
     "005_Divorce/Correspondence/heather/2026-09-21_barclaycard-persistent-debt-notice.md",
     "020_Finance/Correspondence/2026-09-21_barclaycard-persistent-debt-notice.md",
     "020_Finance/Correspondence/2026-09-13_ms-statement-0pc-confirmed.md",
-    "020_Finance/Correspondence/2026-08-07_tesco-car-insurance-confirmed.md",
-    "020_Finance/Correspondence/2026-08-06_1st-central-renewal-notice.md"
+    "020_Finance/Correspondence/2026-08-07_tesco-car-insurance-confirmed.md"
   ]
 }

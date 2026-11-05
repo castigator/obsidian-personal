@@ -1,11 +1,11 @@
 ---
 tags: [divorce]
 ---
-# D81 — Field Values (working copy, 1 Nov 2026)
+## D81 — Field Values (working Copy, 1 Nov 2026)
 
 Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather to complete. Not agreed.
 
-## Q1–7 — Dates, people
+### Q1–7 — Dates, People
 
 | Field | Value |
 |---|---|
@@ -21,7 +21,7 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
 | Q6 Child | Lucy Rowan Thomas, 06/12/2005 |
 | Q7 How agreed | — |
 
-## Q8 — Capital now
+### Q8 — Capital now
 
 | Row | | Rupert | Heather |
 |---|---|---:|---:|
@@ -44,7 +44,7 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
   - Own £7,485.53: Stuart £3,000.00 · Tesco loan £1,816.62 · M&S £1,616.31 · NatWest £981.08 · Tesco card £71.52
 - Row F £220,787.88: Aviva £14,132.62 · Prudential £27,425.39 · Pearson £70,972.14 · HL SIPP £86,088.36 · Standard Life £22,169.37
 
-## Q9 — Net monthly income now
+### Q9 — Net Monthly Income now
 
 | Row | | Rupert | Heather | Lucy |
 |---|---|---:|---:|---:|
@@ -60,7 +60,7 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
 | J/K/L | Third-party payments | £0 | TBC | £0 |
 | M | **Grand total** | **£5,875** | TBC | **£200** |
 
-## Q10 — Capital after the order (proposal)
+### Q10 — Capital after the order (proposal)
 
 | Row | | Rupert | Heather |
 |---|---|---:|---:|
@@ -76,11 +76,11 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
 
 **Sale calculation:** £550,000 − mortgage £309,748.40 − sale costs £9,000 − excess £1,000 − joint debts £22,702.95 = **£207,548.65 → £103,774.32 each**
 
-## Q11 — Income after the order
+### Q11 — Income after the order
 
 Same as Q9: Rupert £6,075 − £200 = **£5,875** · Lucy £200 · Heather TBC · spousal maintenance £0.
 
-## Q12 — Other matters (values)
+### Q12 — Other Matters (values)
 
 - Interim payments (80% of Pebmarsh + cards): **£2,166.51/mo** = mortgage interest £1,447.62 + insurance/council tax/home cover £230.02 + cards £488.87
 - Lucy food: £200/mo
@@ -88,13 +88,13 @@ Same as Q9: Rupert £6,075 − £200 = **£5,875** · Lucy £200 · Heather TBC 
 - RBS £309,748.40 vs facility £308,368 → £1,380.40 over
 - State pension projection: £1,042/mo
 
-## Q13–14 — Figures used
+### Q13–14 — Figures Used
 
 - Pensions: Rupert £220,788 · Heather ~£195,508 (her figures)
 - Net income: Rupert £6,075 · Heather ~£1,587 (her figure)
 - Capital after sale: Rupert ~£105,000 · Heather ~£104,000
 
-## Q15–17
+### Q15–17
 
 | | Rupert | Heather | Lucy |
 |---|---|---|---|

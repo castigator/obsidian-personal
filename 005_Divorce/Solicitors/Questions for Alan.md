@@ -11,6 +11,10 @@ action list with checkboxes is [[Divorce]].)
 
 **✉️ All items below were sent to Alan on 1 Nov 2026, 12:59** (email "D81 working draft and questions", with the D81 snapshot), as 11 numbered questions. Q1 asked whether anything in the draft could compromise Rupert before he shares it with Heather. Awaiting his reply. Add new questions under a fresh heading.
 
+## Answered
+
+- ✓ **Q1, sharing the D81 with Heather.** Alan, by phone, 5 Nov 2026: OK to share. Rupert to share it with her. (Nudge email sent the same morning.)
+
 ## From the D81 walk-through (1 Nov 2026)
 
 - ⭐ **RUPERT'S BIGGEST QUESTION: the house can't be sold until well after the order is made. How does a consent
@@ -52,4 +56,4 @@ action list with checkboxes is [[Divorce]].)
 - **Which house value goes on the D81 (Q8 A)?** Rupert has pencilled in the **as-is midpoint, £412,500** (Michaels
   £400–425k), with the post-repair figures (£550k / £650k / Rightmove £600k) in the Notes. Is that the right
   approach, or should it wait for the subsidence claim? (RBS's £390k turned out to be the 2007 purchase price.)
-- **Record of Terms Agreed.** Alan asked for this (3 Aug), along with draft D81 figures. Confirm what format he wants.
+- **Record of Terms Agreed.** Alan asked for this (3 Aug), along with draft D81 figures. Confirm what format he wants. **5 Nov call:** Alan pressed hard for an agreed Record of Terms, signed by both, setting out how everything is split. Format still not given. Proposed contents: [[2026-11-05_record-of-terms-contents]].
