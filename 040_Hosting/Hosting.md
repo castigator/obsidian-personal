@@ -38,8 +38,8 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 
 - **Email** ([[Hosting Email]]): move done 4 Nov 2026. Last step: tighten DMARC to `p=quarantine` after about a week of clean reports (around 11 Nov).
 - **FoPC (in progress, 4 Nov):** move it to uk-cheapest Micro (£4.95 + VAT a month), then move its DNS back to uk-cheapest, then later to Krystal's free charity hosting. Waiting to hear from **Denzil Fellows** (with Belinda, now running FoPC); John Flack, who owns the uk-cheapest account, has passed the thread to him. Need to confirm they still want the site and will take over the domain (expires 8 Apr 2027). See [[Site - Friends of Pebmarsh Church]].
-- **PCP:** static on Cloudflare since 4 Nov. Kate told on 4 Nov; once she's happy, delete the WordPress copy on DreamHost and the `mysql.pcp`/`ftp.pcp`/`ssh.pcp` records, and trim the pcp SPF.
-- **Parish Council:** on WordPress.com since 5 Nov (Rupert's account, Personal monthly). Next: invite Shelley, tell her, archive and delete the DreamHost copy, transfer the site to a council account. See [[Site - Parish Council]].
+- **PCP:** static on Cloudflare since 4 Nov. Kate wants to use the site more and may want WordPress; PCP committee decides Mon 9 Nov (if yes: WordPress.com Personal, migrated from the DreamHost copy). Once decided, delete the WordPress copy on DreamHost and the `mysql.pcp`/`ftp.pcp`/`ssh.pcp` records, and trim the pcp SPF.
+- **Parish Council:** on WordPress.com since 5 Nov (Rupert's account, Personal monthly). Old copy archived and its folder deleted (5 Nov); delete the `pbdb_parish` database in the panel. Next: tell Shelley (her PPotter login still works), transfer the site to a council account. See [[Site - Parish Council]].
 - Security follow-ups (parked 2 Nov): search PCP for the cloaking malware, add theme checks to `wp-audit.sh`, check Google Search Console. See [[Incident 2026-10 Backdoor]].
 - Parish Council: remove 5 unused themes (awaiting yes). FoPC: 4 plugin updates.
 - [[Mailchimp]]: Courtyard Stores welcome emails keep failing.

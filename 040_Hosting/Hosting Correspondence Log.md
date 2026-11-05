@@ -5,12 +5,14 @@ tags:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-04
+**Last checked:** 2026-11-05
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-05 | WordPress.com, Jetpack, WordPress (parishcouncil) | Parish Council migration: account welcome and receipt #122313124 (4 Nov), "one last step for your migration", Jetpack welcome (the migration plugin's connection), and Rupert's own password reset and changed notices. | None |
+| 2026-11-04 | Kate Stubbs (PCP) | Reply to "The PCP website has moved": she's researching the pub's history and plans to make more use of the site over the next year, has spotted some small updates, may learn WordPress. Will raise it at the PCP committee on Monday 9 Nov. | Keep the PCP WordPress copy on DreamHost until they decide. If they want WordPress, move it to WordPress.com Personal the same way as the Parish Council |
 | 2026-11-04 | Rupert (sent) | To Kate Stubbs (stubbskeepers@btinternet.com): the PCP site is now static on Cloudflare; Rupert makes any changes; the contact form is now pcpshareholder@gmail.com; the WordPress site is archived and can come back on WordPress.com (about £40 a year) if she wants it. | Wait for Kate's reply |
 | 2026-11-04 | John Flack | Forwarded the FoPC thread to Denzil Fellows (12:25): Jonathan Nott is no longer involved; Denzil and Belinda now run FoPC. | Wait for Denzil to get in touch |
 | 2026-11-04 | Rupert (sent) | Reply to John, cc Perry Crimmins and Jonathan Nott (11:34): do they still want the site, and will they take over the domain (expires 8 Apr 2027)? | Sent |
