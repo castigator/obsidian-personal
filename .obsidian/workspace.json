@@ -24,15 +24,17 @@
           {
             "id": "4128d220f984b702",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040_Hosting/Hosting Email.md",
+                "file": "005_Divorce/Finances/D81 - Field Values.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hosting Email"
+              "title": "D81 - Field Values"
             }
           }
         ],
@@ -216,8 +218,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "4128d220f984b702",
+  "active": "e35d59b079089f1b",
   "lastOpenFiles": [
+    "040_Hosting/Hosting Email.md",
+    "005_Divorce/Finances/D81 - Field Values.md",
     "xx_media/BMSDC Failed Application Letter.pdf",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-02_whatsapp-1051-1630-pebmarsh-mailbox.png",
@@ -240,9 +244,7 @@
     "020_Finance/0% Offers Tracker.md.tmp.6338.0d8ed5e0adcc",
     "005_Divorce/Correspondence/solicitors/2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md",
     "005_Divorce/Finances/D81 - Rupert working copy - snapshot 2026-11-01.pdf",
-    "005_Divorce/Finances/attachments/2026-10-30_payslip_roxor.pdf",
     "005_Divorce/Solicitors/Questions for Alan.md",
-    "040_Hosting/Hosting Email.md",
     "040_Hosting/Hosting Correspondence Log.md",
     "040_Hosting/Hosting Archive.md",
     "010_Westgate/Utilities/Water.md",
