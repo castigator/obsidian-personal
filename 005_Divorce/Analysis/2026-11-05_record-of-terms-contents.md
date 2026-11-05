@@ -81,3 +81,7 @@ On the phone on 5 Nov 2026 Alan said Rupert can share the D81 with Heather, and 
 - Ask Alan for his preferred format or template (Q11).
 - Use this list as the agenda with Heather. Agree the principles first, then the numbers.
 - Draft the document once the split and the house mechanics are agreed.
+
+## Draft
+
+Draft 1 written 5 Nov 2026: [[Record of Terms - Draft]] (neutral wording, suitable to share with Heather).
