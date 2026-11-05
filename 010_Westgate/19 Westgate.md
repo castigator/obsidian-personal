@@ -18,7 +18,8 @@ content-start: 151
 - [x] Arrange Gas/Electricity contract ✅ 2025-09-01
 - [x] Joint tenancy agreement fully executed ✅ 2026-08-21 — Rupert signed 20 Aug, Mandy 21 Aug, agent countersigned same day
 - [-] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]] — dropped: Rupert decided not to chase it ❌ 2026-09-08
-- [ ] Electoral Registration (ref 254490) — application rejected, DWP couldn't verify ID; copy ID needed or no vote in future elections. Reminder resent 21 Sep 2026, still not actioned — see [[Correspondence Log]]
+- [ ] Electoral Registration — application 254490 **finally rejected 27 Oct 2026** (no ID sent). Must reapply at gov.uk/register-to-vote (NI number + date of birth); affects voting and credit report — see [[Contacts]] and [[Correspondence Log]]
+- [ ] Spare room TRV: Rupert asked Sue on WhatsApp on 18 Oct 2026 for a thermostatic valve on the spare room radiator (the only one without). Sue said they'd consider it when back at the end of October. No reply seen since. Nudge Sue if nothing by mid-November 📅 2026-11-14
 
 ## Key Dates
 

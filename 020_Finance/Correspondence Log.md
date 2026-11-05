@@ -5,6 +5,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-11-05.** No new email. Divorce is unchanged. Banktivity, all routine: Main £1,160.08 (late-synced 4 Nov Tesco, PayPal and Five Bells spend, Co-op £22.14), Joint £113.96 (Tesco £18.80). See [[Accounts]].
+
 **2026-11-04.** No new email. Divorce is unchanged (personal debts ~£7,099 just reflects the Tesco card being cleared). Banktivity, all routine: Main £1,254.92 (Co-op, pub, Tesco car insurance £20.76, Amazon £16.13 categorised correctly), Barclays £73.22 (PO home insurance £66.95). See [[Accounts]].
 
 **2026-11-03.** **Barclays, 2 Nov: the Anglian Water direct debit on 0138 has been cancelled** (sent to both). It was dormant since 7 Jul. Rupert: presumably Heather, it's her side and doesn't affect his bill payments, so no action. See [[2026-11-02_barclays-anglian-water-dd-cancelled]]. Halifax's 2 Nov "payment received" to Heather (£178.09, the minimum paid from Barclays) is routine and not filed. Divorce is unchanged. Banktivity: **the Tesco card is cleared** (£71.52 from Main, 2 Nov), so Main is £1,358.58 after small spend, and Barclays is £140.17 after the shared-card payments (Barclaycard £200 + £233, Halifax £178.09). See [[Accounts]].

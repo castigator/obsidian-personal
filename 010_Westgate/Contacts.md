@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] **Send copy ID to Electoral Services — quote ref 254490.** Application to join the electoral register was rejected 17 Sep 2026 (DWP couldn't verify identity). **Until this is done, Rupert can't vote in any election.** Simplest route: emailed copy of passport *or* UK photo driving licence to elections@baberghmidsuffolk.gov.uk. **Copies only — do not send originals.** See Electoral Registration below.
+- [ ] **Reapply to join the electoral register at gov.uk/register-to-vote** (needs NI number and date of birth). The first application (ref 254490) was **finally rejected on 27 Oct 2026** because no copy ID was sent, so sending ID against that ref no longer works. Until this is done Rupert can't vote, and not being registered affects his credit report. If DWP can't verify him again, be ready to email a copy of passport *or* UK photo driving licence straight away when asked (copies only). See Electoral Registration below.
 - [ ] 2026 household canvass response was due **11 September 2026** — a register application clearly followed, so this was probably actioned, but it hasn't been confirmed either way (see Electoral Registration below)
 
 ## Landlord
@@ -68,6 +68,13 @@ ID, **copies only, quoting ref 254490**, by email to elections@baberghmidsuffolk
 - **Type 3 — any FOUR:** mortgage statement (<12m), bank/building society statement or account-opening letter (<3m), credit card statement (<3m), financial/pension statement (<12m), council tax statement (<12m), utility bill (<3m), P45/P60 (<12m), benefit statement (<3m), government entitlement document (<3m).
 
 📎 [[BMSDC Documentary Evidence.pdf|Electoral registration — ID evidence request, 17 Sep 2026]]
+
+**Application finally rejected (27 Oct 2026).** Letter ref **ESFA 254490**: no evidence was received, so the
+application is closed. To get on the register Rupert must **reapply** at www.gov.uk/register-to-vote (or ask
+for a paper form); NI number and date of birth are now required. Registration is a legal requirement
+(voting isn't), and not being registered affects credit reference reports.
+
+📎 [[BMSDC Failed Application Letter.pdf|Electoral registration — failed application letter, 27 Oct 2026]]
 
 ## Utility Providers
 

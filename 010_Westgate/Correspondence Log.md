@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-**Last checked:** 2026-10-26
+**Last checked:** 2026-11-05
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept
@@ -83,9 +83,8 @@ up to date.
 ### Sue Glasgow — WhatsApp
 
 Most day-to-day landlord contact happens here, not by email, so `/refresh` won't pick it up. Taken
-from screenshots Rupert shared on 2026-09-24. This is the **complete surviving chat**: it starts on 8 Jan 2026,
-and anything before that was lost because Sue had accidentally turned on Disappearing Messages. There
-have been no messages since 12 Aug 2026.
+from screenshots Rupert shared on 2026-09-24 and 2026-11-05. This is the **complete surviving chat**: it starts on 8 Jan 2026,
+and anything before that was lost because Sue had accidentally turned on Disappearing Messages. The last message is 18 Oct 2026 (as of the 2026-11-05 screenshot).
 
 | Date | From | Key Content |
 |---|---|---|
@@ -102,6 +101,7 @@ have been no messages since 12 Aug 2026.
 | 2026-05-17 | Sue | Jason arriving around 8am tomorrow, scaffolding first, Julian may drop by. **Roof works went ahead from 18 May 2026** (Rupert confirmed 2026-09-24 that they're done) |
 | 2026-07-10 | Sue / Rupert | Gas safety check due. Julian booking the engineer for **Wed 12 Aug 9–12**. Rupert confirmed it's in the calendar |
 | 2026-08-12 | Sue / Rupert | Check done mid-morning, all good. Engineer said the **boiler is 16+ years old and showing it**, but found no issues. He left the landlord copy with Rupert. Sue: Julian will collect it and send a copy to David Burr |
+| 2026-10-18 | Rupert / Sue | Rupert asked whether a **thermostatic radiator valve (TRV)** could be fitted to the **spare room radiator**, the only one without one: the room is rarely used, so turning it down or off would save energy and money. Sue: they're away and are **happy to consider it on their return at the end of the month** (end Oct 2026) |
 
 
 ## Goodlord (Tenancy Platform)
@@ -147,6 +147,7 @@ have been no messages since 12 Aug 2026.
 | 2026-10-02 | support@fuseenergy.com | Sep payment | £75.52 scheduled 7 Oct |
 | 2026-10-13 | support@fuseenergy.com | Your fixed tariff is ending soon | Electricity fix (Aug Single Rate Fixed (15m) v2) ends 1 Dec, then moves to variable. Can schedule next tariff with no exit fees. Rates and switch comparison in [[Gas & Electricity]] |
 | 2026-10-15 | support@fuseenergy.com | Your new tariff is scheduled (×2) | Gas (10:50) and electricity (10:54) both scheduled to move to Oct Single Rate Fixed (24m) v5 after the current fix ends on 1 Dec 2026 |
+| 2026-11-03 | support@fuseenergy.com | Oct payment | £82.60 scheduled 6 Nov (opening balance £0.00) |
 
 ## Anglian Water
 
@@ -201,6 +202,7 @@ have been no messages since 12 Aug 2026.
 |---|---|---|---|
 | 2026-09-17 | elections@elections.baberghmidsuffolk.gov.uk | Electoral Registration — Evidence needed to complete your application. Elector 254490 | Application to join the register **rejected** — DWP couldn't verify identity. Copy ID needed quoting ref **254490**, or no vote in future elections. Attachment downloaded: [[BMSDC Documentary Evidence.pdf]] |
 | 2026-09-21 | elections@elections.baberghmidsuffolk.gov.uk | Electoral Registration — Evidence needed to complete your application. Elector 254490 | **Reminder resend** — identical content and attachment to the 17 Sep email, same ref 254490. No copy ID has been sent yet. |
+| 2026-10-27 | elections@elections.baberghmidsuffolk.gov.uk | Electoral Registration - Failed Application - Elector 254490 | **Application finally rejected** (ref ESFA 254490): no evidence received, so the 254490 application is closed. Sending copy ID against it no longer works; must **reapply** at gov.uk/register-to-vote (needs NI number and date of birth) or ask for a paper form. Letter notes registration is a legal requirement and not being registered affects credit reports. Attachment downloaded: [[BMSDC Failed Application Letter.pdf]] |
 
 ## Urban Jungle (Contents Insurance)
 

@@ -6,7 +6,8 @@
 - **Tax paid:** £36,681.57
 - **Tax code:** 536TM1
 - **Employer:** Roxor Gaming Limited (PAYE ref 120/ME01453)
-- Net monthly salary: £5,888, rose to £6,109 from Jan 2026
+- Net monthly salary: £5,888, rose to £6,109 from Jan 2026. **Now £6,074.84** (October 2026
+  payslip, tax code 452T; landed on Starling - Main 30 Oct). This is the figure on the D81.
 - Filed PDF: `divorce/incoming/2026-04-05_P60_2025-26_roxor.pdf` (the P60 itself
   lives in the divorce repo's `incoming/` since it arrived there; the summary
   figures live here as the income source-of-truth)

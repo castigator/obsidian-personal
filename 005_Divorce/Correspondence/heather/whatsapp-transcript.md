@@ -30,7 +30,7 @@ remain in place for quick topic lookup. This file is the raw record.
 
 ## Progress tracker
 
-**Covered so far: 3 Jul 2025 → 29 Oct 2026, 21:56 (no known gaps from 8 Sep onward)** · *Before that:* 3 Jul 2025 → 29 Oct 2026, 11:52 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 10:01 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 09:30 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 17:05 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 15:03 · *Earlier still:* 3 Jul 2025 → 26 Oct 2026, 13:50 · *Earlier:* 3 Jul 2025 → 25 Sep 2026, 07:45 · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
+**Covered so far: 3 Jul 2025 → 3 Nov 2026, 20:18 (no known gaps from 8 Sep onward)** · *Before that:* 3 Jul 2025 → 29 Oct 2026, 21:56 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 11:52 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 10:01 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 09:30 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 17:05 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 15:03 · *Earlier still:* 3 Jul 2025 → 26 Oct 2026, 13:50 · *Earlier:* 3 Jul 2025 → 25 Sep 2026, 07:45 · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
 screenshot supplied) and one unresolved message (28 Aug 12:25, WhatsApp send-delay placeholder
 only, text unknown).** Rupert states 3 Jul 2025 is the earliest point he could scroll back to
 ("the beginning of time") — treated as the start of the transcript unless earlier messages surface
@@ -2700,7 +2700,57 @@ Agree with "vaguely equal" though. How about we both fill in the D81 with our ow
 
 **Heather:** *(21:56)* "Have downloaded D81 - Lucy is definitely part of the split in the fact that I would need 2 bedrooms -   I know Lucy is an adult but she wants to be with her mum in the holidays  & definitely  won't want to stay with you & Mandy - sorry if harsh  but realistic"
 
-`[Source: whatsapp-images/2026-10-29_whatsapp-1152-2156-virgin-bt-d81-lucy.png, taken 30 Oct (chat list shows these as "Yesterday"; Heather last seen 30 Oct 09:00). The top of the 17:35 image is cut off, so anything between 11:52 and that image can't be confirmed from this screenshot, though nothing else appears to be there. The 👍 reaction is presumably Rupert's. Heather moved £4,050 of the Halifax 3123 balance (£6,205.97 at 18 Oct) to a new Virgin Money card at 0% for 12 months. She had asked for £6,000. The transfer fee and the Halifax balance left over aren't shown. No reply from Rupert by the time of the screenshot.]`
+`[Source: whatsapp-images/2026-10-29_whatsapp-1152-2156-virgin-bt-d81-lucy.png, taken 30 Oct (chat list shows these as "Yesterday"; Heather last seen 30 Oct 09:00). The top of the 17:35 image is cut off in this screenshot. A later screenshot (whatsapp-images/2026-10-29_whatsapp-1152-1735-no-gap.png, taken 5 Nov) shows the whole image and confirms nothing came between 11:52 and 17:35. The 👍 reaction is presumably Rupert's. Heather moved £4,050 of the Halifax 3123 balance (£6,205.97 at 18 Oct) to a new Virgin Money card at 0% for 12 months. She had asked for £6,000. The transfer fee and the Halifax balance left over aren't shown. No reply from Rupert by the time of the screenshot.]`
+
+---
+
+### Fri 30 Oct 2026 *(shown as "Friday" in screenshots taken 5 Nov; no messages between 29 Oct 21:56 and this)*
+
+**Rupert:** *(10:45 ✓✓)* `[Quote-reply to Heather's 29 Oct 17:35 message: "Have just done balance transfer to a virgin credit card 12 mths 0 %  from Halifax but only £4,050  ( all I could get)", with the Virgin confirmation image thumbnail.]` "Revised card balances and minimum payments, please."
+
+`[Source: whatsapp-images/2026-10-30_whatsapp-1735-1045-revised-balances.png.]`
+
+**Heather:** *(10:51)* `[Image: Halifax app screenshot, "Everyday" tab. Halifax Credit Card **** 3123: £6,205.97 "Balance after pending". Manage credit limit: £6,205.97/£7,500.00, £1,294.03 available. Statement: statement balance £6,205.97, minimum payment £178.09, due date 12 November 2026. Buttons "Pay", "View your money transfer options", "View your balance transfer options".]` "Transfer hasn't gone through yet so no change"
+
+`[Source: whatsapp-images/2026-10-30_whatsapp-1045-1051-halifax-pending.png. New fact: the Halifax 3123 credit limit is £7,500. As of 30 Oct the £4,050 Virgin transfer had not reached the Halifax account, so the Virgin balance, the transfer fee and the remaining Halifax balance are still unknown. No reply from Rupert; the next message is his on 2 Nov.]`
+
+### Mon 2 Nov 2026 *(shown as "Monday"; no messages on 31 Oct or 1 Nov)*
+
+**Rupert:** *(14:22 ✓✓)* "Do you ever fetch email directly from pebmarsh.com? Mail to heather@pebmarsh.com forwards to heather.heather.thomas@gmail.com, so you'll get it there. However, it looks like there's 21Gb of unfetched data in the  mailbox at Dreamhost. I'm looking to move things. If I set you to forward-only, you'll still be able to send and receive vial Gmail..."
+
+**Rupert:** *(14:23 ✓✓)* "And, don't worry - I don't get to see your email..."
+
+**Heather:** *(16:27)* "Confused ... I always use  heather@pebmarsh.com as a login  username for stuff  - is that a problem ?  I only access emails from heather.heather.thomas@gmail.com"
+
+**Rupert:** *(16:28 ✓✓)* "The question is where do you send and receive emails from, Gmail?"
+
+**Heather:** *(16:28)* "Yes"
+
+**Rupert:** *(16:29 ✓✓)* "Ok... So, that explains the 21Gb mailbox - you never actually fetch from there..."
+
+**Rupert:** *(16:29 ✓✓)* "Everything gets routed to gmail and you send from gmail"
+
+**Heather:** *(16:30)* "Yes - you sorted that out for me a long time ago"
+
+`[Source: whatsapp-images/2026-11-02_whatsapp-1051-1630-pebmarsh-mailbox.png, taken 4 Nov (Heather last seen 4 Nov 09:17). This is Rupert, as domain admin, moving pebmarsh.com mail from Dreamhost to Forward Email. It has nothing to do with the finances. "vial" is Rupert's typo for "via".]`
+
+### Tue 3 Nov 2026 *(shown as "Yesterday" in the 4 Nov screenshot)*
+
+**Rupert:** *(08:45 ✓✓)* `[PDF: pebmarsh-email-sending-guide.pdf, 5 pages, 495 KB, cover "Sending as your pebmarsh.com address".]` "Title:    Forward Email SMTP – heather@pebmarsh.com Username: heather@pebmarsh.com Password: [REDACTED — live SMTP credential, deliberately not transcribed] Server: smtp.forwardemail.net port 465  SSL"
+
+**Rupert:** *(08:47 ✓✓)* "I'll be making the switch later today. So, if you want to continue sending as heather@pebmarsh.com, you'll need to update your settings ASAP"
+
+**Rupert:** *(18:29 ✓✓)* "Can you let me know when you've made the update? Or if you need help?"
+
+**Heather:** *(18:35)* "Sorry - just got home - no time today & had  Gov meeting ! Will look now ..." *(👍 reaction)*
+
+**Heather:** *(19:00)* "I think I did it - have sent you an email to test - sorry and thank you" *(👍 reaction)*
+
+**Rupert:** *(20:11 ✓✓)* "Yup got it, thanks"
+
+**Heather:** *(20:18)* "Thank you"
+
+`[Source: whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png. The password in the 08:45 message has been blacked out in the saved copy and left out of this transcript on purpose. It is the only departure from verbatim. The original is still in the WhatsApp chat. The 👍 reactions are presumably Rupert's. "Gov meeting" presumably means a school governors' meeting (not confirmed). Last message as of the 4–5 Nov screenshots.]`
 
 ---
 
