@@ -7,8 +7,8 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **3 Nov 2026** via direct
-Gmail API — see note below. Covering April 2024 – October 2026.
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **6 Nov 2026** via direct
+Gmail API — see note below. Covering April 2024 – November 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
 been expired or revoked`) — likely the 7-day refresh-token lifetime Google enforces on OAuth apps
@@ -131,6 +131,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-10-24 | [heather-finance-form-e-mediation-cards.md](heather/2026-10-24_heather-finance-form-e-mediation-cards.md) | **Heather → Rupert: start disclosure.** Blank **Form E** from her solicitor, to fill separately; **mediation** proposed, forms needed first (Alan can post his to her). Cards: she'll BT Halifax to a 0% card, asks Rupert to do same for Barclaycard; **not splitting the card debt**, both stay marital. Mum's card £200/mo, paid off Jan 27. Oct statements attached: **Barclaycard £7,009.81 (min £195.47, due 16 Nov), Halifax £6,205.97 (min £178.09, due 12 Nov)**. |
 | 2026-10-24 | [garden-annexes-brochure_LOCKH.md](heather/2026-10-24_garden-annexes-brochure_LOCKH.md) 🔒H | Garden Annexes follow-up to Heather for Maple Tree House: she appears to have requested an annexe brochure. Housing-intention signal only. |
 | 2026-10-26 | [whatsapp-salary-ann-card-october-sheet.md](heather/2026-10-26_whatsapp-salary-ann-card-october-sheet.md) | **WhatsApp 15:31–17:05.** Heather: salary now **£23,034 gross / £1,587.46 net** (was £21,715 / ~£1,471); no updated pension values. **Ann's card ~£646.51** (her spreadsheet, not a statement; was £1,409). Halifax and Barclaycard Oct statements resent (same as 24 Oct). Rupert's final October sheet: **£2,958.13, Rupert £2,366.50 / Heather £591.63** (Halifax min £178.09; Lucy Food now in the per-person totals). Joint debt now ~£22,703. |
+| 2026-11-04 | [hmcts-conditional-order-can-apply.md](heather/2026-11-04_hmcts-conditional-order-can-apply.md) | **HMCTS: can now apply for the Conditional Order** (case 1780-7415-8911-6303). Joint application, so Heather must apply too. Account goes inactive after 90 days without login. |
 
 ### [subsidence/](subsidence/)
 
@@ -230,6 +231,9 @@ Also filed directly in `heather/` (received 27 Apr 2026):
 
 ### [solicitors/](solicitors/)
 
+- [2026-11-05_rupert-nudge-and-alan-call.md](solicitors/2026-11-05_rupert-nudge-and-alan-call.md) —
+  **5 Nov 2026: Rupert's nudge (14:26), then a phone call from Alan.** Alan: OK to share the D81 with Heather (Q1).
+  He pressed hard for a signed Record of Terms Agreed. No written reply; other ten questions not known to be answered.
 - [2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md](solicitors/2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md) —
   **Rupert → Alan, 1 Nov 2026 12:59 (sent).** D81 working draft (snapshot PDF attached) plus 11 questions. Q1: is anything
   in it compromising before he shares it with Heather? Q2 (main): how a consent order handles a sale that happens
