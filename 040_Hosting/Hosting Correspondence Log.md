@@ -5,12 +5,16 @@ tags:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-05
+**Last checked:** 2026-11-06
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-06 | Belynda Fellows | Reply: she re-invited Rupert (accepted 15:12; the invite was for Contributor, so the site created a local user `admin` with rupert@pebmarsh.com, hence the "New User Registration" to rupertthomas@gmail.com, expected). She bought fopc.co.uk to move away from John Flack and wants the old address redirected to the new one. | Redirect done; Rupert's reply (drafted) asks her to make him Administrator |
+| 2026-11-06 | Rupert (sent) | To Belynda: site copied to WordPress.com; the copy replaced the users and locked Rupert out; please re-invite; keep fopc.co.uk or go back to friendsofpebmarshchurch.uk? | Answered |
+| 2026-11-06 | Belynda Fellows | Forwarded "Dashboard ‹ chocolate-lady-bread": she has a WordPress.com account (team@ login) but couldn't find how to add Rupert. Rupert replied with the steps; she invited him as administrator (11:53). | Done |
+| 2026-11-06 | Rupert (sent) | To Kate Stubbs, "The PCP website is now on your WordPress.com site". | None |
 | 2026-11-05 | Rupert (sent) | To Kate Stubbs, "PCP website: timing before Monday's meeting": the old WordPress hosting closes on the 10th, so decide before the committee meeting; a straight copy is simplest, a rebuild from the archive is more work; if they want to make lots of changes WordPress is the way (Rupert won't do updates at that scale); if so, create a pub WordPress.com account and Personal monthly site (refundable within 7 days) and add rupert@pebmarsh.com as admin, ideally by end of week. | Wait for Kate; if she sets it up, migrate from DreamHost before 10 Nov |
 | 2026-11-05 | Rupert (sent) | Reply to Belynda ("Re: FOPC WEBSITE"): Krystal is the long-term home, but first she creates an FoPC WordPress.com account and Personal monthly site and adds rupert@pebmarsh.com as admin, ideally by end of week; Rupert moves the site there and points the domain at it; she then applies to Krystal (krystal.io/hosting/charity, charity 1184947) in her own time; offer to help move the domain out of John's name. | Wait for her admin invite; migrate before DreamHost closes on 10 Nov |
 | 2026-11-05 | Belynda Fellows (belyndarozalyn@me.com) | "FOPC WEBSITE": she is the new chair of FoPC, loves the site and wants to keep and update it; has no uk-cheapest account; asks if she can set up the free Krystal account and Rupert moves it there. | Reply drafted (Krystal charity application by her; Rupert moves it; DreamHost closes 10th; domain to move out of John's name). Drafted too: email to Kate about PCP timing |
