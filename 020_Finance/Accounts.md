@@ -13,7 +13,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £1,160.08 | 2026-11-05 |
+| Starling - Main | £863.34 | 2026-11-06 |
 | Starling - Joint | £113.96 | 2026-11-05 |
 | Barclays - Current | £73.22 | 2026-11-04 |
 
@@ -525,6 +525,8 @@ is referenced elsewhere.
 **3–4 Nov 2026, ordinary.** Main £1,358.58 → **£1,254.92**: East of England Co-op £37.68, The Black Lion £15.84 and £13.25 (3 Nov). On 4 Nov, Tesco car insurance £20.76 (the usual instalment, correctly categorised as Insurance, not the card or loan) and Amazon £16.13 (Groceries, not mis-paired into Prime). Barclays £140.17 → **£73.22**: the Post Office home insurance direct debit, £66.95, the same every month. The SUM check agrees for both.
 
 **4–5 Nov 2026, ordinary.** Main £1,254.92 → **£1,160.08**: more 4 Nov spend synced after the last refresh (Tesco £16.40 and £23.60, PayPal £6.30, Five Bells Cavendish £10.75, £10.75 and £4.90), then East of England Co-op £22.14 (5 Nov). Joint £132.76 → **£113.96**: Tesco £18.80 (5 Nov). The SUM check agrees for both. Nothing mis-paired.
+
+**5–6 Nov 2026.** Main £1,160.08 → **£863.34**: **Ryanair £177.47** (5 Nov), The Mill Hotel £4.95 and £11.70, The Black Lion £10.44 and £9.58, then **Fuse Energy £82.60** (6 Nov; it was £75.52 on 6 Oct). The SUM check agrees. Nothing mis-paired, and the other accounts are unchanged.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare

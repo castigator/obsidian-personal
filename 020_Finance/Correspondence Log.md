@@ -5,6 +5,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-11-06.** Two Starling emails on 5 Nov, neither filed as its own entry, per the convention below. (1) **The Easy Saver rate went up from 2.50% to 2.75% AER** (2.71% gross, variable, from 5 Nov). That is the Savings Buffer, £301.76. (2) A notice that Starling will start reporting all open GBP accounts, including joint ones, to the credit reference agencies over the next few months, so `Starling - Joint` may appear as a "new account" on Rupert's credit file. Nothing to do. Divorce is unchanged. Banktivity: Main £863.34 (Ryanair £177.47, Fuse Energy £82.60, pub and hotel spend). See [[Accounts]].
+
 **2026-11-05.** No new email. Divorce is unchanged. Banktivity, all routine: Main £1,160.08 (late-synced 4 Nov Tesco, PayPal and Five Bells spend, Co-op £22.14), Joint £113.96 (Tesco £18.80). See [[Accounts]].
 
 **2026-11-04.** No new email. Divorce is unchanged (personal debts ~£7,099 just reflects the Tesco card being cleared). Banktivity, all routine: Main £1,254.92 (Co-op, pub, Tesco car insurance £20.76, Amazon £16.13 categorised correctly), Barclays £73.22 (PO home insurance £66.95). See [[Accounts]].
