@@ -6,7 +6,12 @@ tags:
 
 # Site - Pebmarsh Community Pub
 
-Pebmarsh Community Pub Limited, a community benefit society. **Static on Cloudflare since 4 Nov 2026**, maintained by Rupert. Back to [[Hosting]].
+Pebmarsh Community Pub Limited, a community benefit society. **On WordPress.com since 6 Nov 2026, in Kate Stubbs's own account, at pebmarshcommunitypub.com.** Handed over. Back to [[Hosting]].
+
+- **6 Nov 2026: moved to WordPress.com.** Kate created the account, the site `pebmarshcommunitypub` (Personal plan) and the domain pebmarshcommunitypub.com, and added Rupert as admin. Rupert installed `wpcom-migration` on the DreamHost copy (as `pebmarsh_pcp`) and ran the full migration: 10 pages, 163 media, NextGEN galleries and the committee page (Team Members plugin) all working. WordPress.com dropped WP Mail SMTP, UpdraftPlus, WP Super Cache and DreamHost login. Admin email set to Kate's; auto-updates on. `chair@pebmarshcommunitypub.com` forwards (WordPress.com email forwarding) to pcpshareholder@gmail.com, pending that inbox's verification.
+- **pcp.pebmarsh.com retired (6 Nov 2026):** Rupert dropped the old address rather than redirect it. The static Worker `pcp` and the `pcp`/`www.pcp` records were deleted; the pebmarsh.com home page links to pebmarshcommunitypub.com. `ftp.pcp`, `ssh.pcp` and `mysql.pcp` deleted; the `pcpwp` database deleted (ticket 266285371); DreamHost closed the same day. The pcp Forward Email addresses (`chair@`, `admin@`, `rupert@`) and MX/TXT stay until the end of December, then go.
+- Kate was emailed 6 Nov ("The PCP website is now on your WordPress.com site").
+- **Everything below is history** (the static site of 4–6 Nov and the DreamHost WordPress).
 
 - **URL:** https://pcp.pebmarsh.com. About 1,200 visits a month.
 - **Now (4 Nov 2026):** a static site on a [[Cloudflare]] Worker (`pcp`, static assets), replacing WordPress. 9 pages and 5 galleries (with a small photo viewer), at the same addresses as before, so old links work. The look is based on Twenty Seventeen.

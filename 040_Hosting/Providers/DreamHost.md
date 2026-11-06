@@ -5,7 +5,9 @@ tags:
 
 # DreamHost
 
-The current host for the websites, email and databases. Leaving it is the plan: see [[Hosting Migration Plan]]. Back to [[Hosting]].
+**Closed by Rupert on 6 Nov 2026** (account #3299, held since Feb 2000), after the last site moved off. Final balance of $7.54 paid that day (PayPal, transaction 40273753). Everything worth keeping is in Drive "Hosting Archives" (see [[Hosting Archive]]). Was the host for the websites, email and databases; see [[Hosting Migration Plan]]. Back to [[Hosting]].
+
+- **Before closing (6 Nov 2026):** `pbdb_parish` and `pcpwp` databases deleted (tickets 266285373, 266285371); FoPC archived; `mysql` records deleted from both Cloudflare zones; no crons; DNS check switched to compare Cloudflare with the zone files. No domains were registered at DreamHost. Left to go with the account: the unused FoPC copy and its database, the `pebmarsh_pcp` user, web logs, and the two folders owned by deleted users.
 
 - **Plan:** Shared Unlimited, about $156 a year. **Switched to monthly billing on 28 Oct 2026** so it can be cancelled as soon as everything has moved. A price rise was announced on 24 Oct 2026.
 - **Panel:** panel.dreamhost.com (owner rupert@pebmarsh.com).

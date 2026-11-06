@@ -11,6 +11,7 @@ Newest first. One line per email that matters; routine noise (backup succeeded, 
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-06 | DreamHost | Payment receipt $7.54 (transaction 40273753; the account balance, paid by Rupert before closing). "Database Deleted" for `pbdb_parish` and `pcpwp` (tickets 266285373, 266285371). Rupert then closed the account. | Watch for the closure confirmation and any further charge |
 | 2026-11-06 | Belynda Fellows | Reply: she re-invited Rupert (accepted 15:12; the invite was for Contributor, so the site created a local user `admin` with rupert@pebmarsh.com, hence the "New User Registration" to rupertthomas@gmail.com, expected). She bought fopc.co.uk to move away from John Flack and wants the old address redirected to the new one. | Redirect done; Rupert's reply (drafted) asks her to make him Administrator |
 | 2026-11-06 | Rupert (sent) | To Belynda: site copied to WordPress.com; the copy replaced the users and locked Rupert out; please re-invite; keep fopc.co.uk or go back to friendsofpebmarshchurch.uk? | Answered |
 | 2026-11-06 | Belynda Fellows | Forwarded "Dashboard ‹ chocolate-lady-bread": she has a WordPress.com account (team@ login) but couldn't find how to add Rupert. Rupert replied with the steps; she invited him as administrator (11:53). | Done |
