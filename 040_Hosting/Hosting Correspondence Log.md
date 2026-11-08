@@ -11,6 +11,9 @@ Newest first. One line per email that matters; routine noise (backup succeeded, 
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-06 | Rupert (sent) | To Belynda: handover. Site live at fopc.co.uk in her account; old address redirects; admin email now hers (confirm the link); forms go to team@; old backup tools removed and old hosting closed; move team@ to an fopc.co.uk address before the old domain expires (Apr 2027); Rupert stays admin to help. | None. FoPC handed over |
+| 2026-11-06 | Belynda Fellows | "I've tried that" (made Rupert Administrator). | Done |
+| 2026-11-06 | Mailchimp | Courtyard Stores welcome email failed again. | Existing open item |
 | 2026-11-06 | DreamHost | Payment receipt $7.54 (transaction 40273753; the account balance, paid by Rupert before closing). "Database Deleted" for `pbdb_parish` and `pcpwp` (tickets 266285373, 266285371). Rupert then closed the account. | Watch for the closure confirmation and any further charge |
 | 2026-11-06 | Belynda Fellows | Reply: she re-invited Rupert (accepted 15:12; the invite was for Contributor, so the site created a local user `admin` with rupert@pebmarsh.com, hence the "New User Registration" to rupertthomas@gmail.com, expected). She bought fopc.co.uk to move away from John Flack and wants the old address redirected to the new one. | Redirect done; Rupert's reply (drafted) asks her to make him Administrator |
 | 2026-11-06 | Rupert (sent) | To Belynda: site copied to WordPress.com; the copy replaced the users and locked Rupert out; please re-invite; keep fopc.co.uk or go back to friendsofpebmarshchurch.uk? | Answered |
