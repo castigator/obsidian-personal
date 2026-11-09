@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-23 — Harper's Haslemere: both bookings cancelled, £291.00 refund outstanding
 
 Two separate bookings were made for **the same night, Fri 2 Oct 2026**, one

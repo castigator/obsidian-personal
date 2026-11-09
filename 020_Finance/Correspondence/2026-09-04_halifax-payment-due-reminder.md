@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-04 — Halifax payment-due reminder (Heather's card)
 
 Routine "It's time to make a payment" notice, Heather's Halifax credit card

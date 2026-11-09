@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Car Insurance (Tesco)
 
 **Switched from 1st Central to Tesco Car Insurance, 7 Aug 2026** — 1st Central's

@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Barclaycard statement — Heather's card (ending 5002)
 
 **Date:** 20 July 2026 (statement date) · downloaded/reviewed 23 Jul 2026

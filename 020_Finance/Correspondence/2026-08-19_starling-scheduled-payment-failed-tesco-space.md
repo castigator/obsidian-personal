@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Starling — scheduled payment out of Tesco Credit Card Space failed
 
 **Date:** 2026-08-19

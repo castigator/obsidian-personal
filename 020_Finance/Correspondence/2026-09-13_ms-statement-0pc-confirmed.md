@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-13 — M&S statement confirms 0% still live
 
 Statement supplied by Rupert (`~/Downloads/mands-20260921.pdf`), filed to

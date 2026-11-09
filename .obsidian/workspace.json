@@ -41,12 +41,14 @@
             "id": "66d1c42d40124f89",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "005_Divorce/Finances/D81 - Rupert working copy.pdf"
+                "file": "Claude/Sessions/2026-11-09 finance dfd038ee.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "D81 - Rupert working copy"
+              "icon": "lucide-file",
+              "title": "2026-11-09 finance dfd038ee"
             }
           }
         ],
@@ -232,6 +234,13 @@
   },
   "active": "66d1c42d40124f89",
   "lastOpenFiles": [
+    "020_Finance/0% Offers Tracker.md",
+    "020_Finance/Accounts.md",
+    "Claude/Sessions/2026-11-09 finance dfd038ee.md",
+    "Claude/Sessions/2026-11-09 finance dfd038ee.md.tmp.24340.6e96cf62a525",
+    "Claude/Sessions",
+    "Claude",
+    "005_Divorce/Finances/D81 - Rupert working copy.pdf",
     "005_Divorce/Analysis/2026-11-06_equity-split-real-terms.md",
     "005_Divorce/Correspondence/solicitors/2026-11-05_rupert-nudge-and-alan-call.md",
     "005_Divorce/Correspondence/heather/2026-11-04_hmcts-conditional-order-can-apply.md",
@@ -254,14 +263,10 @@
     "xx_media/Medicash - Terms and Conditions (Feb 2025).pdf",
     "xx_media/Medicash - Policy Change Letter and Schedule (6 Oct 2025).pdf",
     "xx_media/Medicash - Insurance Product Information (Jan 2025).pdf",
-    "xx_media/Medicash - Benefit Table Level 1 (Sep 2025).pdf",
     "020_Finance/Correspondence/2026-11-02_barclays-anglian-water-dd-cancelled.md",
-    "040_Hosting/Sites/Site - Glanceboard.md.tmp.10269.5a63c28f9a43",
     "040_Hosting/Hosting.md",
     "005_Divorce/Finances/D81 Form.md",
-    "020_Finance/0% Offers Tracker.md.tmp.6338.0d8ed5e0adcc",
     "005_Divorce/Correspondence/solicitors/2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md",
-    "005_Divorce/Finances/D81 - Rupert working copy - snapshot 2026-11-01.pdf",
     "005_Divorce/Solicitors/Questions for Alan.md",
     "040_Hosting/Hosting Correspondence Log.md",
     "040_Hosting/Hosting Archive.md",
@@ -274,9 +279,6 @@
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-drain-excess-rbs.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-08sep-13sep.png",
     "005_Divorce/Correspondence/heather/2026-09-25_whatsapp-halifax-statement-barclaycard-app.md",
-    "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-halifax-pdf-barclaycard-app.png",
-    "005_Divorce/Correspondence/heather/2026-09-25_heather-forwards-barclaycard-persistent-debt-notice.md",
-    "020_Finance/Correspondence/2026-09-25_amazon-prime-charged-to-unknown-card-3963.md",
-    "005_Divorce/Correspondence/heather/2026-09-23_heather-self-forwarded-financial-docs.md"
+    "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-halifax-pdf-barclaycard-app.png"
   ]
 }

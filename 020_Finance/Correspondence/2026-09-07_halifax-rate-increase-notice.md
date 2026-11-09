@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-07 — Halifax standard interest rate increase (Heather's card)
 
 "The interest we will charge on your credit card is going up" — notice

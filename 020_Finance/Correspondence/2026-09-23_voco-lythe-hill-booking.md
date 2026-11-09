@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # voco Lythe Hill Hotel & Spa: booking #28501872 (23 Sept 2026)
 
 - **From:** voco / IHG (voco@tx.ihg.com), 23 Sept 2026

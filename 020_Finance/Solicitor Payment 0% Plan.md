@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Plan: financing a ~£1,982 solicitor payment at 0% interest
 
 Context (2026-07-21): solicitor invoice is **£1,982**, payable by card. Plan

@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Personal loan application — declared answers log
 
 Loan: personal loan, ~£7,500 over 3 years, for consolidating the shared-debt

@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 
 Aristocrat - Standard Life - <https://platform.secure.standardlife.co.uk/secure/customer-platform/dashboard>
 

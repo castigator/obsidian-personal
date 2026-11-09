@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # NatWest Mastercard statement — 16 July 2026
 
 Source: `StatementArchive_16 Jul 2026-1.pdf` (Downloads, not email — supplied

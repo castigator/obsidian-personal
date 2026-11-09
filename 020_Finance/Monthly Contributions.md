@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Monthly Contributions (household: Rupert & Heather)
 
 From the shared sheet ("Heather and Rupert Finance"), **as of 30 Sep 2026**. All rows are

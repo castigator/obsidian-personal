@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Capital One credit limit increase
 
 **Date:** 2025-08-15 (effective) / 2025-09-15 (welcome email)

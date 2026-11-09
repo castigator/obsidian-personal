@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # M&S Credit Card statement — 13 Aug 2026 — confirms £175 fixed DD landed
 
 **Source:** PDF statement supplied by Rupert (`~/Downloads/2026-08-13_Statement (1).pdf`),

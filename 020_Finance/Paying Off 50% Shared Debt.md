@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Strategy: paying off Rupert's 50% of the shared debt (~£7,400)
 
 Context (2026-07-10, ownership corrected 2026-07-15): shared debt is

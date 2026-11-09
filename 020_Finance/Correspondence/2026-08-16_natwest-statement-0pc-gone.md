@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-08-16 — NatWest statement: the 0% balance is gone, whole balance at 26.436%
 
 **Statement:** [[2026-08-16_natwest-0354-statement.pdf]] (card ending 0354,

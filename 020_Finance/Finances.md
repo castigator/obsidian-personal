@@ -7,6 +7,9 @@ banner-repeat: false
 banner-fade: -10
 banner-height: 100
 content-start: 146
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
 ---
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1eT_pMN_6-gU31_R2t4GP9_6IpOVfCNpdPp4wcOBeznw/edit?usp=sharing)

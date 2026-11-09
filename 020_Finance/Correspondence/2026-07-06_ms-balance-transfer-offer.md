@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # M&S Credit Card balance transfer offer (confirmed, unchanged)
 
 **Date:** 2026-07-06

@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Strategy: managing personal cards + Tesco Loan to avoid interest
 
 Covers Rupert's own four cards and the Tesco Loan — not the shared debt

@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 Defined Contribution Pension  
 Transfer Value is the value of the pot  
 No charges for transferring in or out

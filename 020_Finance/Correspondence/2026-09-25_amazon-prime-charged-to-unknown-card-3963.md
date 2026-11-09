@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-25 — Amazon Prime £95 charged to an unrecognised card (NatWest Debit Mastercard ••••3963)
 
 **✅ RESOLVED, 25 Sept 2026 — the card is Dylan's.** Amazon → Your Wallet →

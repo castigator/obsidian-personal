@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # 2026-09-16 — Capital One Direct Debit reissue notice
 
 **From:** Capital One (capitalone@notification.capitalone.co.uk) ·

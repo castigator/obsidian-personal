@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
 # Tesco Bank balance transfer offer (recurring)
 
 **Date:** 2026-07-20 (also sent 2026-07-14, same terms)

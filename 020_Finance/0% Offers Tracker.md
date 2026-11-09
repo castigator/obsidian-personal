@@ -1,32 +1,37 @@
-# 0% offers tracker — every card, at a glance
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
+claude_sessions:
+  - "[[2026-11-09 finance dfd038ee]]"
+---
+## 0% Offers Tracker — Every Card, at a Glance
 
-Consolidated view of currently-known 0% (or otherwise promotional-rate)
-balance/money transfer offers across **every card that touches this
-project** — Rupert's own four cards plus the shared-debt cards (Heather's
-Halifax/Barclaycard, Ann's Barclaycard). Kept live by `/refresh`: any 0%
-or promotional-rate offer email found for any of these cards updates this
-table, even a recurring/marketing one that doesn't get its own
-[[Correspondence Log|correspondence]] entry (see that note's "recurring
-noise" convention — that convention is about not re-filing the *email*,
+Consolidated view of currently-known 0% (or otherwise promotional-rate)  
+balance/money transfer offers across **every card that touches this  
+project** — Rupert's own four cards plus the shared-debt cards (Heather's  
+Halifax/Barclaycard, Ann's Barclaycard). Kept live by `/refresh`: any 0%  
+or promotional-rate offer email found for any of these cards updates this  
+table, even a recurring/marketing one that doesn't get its own  
+[[Correspondence Log|correspondence]] entry (see that note's "recurring  
+noise" convention — that convention is about not re-filing the *email*,  
 not about skipping the *terms* here).
 
-Detail behind each row lives in the account's own note
-([[M&S Credit Card]], [[Tesco Clubcard Credit Card]],
-[[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table
+Detail behind each row lives in the account's own note  
+([[M&S Credit Card]], [[Tesco Clubcard Credit Card]],  
+[[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table  
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-11-02. **Heather moved £4,050 of the Halifax balance to a new Virgin Money card at 0% for 12 months (29 Oct).** The fee and new balances are unknown. Halifax's own 0% window closed on 31 Oct without being used. Before that, 2026-10-26: Heather says (24 Oct) she'll move the Halifax balance to a new 0% card herself, and she has asked Rupert to do the same for the Barclaycard (no card split; Rupert won't take on the Barclaycard without signed paperwork). Before that, 2026-10-16: Halifax (Heather's) BT/MT window still 31 Oct (15 Oct "ends soon" email),
-available up to £1,410 as at 12 Oct (was £1,233 on 27 Sept). Barclaycard's purchase-offer activation date
+**Last updated:** 2026-11-02. **Heather moved £4,050 of the Halifax balance to a new Virgin Money card at 0% for 12 months (29 Oct).** The fee and new balances are unknown. Halifax's own 0% window closed on 31 Oct without being used. Before that, 2026-10-26: Heather says (24 Oct) she'll move the Halifax balance to a new 0% card herself, and she has asked Rupert to do the same for the Barclaycard (no card split; Rupert won't take on the Barclaycard without signed paperwork). Before that, 2026-10-16: Halifax (Heather's) BT/MT window still 31 Oct (15 Oct "ends soon" email),  
+available up to £1,410 as at 12 Oct (was £1,233 on 27 Sept). Barclaycard's purchase-offer activation date  
 (30 Sept) has passed with no new offer email seen.
 
-**2026-09-17:** 🚨 **major correction:** the NatWest card is
-**not** on 0% and hasn't been since 28 July. Its promotional balance was
-repaid by the M&S transfer and the solicitor fee replaced it as full-rate
-purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
-16 Aug statement. See [[NatWest Mastercard]] and
+**2026-09-17:** 🚨 **major correction:** the NatWest card is  
+**not** on 0% and hasn't been since 28 July. Its promotional balance was  
+repaid by the M&S transfer and the solicitor fee replaced it as full-rate  
+purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the  
+16 Aug statement. See [[NatWest Mastercard]] and  
 [[2026-08-16_natwest-statement-0pc-gone]].
 
-## Rupert's own cards
+### Rupert's Own Cards
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
@@ -35,7 +40,7 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 | M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £33.69 headroom only (limit £2,000, balance £1,966.31 — used 28 Jul for the Atkins Dellow payment) | Effectively maxed out until balance clears |
 | Capital One (…7498) | — | none current | — | £1,800 available (£0 balance) | No live offer; highest standard rate (30.34%) if a balance ever lands here |
 
-## Shared-debt cards (Heather's / Ann's — not Rupert's to draw on directly)
+### Shared-debt Cards (Heather's / Ann's — not Rupert's to Draw on Directly)
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
@@ -44,28 +49,28 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 | Barclaycard (Heather's, …5002) | Purchases only (not BT/MT) | 0% / no fee | Activate by 30 Sept 2026 in-app; runs to 1 Apr 2027 | £6,275.76 available (limit £13,550) — as at 20 Jul, not re-confirmed this offer | Rolled forward 4 Sept 2026 — see [[Shared Debt]] |
 | Barclaycard (Ann's) | — | none known | — | not tracked | Never surfaced by email search |
 
-## How to use this
+### How to Use This
 
-- ✅ **Using the Tesco window for the NatWest balance was considered and
-  DECLINED (18 Sept 2026).** Moving the £1,255.11 would have cost £62.63 in
-  fee plus ~£17–20 of interest before it landed — **more than the ~£72–76 of
-  interest incurred by simply leaving it** and clearing it with the existing
-  £300/month by February 2027. The transfer bought cash flow (~£205/month
-  for 14 months), not savings, and Rupert's priority is total cost. The
-  9 Oct window is being allowed to lapse; since Tesco's offer is a recurring
-  monthly notice, nothing irreversible is lost. See
+- ✅ **Using the Tesco window for the NatWest balance was considered and  
+  DECLINED (18 Sept 2026).** Moving the £1,255.11 would have cost £62.63 in  
+  fee plus ~£17–20 of interest before it landed — **more than the ~£72–76 of  
+  interest incurred by simply leaving it** and clearing it with the existing  
+  £300/month by February 2027. The transfer bought cash flow (~£205/month  
+  for 14 months), not savings, and Rupert's priority is total cost. The  
+  9 Oct window is being allowed to lapse; since Tesco's offer is a recurring  
+  monthly notice, nothing irreversible is lost. See  
   [[NatWest Mastercard]].
-- **Rupert's own borrowing capacity for the shared-debt payoff:** Tesco
-  Clubcard's 0% BT window is the only genuinely open, unused offer right
-  now (M&S is maxed out, NatWest is *not* 0% any more). Note the competing
-  claim on it above. See
-  [[Paying Off 50% Shared Debt]] for how this fits the wider payoff
-  strategy — the Halifax personal loan (£7,500, 6.4%) remains the primary
+- **Rupert's own borrowing capacity for the shared-debt payoff:** Tesco  
+  Clubcard's 0% BT window is the only genuinely open, unused offer right  
+  now (M&S is maxed out, NatWest is *not* 0% any more). Note the competing  
+  claim on it above. See  
+  [[Paying Off 50% Shared Debt]] for how this fits the wider payoff  
+  strategy — the Halifax personal loan (£7,500, 6.4%) remains the primary  
   plan, gated on the Card Split Agreement being signed.
-- **Heather's/Ann's offers** are informational only — useful for
-  understanding what's available to *them* (e.g. whether Heather could cut
-  her own interest cost independent of the split), not something Rupert
+- **Heather's/Ann's offers** are informational only — useful for  
+  understanding what's available to *them* (e.g. whether Heather could cut  
+  her own interest cost independent of the split), not something Rupert  
   can act on.
-- Re-check this table every `/refresh`: fees/windows on the recurring
-  personal-card offers (Tesco, M&S) shift monthly, and new shared-debt-card
+- Re-check this table every `/refresh`: fees/windows on the recurring  
+  personal-card offers (Tesco, M&S) shift monthly, and new shared-debt-card  
   offers may appear without Rupert being the recipient.
