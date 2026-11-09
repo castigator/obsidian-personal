@@ -13,8 +13,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £863.34 | 2026-11-06 |
-| Starling - Joint | £113.96 | 2026-11-05 |
+| Starling - Main | £649.51 | 2026-11-08 |
+| Starling - Joint | £53.55 | 2026-11-08 |
 | Barclays - Current | £73.22 | 2026-11-04 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses
@@ -488,9 +488,9 @@ is referenced elsewhere.
 | Starling - Westgate Rent | £1,000.00 | 2026-11-02 |
 | Starling - Broadband | £32.99 | 2026-11-02 |
 | Starling - Home Insurance | £5.30 | 2026-11-02 |
-| Starling - Water | £77.00 | 2026-11-02 |
-| Starling - Council Tax | £152.00 | 2026-11-02 |
-| Starling - TV Licence | £15.65 | 2026-11-02 |
+| Starling - Water | £0.00 | 2026-11-09 |
+| Starling - Council Tax | £0.00 | 2026-11-09 |
+| Starling - TV Licence | £0.20 | 2026-11-09 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
 | Starling - NatWest Credit Card | £300.00 | 2026-11-01 |
 | Starling - Amazon Prime 🆕 | £16.00 | 2026-11-02 |
@@ -527,6 +527,8 @@ is referenced elsewhere.
 **4–5 Nov 2026, ordinary.** Main £1,254.92 → **£1,160.08**: more 4 Nov spend synced after the last refresh (Tesco £16.40 and £23.60, PayPal £6.30, Five Bells Cavendish £10.75, £10.75 and £4.90), then East of England Co-op £22.14 (5 Nov). Joint £132.76 → **£113.96**: Tesco £18.80 (5 Nov). The SUM check agrees for both. Nothing mis-paired.
 
 **5–6 Nov 2026.** Main £1,160.08 → **£863.34**: **Ryanair £177.47** (5 Nov), The Mill Hotel £4.95 and £11.70, The Black Lion £10.44 and £9.58, then **Fuse Energy £82.60** (6 Nov; it was £75.52 on 6 Oct). The SUM check agrees. Nothing mis-paired, and the other accounts are unchanged.
+
+**6–9 Nov 2026, ordinary.** Main £863.34 → **£649.51**: Anthropic £18, Audible £5.99, PayPal £5.84, Five Bells £10.75 (6 Nov); a London day on 7 Nov (TfL £8.90 and £18.20, Slug & Lettuce £18.20, Gipsy Moth £14.65 ×2, McDonald's £15.26) plus Amazon £49.99 (payee "Amazon Prime" but categorised as Gifts, "Dylan Chair #2", **not** mis-paired into the Prime Space, which stays £16); Tesco £16.40 and Hare Inn £11.40 and £5.60 (8 Nov). Joint £113.96 → **£53.55**: Tesco £60.41 (8 Nov). The 9 Nov bill pots went out: Council Tax £152, Anglian Water £77, TV Licence £15.45 (pot keeps £0.20). The SUM check agrees for all five. Nothing mis-paired.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare
