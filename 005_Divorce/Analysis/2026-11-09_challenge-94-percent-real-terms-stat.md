@@ -73,3 +73,24 @@ Caveats on the table:
 ## The clean-break lens
 
 The gap between an equal overall split (56.1%) and her ask (80%) is ~24% of £207,548.65 = **~£49.6k**. As a comparison point: spousal maintenance of £500/mo until her state pension age (67, Dec 2033, ~7 years) would cost ~£42k, and a joint-lives order would cost more. So part of her ask can be seen as the price of a clean break. The useful question for Rupert is **what a clean break is worth to him**, not what's "fair" on contributions. That gives a negotiating range of roughly 56% (equal) to the mid-60s% (equal plus a clean-break premium). 80% is well above it.
+
+## Three valuation scenarios (9 Nov)
+
+The equal-overall share is a reference point, not a recommended offer. Pension gap (Rupert − Heather) = £25,280.05, fixed. Sale costs are scaled from the D81's £9,000 at £550k (1.64%). The excess applies only if the house is repaired before sale.
+
+| | Pessimistic | Likely | Optimistic |
+|---|---:|---:|---:|
+| Valuation basis | As-is with subsidence, £400–425k midpoint (Michaels Property Consultants, 13 Jun 2026; D81 Q8) | Repaired, Michaels formal valuation 13 Jun 2026 | Repaired, St. George Property Group appraisal 1 Sep 2025 |
+| Sale price | £412,500 | £550,000 | £650,000 |
+| Mortgage (RBS, 30 Sep) | −£309,748.40 | −£309,748.40 | −£309,748.40 |
+| Sale costs | −£6,750.00 | −£9,000.00 | −£10,636.36 |
+| Subsidence excess | £0 | −£1,000.00 | −£1,000.00 |
+| Joint debts (cards + Ann) | −£22,702.95 | −£22,702.95 | −£22,702.95 |
+| **Net equity** | **£73,298.65** | **£207,548.65** | **£305,912.29** |
+| 50/50 equity: each | £36,649.32 | £103,774.32 | £152,956.14 |
+| Equal overall: Heather | £49,289.35 (67.2%) | £116,414.35 (56.1%) | £165,596.17 (54.1%) |
+| Equal overall: Rupert | £24,009.30 (32.8%) | £91,134.30 (43.9%) | £140,316.12 (45.9%) |
+| 80/20 ask: Heather / Rupert | £58,638.92 / £14,659.73 | £166,038.92 / £41,509.73 | £244,729.83 / £61,182.46 |
+| 80/20: Heather's share of everything | 51.9% | 58.0% | 61.0% |
+
+The pension gap is a fixed £, so the smaller the equity, the bigger the percentage needed to close it. The equal-overall percentage is only meaningful against a stated valuation. Express any offer in £ or as a formula, not as a bare percentage.
