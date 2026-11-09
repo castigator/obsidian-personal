@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-09 divorce 169539ce]]"
+---
 # Correspondence
 
 **Migrated from the git repo to the vault 1 Sep 2026** (Westgate-style: Obsidian is the sole
