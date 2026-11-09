@@ -10,13 +10,14 @@ Everything about the pebmarsh.com domains, websites, email and the providers beh
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-### Where Things Stand (6 Nov 2026)
+### Where Things Stand (9 Nov 2026)
 
 - **DNS:** pebmarsh.com and friendsofpebmarshchurch.uk are on [[Cloudflare]]. `dns/verify-zone.sh` now checks Cloudflare against the zone files.
 - **Hosting:** **[[DreamHost]] closed 6 Nov 2026.** Static sites on Cloudflare; the three organisations' WordPress sites on WordPress.com: [[Site - Parish Council]] (Rupert's account until the council takes it), [[Site - Pebmarsh Community Pub]] (Kate's account, pebmarshcommunitypub.com), [[Site - Friends of Pebmarsh Church]] (Belynda's account, fopc.co.uk; the old address redirects).
 - **Static sites on Cloudflare Workers:** [[Site - pebmarsh.com]] (30 Oct), [[Site - Ernis]] and [[Site - Honeycode]] (29 Oct), [[Site - Courtyard Stores]] (2 Nov). Old WordPress for pebmarsh.com and Courtyard Stores archived to Drive and removed.
 - **Email:** all on Forward Email ($3/month), forward-only with Gmail "Send mail as"; DreamHost mail and its DNS leftovers removed 4 Nov 2026. See [[Hosting Email]].
 - **Security:** [[Incident 2026-10 Backdoor]] contained; the affected sites went with DreamHost. `wp-audit.sh` retired.
+- **Mailchimp:** Courtyard Stores is its own Mailchimp account (Free plan). Cleaned of 158 bot sign-ups on 9 Nov 2026; double opt-in and reCAPTCHA on; courtyardstores.pebmarsh.com authenticated. See [[Mailchimp]].
 - **Old files:** everything archived to Google Drive; `~/data`, `~/archive`, `~/Backups` deleted 2 Nov. See [[Hosting Archive]].
 - **GitLab:** group `pebmarsh`, one private repo per site (`ernis`, `pebmarsh-com`, `courtyardstores`, `pcp`) plus `pebmarsh/pebmarsh` for the ops folder.
 
@@ -41,4 +42,4 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 - **PCP (6 Nov):** on Kate's WordPress.com site, pebmarshcommunitypub.com; pcp.pebmarsh.com retired. End of December: delete the pcp Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. Before that, the site's WPForms weekly summary (and possibly its admin email) must stop using admin@pcp.pebmarsh.com (Forward Email flagged it as possible phishing, 9 Nov; Rupert asked Kate to confirm the admin email change the same day). See [[Site - Pebmarsh Community Pub]].
 - **FoPC (6 Nov):** on WordPress.com at **fopc.co.uk** (Belynda's account, Personal); migrated and archived to Drive. friendsofpebmarshchurch.uk redirects to it via a Cloudflare Redirect Rule (Belynda chose fopc.co.uk). Rupert is Administrator; forms now notify team@ only; unneeded plugins removed. See [[Site - Friends of Pebmarsh Church]].
 - **Parish Council:** on WordPress.com since 5 Nov (Rupert's account, Personal monthly). Old copy archived; DreamHost copy gone. Shelley emailed 5 Nov: the council must send a WordPress.com account email by **Fri 27 Nov**; Rupert then transfers the site before the plan renews on **4 Dec**, and won't renew it himself. Rupert keeps the `parishcouncil` DNS records. See [[Site - Parish Council]].
-- [[Mailchimp]]: **sending paused 9 Nov (271 of 250 free-plan contacts)**, blocking the Pebmarsh Mailing List too. Courtyard Stores audience is being bot-signed-up (the "welcome email" alerts are an upsell, not a failure). Turn on double opt-in and reCAPTCHA, archive the bot contacts.
+- [[Mailchimp]]: Courtyard Stores account was paused on 9 Nov (bot sign-ups pushed it past the 250-contact free limit). Fixed the same day: 158 bots archived, double opt-in and reCAPTCHA turned on, domain authenticated. Check that sending is restored.

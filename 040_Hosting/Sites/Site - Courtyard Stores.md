@@ -24,4 +24,4 @@ tags:
 - **Removed 2 Nov 2026:** set to DNS Only and the database deleted in the DreamHost panel; folder deleted from the server. DreamHost now shows its "Site not found" page for this name.
 
 - **Email:** `facebook@`, `mailinglist@` and `team@` forward to rupertthomas@gmail.com; `noreply@` is discarded. See [[Hosting Email]].
-- **Mailing list:** a Courtyard Stores audience in [[Mailchimp]]. Since July 2026 it has been getting bot sign-ups (the "welcome email" alerts are a Mailchimp upsell, not a failure); see [[Mailchimp]].
+- **Mailing list:** a Courtyard Stores audience in [[Mailchimp]]. Since July 2026 it has been getting bot sign-ups (the "welcome email" alerts are a Mailchimp upsell, not a failure); cleaned up 9 Nov 2026 (bots archived, double opt-in and reCAPTCHA on); see [[Mailchimp]].
