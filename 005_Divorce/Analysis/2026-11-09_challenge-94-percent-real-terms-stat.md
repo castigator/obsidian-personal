@@ -38,7 +38,7 @@ So an 80% equity split gives Heather **~58% of the total assets**, not 94%. That
 Caveats on the table:
 - Heather's pensions are self-reported, with no CETVs (cash equivalent transfer values) yet.
 - Two of her four pensions are defined benefit (Prudential staff scheme and LGPS, the local government scheme). Their CETVs often understate what they're really worth, which would favour Rupert.
-- A pound of pension isn't worth a pound of cash: it's taxed and locked until retirement. Offsetting usually discounts pension value, which favours Heather.
+- A pound of pension isn't worth a pound of cash: it's taxed and locked until retirement. Offsetting usually discounts pension value. **Corrected 9 Nov:** this favours Rupert, not Heather. Discounting shrinks the £25,280 pension gap in cash terms, so less equity is needed to offset it (an earlier version of this note said the opposite).
 - Rupert's personal debts (~£7,099) aren't included.
 
 ## Devil's advocate: Heather's side
