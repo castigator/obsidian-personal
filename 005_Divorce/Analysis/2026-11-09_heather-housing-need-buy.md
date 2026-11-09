@@ -118,3 +118,19 @@ Columns: option B (56.1%) | 62.5% (midpoint of the 60–65% range, illustrative)
 - Rupert: mortgage £223,965 / £237,268 / £273,589. Monthly £1,713 (28%) / £1,815 (30%) / £2,093 (34%).
 
 Pension tax-free cash (25%, not used in the table): Heather ~£25,553 (Vodafone + Midel DC pots only). Rupert ~£55,197 (all his pensions are DC; Prudential may allow more under protected tax-free cash). If Heather is expected to use hers for housing, the same argument applies to Rupert.
+
+## Final housing table (9 Nov, supersedes the above): £250k each, with pension tax-free cash applied
+
+Columns: B / 62.5% / 80%.
+- **Heather:** mortgage needed £139,086 / £125,782 / £89,461. Shortfall before tax-free cash £49,086 / £35,782 / £0. Tax-free cash £25,553. Mortgage still needed £113,533 / £100,229 / £63,908. Mortgage taken £90,000 / £90,000 / £63,908. **Shortfall £23,533 / £10,229 / £0.** Monthly £688 / £688 / £489 (43% / 43% / 31%).
+- **Rupert:** mortgage needed £171,465 / £184,768 / £221,089. Tax-free cash £55,197. **Mortgage £116,268 / £129,571 / £165,892. Monthly £889 / £991 / £1,269 (15% / 16% / 21%).**
+
+The £300k scenario was dropped as pointless: neither can reach it on equal terms.
+
+## Table 3: solving for an equal share of net income on the mortgage (£250k each, 15 years at 4.5%)
+
+Solved so that monthly payment ÷ net income is the same for both.
+- **No tax-free cash:** Heather £191,161 (**92.1%**), Rupert £16,388 (deposit £9,289). Mortgages: Heather £64,339, Rupert £246,211. Monthly: Heather £492, Rupert £1,883, both **31.0%**. Left after the mortgage: Heather £1,095, Rupert £4,191.
+- **With tax-free cash:** Heather £182,338 (**87.9%**), Rupert £25,211 (deposit £18,112). Mortgages: Heather £47,610, Rupert £182,191. Monthly: Heather £364, Rupert £1,394, both **22.9%**. Left: Heather £1,223, Rupert £4,681.
+
+**Challenge:** equal percentage of income is a test that favours whoever earns less. With a 4:1 income gap, it gives Heather more than her own 80% ask. Even then, Rupert keeps ~3.5–4× more monthly income after housing. It is the wrong fairness test for Rupert to adopt. It shows that the income gap, not the equity split, is the dominant inequality. That is her strongest argument and the reason a clean break needs a capital tilt. Don't use it as a negotiating frame.
