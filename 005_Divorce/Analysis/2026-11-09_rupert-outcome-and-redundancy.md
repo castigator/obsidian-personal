@@ -42,3 +42,61 @@ Crude model: 4% pot growth, no inflation, 15% tax on withdrawals, £1,200/mo liv
 - Every extra £10k to Heather above option B adds ~£76/mo to his mortgage for 15 years.
 - Implication: a 60–65% tilt only makes sense if it buys a clean break. It's worth pricing a plan B (smaller home, or renting) before agreeing to anything above ~62.5%.
 - Firm up: broker assessment (term past retirement), Aristocrat redundancy terms, pension income projections, what Mandy would contribute.
+
+## 20-year forecast (supersedes the crude redundancy table above)
+
+Assumptions, all in today's money:
+- Salary flat at £6,074.84/mo net until made redundant mid-2029 (age 63).
+- Redundancy of 10 months' salary: £96.7k gross, first £30k tax-free, the rest at ~40%, so **~£69k net**.
+- Settlement completes end of 2027. During 2027, dual housing costs £4,000/mo. From 2028, a £250k home with a £1,413/mo mortgage until end of 2042. The £70.7k settlement cash is the deposit.
+- Living costs £1,500/mo excluding mortgage (Rupert's share, with Mandy sharing the household). This is an assumption for Rupert to replace.
+- Pension £220,788, real growth 2%/yr. No further contributions are modelled, which is conservative. Withdrawals are taxed at ~15% effective. State pension £12,500/yr from Jun 2033.
+- Cash is spent first, then the pension.
+
+Base case (redundant mid-2029, no further work), £k:
+
+| Year | Age | Salary | Redundancy | State pension | From pension (net) | Housing | Living | Cash at end | Pension at end |
+|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 2027 | 61 | 72.9 | | | | 48.0 | 18.0 | 6.9 | 225.2 |
+| 2028 | 62 | 72.9 | | | | 17.0 | 18.0 | 44.8 | 229.7 |
+| 2029 | 63 | 36.4 | 69.0 | | | 17.0 | 18.0 | 115.3 | 234.3 |
+| 2030 | 64 | | | | | 17.0 | 18.0 | 80.4 | 239.0 |
+| 2031 | 65 | | | | | 17.0 | 18.0 | 45.4 | 243.8 |
+| 2032 | 66 | | | | | 17.0 | 18.0 | 10.5 | 248.6 |
+| 2033 | 67 | | | 6.2 | 18.2 | 17.0 | 18.0 | 0 | 232.2 |
+| 2034–2042 | 68–76 | | | 12.5 | 22.5/yr | 17.0 | 18.0 | 0 | 210 → 20 |
+| 2043–2046 | 77–80 | | | 12.5 | 5.5/yr | 0 | 18.0 | 0 | 14 → **runs out at ~80** |
+
+Variants:
+- Redundant 2029, then a part-time job (£1,800/mo net) until 67: pension £254k at 67, £161k at 75, **£122k at 80**.
+- No redundancy, works to 67: pension £254k at 67, £297k at 75, **£328k at 80**.
+
+Finding: the mortgage itself is affordable. The risk is redundancy with no further work: the cash buffer (redundancy + 2028 savings) carries him to 66, but the mortgage then eats the pension, which runs out at about 80. Any modest work between 63 and 67 fixes it.
+
+## Renting instead of buying (same assumptions)
+
+Rent starts at £1,000/mo (the current Westgate rent, per `Finances/Income & Costs.md`) and rises 5%/yr. In today's money that's ~2.5%/yr above inflation, so £12.3k in 2028 rising to £19.2k in 2046. The £70.7k settlement cash goes into savings in 2028. Redundant mid-2029, no further work.
+
+- Savings peak at £195k (2029), last until 2036 (age 70). Private pension withdrawals start 2037: ~£21–25k/yr net.
+- Private pensions: £254k at 67, £184k at 75, **£58k at 80**, run out ~82.
+- If rent rises ~5% above inflation (~7.5% nominal): pensions run out at ~79.
+- With a part-time job to 67: £174k left at 80.
+
+**Buy vs rent at 80 (base case):**
+- Buying: £0 pension, but a **£250k home owned outright** (today's money), with no housing cost.
+- Renting: £58k pension, **no home**, rent ~£19k/yr and still rising.
+
+Buying is far stronger long term. The house is the asset that can later be downsized or used for equity release. Renting only looks better in the early years (bigger cash buffer).
+
+## Next (Rupert's asks at end of 9 Nov session)
+
+- **Show inflation explicitly.** The model above is in today's money: living costs of £18k/yr mean £18k of *today's* buying power each year, so they are implicitly inflation-adjusted. That was not clear to Rupert. Rebuild in actual future £:
+  - living costs rising with inflation (~2.5%)
+  - state pension rising (triple lock, assume ≥ inflation)
+  - mortgage fixed in £
+  - rent +5%/yr
+  - pension growth nominal ~4.5%
+- **Replace the £1,500/mo living-cost guess** with Rupert's real figure.
+- **New scenario: job loss with NO redundancy pay.**
+- **Turn it round into "when can I afford to retire?"** Find the earliest stop-work age at which the money lasts to e.g. 90, for buying vs renting.
+- Inputs still needed from Rupert: real monthly spend; Aristocrat continuous-service start date (from Gamesys/Roxor 2016?); current pension contributions (employee + employer).
