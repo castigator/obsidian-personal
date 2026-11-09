@@ -2,6 +2,9 @@
 tags:
   - divorce
   - solicitor
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-09 divorce 169539ce]]"
 ---
 
 **Purpose:** a running list of questions to put to **Alan Caldwell** (Atkins Dellow). Started 1 Nov 2026 at
@@ -10,6 +13,14 @@ view. Mark an item `- ✓` with his answer and the date once it's answered. (Pla
 action list with checkboxes is [[Divorce]].)
 
 **✉️ All items below were sent to Alan on 1 Nov 2026, 12:59** (email "D81 working draft and questions", with the D81 snapshot), as 11 numbered questions. Q1 asked whether anything in the draft could compromise Rupert before he shares it with Heather. Awaiting his reply. Add new questions under a fresh heading.
+
+## From the equity / housing modelling (9 Nov 2026)
+
+- **Where would a court land on needs?** Heather asks 80% of the equity (≈ a £250k 2-bed with a £90k mortgage). Rupert's baseline is option B (equity evens out the pension gap, ~56%). Is 60–65% in exchange for a clean break realistic? See [[2026-11-09_heather-housing-need-buy]].
+- **Is a 2-bed a reasonable housing need for Heather?** Lucy is 20, at university with her own year-round Norwich tenancy, and listed as a dependent on the D81.
+- **Does Mandy sharing Rupert's household costs reduce his assessed needs?**
+- **Can Heather be expected to use her pension tax-free cash (~£25.5k) towards housing?** And by the same logic Rupert (~£55k)?
+- **Should negotiation messages to Heather be marked "without prejudice"?** He sent figures by WhatsApp on 9 Nov without it.
 
 ## Answered
 

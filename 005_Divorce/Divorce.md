@@ -2,12 +2,16 @@
 tags:
   - divorce
 icon: ⚖️
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-09 divorce 169539ce]]"
 ---
 
 Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 years together). No-fault, irretrievable breakdown (England & Wales, post-April 2022 rules). Married 22 August 1998.
 
 ## Important and To Do
-- [!] **Reply to Heather's ask for 80% of the equity.** First run permutations of the split in real terms (contribution-adjusted). See [[2026-11-06_equity-split-real-terms]].
+- [x] **Replied to Heather's 80% ask** (WhatsApp 9 Nov 16:47): option B (pension-adjusted, ~£116k–£166k to her) as a fair starting point, 80% too far. Shared the neutral sheet (Maple Tree House - Equity Split Options, view-only). See [[2026-11-09_challenge-94-percent-real-terms-stat]]. ✅ 2026-11-09
+- [!] **Await Heather's own "figure work"** (asked 9 Nov 16:53) and fold it into both sheets. Then share housing figures for both. Reframe the 29 Oct "same boat" line first: Rupert *can* buy, but with a big mortgage past retirement. See [[2026-11-09_heather-housing-need-buy]].
 - [ ] **Put the open questions to Alan Caldwell.** Running list in [[Questions for Alan]] (started 1 Nov 2026 during the D81 walk-through).
 - [ ] **Refinance the shared Barclaycard (5002).** It's £7,116.17 at 20.68% simple (22.8% compound), with about £116/mo of interest, and it's been flagged as persistent debt. Look at getting it off that rate. The card is in Heather's name, so a balance transfer onto one of your cards isn't possible; the routes are a cash route (e.g. the earlier £7,500 Halifax loan idea, which was tied to the unsigned card split), or Heather doing a BT/loan herself. See [[Debts]].
 

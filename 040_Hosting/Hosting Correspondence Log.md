@@ -11,6 +11,7 @@ Newest first. One line per email that matters; routine noise (backup succeeded, 
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-09 | Google Search Console | "New reasons prevent pages from being indexed" (Page with redirect) for the old `http://www.pebmarsh.com/` property. Expected since the static site: http→https 301s, and `/feed`, `/about`, `/mailing-list` redirects in `_redirects`. www and apex both serve 200 with no canonical tag. | None needed. Optional: redirect www to apex, or a Search Console Domain property (TXT record); offered to Rupert |
 | 2026-11-09 | Mailchimp (Courtyard Stores account) | Security alert: login from 92.24.171.21 (Gorleston, Norfolk) at 09:42; "Audience Export Complete" at 10:05. Both Rupert's own activity during the bot clean-up (the location is the ISP's, not exact). | Rupert to confirm the 09:42 login was his |
 | 2026-11-09 | Forward Email | "Possible Phishing from admin@pcp.pebmarsh.com": the PCP WordPress.com site (pebmarshcommunitypub.com) sent "Your Weekly WPForms Summary" from and to admin@pcp.pebmarsh.com, with no passing SPF/DKIM (IP 103.115.10.250). Not malicious: the site still uses the old pcp address. | Change the WPForms summary recipient/From (and the site admin email if it's still that) before the pcp addresses are deleted at the end of December |
 | 2026-11-07 | Mailchimp | Courtyard Stores welcome email failed again. | Existing open item |

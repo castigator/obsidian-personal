@@ -1,3 +1,8 @@
+---
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-09 divorce 169539ce]]"
+---
 # WhatsApp transcript — Rupert & Heather (verbatim)
 
 **Purpose:** a word-for-word record of the WhatsApp conversation, built directly from screenshots
@@ -30,7 +35,7 @@ remain in place for quick topic lookup. This file is the raw record.
 
 ## Progress tracker
 
-**Covered so far: 3 Jul 2025 → 3 Nov 2026, 20:18 (no known gaps from 8 Sep onward)** · *Before that:* 3 Jul 2025 → 29 Oct 2026, 21:56 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 11:52 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 10:01 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 09:30 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 17:05 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 15:03 · *Earlier still:* 3 Jul 2025 → 26 Oct 2026, 13:50 · *Earlier:* 3 Jul 2025 → 25 Sep 2026, 07:45 · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
+**Covered so far: 3 Jul 2025 → 9 Nov 2026, 16:53 (no known gaps from 8 Sep onward)** · *Before that:* 3 Jul 2025 → 3 Nov 2026, 20:18 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 21:56 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 11:52 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 10:01 · *Earlier:* 3 Jul 2025 → 29 Oct 2026, 09:30 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 17:05 · *Earlier:* 3 Jul 2025 → 26 Oct 2026, 15:03 · *Earlier still:* 3 Jul 2025 → 26 Oct 2026, 13:50 · *Earlier:* 3 Jul 2025 → 25 Sep 2026, 07:45 · *Previously:* 3 Jul 2025 → 28 Aug 2026, 12:25 — one known gap (18 Aug 07:56 → 27 Aug, no
 screenshot supplied) and one unresolved message (28 Aug 12:25, WhatsApp send-delay placeholder
 only, text unknown).** Rupert states 3 Jul 2025 is the earliest point he could scroll back to
 ("the beginning of time") — treated as the start of the transcript unless earlier messages surface
@@ -2751,6 +2756,36 @@ Agree with "vaguely equal" though. How about we both fill in the D81 with our ow
 **Heather:** *(20:18)* "Thank you"
 
 `[Source: whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png. The password in the 08:45 message has been blacked out in the saved copy and left out of this transcript on purpose. It is the only departure from verbatim. The original is still in the WhatsApp chat. The 👍 reactions are presumably Rupert's. "Gov meeting" presumably means a school governors' meeting (not confirmed). Last message as of the 4–5 Nov screenshots.]`
+
+### Wed 4 Nov 2026 *(shown as "Wednesday" in the 9 Nov screenshot)*
+
+**Heather:** *(18:16)* *(quote-reply to Rupert's 29 Oct 11:52 message, quoted text visible: "I'm not trying to fleece you either. But I'm not sure I "clearly could" buy another place - I'm 60, a mortgage at our age is a short term and a big monthly payment, and I'm renting now with debts of my own. We're in pretty much the same boat on that.")* "I've  done some figure work that we need to discuss to go further with divorce -  any chance you are free 5 ish tomorrow or at some point over the weekend ?"
+
+**Rupert:** *(18:37 ✓✓)* "Possibly."
+
+**Rupert:** *(18:54 ✓✓)* "Tomorrow's fine. Not in Pebmarsh, though... I suggest we meet at The Mill Hotel 5:30 to so. Kinda halfway, neutral and reasonably quiet?"
+
+**Heather:** *(20:04)* "Ok"
+
+`[gap: none visible. The screenshot shows no messages between Wed 4 Nov 20:04 and Mon 9 Nov 16:47. The meeting took place on Thu 5 Nov at The Mill Hotel. "5:30 to so" is verbatim; presumably "5:30 or so".]`
+
+### Mon 9 Nov 2026 *(shown as "Today")*
+
+**Rupert:** *(16:47 ✓✓)* "Thursday wasn't very productive, was it 🙁
+
+That said, I've started going through the figures. I've looked at the house and the pensions together, rather than the house on its own. My pensions are worth a bit more than yours (though two of yours are final salary schemes, which may well be worth more than the figures we have so far), so if we even things out across everything, you'd end up with more than half of the equity from the house (option B in the sheet below). Depending on what the house sells for once the subsidence is sorted, that's roughly £116k to £166k for you. I think that's a fair place to start from.
+
+Being honest, though: 80% of the equity goes a long way beyond that, and I don't think it's fair.
+
+I've put the figures in a sheet so we're both looking at the same numbers: https://docs.google.com/spreadsheets/d/1s38m-oshS7iFXd_hRyg1NWySqWNQWMRm/edit?usp=sharing&ouid=112836476671106877831&rtpof=true&sd=true
+
+I'm also working through what the different splits would mean for housing for both of us. There's a lot of numbers to process, though, so it'll take a couple of days. I'll share when I have something..."
+
+`[Source: whatsapp-images/2026-11-04_whatsapp-1816-2026-11-09-1647-meeting-and-option-b.png, taken 9 Nov (Heather last seen today 16:45). The top of the screenshot repeats 3 Nov 19:00–20:18, already transcribed. The linked sheet is "Maple Tree House - Equity Split Options" (neutral version: options A 50/50, B pension-adjusted, C 80/20). The ouid value in the link is transcribed from the screenshot and may contain a misread digit.]`
+
+**Rupert:** *(16:53 ✓✓)* "Maybe let me have your figures and I'll fold them in?"
+
+`[Source: whatsapp-images/2026-11-09_whatsapp-1653-fold-in-figures.png, taken 9 Nov (Heather last seen today 16:51). In this screenshot the 16:47 message shows blue ticks (read). Last message as of this screenshot.]`
 
 ---
 
