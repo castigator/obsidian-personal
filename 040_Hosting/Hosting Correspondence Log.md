@@ -5,12 +5,14 @@ tags:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-06
+**Last checked:** 2026-11-09
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-09 | Forward Email | "Possible Phishing from admin@pcp.pebmarsh.com": the PCP WordPress.com site (pebmarshcommunitypub.com) sent "Your Weekly WPForms Summary" from and to admin@pcp.pebmarsh.com, with no passing SPF/DKIM (IP 103.115.10.250). Not malicious: the site still uses the old pcp address. | Change the WPForms summary recipient/From (and the site admin email if it's still that) before the pcp addresses are deleted at the end of December |
+| 2026-11-07 | Mailchimp | Courtyard Stores welcome email failed again. | Existing open item |
 | 2026-11-06 | Rupert (sent) | To Belynda: handover. Site live at fopc.co.uk in her account; old address redirects; admin email now hers (confirm the link); forms go to team@; old backup tools removed and old hosting closed; move team@ to an fopc.co.uk address before the old domain expires (Apr 2027); Rupert stays admin to help. | None. FoPC handed over |
 | 2026-11-06 | Belynda Fellows | "I've tried that" (made Rupert Administrator). | Done |
 | 2026-11-06 | Mailchimp | Courtyard Stores welcome email failed again. | Existing open item |
