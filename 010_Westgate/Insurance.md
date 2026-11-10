@@ -12,7 +12,7 @@ content-start: 151
 
 ## Important and To Do
 
-- [ ] Policy still says 1 adult, "Just Me" covered (quote summary of 21 Sep 2026), but Mandy lives here and has been a joint tenant since 21 Aug 2026. Her belongings aren't covered, and wrong household details could affect a claim. Add her or update the occupants under My Account, then check whether £11,000 still covers both of you
+- [x] Policy still says 1 adult, "Just Me" covered (quote summary of 21 Sep 2026), but Mandy lives here and has been a joint tenant since 21 Aug 2026. Her belongings aren't covered, and wrong household details could affect a claim. Add her or update the occupants under My Account, then check whether £11,000 still covers both of you ✅ 2026-11-10
 
 ## Current Details
 

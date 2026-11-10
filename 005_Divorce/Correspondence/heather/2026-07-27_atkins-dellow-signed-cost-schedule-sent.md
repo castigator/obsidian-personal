@@ -29,7 +29,7 @@ conversation in Gmail's thread view rather than inline with the earlier exchange
 
 ## Next steps
 
-- [ ] Call Atkins Dellow tomorrow (28 Jul) morning to pay £1,982 by card — **use the NatWest
+- [x] Call Atkins Dellow tomorrow (28 Jul) morning to pay £1,982 by card — **use the NatWest ✅ 2026-11-10
   Mastercard specifically**, then balance-transfer £1,932.55 to M&S at 0% before the 31 Jul
   deadline (see finance's `notes/solicitor-payment-0pc-plan.md`).
-- [ ] Track the invoice once it lands against `Solicitors/Atkins Dellow - Cost Tracker.md`.
+- [x] Track the invoice once it lands against `Solicitors/Atkins Dellow - Cost Tracker.md`. ✅ 2026-11-10

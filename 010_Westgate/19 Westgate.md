@@ -108,7 +108,7 @@ IP7 7JA
 Email exchanges [[2025-08-06]]  
 Agreed to meet landlord [[2025-08-07]]
 
-**2026-08:** Rupert raised staying long-term and adding [[Mandy Zimmer]] as joint tenant for
-succession security. Julian agreed; David Burr drew up a new joint agreement. Rupert signed the
-final contract 20 Aug 2026 — see [[Legal Notes]] for the full timeline and [[Correspondence Log]]
+**2026-08:** Rupert raised staying long-term and adding [[Mandy Zimmer]] as joint tenant for  
+succession security. Julian agreed; David Burr drew up a new joint agreement. Rupert signed the  
+final contract 20 Aug 2026 — see [[Legal Notes]] for the full timeline and [[Correspondence Log]]  
 for the email history.

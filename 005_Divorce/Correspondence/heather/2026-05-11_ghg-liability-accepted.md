@@ -36,6 +36,6 @@ Email inline images only (GHG logos, icons) — no substantive attachments to do
 
 ## Next Actions
 
-- [ ] Heather to schedule Maple and Willow tree removal — GHG is chasing
+- [x] Heather to schedule Maple and Willow tree removal — GHG is chasing ✅ 2026-11-10
 - [ ] Await May 2026 crack monitoring readings
-- [ ] Still need to submit separate drainage claim (£9,360, "accidental damage to underground services")
+- [x] Still need to submit separate drainage claim (£9,360, "accidental damage to underground services") ✅ 2026-11-10

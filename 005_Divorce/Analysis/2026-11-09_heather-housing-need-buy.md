@@ -4,15 +4,15 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 divorce 169539ce]]"
 ---
-# Heather's housing need: can she buy, and with what? — 9 Nov 2026
+## Heather's Housing Need: Can She Buy, and with What? — 9 Nov 2026
 
 *Not legal or mortgage advice. Private: strategy, not for Heather.* Follows [[2026-11-09_challenge-94-percent-real-terms-stat]]. Renting is modelled in [[Heather Affordability]].
 
-## Question
+### Question
 
 Heather has asked for 80% of the equity, arguing she needs to rehouse with 2 bedrooms. What could she actually buy under each split option, and what does she need?
 
-## Inputs and assumptions
+### Inputs and Assumptions
 
 - **Income:** £23,034 gross, £1,587.46/mo net (self-reported 26 Oct 2026). Age 59, 60 on 15 Dec 2026. State pension age 67 (Dec 2033).
 - **Mortgage capacity (estimate):** a 4.5× income multiple gives ~£104k. The real limit is affordability and term:
@@ -32,7 +32,7 @@ Heather has asked for 80% of the equity, arguing she needs to rehouse with 2 bed
   - Flats and maisonettes in 2026 sold for £95k–£158.5k (Trinity Court £115k, Roundacre £95k, 45 High Street £158.5k). Bedroom counts are unconfirmed.
   - **Working figures: 2-bed house ~£240k–£275k. 1–2 bed flat or maisonette ~£100k–£160k.**
 
-## Buying budget by option (equity + £70k–£90k mortgage − ~£5.5k costs)
+### Buying Budget by Option (Equity + £70k–£90k Mortgage − ~£5.5k Costs)
 
 | Option | Heather's equity | Buying budget |
 |---|---:|---:|
@@ -42,7 +42,7 @@ Heather has asked for 80% of the equity, arguing she needs to rehouse with 2 bed
 | B, optimistic valuation | £165,596 | £230k–£250k |
 | 80% ask, likely valuation | £166,039 | £231k–£251k |
 
-## Findings
+### Findings
 
 1. **Her 80% ask matches a needs calculation almost exactly.** A £250k 2-bed house with a £90k mortgage needs ~£165.5k of equity. At the likely valuation that's **79.7%**. Her ask is probably calibrated to "a 2-bed house in Halstead", not plucked from the air. Expect her solicitor to frame it this way.
 2. **Option B at the likely valuation buys a flat or maisonette, or a small 2-bed with a bigger mortgage, but not a typical 2-bed house.** The gap to a £250k house is £50k–£70k.
@@ -51,26 +51,26 @@ Heather has asked for 80% of the equity, arguing she needs to rehouse with 2 bed
 5. **Her DC pensions are a housing resource.** She's over 55, so she can take 25% tax-free from Vodafone (£89,748 → ~£22.4k) and Midel (£12,463 → ~£3.1k), ~**£25k** in total. That closes a large part of the gap without taking it from the equity. (This assumes these are DC pots with tax-free cash available, unconfirmed.)
 6. **Rupert's housing need counts too, and he's in a stronger position.** He can borrow far more: £116k gross per the P60, though terms at 60 apply to him as well. A court will see that he can rehouse and she struggles to. That is the core of her case.
 
-## Devil's advocate: her side
+### Devil's Advocate: Her Side
 
 - Raising "2 beds for Lucy" is reasonable. Lucy is a dependent child on the D81 (Q6) and will need a home base after university.
 - Mortgage lending to a 60-year-old on £23k, with uncertain retirement income, may come in below £70k. Every £10k less of borrowing raises her equity need by ~5 percentage points.
 - Using pension tax-free cash for housing reduces her retirement income. A court may not expect her to.
 
-## Rupert's side
+### Rupert's Side
 
 - Option B plus her ~£25k pension tax-free cash ≈ £206k–£226k at the likely valuation. That's close to a modest 2-bed house.
 - A middle ground exists: B plus a needs top-up, e.g. 60–65% at the likely valuation (£125k–£135k), paired with a **clean break** (no spousal maintenance).
 - The higher the sale price, the less tilt is needed. Getting the repairs done and selling well is the biggest lever for both of them.
 
-## Recommended next steps
+### Recommended next Steps
 
 - A mortgage broker assessment for Heather (it's on the to-do list). It turns the £70k–£90k estimate into a real number and is evidence of need.
 - Pull Land Registry sold prices for 1–2 bed properties in CO9 to firm up the target price.
 - Ask Heather, or get from Alan, her pensions' retirement income projections and whether tax-free cash is available.
 - Ask Alan: would a court treat a 2-bed as a reasonable need given Lucy's age and own tenancy? Add to [[Questions for Alan]].
 
-## Rupert's side of the same calculation (likely valuation, £207,548.65 equity)
+### Rupert's Side of the Same Calculation (Likely Valuation, £207,548.65 Equity)
 
 Rupert's equity is reduced by his personal debts (~£7,099) to give his deposit. Purchase costs are SDLT plus £3k. The term is 15 years (to age 75).
 
@@ -86,7 +86,7 @@ Rupert's equity is reduced by his personal debts (~£7,099) to give his deposit.
 - **Risk:** a court may treat Mandy's contribution to household costs as reducing Rupert's needs. (Her income isn't divisible, but cohabitation is relevant to needs.)
 - Read honestly, her ask means "Heather is housed mostly from capital, Rupert is housed mostly from future income". Courts often accept that where incomes are 4:1 apart. The counter is that his income ends at retirement and the mortgage doesn't.
 
-## Combined housing table: both buying a £250k home (likely valuation)
+### Combined Housing Table: both Buying a £250k home (Likely Valuation)
 
 Assumptions: £5.5k purchase costs each. Heather's mortgage is capped at £90k. Rupert's deposit is his equity less ~£7,099 of personal debts. Both mortgages are 15 years at 4.5%. Net incomes: Heather £1,587.46, Rupert £6,074.84.
 
@@ -105,7 +105,7 @@ Assumptions: £5.5k purchase costs each. Heather's mortgage is capped at £90k. 
 
 **Correction (9 Nov):** in conversation I said the 62.5% midpoint left Heather "about £20k short". That was wrong. It's £35.8k short, or £10.3k after her pension tax-free cash.
 
-## Normalised housing table (supersedes the combined table above)
+### Normalised Housing Table (Supersedes the Combined Table Above)
 
 Columns: option B (56.1%) | 62.5% (midpoint of the 60–65% range, illustrative) | Heather's 80% ask. Heather's mortgage limit is £90k (estimate). Rupert's limit isn't reached. 15 years at 4.5%. Purchase costs are £5.5k at £250k and £8k at £300k.
 
@@ -119,7 +119,7 @@ Columns: option B (56.1%) | 62.5% (midpoint of the 60–65% range, illustrative)
 
 Pension tax-free cash (25%, not used in the table): Heather ~£25,553 (Vodafone + Midel DC pots only). Rupert ~£55,197 (all his pensions are DC; Prudential may allow more under protected tax-free cash). If Heather is expected to use hers for housing, the same argument applies to Rupert.
 
-## Final housing table (9 Nov, supersedes the above): £250k each, with pension tax-free cash applied
+### Final Housing Table (9 Nov, Supersedes the Above): £250k Each, with Pension Tax-free Cash Applied
 
 Columns: B / 62.5% / 80%.
 - **Heather:** mortgage needed £139,086 / £125,782 / £89,461. Shortfall before tax-free cash £49,086 / £35,782 / £0. Tax-free cash £25,553. Mortgage still needed £113,533 / £100,229 / £63,908. Mortgage taken £90,000 / £90,000 / £63,908. **Shortfall £23,533 / £10,229 / £0.** Monthly £688 / £688 / £489 (43% / 43% / 31%).
@@ -127,7 +127,7 @@ Columns: B / 62.5% / 80%.
 
 The £300k scenario was dropped as pointless: neither can reach it on equal terms.
 
-## Table 3: solving for an equal share of net income on the mortgage (£250k each, 15 years at 4.5%)
+### Table 3: Solving for an Equal Share of Net Income on the Mortgage (£250k Each, 15 Years at 4.5%)
 
 Solved so that monthly payment ÷ net income is the same for both.
 - **No tax-free cash:** Heather £191,161 (**92.1%**), Rupert £16,388 (deposit £9,289). Mortgages: Heather £64,339, Rupert £246,211. Monthly: Heather £492, Rupert £1,883, both **31.0%**. Left after the mortgage: Heather £1,095, Rupert £4,191.

@@ -18,7 +18,7 @@ content-start: 151
 - [ ] Check the Fuse app still shows the 24m v5 lined up (Tariffs → each fuel → "Your tariff will update on…" → Tariff change screen should say "to Oct Single Rate Fixed (24m) v5", NOT "Single Rate Variable"). If it shows variable, contact Fuse straight away and quote the two "Your new tariff is scheduled" emails of 15 Oct) 📅 2026-11-25
 - [ ] Check on/after 2 Dec that the app shows 24m v5 as the current tariff for both fuels 📅 2026-12-03
 - [ ] Check the first December bill shows the new 24m v5 rates 📅 2027-01-05
-- [ ] If prices fall a lot in 2027 (e.g. Hormuz reopens), compare deals: leaving costs £100 total (£50 per fuel)
+- [x] If prices fall a lot in 2027 (e.g. Hormuz reopens), compare deals: leaving costs £100 total (£50 per fuel) ✅ 2026-11-10
 
 ## Current Supplier — Fuse Energy
 

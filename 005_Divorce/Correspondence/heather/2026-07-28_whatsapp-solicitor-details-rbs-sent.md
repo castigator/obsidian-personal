@@ -33,7 +33,7 @@
 
 ## Action
 
-- [ ] Watch for RBS's acknowledgement of the letter.
-- [ ] Chase Heather (in due course, not urgently) on who she's instructing, once she's had her
+- [x] Watch for RBS's acknowledgement of the letter. ✅ 2026-11-10
+- [x] Chase Heather (in due course, not urgently) on who she's instructing, once she's had her ✅ 2026-11-10
   solicitor conversation — and whether mediation ends up on the table alongside/instead.
 - [ ] Note what "Apple" and "Barclays Blue" were for, if it turns out to affect the bills split.

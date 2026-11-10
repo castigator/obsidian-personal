@@ -1,7 +1,7 @@
 ---
 tags: [divorce]
 ---
-## D81 — Field Values (working Copy, 1 Nov 2026)
+## D81 — Field Values (Working Copy, 1 Nov 2026)
 
 Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather to complete. Not agreed.
 
@@ -60,7 +60,7 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
 | J/K/L | Third-party payments | £0 | TBC | £0 |
 | M | **Grand total** | **£5,875** | TBC | **£200** |
 
-### Q10 — Capital after the order (proposal)
+### Q10 — Capital after the order (Proposal)
 
 | Row | | Rupert | Heather |
 |---|---|---:|---:|
@@ -80,7 +80,7 @@ Field values from [[D81 Form]] / `D81 - Rupert working copy.pdf`. TBC = Heather 
 
 Same as Q9: Rupert £6,075 − £200 = **£5,875** · Lucy £200 · Heather TBC · spousal maintenance £0.
 
-### Q12 — Other Matters (values)
+### Q12 — Other Matters (Values)
 
 - Interim payments (80% of Pebmarsh + cards): **£2,166.51/mo** = mortgage interest £1,447.62 + insurance/council tax/home cover £230.02 + cards £488.87
 - Lucy food: £200/mo

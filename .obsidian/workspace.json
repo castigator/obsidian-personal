@@ -8,51 +8,83 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0802f3e8923bc8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001_Personal/Buses.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buses"
-            }
-          },
-          {
-            "id": "4128d220f984b702",
+            "id": "4f5b36244818bee1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "005_Divorce/Finances/D81 - Field Values.md",
+                "file": "Claude Actions.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "D81 - Field Values"
+              "title": "Claude Actions"
             }
           },
           {
             "id": "66d1c42d40124f89",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Claude/Sessions/2026-11-09 finance dfd038ee.md",
+                "file": "Claude Activity.md",
                 "mode": "preview",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2026-11-09 finance dfd038ee"
+              "title": "Claude Activity"
+            }
+          },
+          {
+            "id": "8cc898d463096f73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "010_Westgate/19 Westgate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19 Westgate"
+            }
+          },
+          {
+            "id": "ee00a5eb1c77621c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xx_daily/Daily Note - 10th Nov 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Daily Note - 10th Nov 2026"
+            }
+          },
+          {
+            "id": "074a9f882fda77b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sortspec.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sortspec"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,18 +264,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "66d1c42d40124f89",
+  "active": "074a9f882fda77b2",
   "lastOpenFiles": [
+    "xx_daily/Daily Note - 10th Nov 2026.md",
+    "Claude/Actions/Finance.md",
+    "020_Finance/Finance Actions.md",
+    "Claude Actions.md",
+    "Claude/Actions",
+    "010_Westgate/19 Westgate.md",
+    "Claude Activity.md",
+    "005_Divorce/Finances/D81 - Field Values.md",
+    "005_Divorce/Analysis/2026-11-09_heather-housing-need-buy.md",
+    "Claude/Sessions/2026-11-09 divorce 169539ce.md",
+    "Claude/Sessions/2026-11-09 finance dfd038ee.md",
     "005_Divorce/Analysis/2026-11-09_rupert-outcome-and-redundancy.md",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-09_whatsapp-1653-fold-in-figures.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-04_whatsapp-1816-2026-11-09-1647-meeting-and-option-b.png",
     "005_Divorce/Finances/PRIVATE - Equity and Housing Model.xlsx",
-    "005_Divorce/Analysis/2026-11-09_heather-housing-need-buy.md",
-    "Claude/Sessions/2026-11-09 divorce 169539ce.md",
     "005_Divorce/Analysis/2026-11-09_challenge-94-percent-real-terms-stat.md",
     "020_Finance/0% Offers Tracker.md",
     "020_Finance/Accounts.md",
-    "Claude/Sessions/2026-11-09 finance dfd038ee.md",
     "Claude/Sessions/2026-11-09 finance dfd038ee.md.tmp.24340.6e96cf62a525",
     "Claude/Sessions",
     "Claude",
@@ -254,7 +294,6 @@
     "005_Divorce/Finances/Record of Terms - Framework.md",
     "005_Divorce/Finances/Record of Terms - Draft.md",
     "005_Divorce/Analysis/2026-11-05_record-of-terms-contents.md",
-    "005_Divorce/Finances/D81 - Field Values.md",
     "040_Hosting/Hosting Email.md",
     "xx_media/BMSDC Failed Application Letter.pdf",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png",
@@ -268,16 +307,9 @@
     "001_Personal/Work Benefits/Work Benefits.md",
     "001_Personal/Work Benefits",
     "xx_media/Medicash - Terms and Conditions (Feb 2025).pdf",
-    "xx_media/Medicash - Policy Change Letter and Schedule (6 Oct 2025).pdf",
     "020_Finance/Correspondence/2026-11-02_barclays-anglian-water-dd-cancelled.md",
     "040_Hosting/Hosting.md",
     "005_Divorce/Finances/D81 Form.md",
-    "005_Divorce/Correspondence/solicitors/2026-11-01_rupert-to-alan-d81-working-draft-and-questions.md",
-    "005_Divorce/Solicitors/Questions for Alan.md",
-    "040_Hosting/Hosting Correspondence Log.md",
-    "040_Hosting/Hosting Archive.md",
-    "010_Westgate/Utilities/Water.md",
-    "005_Divorce/Correspondence/heather/2026-10-01_halifax-balance-transfer-offer_LOCKH.md",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-17sep-date.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-drain-excess-rbs.png"
   ]

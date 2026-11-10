@@ -61,7 +61,7 @@ Francesca Easter flagged that reading the briefing pack during the 1-hour slot w
 
 - [x] ~~Book appointment~~ — DONE, 1pm 4 Jun 2026
 - [x] ~~AML ID check~~ — DONE via Legl, 28 May 2026
-- [ ] **Choose option 1 or 2** and reply to Francesca Tatum
-- [ ] **Pay in advance** via ellisons.com/online-payment/ (ref: THOMAS/FXE) — £402 (option 1) or £804 (option 2)
-- [ ] Confirm whether Blue Light member for 20% discount
-- [ ] Let Francesca Tatum know if car parking space needed
+- [x] **Choose option 1 or 2** and reply to Francesca Tatum ✅ 2026-11-10
+- [x] **Pay in advance** via ellisons.com/online-payment/ (ref: THOMAS/FXE) — £402 (option 1) or £804 (option 2) ✅ 2026-11-10
+- [x] Confirm whether Blue Light member for 20% discount ✅ 2026-11-10
+- [x] Let Francesca Tatum know if car parking space needed ✅ 2026-11-10

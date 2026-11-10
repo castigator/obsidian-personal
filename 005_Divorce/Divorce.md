@@ -19,20 +19,20 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [ ] **Nudge Heather to confirm receipt** on the divorce portal if she hasn't (doesn't block the clock, just tidies the case).
 - [!] **Use the 16 Jun → 4 Nov window to sort the finances** — gather CETVs (Heather's Prudential DB + Rupert's three Aviva), settlement modelling, then consent order. This is what paces the case, not the clock. See [[Clean Break]] / [[005_Divorce/Pensions]].
 - [x] **Michaels Property valuation done 13 Jun** (Aaron Wilcock): **£550k once subsidence rectified / £400k–£425k if sold as-is now** (active claim → cash buyers only). Recommends completing the claim + works before marketing. See [[House Sale]]. ✅ 2026-06-13
-- [!] **Line up 2–3 ADDITIONAL property valuations — Rupert to organise** (Heather says it's for him to sort). Target viewing: **weekend of 4–5 Jul** — first free weekend (busy 20–21 & 27–28 Jun; away Mon 29 Jun; weekdays don't work). Start with St George (Sam Fox, 07485 498850), add 1–2 more agents. Disclose subsidence + active claim to each so figures are comparable. NB drain engineer visit Fri 3 Jul AM — don't over-stack.
+- [x] **Line up 2–3 ADDITIONAL property valuations — Rupert to organise** (Heather says it's for him to sort). Target viewing: **weekend of 4–5 Jul** — first free weekend (busy 20–21 & 27–28 Jun; away Mon 29 Jun; weekdays don't work). Start with St George (Sam Fox, 07485 498850), add 1–2 more agents. Disclose subsidence + active claim to each so figures are comparable. NB drain engineer visit Fri 3 Jul AM — don't over-stack. ✅ 2026-11-10
 - [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
 - [x] **Call Aviva by 19 June 2026** (0345 366 1643) — defer Midel pension retirement date, request formal CETVs for all three Aviva pensions (Midel, Objective IT, Pearson/FT). Do NOT draw the pension before divorce settlement. ✅ 2026-06-08
 - [x] **Chase PO for drain claim reference** — submitted 12 May 2026, auto-reply said 2 working days, now 14+ working days overdue ✅ 2026-06-08
 - [x] **Tree removal funding** — ✅ **APPROVED 5 Jun 2026**: insurer funds the full £1,200 (HJ Tree Care). GHG: proceed with works. ✅ 2026-06-08
-- [ ] **Trees BOOKED 18–19 Jun (Hamish/HJ Tree Care)** — funding approved (£1,200). ⚠️ Both away those dates: Rupert busy, Heather away. Rupert has asked Heather how that works for Hamish (access; completion photo). Insurer needs a **company-headed quote + invoice** and a **photo of completed works** to pay. See [[Subsidence Claim]].
-- [ ] Chase Speedware pension — 7 years untraced, try Egon with NI + dates
-- [!] **RBS called back 30 Jul** (voicemail, "Jeanette") — first response since the 27 Jul letter
+- [x] **Trees BOOKED 18–19 Jun (Hamish/HJ Tree Care)** — funding approved (£1,200). ⚠️ Both away those dates: Rupert busy, Heather away. Rupert has asked Heather how that works for Hamish (access; completion photo). Insurer needs a **company-headed quote + invoice** and a **photo of completed works** to pay. See [[Subsidence Claim]]. ✅ 2026-11-10
+- [x] Chase Speedware pension — 7 years untraced, try Egon with NI + dates ✅ 2026-11-10
+- [x] **RBS called back 30 Jul** (voicemail, "Jeanette") — first response since the 27 Jul letter ✅ 2026-11-10
   (which already requested a fresh redemption statement). Call back on **0345 301 0101** — see
   [[RBS Mortgage Notification]].
 - [x] Progress consent order promptly — timing risk if Gordon (Heather's father, Alzheimer's) dies before order is sealed ✅ 2026-06-08
-- [ ] Research balance transfer options to decouple joint credit card debt
-- [ ] Work through [[Address Updates]] systematically
-- [!] **Gather the numbers for [[Form E]]** — biggest gaps: Heather's Prudential DB CETV
+- [x] Research balance transfer options to decouple joint credit card debt ✅ 2026-11-10
+- [x] Work through [[Address Updates]] systematically ✅ 2026-11-10
+- [x] **Gather the numbers for [[Form E]]** — biggest gaps: Heather's Prudential DB CETV ✅ 2026-11-10
   (sitting ready since 20 May, 🔒H), Speedware/Conchango untraced pensions, and both parties'
   income/housing needs budgets. Gates settlement modelling.
 - [ ] **Work through [[D81 Form]]** — set up 24 Aug 2026, field-by-field tracker for the actual

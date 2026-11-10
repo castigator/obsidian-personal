@@ -24,7 +24,7 @@ The Verify365 client ID/AML onboarding link Rupert had been chasing (see his 1 J
 
 ## Action required
 
-- [!] **Complete before the noon meeting today (Tue 2 Jun)** — or bring the documents (passport + 2 proof-of-address) to the meeting. Have a utility bill / bank statement and a council tax bill ready, distinct from the photo ID.
+- [x] **Complete before the noon meeting today (Tue 2 Jun)** — or bring the documents (passport + 2 proof-of-address) to the meeting. Have a utility bill / bank statement and a council tax bill ready, distinct from the photo ID. ✅ 2026-11-10
 
 ## Provider
 
