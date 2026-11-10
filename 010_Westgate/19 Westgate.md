@@ -8,6 +8,9 @@ banner-y: 42
 icon: 🏡
 banner-display: cover
 content-start: 151
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/westgate
+claude_sessions:
+  - "[[2026-11-10 westgate c2cc1001]]"
 ---
 
 19 WESTGATE STREET, LONG MELFORD, SUDBURY, SUFFOLK, CO10 9DS
@@ -19,7 +22,7 @@ content-start: 151
 - [x] Joint tenancy agreement fully executed ✅ 2026-08-21 — Rupert signed 20 Aug, Mandy 21 Aug, agent countersigned same day
 - [-] Mandy's Right to Rent passport check with David Burr — not yet arranged, see [[Contract]] / [[Legal Notes]] — dropped: Rupert decided not to chase it ❌ 2026-09-08
 - [ ] Electoral Registration — application 254490 **finally rejected 27 Oct 2026** (no ID sent). Must reapply at gov.uk/register-to-vote (NI number + date of birth); affects voting and credit report — see [[Contacts]] and [[Correspondence Log]]
-- [ ] Spare room TRV: Rupert asked Sue on WhatsApp on 18 Oct 2026 for a thermostatic valve on the spare room radiator (the only one without). Sue said they'd consider it when back at the end of October. No reply seen since. Nudge Sue if nothing by mid-November 📅 2026-11-14
+- [ ] Spare room TRV: Rupert asked Sue on WhatsApp on 18 Oct 2026 for a thermostatic valve on the spare room radiator (the only one without). **Sue replied 10 Nov 2026**: their builder and plumber are doing works for them in a couple of weeks (~w/c 23 Nov) and they'll try to fit the TRV then; she'll coordinate once she has their timings. Wait for Sue; nudge if no timings by early December 📅 2026-12-01
 
 ## Key Dates
 

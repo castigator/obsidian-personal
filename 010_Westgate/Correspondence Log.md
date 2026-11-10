@@ -8,6 +8,9 @@ banner-y: 42
 icon: 🏡
 banner-display: cover
 content-start: 151
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/westgate
+claude_sessions:
+  - "[[2026-11-10 westgate c2cc1001]]"
 ---
 
 ## Important and To Do
@@ -83,8 +86,8 @@ up to date.
 ### Sue Glasgow — WhatsApp
 
 Most day-to-day landlord contact happens here, not by email, so `/refresh` won't pick it up. Taken
-from screenshots Rupert shared on 2026-09-24 and 2026-11-05. This is the **complete surviving chat**: it starts on 8 Jan 2026,
-and anything before that was lost because Sue had accidentally turned on Disappearing Messages. The last message is 18 Oct 2026 (as of the 2026-11-05 screenshot).
+from screenshots Rupert shared on 2026-09-24, 2026-11-05 and 2026-11-10. This is the **complete surviving chat**: it starts on 8 Jan 2026,
+and anything before that was lost because Sue had accidentally turned on Disappearing Messages. The last message is 10 Nov 2026 (as of the 2026-11-10 screenshot).
 
 | Date | From | Key Content |
 |---|---|---|
@@ -102,6 +105,7 @@ and anything before that was lost because Sue had accidentally turned on Disappe
 | 2026-07-10 | Sue / Rupert | Gas safety check due. Julian booking the engineer for **Wed 12 Aug 9–12**. Rupert confirmed it's in the calendar |
 | 2026-08-12 | Sue / Rupert | Check done mid-morning, all good. Engineer said the **boiler is 16+ years old and showing it**, but found no issues. He left the landlord copy with Rupert. Sue: Julian will collect it and send a copy to David Burr |
 | 2026-10-18 | Rupert / Sue | Rupert asked whether a **thermostatic radiator valve (TRV)** could be fitted to the **spare room radiator**, the only one without one: the room is rarely used, so turning it down or off would save energy and money. Sue: they're away and are **happy to consider it on their return at the end of the month** (end Oct 2026) |
+| 2026-11-10 | Sue / Rupert | Sue (addressing him as "Peter"): their **builder and plumber are doing works for them in a couple of weeks** and they'll **try to fit the TRV around the same time**; she'll coordinate once she has their timings. Rupert: "Thank you. I trust you had a nice break..." |
 
 
 ## Goodlord (Tenancy Platform)
