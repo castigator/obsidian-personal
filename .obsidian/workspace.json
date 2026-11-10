@@ -73,12 +73,14 @@
             "id": "074a9f882fda77b2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "001_Personal/Gainsborough/GHC-2026-10-receipt.pdf"
+                "file": "001_Personal/Personal Actions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GHC-2026-10-receipt"
+              "icon": "lucide-file",
+              "title": "Personal Actions"
             }
           }
         ],
@@ -264,10 +266,11 @@
   },
   "active": "074a9f882fda77b2",
   "lastOpenFiles": [
+    "001_Personal/Gainsborough/Gainsborough.md",
+    "001_Personal/Gainsborough/GHC-2026-10-receipt.pdf",
     "Claude Actions.md",
     "Claude/Sessions/2026-11-10 personal 36f11da7.md",
     "001_Personal/Gainsborough/Gainsborough.md.tmp.23905.1a5aa53a9fc1",
-    "001_Personal/Gainsborough/GHC-2026-10-receipt.pdf",
     "005_Divorce/Correspondence/subsidence/2026-11-10_rupert-chases-ghg-crack-monitoring.md",
     "061_Children/Dylan/Dylan.md",
     "061_Children/Dylan/Dylan Actions.md",
@@ -299,7 +302,6 @@
     "001_Personal/Personal Actions.md",
     "005_Divorce/Divorce Actions.md",
     "xx_daily/Daily Note - 10th Nov 2026.md",
-    "Claude/Actions/Finance.md",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-09_whatsapp-1653-fold-in-figures.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-04_whatsapp-1816-2026-11-09-1647-meeting-and-option-b.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png",

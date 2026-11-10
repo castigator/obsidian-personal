@@ -4,6 +4,7 @@ project: personal
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-10 personal 36f11da7]]"
 ---
 # Personal Actions
 
@@ -11,7 +12,9 @@ Open action points for the personal project. This note is the only list: the pro
 
 ## Actions
 
-- [ ] Gainsborough: watch for James's reply (September confirmation or their own receipt) and for a receipt after the 28 Oct DD. Then claim Sep (and Oct) through work expenses. #claude-action
+- [x] Gainsborough: claim the October wellness allowance (£50) in Concur. #claude-action ✅ 2026-11-11
+- [ ] Gainsborough: watch the October claim through Concur audit review. #claude-action
+- [ ] Gainsborough: after the 28th DD, make the month's receipt (£130) from the template and claim the £50 wellness allowance in Concur. #claude-action 🔁 every month 📅 2026-11-28
 - [x] Chase the GP about the 8 Sep asthma review request (7 weeks without a reply on 27 Oct). #claude-action 🔼 ✅ 2026-11-10
 - [ ] Christmas: buy Lucy's salmon. #claude-action
 - [ ] Christmas: decide Mandy and Dad's Christmas Day main. #claude-action
@@ -23,6 +26,5 @@ Open action points for the personal project. This note is the only list: the pro
 
 ## Open questions
 
-- [ ] Gainsborough: is the £130 VAT-inclusive at 20%? The email states that assumption; the club hasn't confirmed it. #claude-action
 - [ ] Christmas: will the kids stay over on Boxing Day night? (The only sleeping arrangement still open.) #claude-action
 - [ ] Christmas: postal addresses for the posted presents (deferred by Rupert; come back to them later). #claude-action 🔽
