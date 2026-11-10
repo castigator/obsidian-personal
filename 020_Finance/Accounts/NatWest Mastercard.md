@@ -11,7 +11,8 @@ claude_sessions:
   [[2026-02-16_natwest-balance-transfer-card-opened]]
 - **Card number:** **** 0354
 - **Credit limit:** £10,000.00
-- **Latest (Banktivity, 16 Oct 2026):** **-£981.08**, after £25.97 of interest on the 16 Oct statement (NatWest had estimated £26.81). Before that it was -£955.11 after the £300 DD on 12 Oct. The statement PDF hasn't been seen (the email carries no figures), so the minimum and the next DD date haven't been confirmed. See [[2026-10-17_natwest-statement-ready]].
+- **Latest (Banktivity, 10 Nov 2026):** **-£681.08**, after the £300 November DD (10 Nov, paid from the `Starling - NatWest Credit Card` Space, now £0). The ~16 Nov statement will add another month's interest at 26.436%.
+- **Previous (Banktivity, 16 Oct 2026):** -£981.08, after £25.97 of interest on the 16 Oct statement (NatWest had estimated £26.81). Before that it was -£955.11 after the £300 DD on 12 Oct. The statement PDF hasn't been seen (the email carries no figures), so the minimum and the next DD date haven't been confirmed. See [[2026-10-17_natwest-statement-ready]].
 - **Balance:** **-£1,255.11** — confirmed by the **16 Sept 2026 statement**
   ([[2026-09-16_natwest-0354-statement.pdf]]), matching Banktivity exactly.
   Up from -£1,202.56 because **£52.55 of interest was charged**, the first

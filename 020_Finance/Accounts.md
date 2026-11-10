@@ -18,7 +18,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £649.51 | 2026-11-08 |
+| Starling - Main | £659.27 | 2026-11-09 |
 | Starling - Joint | £53.55 | 2026-11-08 |
 | Barclays - Current | £73.22 | 2026-11-04 |
 
@@ -497,7 +497,7 @@ is referenced elsewhere.
 | Starling - Council Tax | £0.00 | 2026-11-09 |
 | Starling - TV Licence | £0.20 | 2026-11-09 |
 | Starling - Tesco Credit Card | £0.00 | 2026-09-08 |
-| Starling - NatWest Credit Card | £300.00 | 2026-11-01 |
+| Starling - NatWest Credit Card | £0.00 | 2026-11-10 |
 | Starling - Amazon Prime 🆕 | £16.00 | 2026-11-02 |
 | Starling - ID Mobile 🆕 | £44.99 | 2026-11-02 |
 | Starling - Committed Funds 🆕 | £0.00 | 2026-10-09 |
@@ -534,6 +534,8 @@ is referenced elsewhere.
 **5–6 Nov 2026.** Main £1,160.08 → **£863.34**: **Ryanair £177.47** (5 Nov), The Mill Hotel £4.95 and £11.70, The Black Lion £10.44 and £9.58, then **Fuse Energy £82.60** (6 Nov; it was £75.52 on 6 Oct). The SUM check agrees. Nothing mis-paired, and the other accounts are unchanged.
 
 **6–9 Nov 2026, ordinary.** Main £863.34 → **£649.51**: Anthropic £18, Audible £5.99, PayPal £5.84, Five Bells £10.75 (6 Nov); a London day on 7 Nov (TfL £8.90 and £18.20, Slug & Lettuce £18.20, Gipsy Moth £14.65 ×2, McDonald's £15.26) plus Amazon £49.99 (payee "Amazon Prime" but categorised as Gifts, "Dylan Chair #2", **not** mis-paired into the Prime Space, which stays £16); Tesco £16.40 and Hare Inn £11.40 and £5.60 (8 Nov). Joint £113.96 → **£53.55**: Tesco £60.41 (8 Nov). The 9 Nov bill pots went out: Council Tax £152, Anglian Water £77, TV Licence £15.45 (pot keeps £0.20). The SUM check agrees for all five. Nothing mis-paired.
+
+**9–10 Nov 2026.** Main £649.51 → **£659.27**: "London" +£25 in, Amazon £3.49 (Prime Space still £16, not mis-paired), The Cavendish Five Bells £11.75 (9 Nov). **NatWest £300 DD went out 10 Nov** from the NatWest Credit Card Space (now £0), so the card is **-£681.08**. The SUM check agrees for all three.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150  
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare  
@@ -658,7 +660,7 @@ See individual notes for offer/APR detail.
 | Account | Balance | As of | Detail |
 |---|---:|---|---|
 | Tesco Mastercard (Clubcard) | £0.00 | 2026-11-02 | [[Tesco Clubcard Credit Card]] — the £71.52 (1Password, 22 Oct) was paid in full from Main on 2 Nov. The purchase rate is ≈39.94% APR once outside the interest-free window |
-| NatWest Mastercard | -£981.08 🚨 | 2026-10-16 | [[NatWest Mastercard]] — **no longer 0%**, whole balance at 26.436%; £25.97 interest on the 16 Oct statement |
+| NatWest Mastercard | -£681.08 🚨 | 2026-11-10 | [[NatWest Mastercard]] — **no longer 0%**, whole balance at 26.436%; £300 DD paid 10 Nov (£25.97 interest on the 16 Oct statement) |
 | Capital One | £0.00 | 2026-09-17 | [[Capital One]] — verified from the web portal; ⚠️ web access being withdrawn, app access unresolved |
 | M&S Mastercard | -£1,441.31 | 2026-11-02 | [[M&S Credit Card]] |
 
