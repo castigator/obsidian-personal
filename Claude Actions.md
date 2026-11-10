@@ -18,25 +18,23 @@ sort by priority
 short mode
 ```
 
-### All Open, by Project
+> [!todo]- All Open, by Project
+> ```tasks
+> not done
+> (tags include #claude-action) OR (path includes 010_Westgate)
+> group by root
+> group by filename
+> sort by priority
+> sort by due
+> short mode
+> ```
 
-```tasks
-not done
-(tags include #claude-action) OR (path includes 010_Westgate)
-group by root
-group by filename
-sort by priority
-sort by due
-short mode
-```
-
-### Done in the Last Two Weeks
-
-```tasks
-done
-(tags include #claude-action) OR (path includes 010_Westgate)
-done after 14 days ago
-group by root
-sort by done reverse
-short mode
-```
+> [!success]- Done in the Last Two Weeks
+> ```tasks
+> done
+> (tags include #claude-action) OR (path includes 010_Westgate)
+> done after 14 days ago
+> group by root
+> sort by done reverse
+> short mode
+> ```

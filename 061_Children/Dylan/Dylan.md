@@ -4,19 +4,19 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/dylan
 claude_sessions:
   - "[[2026-11-10 dylan a0e4aa2a]]"
 ---
-# Dylan
+## Dylan
 
 Rupert's help with Dylan's move into work in London: his new job, his budget, the commute from home, and the search for a room near the office. This folder is the `dylan` project's primary store (moved from the `dylan` project folder on 10 Nov 2026). The project folder keeps only the Claude scaffolding and the HTML reports.
 
 To-dos live in [[Dylan Actions]].
 
-## Notes
+### Notes
 
 - [[Dylan Budget]]: salary, take-home pay and what he can afford in rent
 - [[Dylan Accommodation Search]]: the areas, platforms and listings looked at
 - [[Dylan Commuting Analysis]]: the cost and time of commuting from Pebmarsh compared with renting
 
-## Key facts
+### Key Facts
 
 - **Job:** Technical Support Analyst, King & Spalding International LLP
 - **Office:** 8 Bishopsgate, London EC2N 4BQ (by Liverpool Street station)
@@ -24,7 +24,7 @@ To-dos live in [[Dylan Actions]].
 - **Salary:** £38,000; student loan Plan 2; take-home about £2,493 a month
 - **Reports (in the project folder):** `accommodation-guide.html`, `bethnal-green-rooms.html`, `commuting-analysis.html`
 
-## History
+### History
 
 - 2026-04: First accommodation guide (`accommodation-guide.html`): budget, walkable and short-hop areas, SpareRoom listings with maps.
 - 2026-05: Commuting analysis (`commuting-analysis.html`): commuting from Pebmarsh on daily peak tickets costs more than renting a room.

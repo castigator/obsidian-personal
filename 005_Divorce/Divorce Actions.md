@@ -27,7 +27,8 @@ Open action points for the divorce project. This note is the only list: the proj
 - [ ] **Virgin/Halifax:** BT fee, Virgin balance, remaining Halifax balance. #claude-action
 - [ ] **Ann's card statement figure** (~£646.51 is from Heather's spreadsheet). #claude-action
 - [ ] **Prudential:** Heather-trusteeship question, or wait for Alan's Q9 answer. #claude-action
-- [ ] **Subsidence:** chase GHG for the October crack reading report. #claude-action
+- [x] **Subsidence:** chase GHG for the October crack reading report. Sent 10 Nov (cc Heather), also asked to be copied directly. #claude-action ✅ 2026-11-10
+- [ ] **Subsidence:** await GHG's reply to the 10 Nov chaser and the October readings report; check they start copying Rupert. #claude-action
 - [ ] **Heather to call RBS** to register her contact details. #claude-action 🔽
 - [x] **Trees:** confirm the GHG completion photo was sent. #claude-action 🔽 ✅ 2026-11-10
 - [x] **Ellisons:** stand down once Alan's engagement completes. #claude-action 🔽 ✅ 2026-11-10
