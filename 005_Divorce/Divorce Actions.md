@@ -4,6 +4,7 @@ project: divorce
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-10 divorce b22784ec]]"
 ---
 # Divorce Actions
 
@@ -18,21 +19,21 @@ Open action points for the divorce project. This note is the only list: the proj
 - [ ] **Put the open questions to Alan Caldwell.** Running list in [[Questions for Alan]] (started 1 Nov 2026 during the D81 walk-through), including the new 9 Nov section (needs landing, 2-bed, Mandy, pension TFC, "without prejudice") and the 10 D81 questions. #claude-action
 - [ ] **Firm up the housing model:** broker assessment for both; Land Registry 1–2 bed sold prices in CO9; Heather's CETVs and DC tax-free cash. #claude-action
 - [ ] **Apply for the Conditional Order** (now open), or decide to hold. Heather must apply too. #claude-action
-- [ ] **Nudge Heather to confirm receipt** on the divorce portal if she hasn't (doesn't block the clock, just tidies the case). #claude-action 🔽
+- [x] **Nudge Heather to confirm receipt** on the divorce portal if she hasn't (doesn't block the clock, just tidies the case). #claude-action 🔽 ✅ 2026-11-10
 - [ ] **Work through [[D81 Form]]**: field-by-field tracker for the actual D81 with what's known/missing per question. Refreshed 26 Oct: Rupert's figures complete and sent to Heather; waiting on her formal CETVs and agreed terms. #claude-action
 - [ ] **Before any real filing:** re-take bank balances, card statement figures, personal debts; mortgage at signing. #claude-action
-- [ ] **Work through [[Heather Buyout Scenario]]**: modelling Heather buying out Rupert's house share instead of a sale. Not yet started. #claude-action
-- [ ] **Refinance the shared Barclaycard (5002).** It's £7,116.17 at 20.68% simple (22.8% compound), with about £116/mo of interest, and it's been flagged as persistent debt. The card is in Heather's name, so a balance transfer onto one of Rupert's cards isn't possible; the routes are a cash route (e.g. the earlier £7,500 Halifax loan idea, which was tied to the unsigned card split), or Heather doing a BT/loan herself. Rupert won't take it over without signed paperwork. See [[Debts]]. #claude-action
+- [x] **Work through [[Heather Buyout Scenario]]**: modelling Heather buying out Rupert's house share instead of a sale. Dropped 10 Nov: Rupert doesn't think she could afford it. #claude-action ✅ 2026-11-10
+- [x] **Refinance the shared Barclaycard (5002).** It's £7,116.17 at 20.68% simple (22.8% compound), with about £116/mo of interest, and it's been flagged as persistent debt. The card is in Heather's name, so a balance transfer onto one of Rupert's cards isn't possible; the routes are a cash route (e.g. the earlier £7,500 Halifax loan idea, which was tied to the unsigned card split), or Heather doing a BT/loan herself. Rupert won't take it over without signed paperwork. See [[Debts]]. #claude-action ✅ 2026-11-10
 - [ ] **Virgin/Halifax:** BT fee, Virgin balance, remaining Halifax balance. #claude-action
 - [ ] **Ann's card statement figure** (~£646.51 is from Heather's spreadsheet). #claude-action
 - [ ] **Prudential:** Heather-trusteeship question, or wait for Alan's Q9 answer. #claude-action
 - [ ] **Subsidence:** chase GHG for the October crack reading report. #claude-action
 - [ ] **Heather to call RBS** to register her contact details. #claude-action 🔽
-- [ ] **Trees:** confirm the GHG completion photo was sent. #claude-action 🔽
-- [ ] **Ellisons:** stand down once Alan's engagement completes. #claude-action 🔽
-- [ ] Gmail filter for heather@pebmarsh.com (check still valid after the Forward Email move). #claude-action 🔽
+- [x] **Trees:** confirm the GHG completion photo was sent. #claude-action 🔽 ✅ 2026-11-10
+- [x] **Ellisons:** stand down once Alan's engagement completes. #claude-action 🔽 ✅ 2026-11-10
+- [x] Gmail filter for heather@pebmarsh.com (check still valid after the Forward Email move). #claude-action 🔽 ✅ 2026-11-10
 - [ ] **Git credentials** cleanup (`~/.git-credentials`); go-ahead needed. #claude-action 🔽
-- [ ] **Personal:** book holidays for Lucy, Mark and Helen. #claude-action
+- [x] **Personal:** book holidays for Lucy, Mark and Helen. #claude-action ✅ 2026-11-10
 - [ ] `House Sale.md` names the May 2026 £550k comparable as "1 Kings Mead". Ask Rupert which house it was. #claude-action 🔽
 
 ## Open questions
@@ -40,4 +41,4 @@ Open action points for the divorce project. This note is the only list: the proj
 - [ ] **Which solicitor has Heather instructed?** Still not named. #claude-action
 - [ ] **What is in Heather's "figure work"?** It probably underpins the 80%. #claude-action
 - [ ] **What is Halifax's new standard rate from 19 Nov 2026?** #claude-action
-- [ ] 🔒H: why did Heather cancel her council tax Direct Debit? #claude-action 🔽
+- [x] 🔒H: why did Heather cancel her council tax Direct Debit? #claude-action 🔽 ✅ 2026-11-10

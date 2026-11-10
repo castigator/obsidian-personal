@@ -90,7 +90,10 @@
       "color": "#ffbdf6"
     },
     "040_Hosting": {
-      "icon": "🌐"
+      "icon": "lucide-globe"
+    },
+    "060_Mandy": {
+      "icon": "lucide-heart"
     },
     "090_People": {
       "icon": "lucide-smile",

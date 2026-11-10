@@ -12,7 +12,7 @@ Open action points for the personal project. This note is the only list: the pro
 ## Actions
 
 - [ ] Gainsborough: watch for James's reply (September confirmation or their own receipt) and for a receipt after the 28 Oct DD. Then claim Sep (and Oct) through work expenses. #claude-action
-- [ ] Chase the GP about the 8 Sep asthma review request (7 weeks without a reply on 27 Oct). #claude-action 🔼
+- [x] Chase the GP about the 8 Sep asthma review request (7 weeks without a reply on 27 Oct). #claude-action 🔼 ✅ 2026-11-10
 - [ ] Christmas: buy Lucy's salmon. #claude-action
 - [ ] Christmas: decide Mandy and Dad's Christmas Day main. #claude-action
 - [ ] Christmas: plan sides, pudding and Christmas Eve supper. #claude-action

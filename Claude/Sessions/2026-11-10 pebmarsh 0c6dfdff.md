@@ -12,6 +12,9 @@ resume: cd "/Users/rupert.thomas/workspace/gitlab/private/pebmarsh" && claude --
 ## What this session did
 - /refresh: nothing new by email since 9 Nov; DNS matches the zone files; all sites 200; FoPC redirect OK. Correspondence Log "Last checked" set to 2026-11-10.
 - Answered: Parish Council mail recipients (clerk@ and info@ both forward to pebmarshparishclerk@gmail.com).
+- Councillors listed from the council website; fixed the /refresh pebmarsh.com NS check (commit cd7e0b8, pushed); logged the 10 Nov Parish Council thread (Michael Sharp: Shelley is arranging the account).
+- /refresh now searches mail with handover contacts (commit 038fd76); it found and logged the 9-10 Nov PCP thread with Kate (admin email confirmation not yet found).
+- /close: councillors and the 10 Nov chase recorded in [[Site - Parish Council]]; PCP 9-10 Nov in [[Site - Pebmarsh Community Pub]]; [[Hosting]] and [[Hosting Actions]] updated; session log and CLAUDE.md status committed.
 
 ## Notes this session touched
 ```dataview

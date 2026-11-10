@@ -3,7 +3,13 @@ tags:
   - divorce
   - property
   - settlement
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-10 divorce b22784ec]]"
 ---
+
+> [!note] Dropped 10 Nov 2026
+> Rupert dropped this option: he doesn't think there's any way Heather could afford to buy him out. On about £23k gross she could borrow roughly £92k–£104k, nowhere near enough to clear the RBS balance (about £310k) and pay out his share. The open subsidence claim also blocks lending for now. It was never put to Heather. The rest of this note is kept as a record.
 
 **Purpose:** scaffolding for modelling an alternative to selling the house on the open market —
 Heather buys out Rupert's share and keeps Maple Tree House, Rupert takes his share in cash/other

@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 divorce 169539ce]]"
+  - "[[2026-11-10 divorce b22784ec]]"
 ---
 # Correspondence
 

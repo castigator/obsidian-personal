@@ -2,6 +2,9 @@
 tags:
   - hosting
   - site
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
+claude_sessions:
+  - "[[2026-11-10 pebmarsh 0c6dfdff]]"
 ---
 
 # Site - Parish Council
@@ -17,7 +20,8 @@ Pebmarsh Parish Council's website. **On WordPress.com since 5 Nov 2026 (held by 
   - rupert.
   - PPotter, the parish clerk: edits pages, from IP 145.224.67.126.
   - The old `admin` account (2007) was deleted on 27 Oct 2026.
-- **Email:** `clerk@` forwards to pebmarshparishclerk@gmail.com; `info@` forwards to `clerk@` (fixed 28 Oct 2026). See [[Hosting Email]].
+- **Email:** `clerk@` and `info@` both forward to pebmarshparishclerk@gmail.com at Forward Email (checked 10 Nov 2026). See [[Hosting Email]].
+- **Councillors (from the site's "Parish Councillors and Contact" page, 10 Nov 2026):** Cllr Michael Sharp (Chairman, michael.pebmarshpc@gmail.com), Cllr Belinda Nott (Vice-Chairman), Cllr John Rumsey, Cllr Lenny Darroux. Clerk: Shelley Boydell, pebmarshparishclerk@gmail.com, 07927 775989. Only the Chairman and Clerk have published email addresses.
 - **Security:** the config file had **no security keys** (salts) until 27 Oct 2026, when they were added. Sessions were cleared the same day.
 
 ## Handoff
@@ -35,6 +39,7 @@ Pebmarsh Parish Council's website. **On WordPress.com since 5 Nov 2026 (held by 
   - Old site on DreamHost: untouched apart from the migration plugin, and no edits since 26 Oct 2026. Rupert's `rupert` password was reset on 5 Nov (in 1Password).
   - **Live 5 Nov 2026:** `parishcouncil.pebmarsh.com` set as the primary address; its certificate was issued (5 Nov, until Feb 2027); `www.parishcouncil` and the staging address both redirect to it. Served by WordPress.com (Atomic).
   - **Told Shelley 5 Nov** (email "IMPORTANT: Parish Council website: hosting changes"): same address and login (her `PPotter` login works); Rupert paid the first month to 4 Dec and won't renew; if they want it, they create a council WordPress.com account and send its email by **Fri 27 Nov**. Rupert keeps the DNS.
+  - **10 Nov 2026:** no reply from Shelley, so Rupert chased her and copied the Chairman, Michael Sharp. Michael replied within minutes: Shelley "is currently arranging everything and will be in touch shortly".
   - **Still to do:** transfer the site to a council-owned WordPress.com account (Settings → Danger zone → Transfer); delete the old database `pbdb_parish` in the DreamHost panel (Rupert). Done 5 Nov: archived to Drive (`www-pebmarsh-parishcouncil.pebmarsh.com.tar.gz`, 403 MB), set to DNS Only at DreamHost by Rupert, folder deleted by Claude after re-checking the archive's md5.
   - **Don't send** the Gmail draft "Moving the Parish Council website: action needed" (4 Nov): it asks the council to set up hosting, which is now done.
 - **Email signing (6 Nov 2026):** the WordPress.com DKIM records `wpcloud1._domainkey.parishcouncil` and `wpcloud2._domainkey.parishcouncil` (CNAMEs to `wpcloud1/2._domainkey.wpcloud.com`, DNS only) were added in Cloudflare. A test password reset passed DKIM (d=parishcouncil.pebmarsh.com, s=wpcloud1) and DMARC. The parishcouncil SPF is now Forward Email only (`v=spf1 include:spf.forwardemail.net -all`). The site's emails are safe for the DMARC tightening.

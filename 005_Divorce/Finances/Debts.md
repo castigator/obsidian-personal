@@ -2,6 +2,9 @@
 tags:
   - divorce
   - finance
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-10 divorce b22784ec]]"
 ---
 
 *Updated 26 Oct 2026. The Barclaycard and Halifax figures come from their October statements (20 Oct and

@@ -21,12 +21,13 @@ Open action points for the finance project. This note is the only list: the proj
 - [ ] Main/Joint £100 pairing is crossed (6 Oct Z_PK 15305 / 7 Oct 15321); cosmetic, swap if Rupert wants #claude-action 🔽
 - [x] Confirm Prime's payment method is Starling ****1949 before the renewal #claude-action 📅 2027-09-15 ✅ 2026-11-10
 - [x] Roll Claude Actions out to divorce, westgate, pebmarsh (hosting) and personal #claude-action ✅ 2026-11-10
-- [ ] Decide whether mandy, party and dylan (no vault folder) get Actions notes, and where #claude-action 🔽
+- [x] Decide whether mandy, party and dylan get Actions notes: mandy set up (Mandy Actions); party is history, not needed; dylan left to Rupert in the dylan project #claude-action ✅ 2026-11-10
 
 ## Decisions for Rupert
 
 - [ ] Capital One's fixed £100/month DD is on a dormant £0.00 card: switch it to "minimum"? #claude-action
 - [ ] Home Insurance £5.30 (Urban Jungle, 23 Oct) is filed under "Food Support" in Banktivity: re-categorise? #claude-action 🔽
+- [ ] 67 older daily notes still have the old "All Tasks" query, so they show `#claude-action` items: add `tags do not include #claude-action` to them too? (Template and 10 Nov note done.) #claude-action 🔽
 
 ## Standing rules (not tasks)
 
