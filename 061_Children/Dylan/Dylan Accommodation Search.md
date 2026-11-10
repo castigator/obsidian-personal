@@ -8,7 +8,9 @@ claude_sessions:
 
 Part of [[Dylan]]. Budget in [[Dylan Budget]].
 
-**Status (last known, 14 May 2026):** no place found. Commuting from home while searching SpareRoom around Bethnal Green (E2). His filters: furnished rooms, shared living, flatmates aged 20–35, at least 2 flatmates.
+**Status: closed.** Dylan found a flat in Peckham, so nothing more to do here; the rest of this note is the historical record of the search.
+
+As of 14 May 2026 he was commuting from home while searching SpareRoom around Bethnal Green (E2). His filters were: furnished rooms, shared living, flatmates aged 20–35, at least 2 flatmates.
 
 ## Areas, by distance from 8 Bishopsgate
 

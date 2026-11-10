@@ -11,7 +11,8 @@ Open action points for the dylan project. This note is the only list: the projec
 
 ### Actions
 
-- [ ] Find out where Dylan's accommodation search stands (last known, 14 May 2026: commuting from home, looking at Bethnal Green room shares) and update [[Dylan]] #claude-action 🔼
+- [x] Find out where Dylan's accommodation search stands: he lives in a flat in Peckham, so the search is over #claude-action 🔼 ✅ 2026-11-10
+- [ ] Add Dylan's Peckham address to [[Dylan]]: create his `090_People` note from Google Contacts with the Google Lookup plugin, then link it #claude-action 🔽
 - [x] If he is still looking: refresh the listings in `bethnal-green-rooms.html` (sourced April–May 2026, long stale) #claude-action 🔽 ✅ 2026-11-10
 - [x] If he has a shortlist: compare the rooms and total move-in costs for each #claude-action 🔽 ✅ 2026-11-10
 
