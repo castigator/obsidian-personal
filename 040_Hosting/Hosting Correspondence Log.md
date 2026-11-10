@@ -1,11 +1,14 @@
 ---
 tags:
   - hosting
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
+claude_sessions:
+  - "[[2026-11-10 pebmarsh 0c6dfdff]]"
 ---
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-09
+**Last checked:** 2026-11-10
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 

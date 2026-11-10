@@ -20,7 +20,8 @@ Open action points for the finance project. This note is the only list: the proj
 - [ ] Discuss automating the monthly sheet roll-over (see [[Reminders]]) #claude-action 🔽
 - [ ] Main/Joint £100 pairing is crossed (6 Oct Z_PK 15305 / 7 Oct 15321); cosmetic, swap if Rupert wants #claude-action 🔽
 - [x] Confirm Prime's payment method is Starling ****1949 before the renewal #claude-action 📅 2027-09-15 ✅ 2026-11-10
-- [ ] Roll Claude Actions out to the other projects (divorce, westgate, mandy, pebmarsh, personal, party, dylan) once the finance pilot works #claude-action
+- [x] Roll Claude Actions out to divorce, westgate, pebmarsh (hosting) and personal #claude-action ✅ 2026-11-10
+- [ ] Decide whether mandy, party and dylan (no vault folder) get Actions notes, and where #claude-action 🔽
 
 ## Decisions for Rupert
 

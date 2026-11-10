@@ -5,19 +5,18 @@ icon: ⚖️
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 divorce 169539ce]]"
+  - "[[2026-11-09 finance dfd038ee]]"
 ---
 
 Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 years together). No-fault, irretrievable breakdown (England & Wales, post-April 2022 rules). Married 22 August 1998.
 
 ## Important and To Do
+
+**The live to-do list is [[Divorce Actions]]** (moved there 10 Nov 2026). The ticked items below are kept as a record.
+
 - [x] **Replied to Heather's 80% ask** (WhatsApp 9 Nov 16:47): option B (pension-adjusted, ~£116k–£166k to her) as a fair starting point, 80% too far. Shared the neutral sheet (Maple Tree House - Equity Split Options, view-only). See [[2026-11-09_challenge-94-percent-real-terms-stat]]. ✅ 2026-11-09
-- [!] **Await Heather's own "figure work"** (asked 9 Nov 16:53) and fold it into both sheets. Then share housing figures for both. Reframe the 29 Oct "same boat" line first: Rupert *can* buy, but with a big mortgage past retirement. See [[2026-11-09_heather-housing-need-buy]].
-- [ ] **Put the open questions to Alan Caldwell.** Running list in [[Questions for Alan]] (started 1 Nov 2026 during the D81 walk-through).
-- [ ] **Refinance the shared Barclaycard (5002).** It's £7,116.17 at 20.68% simple (22.8% compound), with about £116/mo of interest, and it's been flagged as persistent debt. Look at getting it off that rate. The card is in Heather's name, so a balance transfer onto one of your cards isn't possible; the routes are a cash route (e.g. the earlier £7,500 Halifax loan idea, which was tied to the unsigned card split), or Heather doing a BT/loan herself. See [[Debts]].
 
 - [x] **Divorce application ISSUED 16 Jun 2026** (submitted + £612 paid 12 Jun; court accepted 16 Jun). Case 1780-7415-8911-6303. **20-week clock running → apply for Conditional Order from 4 Nov 2026.** Rupert confirmed receipt on the portal. **Final Order: hold until financial consent order sealed.** ✅ 2026-06-16
-- [ ] **Nudge Heather to confirm receipt** on the divorce portal if she hasn't (doesn't block the clock, just tidies the case).
-- [!] **Use the 16 Jun → 4 Nov window to sort the finances** — gather CETVs (Heather's Prudential DB + Rupert's three Aviva), settlement modelling, then consent order. This is what paces the case, not the clock. See [[Clean Break]] / [[005_Divorce/Pensions]].
 - [x] **Michaels Property valuation done 13 Jun** (Aaron Wilcock): **£550k once subsidence rectified / £400k–£425k if sold as-is now** (active claim → cash buyers only). Recommends completing the claim + works before marketing. See [[House Sale]]. ✅ 2026-06-13
 - [x] **Line up 2–3 ADDITIONAL property valuations — Rupert to organise** (Heather says it's for him to sort). Target viewing: **weekend of 4–5 Jul** — first free weekend (busy 20–21 & 27–28 Jun; away Mon 29 Jun; weekdays don't work). Start with St George (Sam Fox, 07485 498850), add 1–2 more agents. Disclose subsidence + active claim to each so figures are comparable. NB drain engineer visit Fri 3 Jul AM — don't over-stack. ✅ 2026-11-10
 - [x] **Ellisons consultation BOOKED: 1pm Wed 4 Jun 2026** — Francesca Easter, Bury St Edmunds. Briefing pack sent. Awaiting payment details (£402 inc VAT; 20% Blue Light discount if eligible). ✅ 2026-06-08
@@ -35,10 +34,6 @@ Rupert Thomas & Heather Thomas — divorcing after 27 years of marriage (~40 yea
 - [x] **Gather the numbers for [[Form E]]** — biggest gaps: Heather's Prudential DB CETV ✅ 2026-11-10
   (sitting ready since 20 May, 🔒H), Speedware/Conchango untraced pensions, and both parties'
   income/housing needs budgets. Gates settlement modelling.
-- [ ] **Work through [[D81 Form]]** — set up 24 Aug 2026, field-by-field tracker for the actual
-  D81 with what's known/missing per question. Refreshed 26 Oct: Rupert's figures complete and sent to Heather; waiting on her formal CETVs and agreed terms.
-- [ ] **Work through [[Heather Buyout Scenario]]** — set up 24 Aug 2026, scaffolding for
-  modelling Heather buying out Rupert's house share instead of a sale. Not yet started.
 
 ## The House
 

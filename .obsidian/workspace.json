@@ -75,12 +75,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sortspec.md",
+                "file": "040_Hosting/Hosting Actions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sortspec"
+              "title": "Hosting Actions"
             }
           }
         ],
@@ -266,6 +266,12 @@
   },
   "active": "074a9f882fda77b2",
   "lastOpenFiles": [
+    "Claude/Sessions/2026-11-10 pebmarsh 0c6dfdff.md",
+    "sortspec.md",
+    "010_Westgate/Westgate Actions.md",
+    "040_Hosting/Hosting Actions.md",
+    "001_Personal/Personal Actions.md",
+    "005_Divorce/Divorce Actions.md",
     "xx_daily/Daily Note - 10th Nov 2026.md",
     "Claude/Actions/Finance.md",
     "020_Finance/Finance Actions.md",
@@ -294,7 +300,6 @@
     "005_Divorce/Finances/Record of Terms - Framework.md",
     "005_Divorce/Finances/Record of Terms - Draft.md",
     "005_Divorce/Analysis/2026-11-05_record-of-terms-contents.md",
-    "040_Hosting/Hosting Email.md",
     "xx_media/BMSDC Failed Application Letter.pdf",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-03_whatsapp-0845-2018-smtp-switch-REDACTED.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-11-02_whatsapp-1051-1630-pebmarsh-mailbox.png",
@@ -303,13 +308,8 @@
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-10-29_whatsapp-1152-1735-no-gap.png",
     "040_Hosting/Hosting Migration Plan.md.tmp.59088.14801352e0fb",
     "xx_media/Medicash - Benefit Table from app (4 Nov 2026).jpeg",
-    "001_Personal/Work Benefits/Medicash.md",
-    "001_Personal/Work Benefits/Work Benefits.md",
     "001_Personal/Work Benefits",
     "xx_media/Medicash - Terms and Conditions (Feb 2025).pdf",
-    "020_Finance/Correspondence/2026-11-02_barclays-anglian-water-dd-cancelled.md",
-    "040_Hosting/Hosting.md",
-    "005_Divorce/Finances/D81 Form.md",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-17sep-date.png",
     "005_Divorce/Correspondence/heather/whatsapp-images/2026-09-25_whatsapp-backfill-drain-excess-rbs.png"
   ]

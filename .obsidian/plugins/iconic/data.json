@@ -89,6 +89,9 @@
       ],
       "color": "#ffbdf6"
     },
+    "040_Hosting": {
+      "icon": "🌐"
+    },
     "090_People": {
       "icon": "lucide-smile",
       "unsynced": [

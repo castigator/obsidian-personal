@@ -18,6 +18,7 @@ resume: cd "/Users/rupert.thomas/workspace/gitlab/private/finance" && claude --r
 - 10 Nov (resumed): `/refresh`. NatWest £300 DD paid (card -£681.08), Main £659.27. Updated `Accounts.md`, `NatWest Mastercard.md`, `Correspondence Log.md`.
 - 10 Nov: created [[Claude Activity]] at the vault root (Dataview: recent work, projects, sessions, notes written by Claude). Also added the same "Recent Work" section to the work vault's Claude Activity page.
 - 10 Nov: Claude Actions pilot (finance). Created [[Finance Actions]] (first in `Claude/Actions/`, then moved into `020_Finance/`) (the finance to-do list, moved out of CLAUDE.md), the [[Claude Actions]] hub page, a SessionStart hook to load the list, and `/close` instructions to maintain it. Daily-note template and today's note now exclude `#claude-action`. Autostamp hook now skips `Claude Actions.md` and `xx_templates/`.
+- 10 Nov: rolled Claude Actions out: [[Divorce Actions]] (merged CLAUDE.md list with [[Divorce]]'s open to-dos; ticked items stay in Divorce.md), [[Personal Actions]], [[Hosting Actions]], and [[Westgate Actions]] (a Tasks view of Westgate's per-note to-dos). Shared hook `~/.claude/hooks/obsidian-actions.sh`; CLAUDE.md, `/close` and settings updated and committed locally in each repo. Hub now groups by project folder.
 - 10 Nov: `sortspec.md` (custom-sort plugin) now puts any note ending in "Actions" first in the vault root and each top-level folder.
 
 ### Notes This Session Touched
