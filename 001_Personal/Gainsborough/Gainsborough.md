@@ -1,5 +1,8 @@
 ---
 tags: [personal, gainsborough]
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
+claude_sessions:
+  - "[[2026-11-10 personal 36f11da7]]"
 ---
 
 ## Gainsborough
@@ -68,9 +71,12 @@ Things that exist now and could support a claim:
   confirmation of payment £130.00 for monthly membership at The Gainsborough Health Club & Spa."
   This is the October receipt.
 - The Starling statement line for each 28th-of-month Direct Debit.
+- **October 2026 receipt (self-made from the template):** [[GHC-2026-10-receipt.pdf]]. Every field
+  is filled in for the 28 Oct 2026 DD (£108.33 + VAT £21.67 = £130.00).
 
 ### History
 
+- 2026-11-10: Made the October 2026 receipt PDF from the template (exported by Word), filed in this folder.
 - 2026-10-27: Emailed James the template and September example; asked for September confirmation and monthly receipts.
 - 2026-10-27: Linked the template's fields to the membership month, so the club only picks one date. Tested in Word.
 - 2026-10-27: Swapped the template's yellow-highlighted [bracket] fields for content controls, so filled-in values don't keep the highlight.
