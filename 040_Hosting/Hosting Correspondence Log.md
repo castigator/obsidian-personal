@@ -8,12 +8,14 @@ claude_sessions:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-11
+**Last checked:** 2026-11-12
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-12 | Rupert (sent) | Reply to Shelley, same thread: the account is enough, skip the domain step and buy nothing; Rupert will transfer to pebmarshparishclerk@gmail.com; accept the WordPress.com email (and an admin invitation if one comes first), check spam; plan renews 4 Dec so she'll be asked for payment (Personal, about £8 a month). | Rupert starting the transfer |
+| 2026-11-11 | Shelley Boydell (Parish Clerk) | "Re: IMPORTANT: Parish Council website: hosting changes" (15:56): the council agreed to go ahead. She created a WordPress.com account with pebmarshparishclerk@gmail.com; signup now asks her to choose a domain, and she asks whether she needs to. | Reply: that's enough, skip the domain step and buy nothing; Rupert transfers the site to that account |
 | 2026-11-11 | WordPress (pebmarshcommunitypub.com) | "New Admin Email Address" (13:45, to rupertthomas@gmail.com) and "Admin Email Changed" (13:46, to the old admin@pcp address): Rupert's own change of the admin email to rupertthomas@gmail.com. The /refresh red-flag search missed the second (it searched "Admin Email Change"; Gmail matches whole words); query fixed. | None |
 | 2026-11-11 | Rupert (sent) | To Kate Stubbs, "Re: The PCP website is now on your WordPress.com site" (new thread): no need to find the confirmation email; the site's admin email now points at Rupert for now; it will be switched to her later, and she should look for an email from wordpress@pebmarshcommunitypub.com, subject "[Pebmarsh Community Pub Limited] New Admin Email Address" (screenshot included), and check spam. Form messages still go to pcpshareholder@gmail.com. | Later: switch the admin email to Kate |
 | 2026-11-10 | Rupert / Michael Sharp (Chair, Parish Council) | "Re: IMPORTANT: Parish Council website: hosting changes". 11:25 Rupert chased Shelley (no reply since 5 Nov), adding the Chair (michael.pebmarshpc@gmail.com) and asking for an acknowledgement. 11:27 Michael replied: Shelley "is currently arranging everything and will be in touch shortly". 11:28 Rupert thanked him. | Wait for Shelley's council WordPress.com account email (due Fri 27 Nov); transfer before 4 Dec |
