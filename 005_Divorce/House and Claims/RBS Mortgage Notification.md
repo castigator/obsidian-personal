@@ -4,6 +4,9 @@ tags:
   - house
   - mortgage
   - draft
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-11 divorce 7f446e9b]]"
 ---
 
 ## RBS Mortgage Notification
@@ -457,6 +460,30 @@ Statement dated 01 Oct 2026, covering 30/08/2026–30/09/2026. Filed:
 - Valuation on file: still £390,000. Equity per RBS: **£80,251.60**.
 - Repayment guide: planned £128,195.18 vs actual £309,748.40 → **£181,553.22 behind guide**
   (still widening, from £178,364.61). RBS's suggested budget: £3,502.77 next month (£1,809.52
+  interest + £1,693.25 to reduce the balance).
+
+### October 2026 Statement — over facility for a third month, balance up again (11 Nov 2026)
+
+Statement dated 31 Oct 2026, covering 02/10/2026–30/10/2026. Filed:
+`Correspondence/rbs/2026-10-31_rbs-monthly-statement.pdf` (Rupert dropped it in on 11 Nov).
+
+- Opening balance 02/10/2026: −£309,748.40 (matches the September closing figure).
+- Money in: **£1,762.05**, made up of Rupert's £1,400.15 (BACS 02/10, "HEATHER - MORTGAGE") and
+  Heather's £361.90 (BACS 26/10, "MORTGAGE").
+- Interest collected 26/10/2026: **£1,809.52** ("30SEP A/C 11177343"), as the September statement said.
+- **Closing balance 30/10/2026: −£309,795.87**, **up £47.47**: October's payments fell short of the
+  interest by that much.
+- **Facility £308,368.00, available facility £0.00**, so the account is **£1,427.87 over** (up from
+  £1,380.40). That is the third month of over-facility in writing.
+- **Next interest: £1,930.41** for 01/10–01/11 at **7.10%** (rate unchanged), to be collected
+  **24/11/2026**. It's £120.89 more than October's because the period is longer (32 days, against
+  about 30 last month): 309.8k × 7.10% × 32/365 ≈ £1,928. So it's not a rate rise. The 10 Nov Bank of England
+  base-rate rise (3.75% → 4.00%) could still feed into the One Account rate from November; check the
+  next statement.
+- The November shared-sheet mortgage line needs to cover **£1,930.41**, or the balance creeps up again.
+- Valuation on file: still £390,000. Equity per RBS: **£80,204.13**.
+- Repayment guide: planned £128,195.18 vs actual £309,795.87 → **£181,600.69 behind guide**
+  (still widening, from £181,553.22). RBS's suggested budget: £3,623.66 next month (£1,930.41
   interest + £1,693.25 to reduce the balance).
 
 ### Related

@@ -3,6 +3,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 divorce 169539ce]]"
   - "[[2026-11-10 divorce b22784ec]]"
+  - "[[2026-11-11 divorce 7f446e9b]]"
 ---
 # Correspondence
 
@@ -13,7 +14,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **10 Nov 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **11 Nov 2026** via direct
 Gmail API — see note below. Covering April 2024 – November 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -138,6 +139,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-10-24 | [garden-annexes-brochure_LOCKH.md](heather/2026-10-24_garden-annexes-brochure_LOCKH.md) 🔒H | Garden Annexes follow-up to Heather for Maple Tree House: she appears to have requested an annexe brochure. Housing-intention signal only. |
 | 2026-10-26 | [whatsapp-salary-ann-card-october-sheet.md](heather/2026-10-26_whatsapp-salary-ann-card-october-sheet.md) | **WhatsApp 15:31–17:05.** Heather: salary now **£23,034 gross / £1,587.46 net** (was £21,715 / ~£1,471); no updated pension values. **Ann's card ~£646.51** (her spreadsheet, not a statement; was £1,409). Halifax and Barclaycard Oct statements resent (same as 24 Oct). Rupert's final October sheet: **£2,958.13, Rupert £2,366.50 / Heather £591.63** (Halifax min £178.09; Lucy Food now in the per-person totals). Joint debt now ~£22,703. |
 | 2026-11-04 | [hmcts-conditional-order-can-apply.md](heather/2026-11-04_hmcts-conditional-order-can-apply.md) | **HMCTS: can now apply for the Conditional Order** (case 1780-7415-8911-6303). Joint application, so Heather must apply too. Account goes inactive after 90 days without login. |
+| 2026-11-10 | [halifax-base-rate-increase_LOCKH.md](heather/2026-11-10_halifax-base-rate-increase_LOCKH.md) 🔒H | Halifax: base rate 3.75% → 4.00%, so card 3123's **standard rates have risen**; no new rate given. Likely the 19 Nov rise already tracked. Get the rate from the November statement via Heather. |
 
 ### [subsidence/](subsidence/)
 
@@ -235,6 +237,7 @@ Also filed directly in `heather/` (received 27 Apr 2026):
 - [2026-07-30_rbs-voicemail-callback-request.md](rbs/2026-07-30_rbs-voicemail-callback-request.md) — RBS voicemail requesting a callback (screenshot + note).
 - [2026-07-31_rbs-callback-transcript.md](rbs/2026-07-31_rbs-callback-transcript.md) — Transcript of the 31 Jul RBS callback (recording also kept: `2026-07-31_rbs-callback-recording.mp3`).
 - [2026-10-01_rbs-monthly-statement.pdf](rbs/2026-10-01_rbs-monthly-statement.pdf). September statement: balance −£309,748.40, still £1,380.40 over the £308,368 facility. £1,809.52 interest due 26 Oct. Detail in [[RBS Mortgage Notification]].
+- [2026-10-31_rbs-monthly-statement.pdf](rbs/2026-10-31_rbs-monthly-statement.pdf). October statement: balance −£309,795.87 (up £47.47, payments £1,762.05 < interest £1,809.52), **£1,427.87 over** the £308,368 facility (third month). £1,930.41 interest due 24 Nov (32-day period, rate still 7.10%). £181,600.69 behind guide; equity per RBS £80,204.13. Detail in [[RBS Mortgage Notification]].
 
 ### [solicitors/](solicitors/)
 

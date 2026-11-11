@@ -5,6 +5,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-10 divorce b22784ec]]"
+  - "[[2026-11-11 divorce 7f446e9b]]"
 ---
 # Divorce Actions
 
@@ -29,6 +30,8 @@ Open action points for the divorce project. This note is the only list: the proj
 - [ ] **Prudential:** Heather-trusteeship question, or wait for Alan's Q9 answer. #claude-action
 - [x] **Subsidence:** chase GHG for the October crack reading report. Sent 10 Nov (cc Heather), also asked to be copied directly. #claude-action ✅ 2026-11-10
 - [ ] **Subsidence:** await GHG's reply to the 10 Nov chaser and the October readings report; check they start copying Rupert. #claude-action
+- [ ] **November mortgage payment = £1,930.41** (RBS total interest, collected 24 Nov): make sure the November shared-sheet mortgage line covers it. October's payments fell £47.47 short, the balance rose, and the account is £1,427.87 over the facility. #claude-action ⏫ 📅 2026-11-24
+- [ ] **RBS November statement:** lead with the total interest; check whether the 10 Nov base-rate rise moved the One Account rate off 7.10%. #claude-action 🔼
 - [ ] **Heather to call RBS** to register her contact details. #claude-action 🔽
 - [x] **Trees:** confirm the GHG completion photo was sent. #claude-action 🔽 ✅ 2026-11-10
 - [x] **Ellisons:** stand down once Alan's engagement completes. #claude-action 🔽 ✅ 2026-11-10
@@ -41,5 +44,5 @@ Open action points for the divorce project. This note is the only list: the proj
 
 - [ ] **Which solicitor has Heather instructed?** Still not named. #claude-action
 - [ ] **What is in Heather's "figure work"?** It probably underpins the 80%. #claude-action
-- [ ] **What is Halifax's new standard rate from 19 Nov 2026?** #claude-action
+- [ ] **What is Halifax's new standard rate?** The 10 Nov base-rate notice (🔒H) confirms the standard rates went up but gives no figure; probably the same as the 19 Nov rise. Get it from the November statement via Heather. #claude-action
 - [x] 🔒H: why did Heather cancel her council tax Direct Debit? #claude-action 🔽 ✅ 2026-11-10
