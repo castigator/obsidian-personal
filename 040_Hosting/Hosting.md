@@ -13,7 +13,7 @@ Everything about the pebmarsh.com domains, websites, email and the providers beh
 
 Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh` and `/close`). These notes are the primary record.
 
-### Where Things Stand (10 Nov 2026)
+### Where Things Stand (11 Nov 2026)
 
 - **DNS:** pebmarsh.com and friendsofpebmarshchurch.uk are on [[Cloudflare]]. `dns/verify-zone.sh` now checks Cloudflare against the zone files.
 - **Hosting:** **[[DreamHost]] closed 6 Nov 2026.** Static sites on Cloudflare; the three organisations' WordPress sites on WordPress.com: [[Site - Parish Council]] (Rupert's account until the council takes it), [[Site - Pebmarsh Community Pub]] (Kate's account, pebmarshcommunitypub.com), [[Site - Friends of Pebmarsh Church]] (Belynda's account, fopc.co.uk; the old address redirects).
