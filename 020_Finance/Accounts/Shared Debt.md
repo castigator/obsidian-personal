@@ -92,6 +92,8 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 
 ## Offers (on the cards themselves — not Rupert's to draw on, but relevant to shared-debt strategy; see [[0% Offers Tracker]] for the consolidated view across every card)
 
+**📩 10 Nov 2026: the base rate rose from 3.75% to 4.00%, and Halifax says the card's standard rates rise with it** (see [[2026-11-10_halifax-base-rate-increase]]). The email gives no new rate (October: 21.422%/23.66%), and doesn't say whether it is the same change as the 19 Nov rise below. The November statement is still the one to get.
+
 **⚠️ Standard rate increasing from 19 Nov 2026** (notice 7 Sept 2026, see
 [[2026-09-07_halifax-rate-increase-notice]]) — new rate not yet known
 (email pointed to a digital-inbox message not accessible via Gmail).

@@ -18,7 +18,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £659.27 | 2026-11-09 |
+| Starling - Main | £604.86 | 2026-11-10 |
 | Starling - Joint | £53.55 | 2026-11-08 |
 | Barclays - Current | £73.22 | 2026-11-04 |
 
@@ -536,6 +536,8 @@ is referenced elsewhere.
 **6–9 Nov 2026, ordinary.** Main £863.34 → **£649.51**: Anthropic £18, Audible £5.99, PayPal £5.84, Five Bells £10.75 (6 Nov); a London day on 7 Nov (TfL £8.90 and £18.20, Slug & Lettuce £18.20, Gipsy Moth £14.65 ×2, McDonald's £15.26) plus Amazon £49.99 (payee "Amazon Prime" but categorised as Gifts, "Dylan Chair #2", **not** mis-paired into the Prime Space, which stays £16); Tesco £16.40 and Hare Inn £11.40 and £5.60 (8 Nov). Joint £113.96 → **£53.55**: Tesco £60.41 (8 Nov). The 9 Nov bill pots went out: Council Tax £152, Anglian Water £77, TV Licence £15.45 (pot keeps £0.20). The SUM check agrees for all five. Nothing mis-paired.
 
 **9–10 Nov 2026.** Main £649.51 → **£659.27**: "London" +£25 in, Amazon £3.49 (Prime Space still £16, not mis-paired), The Cavendish Five Bells £11.75 (9 Nov). **NatWest £300 DD went out 10 Nov** from the NatWest Credit Card Space (now £0), so the card is **-£681.08**. The SUM check agrees for all three.
+
+**10–11 Nov 2026, ordinary.** Main £659.27 → **£604.86**: Budgens £16.90, East of England Co-op £5.08, The Black Lion £4.86, £9.72 and £4.86, PayPal £12.99 (Streaming), all on 10 Nov. The ID Mobile pot paid iD Mobile £44.99 (11 Nov; pot now £0). The SUM check agrees. Nothing mis-paired.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150  
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare  

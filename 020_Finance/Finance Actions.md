@@ -11,7 +11,7 @@ Open action points for the finance project. This note is the only list: the proj
 
 ## Actions
 
-- [ ] Get the new Halifax standard rate (from 19 Nov 2026); needs Heather's November statement #claude-action ⏫
+- [ ] Get the new Halifax standard rate (from 19 Nov 2026; Halifax said on 10 Nov it also follows the base-rate rise to 4.00%); needs Heather's November statement #claude-action ⏫
 - [ ] Virgin/Halifax figures: BT fee, Virgin and Halifax balances, new minimums; may change November servicing (via divorce/Heather) #claude-action 🔼
 - [ ] Read the ~16 Nov NatWest statement PDF: minimum, interest, next £300 DD date (last DD paid 10 Nov) #claude-action 🔼 📅 2026-11-18
 - [ ] Check the 2 Nov transfers against the November sheet #claude-action

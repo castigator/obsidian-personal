@@ -10,6 +10,8 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
+**2026-11-11.** One new email: [[2026-11-10_halifax-base-rate-increase]]. Halifax told Heather on 10 Nov that the base rate went from 3.75% to 4.00% and her card's standard rates rise with it; there's no new figure (see [[Shared Debt]]). Divorce is unchanged. Banktivity, routine: Main £604.86 (Budgens, Co-op, Black Lion, PayPal £12.99), iD Mobile £44.99 from its pot. See [[Accounts]].
+
 **2026-11-10.** No new finance email (only a Topshop promo to Heather, discarded). Divorce's shared-debt figures are unchanged; its 9 Nov update is about the equity split only. Banktivity: **NatWest £300 DD paid 10 Nov**, so the card is -£681.08 and its Space is £0. Main £659.27 ("London" +£25 in, Amazon £3.49, Five Bells £11.75). See [[Accounts]].
 
 **2026-11-09.** No new email (searches clean to 9 Nov). Divorce is unchanged. Banktivity, all routine: Main £649.51 (London day 7 Nov, Amazon £49.99 categorised as Gifts, not mis-paired), Joint £53.55 (Tesco £60.41), and the 9 Nov bill pots paid (Council Tax £152, Water £77, TV Licence £15.45). See [[Accounts]].
