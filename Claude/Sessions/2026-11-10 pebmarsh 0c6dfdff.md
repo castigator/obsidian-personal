@@ -16,6 +16,7 @@ resume: cd "/Users/rupert.thomas/workspace/gitlab/private/pebmarsh" && claude --
 - /refresh now searches mail with handover contacts (commit 038fd76); it found and logged the 9-10 Nov PCP thread with Kate (admin email confirmation not yet found).
 - /close: councillors and the 10 Nov chase recorded in [[Site - Parish Council]]; PCP 9-10 Nov in [[Site - Pebmarsh Community Pub]]; [[Hosting]] and [[Hosting Actions]] updated; session log and CLAUDE.md status committed.
 - 11 Nov: PCP admin email moved to rupertthomas@gmail.com (pcpshareholder owns the domain, so no pub address), WPForms From/To fixed and summaries off; DMARC tightened to p=quarantine after reading the Forward Email reports; email to Kate drafted and sent; /refresh red-flag subjects fixed ("Admin Email Changed"). See [[Site - Pebmarsh Community Pub]], [[Hosting Email]].
+- 11 Nov, later: Forward Email subdomain DKIM/DMARC crosses explained as cosmetic in [[Hosting Email]]; p=reject reminder added to [[Hosting Actions]] for 2 Dec.
 
 ## Notes this session touched
 ```dataview

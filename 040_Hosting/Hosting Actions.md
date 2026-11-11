@@ -18,6 +18,7 @@ Open action points for the pebmarsh (hosting) project. This note is the only lis
 - [x] PCP: admin email off admin@pcp.pebmarsh.com (Kate never confirmed; set to rupertthomas@gmail.com instead), WPForms notification From noreply@pebmarshcommunitypub.com / To pcpshareholder@gmail.com, email summaries disabled. #claude-action 🔼 ✅ 2026-11-11
 - [x] Tighten `_dmarc` from p=none to p=quarantine (Rupert, Cloudflare). #claude-action ✅ 2026-11-11
 - [ ] DMARC: check the Forward Email DMARC dashboard's Quarantined column for genuine mail; revert to p=none if anything real is caught. #claude-action 🔼 📅 2026-11-18
+- [ ] DMARC: consider tightening `_dmarc` from p=quarantine to p=reject (Forward Email's recommendation), if the 18 Nov check and the reports since are clean. Leave the subdomains' red DKIM/DMARC crosses in the Forward Email dashboard alone: they have no outbound sending, and the apex record covers them. #claude-action 🔽 📅 2026-12-02
 - [ ] PCP: switch the site's admin email from rupertthomas@gmail.com to Kate (she clicks the WordPress confirmation; example screenshot in [[Site - Pebmarsh Community Pub]]). #claude-action 🔽
 - [ ] End of December: delete the pcp.pebmarsh.com Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. #claude-action 📅 2026-12-31
 - [ ] PCP: <chair@pebmarshcommunitypub.com> forwarding awaits verification by <pcpshareholder@gmail.com>; tell Kate if it lapses. #claude-action 🔽
