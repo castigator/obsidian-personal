@@ -15,8 +15,9 @@ Open action points for the pebmarsh (hosting) project. This note is the only lis
 - [ ] Parish Council: Shelley to send a council WordPress.com account email by Fri 27 Nov (Michael Sharp, the Chairman, said on 10 Nov she is arranging it). #claude-action ⏫ 📅 2026-11-27
 - [ ] Parish Council: transfer the site to the council before the plan renews on 4 Dec (Rupert won't renew). #claude-action ⏫ 📅 2026-12-04
 - [ ] Mailchimp Courtyard Stores: confirm the "Upgrade to restore sending" banner has cleared (about 105 contacts). #claude-action 🔼
-- [ ] PCP: Kate to confirm the admin email change (WPForms summaries still go from/to <admin@pcp.pebmarsh.com>; on 9 Nov she couldn't find the WordPress confirmation email, and on 10 Nov Rupert suggested checking spam); then check the form's notification Send To/From and whether to disable email summaries. Must be done before the pcp addresses go at the end of December. #claude-action 🔼
-- [ ] Tighten `_dmarc` from p=none to p=quarantine, if the Forward Email DMARC reports are clean (do the PCP WPForms fix first; still waiting on Kate as of 10 Nov). #claude-action 📅 2026-11-11
+- [x] PCP: admin email off admin@pcp.pebmarsh.com (Kate never confirmed; set to rupertthomas@gmail.com instead), WPForms notification From noreply@pebmarshcommunitypub.com / To pcpshareholder@gmail.com, email summaries disabled. #claude-action 🔼 ✅ 2026-11-11
+- [x] Tighten `_dmarc` from p=none to p=quarantine (Rupert, Cloudflare). #claude-action ✅ 2026-11-11
+- [ ] DMARC: check the Forward Email DMARC dashboard's Quarantined column for genuine mail; revert to p=none if anything real is caught. #claude-action 🔼 📅 2026-11-18
 - [ ] End of December: delete the pcp.pebmarsh.com Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. #claude-action 📅 2026-12-31
 - [ ] PCP: <chair@pebmarshcommunitypub.com> forwarding awaits verification by <pcpshareholder@gmail.com>; tell Kate if it lapses. #claude-action 🔽
 - [ ] Watch for DreamHost's closure confirmation and any further charge. #claude-action 🔽

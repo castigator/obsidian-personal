@@ -1,6 +1,9 @@
 ---
 tags:
   - hosting
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
+claude_sessions:
+  - "[[2026-11-10 pebmarsh 0c6dfdff]]"
 ---
 
 ## Hosting Email
@@ -93,7 +96,7 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 - **3 Nov 2026, later:** Rupert deleted rupert@ (after the WordPress admin emails moved to Gmail), jim@, linda@, daisy@ (doesn't send) and the 5 parishcouncil/pcp forwards. **Only heather@ remains at DreamHost**, for her sending until she switches Gmail. Mailbox contents of rupert@, daisy@, jim@, linda@ were dropped, not archived (Rupert's decision).
 - **Phase 4 done (3 Nov 2026):** Heather switched her Gmail send-as; Forward Email's outbound log shows heather@ sending through it 3 Nov 18:59. Lucy and Dylan don't send; Daisy deleted.
 - **Phase 8 done (4 Nov 2026):** Rupert deleted heather@ (the last DreamHost address; its 21 GB mailbox was not archived) in the DreamHost panel. In Cloudflare he deleted the apex `dreamhost._domainkey`, `_autodiscover._tcp` SRV, `autoconfig` CNAME, `mail` A and its 2 MailChannels MX, `mailboxes` and `webmail` A, plus `mysql.courtyardstores` (database gone). Apex and courtyardstores SPF are now `v=spf1 include:spf.forwardemail.net -all`. Forward Email re-verified both; all sites 200. **DreamHost now handles no pebmarsh.com mail.** parishcouncil and pcp SPF still include DreamHost while their WordPress sites send from it.
-- **Still to do:** after about a week of clean DMARC reports (Forward Email dashboard), tighten `_dmarc` from `p=none` to `p=quarantine` (around 11 Nov 2026).
+- **DMARC tightened (11 Nov 2026):** `_dmarc` changed from `p=none` to `p=quarantine` by Rupert in Cloudflare. No `sp=` tag, so it covers parishcouncil, courtyardstores and pcp too. The Forward Email DMARC dashboard (no API for it, and nothing clickable) showed failures only on 5–9 Nov, all matching senders since fixed: the Parish Council site on WordPress.com before its DKIM records (6 Nov), the PCP site's WPForms mail as admin@pcp.pebmarsh.com (fixed 11 Nov), and Courtyard Stores Mailchimp mail before domain authentication (9 Nov). The 11 Nov report was 6/6 pass. Reading the dashboard: "Pass Rate" is messages accepted, not DMARC passes; a message passes if SPF **or** DKIM is aligned. Check the Quarantined column around 18 Nov; reverting is one TXT edit.
 - **API key:** stored in `~/.config/pebmarsh/forwardemail-token` (mode 600) on the Mac; curl reads it via `-K <(printf …)` so it never appears on a command line.
 - Don't use Forward Email's "1-Click Setup": it would swap the MX records in one go.
 
