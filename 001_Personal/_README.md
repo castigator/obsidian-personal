@@ -1,5 +1,8 @@
 ---
 tags: [personal]
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
+claude_sessions:
+  - "[[2026-11-10 personal 36f11da7]]"
 ---
 
 ## Personal
@@ -28,8 +31,9 @@ home elsewhere, it goes here.
 
 ### History
 
-**Last checked (broad catch-all sweep):** 2026-10-29. Nothing new for Personal. Ignored: Heather's
-pebmarsh items (Wiltshire Farm Foods, AmaraHealth). No starred items since 20 Oct.
+**Last checked (broad catch-all sweep):** 2026-11-11. Nothing new for Personal. Ignored: Heather's
+pebmarsh items (Essex Wellbeing, TV Licensing, Amazon, Gmail), Rightmove promo. Flagged for divorce:
+HMCTS "Action required" (4 Nov, to Heather). Starred since 29 Oct: only the PCP pub-website reply (4 Nov).
 
 - 2026-09-08 — Section created. Migrated the Year-End Connect reference PDFs in from the old  
   `personal` git repo's `connects/` folder (they'd been sitting there unfiled).

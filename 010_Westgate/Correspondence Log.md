@@ -15,7 +15,7 @@ claude_sessions:
 
 ## Important and To Do
 
-**Last checked:** 2026-11-10
+**Last checked:** 2026-11-11
 **Search scope:** All Gmail (including archived) from 2025-06-01
 
 Maintained by `/refresh` each session — see the project's operational notes for how this is kept

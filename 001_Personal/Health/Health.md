@@ -1,5 +1,8 @@
 ---
 tags: [personal, health]
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
+claude_sessions:
+  - "[[2026-11-10 personal 36f11da7]]"
 ---
 
 ## Health
@@ -38,7 +41,7 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 ### Correspondence Log
 
-**Last checked:** 2026-10-29
+**Last checked:** 2026-11-11
 
 | Date | From | Subject | Key Content |
 |------|------|---------|--------------|

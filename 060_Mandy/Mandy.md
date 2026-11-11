@@ -33,4 +33,4 @@ To-dos live in [[Mandy Actions]].
 - 2026-09-15: Emails on January payment options, charge-out rates and an expenses checklist.
 - 2026-10-14: Business thread started: logo and first draft rate card.
 - 2026-11-08: 2025-26 return filed, with payments on account reduced to £814 each. Summary emailed to Mandy; she replied with thanks.
-- 2026-11-10: Project moved into Obsidian as `060_Mandy`.
+- 2026-11-10: Project moved into Obsidian as `060_Mandy`. HMRC app confirmed £4,166.02 due 31 Jan 2027 and £814 due 30 Jul 2027. Janet (a 2026-27 client who has since died) recorded; her income still to be added to the 2026-27 estimate.
