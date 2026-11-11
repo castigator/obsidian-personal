@@ -8,13 +8,15 @@ claude_sessions:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-12
+**Last checked:** 2026-11-11
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
-| 2026-11-12 | Rupert (sent) | Reply to Shelley, same thread: the account is enough, skip the domain step and buy nothing; Rupert will transfer to pebmarshparishclerk@gmail.com; accept the WordPress.com email (and an admin invitation if one comes first), check spam; plan renews 4 Dec so she'll be asked for payment (Personal, about £8 a month). | Rupert starting the transfer |
+| 2026-11-11 | Rupert (sent) | To Shelley, "Re: IMPORTANT: Parish Council website: hosting changes" (new thread, with the "Invitation sent" screenshot): transfer started, over to her; accept the WordPress.com invitation by Wed 18 Nov; check spam. | Wait for her to accept |
+| 2026-11-11 | WordPress.com | "[ parishcouncil.pebmarsh.com ] Confirmation needed to finish blog transfer" (16:34, to rupert@pebmarsh.com). Rupert authorised it; invitation sent to pebmarshparishclerk@gmail.com, expires 18 Nov. | Wait for Shelley to accept |
+| 2026-11-11 | Rupert (sent) | Reply to Shelley, same thread (16:28): the account is enough, skip the domain step and buy nothing; Rupert will transfer to pebmarshparishclerk@gmail.com; accept the WordPress.com email (and an admin invitation if one comes first), check spam; plan renews 4 Dec so she'll be asked for payment (Personal, about £8 a month). | Rupert starting the transfer |
 | 2026-11-11 | Shelley Boydell (Parish Clerk) | "Re: IMPORTANT: Parish Council website: hosting changes" (15:56): the council agreed to go ahead. She created a WordPress.com account with pebmarshparishclerk@gmail.com; signup now asks her to choose a domain, and she asks whether she needs to. | Reply: that's enough, skip the domain step and buy nothing; Rupert transfers the site to that account |
 | 2026-11-11 | WordPress (pebmarshcommunitypub.com) | "New Admin Email Address" (13:45, to rupertthomas@gmail.com) and "Admin Email Changed" (13:46, to the old admin@pcp address): Rupert's own change of the admin email to rupertthomas@gmail.com. The /refresh red-flag search missed the second (it searched "Admin Email Change"; Gmail matches whole words); query fixed. | None |
 | 2026-11-11 | Rupert (sent) | To Kate Stubbs, "Re: The PCP website is now on your WordPress.com site" (new thread): no need to find the confirmation email; the site's admin email now points at Rupert for now; it will be switched to her later, and she should look for an email from wordpress@pebmarshcommunitypub.com, subject "[Pebmarsh Community Pub Limited] New Admin Email Address" (screenshot included), and check spam. Form messages still go to pcpshareholder@gmail.com. | Later: switch the admin email to Kate |

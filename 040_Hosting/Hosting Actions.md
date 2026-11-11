@@ -13,8 +13,10 @@ Open action points for the pebmarsh (hosting) project. This note is the only lis
 ### Actions
 
 - [x] Parish Council: council WordPress.com account created by Shelley: pebmarshparishclerk@gmail.com (council agreed 11 Nov). #claude-action ⏫ ✅ 2026-11-11
-- [x] Parish Council: replied to Shelley: the account is enough, skip the domain step, watch for the transfer email. #claude-action ⏫ ✅ 2026-11-12
-- [ ] Parish Council: transfer the site to the council before the plan renews on 4 Dec (Rupert won't renew). #claude-action ⏫ 📅 2026-12-04
+- [x] Parish Council: replied to Shelley: the account is enough, skip the domain step, watch for the transfer email. #claude-action ⏫ ✅ 2026-11-11
+- [x] Parish Council: transfer started to pebmarshparishclerk@gmail.com (Rupert keeps admin access). #claude-action ⏫ ✅ 2026-11-11
+- [ ] Parish Council: Shelley to accept the transfer invitation (expires 18 Nov; if it lapses, start it again from Settings → Transfer site). #claude-action ⏫ 📅 2026-11-18
+- [ ] Parish Council: once accepted, send Shelley a short note (site and billing now the council's; Rupert stays admin and can be removed any time; address and login unchanged) and check a payment method is in place before the 4 Dec renewal. #claude-action 🔼 📅 2026-12-04
 - [ ] Mailchimp Courtyard Stores: confirm the "Upgrade to restore sending" banner has cleared (about 105 contacts). #claude-action 🔼
 - [x] PCP: admin email off admin@pcp.pebmarsh.com (Kate never confirmed; set to rupertthomas@gmail.com instead), WPForms notification From noreply@pebmarshcommunitypub.com / To pcpshareholder@gmail.com, email summaries disabled. #claude-action 🔼 ✅ 2026-11-11
 - [x] Tighten `_dmarc` from p=none to p=quarantine (Rupert, Cloudflare). #claude-action ✅ 2026-11-11

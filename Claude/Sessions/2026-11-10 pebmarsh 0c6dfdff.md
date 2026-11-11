@@ -17,6 +17,7 @@ resume: cd "/Users/rupert.thomas/workspace/gitlab/private/pebmarsh" && claude --
 - /close: councillors and the 10 Nov chase recorded in [[Site - Parish Council]]; PCP 9-10 Nov in [[Site - Pebmarsh Community Pub]]; [[Hosting]] and [[Hosting Actions]] updated; session log and CLAUDE.md status committed.
 - 11 Nov: PCP admin email moved to rupertthomas@gmail.com (pcpshareholder owns the domain, so no pub address), WPForms From/To fixed and summaries off; DMARC tightened to p=quarantine after reading the Forward Email reports; email to Kate drafted and sent; /refresh red-flag subjects fixed ("Admin Email Changed"). See [[Site - Pebmarsh Community Pub]], [[Hosting Email]].
 - 11 Nov, later: Forward Email subdomain DKIM/DMARC crosses explained as cosmetic in [[Hosting Email]]; p=reject reminder added to [[Hosting Actions]] for 2 Dec.
+- 11 Nov, afternoon: Shelley's council WordPress.com account; Parish Council transfer started (Shelley to accept by 18 Nov); two emails to Shelley drafted and sent. See [[Site - Parish Council]].
 
 ## Notes this session touched
 ```dataview
