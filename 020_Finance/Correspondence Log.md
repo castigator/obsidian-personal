@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-12 finance 97ec7114]]"
 ---
 # Correspondence Log
 
@@ -9,6 +10,8 @@ Finance-relevant emails (rate changes, offers, statements, loan documents),
 found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
+
+**2026-11-12 (second pass).** No new finance email (Barclaycard "Pay by Bank" notice to Heather, discarded). Divorce unchanged. Banktivity, routine: Main £520.16 (Tesco £16.40 and £40), Joint £47.59 (Tesco £35.98). See [[Accounts]].
 
 **2026-11-12.** No new finance email (one Barclays investing promo, discarded). Divorce's 11 Nov update is mortgage-only (out of scope here); shared-debt figures unchanged. Banktivity, routine: Main £576.56 (Swan, Long Melford), Joint £83.57 (Mandy +£50, Lidl £19.98). See [[Accounts]].
 
