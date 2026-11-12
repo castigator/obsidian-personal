@@ -82,9 +82,21 @@
               "icon": "lucide-file",
               "title": "Personal Actions"
             }
+          },
+          {
+            "id": "da1fc9ccfc1ad7ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -264,7 +276,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "074a9f882fda77b2",
+  "active": "da1fc9ccfc1ad7ce",
   "lastOpenFiles": [
     "Claude/Sessions/2026-11-12 finance 97ec7114.md",
     "Claude/Sessions/2026-11-12 divorce 1586e8f7.md",
