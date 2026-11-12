@@ -3,7 +3,7 @@ type: Claude Session
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 session_id: dfd038ee-b778-4de0-acee-349e98546764
 started: 2026-11-09
-last_active: 2026-11-11
+last_active: 2026-11-12
 resume: cd "/Users/rupert.thomas/workspace/gitlab/private/finance" && claude --resume dfd038ee-b778-4de0-acee-349e98546764
 ---
 #claude-session
@@ -22,6 +22,7 @@ resume: cd "/Users/rupert.thomas/workspace/gitlab/private/finance" && claude --r
 - 10 Nov: [[Claude Actions]]: "All Open, by Project" and "Done in the Last Two Weeks" are now collapsed callouts; only Urgent shows open.
 - 10 Nov: `sortspec.md` (custom-sort plugin) now puts any note ending in "Actions" first in the vault root and each top-level folder.
 - 11 Nov (resumed): `/refresh`. Main £604.86. Filed the Halifax base-rate email of 10 Nov (Heather's card rates rise with the base rate, no figure given); updated `Shared Debt.md`, `Accounts.md`, `Correspondence Log.md`, [[Finance Actions]].
+- 12 Nov: `/refresh`. Main £576.56, Joint £83.57; no new finance email; divorce change was mortgage-only.
 
 ### Notes This Session Touched
 ```dataview

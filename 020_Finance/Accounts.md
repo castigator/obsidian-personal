@@ -18,8 +18,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £604.86 | 2026-11-10 |
-| Starling - Joint | £53.55 | 2026-11-08 |
+| Starling - Main | £576.56 | 2026-11-11 |
+| Starling - Joint | £83.57 | 2026-11-11 |
 | Barclays - Current | £73.22 | 2026-11-04 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses  
@@ -538,6 +538,8 @@ is referenced elsewhere.
 **9–10 Nov 2026.** Main £649.51 → **£659.27**: "London" +£25 in, Amazon £3.49 (Prime Space still £16, not mis-paired), The Cavendish Five Bells £11.75 (9 Nov). **NatWest £300 DD went out 10 Nov** from the NatWest Credit Card Space (now £0), so the card is **-£681.08**. The SUM check agrees for all three.
 
 **10–11 Nov 2026, ordinary.** Main £659.27 → **£604.86**: Budgens £16.90, East of England Co-op £5.08, The Black Lion £4.86, £9.72 and £4.86, PayPal £12.99 (Streaming), all on 10 Nov. The ID Mobile pot paid iD Mobile £44.99 (11 Nov; pot now £0). The SUM check agrees. Nothing mis-paired.
+
+**11 Nov 2026, ordinary.** Main £604.86 → **£576.56**: Swan, Long Melford £12, £5.20 and £11.10. Joint £53.55 → **£83.57**: "Shopping" +£50 in (Mandy's usual reference), Lidl £19.98. The SUM check agrees for both. Nothing mis-paired.
 
 **Spare Funds → Main top-ups, 20–21 Sept 2026.** £33 (20 Sept) and £150  
 (21 Sept) moved from `Starling - Spare Funds` to `Starling - Main`, Spare  
