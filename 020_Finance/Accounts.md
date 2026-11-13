@@ -19,9 +19,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £520.16 | 2026-11-12 |
-| Starling - Joint | £47.59 | 2026-11-12 |
-| Barclays - Current | £73.22 | 2026-11-04 |
+| Starling - Main | £497.36 | 2026-11-12 |
+| Starling - Joint | £30.51 | 2026-11-12 |
+| Barclays - Current | £250.69 | 2026-11-13 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses  
 a single sort code across its personal accounts, so the account *number* is  
