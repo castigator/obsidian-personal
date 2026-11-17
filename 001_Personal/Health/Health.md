@@ -24,7 +24,7 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 - **GP:** The Elizabeth Courtauld Surgery, Factory Lane West, Halstead, CO9 1EX. Repeat  
   prescriptions requested via the practice's online form, monthly-ish cadence — most recent  
-  26 Oct 2026. How to fill the form in (details, items, steps): [[Repeat Prescriptions]].
+  17 Nov 2026 (all five items incl. Ventolin; ready ~20 Nov at Well Pharmacy in Tesco). How to fill the form in (details, items, steps): [[Repeat Prescriptions]].
 - **Medication review overdue:** the Aug 2026 repeat slip says a review must be booked before
   reordering; review was due 14 Oct 2026 for all items. Ventolin: book an asthma review if needed
   monthly (issues remaining -1). Ties in with the asthma-review chase above.
@@ -49,6 +49,7 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 | Date | From | Subject | Key Content |
 |------|------|---------|--------------|
+| 2026-11-17 | GP website forms (gpsurgery.net) | Rupert Thomas repeat prescription request | Submitted 17/11/2026 (Fostair, Lansoprazole orodispersible, Montelukast, Ramipril, Ventolin); ready to collect in 3 working days at Well Pharmacy in Tesco |
 | 2026-10-26 | GP website forms (gpsurgery.net) | Repeat prescription request | Submitted 26/10/2026, ready to collect in 3 working days |
 | 2026-10-14 | GP website forms (gpsurgery.net) | Repeat prescription request | Submitted 14/10/2026, ready to collect in 3 working days |
 | 2026-09-16 | OnlineClinic | Important information about your order | Generic "you have messages" notice. Content is only in the OnlineClinic Message Centre (not checked) |

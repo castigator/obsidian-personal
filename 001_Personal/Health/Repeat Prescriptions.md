@@ -37,7 +37,7 @@ How to order Rupert's repeat prescription from [[Health|The Elizabeth Courtauld 
 ## Steps
 
 1. Ask Rupert which items this time (default: items 1–4; Ventolin only if he says so).
-2. Fill the form in Claude in Chrome. Each item row appears as the previous one is typed.
+2. Fill the form in Claude in Chrome. Each item has three boxes: Item (name only), Strength, Quantity. The next item's boxes only appear once the previous Item box is typed into, so click and type the Item names (setting the value directly doesn't trigger the next row); Strength and Quantity can be set directly.
 3. Screenshot the completed form for Rupert. **Only press Submit when he says go.**
 4. Log the confirmation email in [[Health]]'s Correspondence Log.
 
