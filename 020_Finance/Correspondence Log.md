@@ -3,6 +3,8 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-12 finance 97ec7114]]"
+  - "[[2026-11-13 finance c0506440]]"
+  - "[[2026-11-16 finance 7e77b214]]"
 ---
 # Correspondence Log
 
@@ -11,7 +13,9 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**2026-11-13.** No new finance email. Divorce unchanged (still its 11 Nov status). Banktivity: **Barclays £250.69** after a £177.47 Roxor Gaming credit on 13 Nov (the same amount as the 6 Nov Ryanair charge on Main; Rupert confirmed it is the company's expense refund for that flight, paid to Barclays because the expense system had the wrong bank details, now fixed). **Second pass:** Rupert moved the £177.47 to Main the same day (txn 7971, "ERROR", both sides paired), so Barclays is back to £73.22 and **Main is £674.83**. Earlier Main spend: Hare Inn 2 × £11.40, Joint £30.51 (Long Melford £17.08). See [[Accounts]].
+**2026-11-16.** No new finance email. One routine notice: Tesco Bank said on 14 Nov that the Clubcard credit card (ending 2484) statement is online. The email has no figures, and the card is £0 with no promo, so it isn't filed. Divorce unchanged (still its 11 Nov status). Banktivity, routine: **Main £322.03** (13–15 Nov: Budgens £16.90, Black Lion, Netflix £7.99, Co-op £21.74, Long Melford Ex-Services, £100 to Joint, BP £59.67, and "Amazon Prime" £62.97, an Amazon purchase categorised as Household, not paired into the Prime Space). Joint £95.64 (+£100 from Main, Co-op £34.87). See [[Accounts]]. **Later, posted letter (scanned by Rupert):** [[2026-11-16_tesco-balance-transfer-letter]]. Tesco Clubcard's balance transfer offer is rolled forward: 0% to the Feb 2028 statement, 4.99% fee, for transfers requested by 4 Dec 2026. Tracker updated. (A second scan, RBS's 5 Nov letter on the One Account mortgage rate rising 0.25% from 14 Jan 2027, is mortgage business, so it's left to divorce.) **Second pass:** still no finance email (a Nectar savings promo and Heather's E.ON energy statement, both discarded; the ~16 Nov NatWest statement hasn't arrived yet). Banktivity unchanged since the first pass. Divorce's new 16 Nov status adds mortgage, subsidence and equity items only; shared-debt figures unchanged.
+
+**2026-11-13.** No new finance email. Divorce unchanged (still its 11 Nov status). Banktivity: **Barclays £250.69** after a £177.47 Roxor Gaming credit on 13 Nov (the same amount as the 6 Nov Ryanair charge on Main; Rupert confirmed it is the company's expense refund for that flight, paid to Barclays because the expense system had the wrong bank details, now fixed). **Second pass:** Rupert moved the £177.47 to Main the same day (txn 7971, "ERROR", both sides paired), so Barclays is back to £73.22 and **Main is £674.83**. Earlier Main spend: Hare Inn 2 × £11.40, Joint £30.51 (Long Melford £17.08). See [[Accounts]]. **Third pass:** still no finance email (Fibrely's upcoming £32.99 broadband DD notice is routine and matches the Broadband pot); Banktivity and divorce unchanged.
 
 **2026-11-12 (second pass).** No new finance email (Barclaycard "Pay by Bank" notice to Heather, discarded). Divorce unchanged. Banktivity, routine: Main £520.16 (Tesco £16.40 and £40), Joint £47.59 (Tesco £35.98). See [[Accounts]].
 

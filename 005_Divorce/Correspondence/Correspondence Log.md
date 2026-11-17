@@ -5,6 +5,8 @@ claude_sessions:
   - "[[2026-11-10 divorce b22784ec]]"
   - "[[2026-11-11 divorce 7f446e9b]]"
   - "[[2026-11-12 divorce 1586e8f7]]"
+  - "[[2026-11-13 divorce 1847605e]]"
+  - "[[2026-11-16 divorce 1847605e]]"
 ---
 # Correspondence
 
@@ -15,7 +17,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **12 Nov 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **16 Nov 2026** via direct
 Gmail API — see note below. Covering April 2024 – November 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -169,6 +171,7 @@ Subsidence claim timeline. Claim ref: **6843593K** / Policy ref: **S2520891** / 
 | 2026-09-07 | [ghg-august-crack-monitoring-report.md](subsidence/2026-09-07_ghg-august-crack-monitoring-report.md) 🔒H | **August 2026 crack readings.** Main (RH elevation) station **reversed and opened back up ~2.8–3.1mm** vs the June reading — taken shortly after vegetation removal, GHG treating as inconclusive. Front porch station stable. Repairs still gated on stability; **next reading Oct 2026** — pushes the "stability confirmed" milestone out at least one more cycle. |
 | 2026-10-07 | [ghg-october-monitoring-holding-update.md](subsidence/2026-10-07_ghg-october-monitoring-holding-update.md) 🔒H | Routine GHG holding letter: October crack readings due this month, report to follow. No new figures. |
 | 2026-11-10 | [rupert-chases-ghg-crack-monitoring.md](subsidence/2026-11-10_rupert-chases-ghg-crack-monitoring.md) | **Rupert chases GHG** (cc Heather) for the latest readings, report timing and repair timing, and asks to be copied directly from now on. Cites nothing from the 🔒H letters. |
+| 2026-11-14 | [ghg-reply-october-readings-delayed.md](subsidence/2026-11-14_ghg-reply-october-readings-delayed.md) | **GHG (Kim Salter) replies** to Rupert, cc Heather: October readings still not received from Subsidence Monitoring Ltd (chased 11 Nov). If stable, on to repairs; if still moving, monitoring extends. Full update promised to "you both", so Rupert is now copied directly. |
 
 `subsidence/attachments/legacy-download/` — a raw dump of .eml/PDF files from before the topical
 notes above existed (claim correspondence, blank letters, CCTV/SI reports). Not deduped against
@@ -239,6 +242,7 @@ Also filed directly in `heather/` (received 27 Apr 2026):
 - [2026-07-31_rbs-callback-transcript.md](rbs/2026-07-31_rbs-callback-transcript.md) — Transcript of the 31 Jul RBS callback (recording also kept: `2026-07-31_rbs-callback-recording.mp3`).
 - [2026-10-01_rbs-monthly-statement.pdf](rbs/2026-10-01_rbs-monthly-statement.pdf). September statement: balance −£309,748.40, still £1,380.40 over the £308,368 facility. £1,809.52 interest due 26 Oct. Detail in [[RBS Mortgage Notification]].
 - [2026-10-31_rbs-monthly-statement.pdf](rbs/2026-10-31_rbs-monthly-statement.pdf). October statement: balance −£309,795.87 (up £47.47, payments £1,762.05 < interest £1,809.52), **£1,427.87 over** the £308,368 facility (third month). £1,930.41 interest due 24 Nov (32-day period, rate still 7.10%). £181,600.69 behind guide; equity per RBS £80,204.13. Detail in [[RBS Mortgage Notification]].
+- [2026-11-05_rbs-one-account-rate-increase.pdf](rbs/2026-11-05_rbs-one-account-rate-increase.pdf). RBS letter (post, scanned 16 Nov, to both): after the 5 Nov base-rate rise, the One Account debit rate goes up 0.25%, **7.10% → 7.35% from 14 Jan 2027** (75.01–80% band). About +£65/mo interest. Detail in [[RBS Mortgage Notification]].
 
 ### [solicitors/](solicitors/)
 

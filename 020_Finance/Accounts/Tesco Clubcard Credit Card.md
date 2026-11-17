@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-13 finance c0506440]]"
 ---
 # Tesco Clubcard Credit Card
 
@@ -87,12 +88,13 @@ emergency cash option, not part of any 0% strategy.
 
 ## Balance transfer offer (recurring)
 
-- **Rate:** 0% interest on balance transfers until December 2027 statement
+- **Rate:** 0% interest on balance transfers until the **February 2028 statement**
 - **Fee:** 4.99% (min £5)
-- **Transfer window:** until 9 October 2026 (per most recent notice)
-- **Source:** recurring monthly email from Tesco Bank, most recently
-  2026-09-08 (see [[2026-07-20_tesco-balance-transfer-offer]]
-  for the prior instance — terms just roll forward monthly, no new entry filed)
+- **Transfer window:** until **4 December 2026** (per the November 2026 letter)
+- **Source:** recurring notice from Tesco Bank. The latest is a posted letter,
+  November 2026, scanned 16 Nov: [[2026-11-16_tesco-balance-transfer-letter]].
+  Earlier ones were emails, most recently 2026-09-08 (see
+  [[2026-07-20_tesco-balance-transfer-offer]]).
 - Moves debt *onto* this card from elsewhere — doesn't produce cash. See
   [[Paying Off 50% Shared Debt]] for why this isn't usable for
   the shared debt right now.

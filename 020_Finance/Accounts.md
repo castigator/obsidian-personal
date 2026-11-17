@@ -3,6 +3,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-12 finance 97ec7114]]"
+  - "[[2026-11-13 finance c0506440]]"
 ---
 ## Account Catalogue
 
@@ -19,8 +20,8 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £674.83 | 2026-11-13 |
-| Starling - Joint | £30.51 | 2026-11-12 |
+| Starling - Main | £322.03 | 2026-11-15 |
+| Starling - Joint | £95.64 | 2026-11-14 |
 | Barclays - Current | £73.22 | 2026-11-13 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses  

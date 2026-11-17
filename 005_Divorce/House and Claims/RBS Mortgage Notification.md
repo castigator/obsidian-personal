@@ -7,6 +7,7 @@ tags:
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-11 divorce 7f446e9b]]"
+  - "[[2026-11-16 divorce 1847605e]]"
 ---
 
 ## RBS Mortgage Notification
@@ -485,6 +486,38 @@ Statement dated 31 Oct 2026, covering 02/10/2026–30/10/2026. Filed:
 - Repayment guide: planned £128,195.18 vs actual £309,795.87 → **£181,600.69 behind guide**
   (still widening, from £181,553.22). RBS's suggested budget: £3,623.66 next month (£1,930.41
   interest + £1,693.25 to reduce the balance).
+
+### Rate rise letter — 7.10% → 7.35% from 14 Jan 2027 (letter 5 Nov, scanned 16 Nov 2026)
+
+RBS Mortgage Team letter dated 5 Nov 2026, to Mrs Heather Thomas and Mr Rupert Thomas, posted to
+Westgate. File: `Correspondence/rbs/2026-11-05_rbs-one-account-rate-increase.pdf`.
+
+- After the Bank of England base-rate rise on 5 Nov, the One Account **debit rate goes up 0.25%,
+  effective 14 Jan 2027**. Rates depend on the facility as a share of the home's value:
+
+| Facility vs home value | Previous | New |
+|---|---:|---:|
+| Up to 50% | 6.90% | 7.15% |
+| 50.01–75% | 7.00% | 7.25% |
+| **75.01–80% (ours)** | **7.10%** | **7.35%** |
+| 80.01–85% | 7.20% | 7.45% |
+| 85.01–90% | 7.35% | 7.60% |
+| 90.01–95% | 7.50% | 7.75% |
+| 95.01–100% | 7.75% | 8.00% |
+| In credit (RBS pays) | 0.40% | 0.40% |
+
+- **Our band:** the facility of £308,368 is 79.1% of RBS's £390,000 valuation, and the balance of £309,795.87 is
+  79.4%. Both fall in the 75.01–80% band, which matches the 7.10% on the statements. So the new rate is **7.35%**.
+- **Cost:** about £62.40 a day at 7.35%, against £60.30 at 7.10%, on the 30 Oct balance. That is roughly **+£65 a month**,
+  or about £1,995 for a 32-day period like October's (against £1,930.41). The January period is only
+  partly at the new rate. The first full month at 7.35% is February, collected in March.
+  These are estimates. Take the actual figure from the statements.
+- ⚠️ **The 80% line is close.** 80% of £390,000 is £312,000, only about £2,200 above the 30 Oct
+  balance. If the band follows the balance, not the agreed limit, continued under-payment would cross it. A lower RBS valuation, for
+  example one reflecting the subsidence, would do the same. Above 80% the rate is 7.45% (7.20% today). The letter
+  doesn't say whether "facility" means the agreed limit or the drawn balance.
+- No action needed from us. It's a notice, and the payment is auto-collected interest. Make sure the shared sheet's
+  mortgage line rises from the February/March collections.
 
 ### Related
 - [[House Sale]]

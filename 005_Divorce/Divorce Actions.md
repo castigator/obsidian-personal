@@ -6,6 +6,7 @@ claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-10 divorce b22784ec]]"
   - "[[2026-11-11 divorce 7f446e9b]]"
+  - "[[2026-11-16 divorce 1847605e]]"
 ---
 # Divorce Actions
 
@@ -29,13 +30,16 @@ Open action points for the divorce project. This note is the only list: the proj
 - [ ] **Ann's card statement figure** (~£646.51 is from Heather's spreadsheet). #claude-action
 - [ ] **Prudential:** Heather-trusteeship question, or wait for Alan's Q9 answer. #claude-action
 - [x] **Subsidence:** chase GHG for the October crack reading report. Sent 10 Nov (cc Heather), also asked to be copied directly. #claude-action ✅ 2026-11-10
-- [ ] **Subsidence:** await GHG's reply to the 10 Nov chaser and the October readings report; check they start copying Rupert. #claude-action
+- [x] **Subsidence:** await GHG's reply to the 10 Nov chaser; check they start copying Rupert. Replied 14 Nov, to Rupert directly (cc Heather). #claude-action ✅ 2026-11-16
+- [ ] **Subsidence:** await the October readings (delayed at Subsidence Monitoring Ltd) and GHG's full update with timescales, promised to both. If they show further movement, monitoring extends and repairs slip past Feb–Apr 2027. #claude-action
 - [ ] **November mortgage payment = £1,930.41** (RBS total interest, collected 24 Nov): make sure the November shared-sheet mortgage line covers it. October's payments fell £47.47 short, the balance rose, and the account is £1,427.87 over the facility. #claude-action ⏫ 📅 2026-11-24
-- [ ] **RBS November statement:** lead with the total interest; check whether the 10 Nov base-rate rise moved the One Account rate off 7.10%. #claude-action 🔼
+- [ ] **RBS November statement:** lead with the total interest. (Rate question answered: RBS letter of 5 Nov, 7.10% → 7.35% from 14 Jan 2027.) #claude-action 🔼
+- [ ] **RBS rate rise to 7.35% from 14 Jan 2027:** about +£65/mo interest. Raise the shared-sheet mortgage line from the Feb/Mar collections. The balance sits about £2,200 under the 80% band edge (7.45%). #claude-action 🔼 📅 2027-01-14
 - [ ] **Heather to call RBS** to register her contact details. #claude-action 🔽
 - [x] **Trees:** confirm the GHG completion photo was sent. #claude-action 🔽 ✅ 2026-11-10
 - [x] **Ellisons:** stand down once Alan's engagement completes. #claude-action 🔽 ✅ 2026-11-10
 - [x] Gmail filter for heather@pebmarsh.com (check still valid after the Forward Email move). #claude-action 🔽 ✅ 2026-11-10
+- [ ] **Gmail write access:** decide whether to add a separate `gmail.modify` token to `~/.claude-personal/gmail-api/` (one sign-in) so Claude can mark mail not-spam and label it. Offered 16 Nov after GHG's reply landed in Spam. #claude-action 🔽
 - [ ] **Git credentials** cleanup (`~/.git-credentials`); go-ahead needed. #claude-action 🔽
 - [x] **Personal:** book holidays for Lucy, Mark and Helen. #claude-action ✅ 2026-11-10
 - [ ] `House Sale.md` names the May 2026 £550k comparable as "1 Kings Mead". Ask Rupert which house it was. #claude-action 🔽

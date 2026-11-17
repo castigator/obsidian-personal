@@ -4,6 +4,9 @@ tags:
   - property
   - insurance
   - subsidence
+claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
+claude_sessions:
+  - "[[2026-11-16 divorce 1847605e]]"
 ---
 
 *Updated 7 September 2026*
@@ -104,6 +107,8 @@ Phone: 02380 622622
 | 7 Aug 2026 | Heather confirms to Rupert via WhatsApp ("Yup all sorted") — the 10 Aug visit went ahead as proposed. No monitoring report seen yet. |
 | 18 Aug 2026 | Payment standoff over the tree invoice — see above. |
 | 7 Sep 2026 | **August crack readings received** — main station reversed, opened ~2.8–3.1mm since June (post-tree-removal, GHG treating as inconclusive). Repairs still gated on stability; next reading Oct 2026. |
+| 10 Nov 2026 | Rupert chases GHG (cc Heather) for the October readings and asks to be copied directly. |
+| 14 Nov 2026 | **GHG replies to Rupert** (cc Heather): October readings still awaited from Subsidence Monitoring Ltd (chased 11 Nov). Stable → repairs; still moving → monitoring extends. Full update with timescales promised to both. [[2026-11-14_ghg-reply-october-readings-delayed]] |
 
 ## GHG action plan
 

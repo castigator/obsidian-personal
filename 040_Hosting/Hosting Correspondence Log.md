@@ -4,16 +4,21 @@ tags:
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
 claude_sessions:
   - "[[2026-11-10 pebmarsh 0c6dfdff]]"
+  - "[[2026-11-13 pebmarsh 5d0addd8]]"
 ---
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-12
+**Last checked:** 2026-11-16
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
 | Date | From | What | Action |
 |---|---|---|---|
+| 2026-11-16 | WordPress.com (Parish Council) | 10:46 "pebmarshparishclerk accepted your invitation" and "[Pebmarsh Parish Council] Admin Email Changed" (new admin email pebmarshparishclerk@gmail.com). Expected: Shelley's own changes. | None |
+| 2026-11-16 | Rupert (sent) | To Kate Stubbs, "RE: The PCP website is now on your WordPress.com site" (10:33): no need to apologise; encouragement; offered half an hour to go through the basics; switch the admin email to her whenever she's ready. | Wait for Kate |
+| 2026-11-16 | Shelley Boydell (Parish Clerk) / Rupert | "Re: IMPORTANT: Parish Council website: hosting changes". 10:34 Rupert sent a friendly reminder (invitation open until 18 Nov). 10:51 Shelley: "I think it's done, let me know if there is anything else I need to do." Confirmed: Billing → Active upgrades shows the Personal plan "Owned by a different user", renews 4 Dec, auto-renew on. | Done: 11:03 Rupert replied "Yes, it's done, nothing else to do" with the screenshot, the 4 Dec renewal and a check that a card is on the council account. Parish Council handover complete |
+| 2026-11-15 | Kate Stubbs (PCP) | "RE: The PCP website is now on your WordPress.com site": thanks for working around the confirmation email; she'll take time to upskill so she's more confident with the site. | None now. Admin email switch to Kate stays open (low priority) |
 | 2026-11-11 | Rupert (sent) | To Shelley, "Re: IMPORTANT: Parish Council website: hosting changes" (new thread, with the "Invitation sent" screenshot): transfer started, over to her; accept the WordPress.com invitation by Wed 18 Nov; check spam. | Wait for her to accept |
 | 2026-11-11 | WordPress.com | "[ parishcouncil.pebmarsh.com ] Confirmation needed to finish blog transfer" (16:34, to rupert@pebmarsh.com). Rupert authorised it; invitation sent to pebmarshparishclerk@gmail.com, expires 18 Nov. | Wait for Shelley to accept |
 | 2026-11-11 | Rupert (sent) | Reply to Shelley, same thread (16:28): the account is enough, skip the domain step and buy nothing; Rupert will transfer to pebmarshparishclerk@gmail.com; accept the WordPress.com email (and an admin invitation if one comes first), check spam; plan renews 4 Dec so she'll be asked for payment (Personal, about £8 a month). | Rupert starting the transfer |

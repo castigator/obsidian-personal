@@ -5,6 +5,7 @@ tags:
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
 claude_sessions:
   - "[[2026-11-10 pebmarsh 0c6dfdff]]"
+  - "[[2026-11-13 pebmarsh 5d0addd8]]"
 ---
 
 # Site - Pebmarsh Community Pub
@@ -18,6 +19,7 @@ Pebmarsh Community Pub Limited, a community benefit society. **On WordPress.com 
   - Still to do with it: WPForms notification Send To pcpshareholder@gmail.com (not `{admin_email}`, or submissions go to Rupert), From Email `noreply@pebmarshcommunitypub.com`, and Disable Email Summaries.
 - **pcp.pebmarsh.com retired (6 Nov 2026):** Rupert dropped the old address rather than redirect it. The static Worker `pcp` and the `pcp`/`www.pcp` records were deleted; the pebmarsh.com home page links to pebmarshcommunitypub.com. `ftp.pcp`, `ssh.pcp` and `mysql.pcp` deleted; the `pcpwp` database deleted (ticket 266285371); DreamHost closed the same day. The pcp Forward Email addresses (`chair@`, `admin@`, `rupert@`) and MX/TXT stay until the end of December, then go.
 - Kate was emailed 6 Nov ("The PCP website is now on your WordPress.com site").
+- 15 Nov: Kate thanked Rupert for working around the admin email confirmation and plans to upskill on the site. 16 Nov: Rupert offered half an hour to go through the basics, and to switch the admin email to her when she's ready.
 - **Everything below is history** (the static site of 4–6 Nov and the DreamHost WordPress).
 
 - **URL:** https://pcp.pebmarsh.com. About 1,200 visits a month.

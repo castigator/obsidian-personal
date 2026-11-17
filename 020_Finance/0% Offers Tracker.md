@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-13 finance c0506440]]"
 ---
 ## 0% Offers Tracker — Every Card, at a Glance
 
@@ -20,7 +21,9 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table  
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-11-02. **Heather moved £4,050 of the Halifax balance to a new Virgin Money card at 0% for 12 months (29 Oct).** The fee and new balances are unknown. Halifax's own 0% window closed on 31 Oct without being used. Before that, 2026-10-26: Heather says (24 Oct) she'll move the Halifax balance to a new 0% card herself, and she has asked Rupert to do the same for the Barclaycard (no card split; Rupert won't take on the Barclaycard without signed paperwork). Before that, 2026-10-16: Halifax (Heather's) BT/MT window still 31 Oct (15 Oct "ends soon" email),  
+**Last updated:** 2026-11-16. **Tesco Clubcard's BT offer rolled forward (Nov 2026 letter):** still 0% with a 4.99% fee, now running to the February 2028 statement, for transfers requested by 4 Dec 2026.
+
+**2026-11-02:** **Heather moved £4,050 of the Halifax balance to a new Virgin Money card at 0% for 12 months (29 Oct).** The fee and new balances are unknown. Halifax's own 0% window closed on 31 Oct without being used. Before that, 2026-10-26: Heather says (24 Oct) she'll move the Halifax balance to a new 0% card herself, and she has asked Rupert to do the same for the Barclaycard (no card split; Rupert won't take on the Barclaycard without signed paperwork). Before that, 2026-10-16: Halifax (Heather's) BT/MT window still 31 Oct (15 Oct "ends soon" email),  
 available up to £1,410 as at 12 Oct (was £1,233 on 27 Sept). Barclaycard's purchase-offer activation date  
 (30 Sept) has passed with no new offer email seen.
 
@@ -35,9 +38,9 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
-| NatWest Mastercard (…0354) | 🚨 **No live offer — 0% balance was repaid, not expired** | **26.436%** (2.203% monthly) on the whole balance | n/a | £8,744.89 available (limit £10,000, balance £1,255.11) | 🚨 **Now the most expensive live debt Rupert holds.** £52.55 interest charged 15 Sept. See [[NatWest Mastercard]] |
-| Tesco Clubcard (…2484) | Balance transfer *in* | 0% until Dec 2027 statement / 4.99% fee (min £5) | Request by 9 Oct 2026 (recurring monthly, likely to reappear) | ~£1,500.00 available credit (limit £1,500, balance £0.00 — fully settled 9 Sept, no pending collection, see [[Tesco Clubcard Credit Card]]) | **Available** — moves debt onto this card, doesn't produce cash |
-| M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £33.69 headroom only (limit £2,000, balance £1,966.31 — used 28 Jul for the Atkins Dellow payment) | Effectively maxed out until balance clears |
+| NatWest Mastercard (…0354) | 🚨 **No live offer — 0% balance was repaid, not expired** | **26.436%** (2.203% monthly) on the whole balance | n/a | £9,318.92 available (limit £10,000, balance £681.08 as of 10 Nov, Banktivity) | 🚨 **The most expensive live debt Rupert holds.** Being cleared by the £300/month DD (last paid 10 Nov). £52.55 interest charged 15 Sept. See [[NatWest Mastercard]] |
+| Tesco Clubcard (…2484) | Balance transfer *in* | 0% until **Feb 2028 statement** / 4.99% fee (min £5) | Request by **4 Dec 2026** (Nov 2026 letter, [[2026-11-16_tesco-balance-transfer-letter]]; recurring) | ~£1,500.00 available credit (limit £1,500, balance £0.00 as of 2 Nov, see [[Tesco Clubcard Credit Card]]) | **Available** — moves debt onto this card, doesn't produce cash |
+| M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £558.69 headroom (limit £2,000, balance £1,441.31 as of 2 Nov, Banktivity; used 28 Jul for the Atkins Dellow payment) | Headroom grows as the 0% balance is paid down at £175/month |
 | Capital One (…7498) | — | none current | — | £1,800 available (£0 balance) | No live offer; highest standard rate (30.34%) if a balance ever lands here |
 
 ### Shared-debt Cards (Heather's / Ann's — not Rupert's to Draw on Directly)
