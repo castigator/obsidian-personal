@@ -41,7 +41,7 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
 
 ### Correspondence Log
 
-**Last checked:** 2026-11-11
+**Last checked:** 2026-11-17
 
 | Date | From | Subject | Key Content |
 |------|------|---------|--------------|

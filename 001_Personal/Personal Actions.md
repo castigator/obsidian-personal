@@ -5,6 +5,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-10 personal 36f11da7]]"
+  - "[[2026-11-17 personal 4d00674c]]"
 ---
 # Personal Actions
 
@@ -16,6 +17,7 @@ Open action points for the personal project. This note is the only list: the pro
 - [ ] Gainsborough: watch the October claim through Concur audit review. #claude-action
 - [ ] Gainsborough: after the 28th DD, make the month's receipt (£130) from the template and claim the £50 wellness allowance in Concur. #claude-action 🔁 every month 📅 2026-11-28
 - [x] Chase the GP about the 8 Sep asthma review request (7 weeks without a reply on 27 Oct). #claude-action 🔼 ✅ 2026-11-10
+- [ ] Remote work exception: confirm Juan can see the edits to the business case and has submitted it (see [[Remote Work Exception]]). #claude-action
 - [ ] Christmas: buy Lucy's salmon. #claude-action
 - [ ] Christmas: decide Mandy and Dad's Christmas Day main. #claude-action
 - [ ] Christmas: plan sides, pudding and Christmas Eve supper. #claude-action

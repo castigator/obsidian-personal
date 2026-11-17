@@ -17,6 +17,9 @@ home elsewhere, it goes here.
 
 - **Work/** — work-related admin that isn't Aristocrat-role-content itself (see the `aristocrat`  
   memory for role/workstream context) — process paperwork, HR admin, that kind of thing.
+  - [[Remote Work Exception]] — the All Flex business case to restore Remote status after the
+    unexplained switch to Hybrid on 1 Oct 2026 (final wording, Workday background).
+  - [[Office Travel]] — commute time/cost analysis (Suffolk → Shell Mex House).
   - `Year-End Connect/` — Aristocrat's year-end performance review process: the official Workday  
     form guide, employee guide, FAQs, performance-conversations guide, and questions doc.
 - **Health/** — see [[Health]]. Doctors, appointments, prescriptions, referrals, test results,  
@@ -31,10 +34,12 @@ home elsewhere, it goes here.
 
 ### History
 
-**Last checked (broad catch-all sweep):** 2026-11-11. Nothing new for Personal. Ignored: Heather's
-pebmarsh items (Essex Wellbeing, TV Licensing, Amazon, Gmail), Rightmove promo. Flagged for divorce:
-HMCTS "Action required" (4 Nov, to Heather). Starred since 29 Oct: only the PCP pub-website reply (4 Nov).
+**Last checked (broad catch-all sweep):** 2026-11-17. Nothing new to file. Ignored: Heather's
+pebmarsh items (RAC, Anglian Water, SMARTY, Essex Wellbeing), Domino's. Noted: Urban Jungle contents
+insurance auto-renews £5.30 on 21 Nov (routine). No starred mail since 10 Nov.
 
+- 2026-11-17 — Added [[Remote Work Exception]] under Work/: business case filled in on Juan's
+  SharePoint doc via Claude in Chrome; awaiting Juan's confirmation.
 - 2026-09-08 — Section created. Migrated the Year-End Connect reference PDFs in from the old  
   `personal` git repo's `connects/` folder (they'd been sitting there unfiled).
 - 2026-09-08 — Added `Health/` area for doctors/appointments/prescriptions.
