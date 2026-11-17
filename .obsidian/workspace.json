@@ -87,12 +87,14 @@
             "id": "da1fc9ccfc1ad7ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "001_Personal/Work/Office Travel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file",
+              "title": "Office Travel"
             }
           }
         ],
