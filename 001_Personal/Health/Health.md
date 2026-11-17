@@ -3,6 +3,7 @@ tags: [personal, health]
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/personal
 claude_sessions:
   - "[[2026-11-10 personal 36f11da7]]"
+  - "[[2026-11-17 personal 4d00674c]]"
 ---
 
 ## Health
@@ -17,13 +18,16 @@ results, and any correspondence with GP/practice/hospitals/private online pharma
   Prompted by Chemist4U's healthcare professional (2 Sep) flagging that annual GP asthma review is  
   overdue and that their private service won't keep supplying more than one reliever inhaler every  
   3 months without it.
-  **As of 21 Oct, no reply in Gmail from the practice or Accurx, more than 6 weeks on. Chase it.**
+  **Chased by Rupert 10 Nov; still no reply in Gmail as of 17 Nov.**
 
 ### Current
 
 - **GP:** The Elizabeth Courtauld Surgery, Factory Lane West, Halstead, CO9 1EX. Repeat  
-  prescriptions requested via the practice's online form (Accurx-powered), monthly-ish cadence —  
-  most recent 14 Oct 2026.
+  prescriptions requested via the practice's online form, monthly-ish cadence — most recent  
+  26 Oct 2026. How to fill the form in (details, items, steps): [[Repeat Prescriptions]].
+- **Medication review overdue:** the Aug 2026 repeat slip says a review must be booked before
+  reordering; review was due 14 Oct 2026 for all items. Ventolin: book an asthma review if needed
+  monthly (issues remaining -1). Ties in with the asthma-review chase above.
 - **Smoking cessation (Varenicline/Champix, private):** ordered via OnlineClinic  
   (onlineclinic.co.uk), maintenance pack (1mg, 28 tablets, £44.99), roughly monthly since at least  
   Jan 2026. Most recent order 8 Sep 2026 (#2252230741), approved and dispatched 9 Sep. See also  
