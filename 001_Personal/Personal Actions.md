@@ -17,6 +17,8 @@ Open action points for the personal project. This note is the only list: the pro
 - [ ] Gainsborough: watch the October claim through Concur audit review. #claude-action
 - [ ] Gainsborough: after the 28th DD, make the month's receipt (£130) from the template and claim the £50 wellness allowance in Concur. #claude-action 🔁 every month 📅 2026-11-28
 - [x] Chase the GP about the 8 Sep asthma review request (7 weeks without a reply on 27 Oct). #claude-action 🔼 ✅ 2026-11-10
+- [ ] Health: collect the repeat prescription (all five items incl. Ventolin) from Well Pharmacy in Tesco, Weavers Court. #claude-action 📅 2026-11-20
+- [ ] Health: book the overdue medication/asthma review with the GP (review was due 14 Oct; the surgery may hold repeats until it's booked). #claude-action 🔼
 - [ ] Remote work exception: confirm Juan can see the edits to the business case and has submitted it (see [[Remote Work Exception]]). #claude-action
 - [ ] Christmas: buy Lucy's salmon. #claude-action
 - [ ] Christmas: decide Mandy and Dad's Christmas Day main. #claude-action
