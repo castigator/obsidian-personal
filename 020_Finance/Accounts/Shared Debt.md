@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-16 finance 7e77b214]]"
 ---
 # Shared Debt
 
@@ -128,12 +129,12 @@ rate remains unknown.
 - **Fee, limit, minimum payment:** unknown
 - **Status:** Heather's card. This is the move she said she'd make on 24 Oct. Rupert still won't BT the Barclaycard without signed paperwork.
 
-### Halifax (Heather's card, ending 3123) — balance/money transfer, 0% for 12 months (window closed 31 Oct 2026, not used; Heather went to Virgin instead)
-- **Source:** recurring marketing email from Halifax, most recent 15 Oct 2026 ("ends soon")
-- **Rate:** 0.00% for 12 months on transfers
-- **Fee:** 5% of amount transferred
-- **Transfer window:** must request by 31 October 2026 (rolled forward again from 30 Sept)
-- **Credit limit:** £7,500; **available:** £1,410 (as at 12 Oct 2026, implies
+### Halifax (Heather's card, ending 3123) — balance/money transfer offers, window to 30 Nov 2026 (31 Oct window closed unused)
+- **Source:** recurring marketing email, most recent 17 Nov 2026 ("your 0% transfer offers end soon"), now sent as **Lloyds** (Halifax brand changing to Lloyds; the card stays a Halifax product)
+- **Offers (balance transfers and money transfers alike):** 0% for 12 months with a 5% fee, **or** 5.9% for 30 months with no fee
+- **Transfer window:** must request by 30 November 2026 (the 31 Oct window closed unused)
+- **Available (17 Nov email):** **£1,472 available as at 11 Nov** (Lloyds-branded email, 17 Nov). On a £7,500 limit that is a balance of about £6,027.88, exactly the October statement (£6,205.97) less the £178.09 paid 2 Nov, so the £4,050 Virgin transfer had **not** come off Halifax by 11 Nov (if the limit is unchanged). Confirm from the November statement.
+- **Credit limit:** £7,500; **previously available:** £1,410 (as at 12 Oct 2026, implies
   balance ≈ £6,090, after the £176.37 payment on 3 Oct). Previously £1,233 as at
   27 Sept, £1,169 as at 24 Aug
 - **Status:** Heather's card, Heather's decision — Rupert can't action this

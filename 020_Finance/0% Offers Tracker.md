@@ -3,6 +3,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-13 finance c0506440]]"
+  - "[[2026-11-16 finance 7e77b214]]"
 ---
 ## 0% Offers Tracker — Every Card, at a Glance
 
@@ -21,7 +22,9 @@ Detail behind each row lives in the account's own note
 [[NatWest Mastercard]], [[Capital One]], [[Shared Debt]]) — this table  
 just aggregates so nothing has to be reassembled at decision time.
 
-**Last updated:** 2026-11-16. **Tesco Clubcard's BT offer rolled forward (Nov 2026 letter):** still 0% with a 4.99% fee, now running to the February 2028 statement, for transfers requested by 4 Dec 2026.
+**Last updated:** 2026-11-17. **Halifax (Heather's, …3123) has a new transfer window to 30 Nov 2026** (now emailing as Lloyds; the card stays Halifax): BT and MT each at 0% for 12 months with a 5% fee, or 5.9% for 30 months with no fee. **£1,472 available as at 11 Nov** (Lloyds-branded email, 17 Nov). On a £7,500 limit that is a balance of about £6,027.88, exactly the October statement (£6,205.97) less the £178.09 paid 2 Nov, so the £4,050 Virgin transfer had **not** come off Halifax by 11 Nov (if the limit is unchanged). Confirm from the November statement.
+
+**2026-11-16.** **Tesco Clubcard's BT offer rolled forward (Nov 2026 letter):** still 0% with a 4.99% fee, now running to the February 2028 statement, for transfers requested by 4 Dec 2026.
 
 **2026-11-02:** **Heather moved £4,050 of the Halifax balance to a new Virgin Money card at 0% for 12 months (29 Oct).** The fee and new balances are unknown. Halifax's own 0% window closed on 31 Oct without being used. Before that, 2026-10-26: Heather says (24 Oct) she'll move the Halifax balance to a new 0% card herself, and she has asked Rupert to do the same for the Barclaycard (no card split; Rupert won't take on the Barclaycard without signed paperwork). Before that, 2026-10-16: Halifax (Heather's) BT/MT window still 31 Oct (15 Oct "ends soon" email),  
 available up to £1,410 as at 12 Oct (was £1,233 on 27 Sept). Barclaycard's purchase-offer activation date  
@@ -48,7 +51,7 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 | Card | Type | Rate / Fee | Window | Available capacity | Status |
 |---|---|---|---|---|---|
 | Virgin Money (Heather's, new) 🆕 | Balance transfer *in* (used) | 0% for 12mo / fee unknown | Taken 29 Oct 2026, so it runs to about Oct/Nov 2027 | £4,050 transferred from Halifax; limit and balance unknown | **Live.** Heather's card; figures still needed. See [[Shared Debt]] |
-| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee | ~~31 Oct 2026~~ **closed** | n/a | Window closed unused. Heather moved £4,050 *off* Halifax to Virgin instead. Standard rate rises 19 Nov. See [[Shared Debt]] |
+| Halifax (Heather's, …3123) | Balance/money transfer *in* | 0% for 12mo / 5% fee, **or** 5.9% for 30mo / no fee (BT and MT alike) | **30 Nov 2026** (new window; 31 Oct one closed unused) | £1,472 as at 11 Nov | **Live.** Heather's decision. Available credit suggests the £4,050 Virgin move hadn't left Halifax by 11 Nov. Standard rate rises 19 Nov. See [[Shared Debt]] |
 | Barclaycard (Heather's, …5002) | Purchases only (not BT/MT) | 0% / no fee | Activate by 30 Sept 2026 in-app; runs to 1 Apr 2027 | £6,275.76 available (limit £13,550) — as at 20 Jul, not re-confirmed this offer | Rolled forward 4 Sept 2026 — see [[Shared Debt]] |
 | Barclaycard (Ann's) | — | none known | — | not tracked | Never surfaced by email search |
 
