@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/divorce
 claude_sessions:
   - "[[2026-11-09 divorce 169539ce]]"
+  - "[[2026-11-18 divorce 23f39b55]]"
 ---
 # WhatsApp transcript — Rupert & Heather (verbatim)
 
@@ -2786,6 +2787,25 @@ I'm also working through what the different splits would mean for housing for bo
 **Rupert:** *(16:53 ✓✓)* "Maybe let me have your figures and I'll fold them in?"
 
 `[Source: whatsapp-images/2026-11-09_whatsapp-1653-fold-in-figures.png, taken 9 Nov (Heather last seen today 16:51). In this screenshot the 16:47 message shows blue ticks (read). Last message as of this screenshot.]`
+
+
+**Heather:** *(18:00)* "Not hugely productive but a starting point - we both needed to vent a bit - my figures I worked on were £550k for house sale but will change to be 2 years  & send them through plus I will get updated pension values if not gonna cost me loads of money ?! Will investigate"
+
+`[Source: whatsapp-images/2026-11-18_whatsapp-0909-1800-to-1116-1807-figures-mortgage.png, taken 18 Nov (Heather last seen today 12:38). No day divider between 16:53 and 18:00, so 18:00 is Mon 9 Nov. In this screenshot the 16:47 and 16:53 messages show blue ticks (read). Double space before "&" is as shown.]`
+
+### Fri 13 Nov 2026 *(shown as "Friday")*
+
+**Rupert:** *(11:30 ✓✓)* "I'm sure you'll be wondering, but work mistakenly paid my flight expenses to the Barclays account (£177.47). I pulled it back..."
+
+`[The message ends "..." as shown; no "Read more" link is visible, so this is taken to be the full text.]`
+
+**Heather:** *(11:50)* "Yup I figured you 'd sort it"
+
+### Mon 16 Nov 2026 *(shown as "Monday")*
+
+**Heather:** *(18:07)* "Just looking at the figures - you've put mortgage @ £309,748 but redemption value is £ 311, 600  ish"
+
+`[Same screenshot. Last message as of this screenshot (18 Nov). No messages between 13 Nov 11:50 and 16 Nov 18:07 are shown.]`
 
 ---
 
