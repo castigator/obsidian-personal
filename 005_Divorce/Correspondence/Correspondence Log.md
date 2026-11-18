@@ -235,6 +235,7 @@ Also filed directly in `heather/` (received 27 Apr 2026):
   available in the HL portal. No figure in the email itself. Found via a manual search outside the
   standard `/refresh` sender list — **HL wasn't in that list at all**, now added.
 - [2026-09-09_hl-group-sipp-annual-statement.md](pensions/2026-09-09_hl-group-sipp-annual-statement.md)
+- [2026-11-17_hl-group-sipp-autumn-investment-report.md](pensions/2026-11-17_hl-group-sipp-autumn-investment-report.md) — HL autumn report: **£84,553 at 31 Oct** (down £1,535 on the 31 Aug £86,088.36); no contributions or withdrawals, a monthly fund switch only. PDF filed alongside.
   (+ downloaded PDF) — ✅ **Gamesys/Roxor CETV updated: £86,088.36** (formal Annual Statement,
   effective 31 Aug 2026) — supersedes the 18 Aug portfolio-pull figure of £86,430.51 (−£342.15,
   ordinary market drift). Running pension total revised to £220,787.88.
