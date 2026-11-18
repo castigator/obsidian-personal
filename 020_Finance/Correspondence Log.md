@@ -5,6 +5,7 @@ claude_sessions:
   - "[[2026-11-12 finance 97ec7114]]"
   - "[[2026-11-13 finance c0506440]]"
   - "[[2026-11-16 finance 7e77b214]]"
+  - "[[2026-11-18 finance b010d7f2]]"
 ---
 # Correspondence Log
 
@@ -12,6 +13,8 @@ Finance-relevant emails (rate changes, offers, statements, loan documents),
 found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
+
+**2026-11-18.** Two statement notices, no figures in either. (1) [[2026-11-16_natwest-statement-ready]]: NatWest's 16 Nov statement for card 0354 is ready. Banktivity shows **£20.51 interest**, so the card is **-£701.59**. Rupert downloaded the PDF later the same day: matches Banktivity, whole balance at 26.436%, **minimum £42.02 due 11 Dec, next £300 DD 11 Dec**, estimated interest next month £15.06. (2) **Halifax to Heather, 17 Nov:** the November statement for card 3123 is ready, next payment due **11 Dec 2026**. It should show the new standard rate and whether the £4,050 Virgin move has come off; needs Heather. Noted in [[Shared Debt]], not filed separately. Discarded: Barclays "Click to Pay" (both cards) and the Lloyds/Halifax 0% offer already logged on 17 Nov. Divorce unchanged (still its 16 Nov status). Banktivity, routine: **Main £177.16** (Co-op £26.74, Grover & Allen, Domino's £17.50, Tesco £16.40 and £12.95, Hhc * Oc Uk £44.99 categorised Medical/Healthcare, Five Bells £10.75, PayPal £6.99 Streaming), **Joint £20.74** (Tesco £74.90). No Amazon mis-pairing. See [[Accounts]].
 
 **2026-11-17.** One offer email, not filed (recurring marketing): **Halifax, sent as Lloyds on 17 Nov, to Heather.** Her card (…3123) has a new transfer window to **30 Nov 2026**: balance and money transfers at 0% for 12 months with a 5% fee, or 5.9% for 30 months with no fee. £1,472 available as at 11 Nov. That implies a balance of about £6,027.88 (October statement less the 2 Nov £178.09 payment), so the £4,050 Virgin move hadn't come off Halifax by 11 Nov. [[0% Offers Tracker]] and [[Shared Debt]] updated. Discarded: Barclays "Click to Pay" notices (Rupert's card 9160, Heather's 3025) and a Nectar savings promo. Divorce unchanged (still its 16 Nov status). Banktivity unchanged since 16 Nov (Main £322.03, Joint £95.64). The ~16 Nov NatWest statement hasn't arrived by email yet.
 

@@ -3,6 +3,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-16 finance 7e77b214]]"
+  - "[[2026-11-18 finance b010d7f2]]"
 ---
 # Shared Debt
 
@@ -92,6 +93,8 @@ The two positive "Anne" entries from the original spreadsheet (£3,300 and
 [[Loans from Anne]], not part of the shared debt.
 
 ## Offers (on the cards themselves — not Rupert's to draw on, but relevant to shared-debt strategy; see [[0% Offers Tracker]] for the consolidated view across every card)
+
+**📩 17 Nov 2026: Halifax's November statement is ready** (Heather's digital inbox; the email has no figures). The next payment is due **11 Dec 2026**. This is the statement to get from Heather: it should show the new standard rate (rise from 19 Nov), whether the £4,050 Virgin transfer has come off, and the new minimum.
 
 **📩 10 Nov 2026: the base rate rose from 3.75% to 4.00%, and Halifax says the card's standard rates rise with it** (see [[2026-11-10_halifax-base-rate-increase]]). The email gives no new rate (October: 21.422%/23.66%), and doesn't say whether it is the same change as the 19 Nov rise below. The November statement is still the one to get.
 

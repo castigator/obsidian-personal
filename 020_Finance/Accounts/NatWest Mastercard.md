@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-18 finance b010d7f2]]"
 ---
 # NatWest Mastercard
 
@@ -11,7 +12,8 @@ claude_sessions:
   [[2026-02-16_natwest-balance-transfer-card-opened]]
 - **Card number:** **** 0354
 - **Credit limit:** £10,000.00
-- **Latest (Banktivity, 10 Nov 2026):** **-£681.08**, after the £300 November DD (10 Nov, paid from the `Starling - NatWest Credit Card` Space, now £0). The ~16 Nov statement will add another month's interest at 26.436%.
+- **Latest (Banktivity, 16 Nov 2026):** **-£701.59**, confirmed by the **16 Nov 2026 statement** ([[2026-11-16_natwest-0354-statement.pdf]]), matching Banktivity exactly. £981.08 brought forward, less the £300 DD on 10 Nov, plus **£20.51 interest**. SUMMARY OF BALANCES: the whole £701.59 is Purchases at **26.436%** (2.203% monthly), no promo balance. **Minimum £42.02, due 11 Dec 2026.** **Next £300 DD: 11 Dec 2026** (leaves about £401.59 before the next interest). NatWest estimates next month's interest at **£15.06** if only the minimum is paid by the due date. See [[2026-11-16_natwest-statement-ready]].
+- **Previous (Banktivity, 10 Nov 2026):** -£681.08, after the £300 November DD (10 Nov, paid from the `Starling - NatWest Credit Card` Space, now £0).
 - **Previous (Banktivity, 16 Oct 2026):** -£981.08, after £25.97 of interest on the 16 Oct statement (NatWest had estimated £26.81). Before that it was -£955.11 after the £300 DD on 12 Oct. The statement PDF hasn't been seen (the email carries no figures), so the minimum and the next DD date haven't been confirmed. See [[2026-10-17_natwest-statement-ready]].
 - **Balance:** **-£1,255.11** — confirmed by the **16 Sept 2026 statement**
   ([[2026-09-16_natwest-0354-statement.pdf]]), matching Banktivity exactly.

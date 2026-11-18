@@ -4,6 +4,7 @@ project: finance
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-18 finance b010d7f2]]"
 ---
 # Finance Actions
 
@@ -13,7 +14,8 @@ Open action points for the finance project. This note is the only list: the proj
 
 - [ ] Get the new Halifax standard rate (from 19 Nov 2026; Halifax said on 10 Nov it also follows the base-rate rise to 4.00%); needs Heather's November statement #claude-action ⏫
 - [ ] Virgin/Halifax figures: BT fee, Virgin and Halifax balances, new minimums; may change November servicing (via divorce/Heather) #claude-action 🔼
-- [ ] Read the ~16 Nov NatWest statement PDF: minimum, interest, next £300 DD date (last DD paid 10 Nov) #claude-action 🔼 📅 2026-11-18
+- [x] Read the ~16 Nov NatWest statement PDF: minimum, interest, next £300 DD date (last DD paid 10 Nov) #claude-action 🔼 📅 2026-11-18 ✅ 2026-11-18
+- [ ] Check the NatWest Space is refilled with £300 before the 11 Dec DD; then read the ~16 Dec statement #claude-action 📅 2026-12-10
 - [ ] Check the 2 Nov transfers against the November sheet #claude-action
 - [ ] Ann's card figure: confirm ~£646.51 once Heather hears from her parents (via divorce) #claude-action
 - [ ] Shared-sheet servicing: revisit if they move to a straight split (mediation route) #claude-action 🔽
