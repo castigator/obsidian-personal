@@ -7,6 +7,7 @@ claude_sessions:
   - "[[2026-11-12 divorce 1586e8f7]]"
   - "[[2026-11-13 divorce 1847605e]]"
   - "[[2026-11-16 divorce 1847605e]]"
+  - "[[2026-11-18 divorce 23f39b55]]"
 ---
 # Correspondence
 
@@ -17,7 +18,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **16 Nov 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **18 Nov 2026** via direct
 Gmail API — see note below. Covering April 2024 – November 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -143,6 +144,8 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-10-26 | [whatsapp-salary-ann-card-october-sheet.md](heather/2026-10-26_whatsapp-salary-ann-card-october-sheet.md) | **WhatsApp 15:31–17:05.** Heather: salary now **£23,034 gross / £1,587.46 net** (was £21,715 / ~£1,471); no updated pension values. **Ann's card ~£646.51** (her spreadsheet, not a statement; was £1,409). Halifax and Barclaycard Oct statements resent (same as 24 Oct). Rupert's final October sheet: **£2,958.13, Rupert £2,366.50 / Heather £591.63** (Halifax min £178.09; Lucy Food now in the per-person totals). Joint debt now ~£22,703. |
 | 2026-11-04 | [hmcts-conditional-order-can-apply.md](heather/2026-11-04_hmcts-conditional-order-can-apply.md) | **HMCTS: can now apply for the Conditional Order** (case 1780-7415-8911-6303). Joint application, so Heather must apply too. Account goes inactive after 90 days without login. |
 | 2026-11-10 | [halifax-base-rate-increase_LOCKH.md](heather/2026-11-10_halifax-base-rate-increase_LOCKH.md) 🔒H | Halifax: base rate 3.75% → 4.00%, so card 3123's **standard rates have risen**; no new rate given. Likely the 19 Nov rise already tracked. Get the rate from the November statement via Heather. |
+| 2026-11-16 | [heather-forwards-equity-sheet-to-work_LOCKH.md](heather/2026-11-16_heather-forwards-equity-sheet-to-work_LOCKH.md) 🔒H | Heather emails Rupert's **equity split sheet** from her Gmail to her pebmarsh mailbox, no message. **Identical to Rupert's copy, unedited** (diffed 18 Nov). Not her "figure work". Signal only. |
+| 2026-11-17 | (not filed; see finance's Shared Debt note) 🔒H | Halifax **November statement ready** (3123), no figures; next payment due **11 Dec**. Should show the new standard rate and whether the £4,050 Virgin move came off. Same day: Lloyds-branded 0% offer to **30 Nov**, £1,472 available at 11 Nov, implying the Virgin move hadn't come off by then. |
 
 ### [subsidence/](subsidence/)
 
