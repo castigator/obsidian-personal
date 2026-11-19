@@ -7,6 +7,7 @@ claude_sessions:
   - "[[2026-11-16 finance 7e77b214]]"
   - "[[2026-11-18 finance b010d7f2]]"
   - "[[2026-11-18 finance 4367b86c]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 # Correspondence Log
 
@@ -15,7 +16,7 @@ found and filed by `/refresh`. Mortgage/divorce-related correspondence lives
 in the sibling `divorce` project instead — not duplicated here. Individual
 entries live in `Correspondence/`.
 
-**2026-11-19.** No new finance email (a Spotify promo, discarded). Divorce unchanged (still its 16 Nov status). Banktivity: **Amazon refund +£49.99 to Main, 18 Nov** (AMAZON* BB1394HJ4, categorised Gifts like the purchase, not paired into the Prime Space). Amazon's 18 Nov email: a refund for one JAJALUYA office chair (order 203-7859566-3020312, BEIXI-Store), reason "item not received". **Main £250.40** (Roxor Gaming +£50, Black Lion 2 × £10.57, Cloud £7.61, Tesco +£2). **Barclays £32.65** (HomeServe £40.57). Broadband pot paid Fibrely £32.99 (now £0). See [[Accounts]].
+**2026-11-19.** No new finance email (a Spotify promo, discarded). Divorce unchanged (still its 16 Nov status). Banktivity: **Amazon refund +£49.99 to Main, 18 Nov** (AMAZON* BB1394HJ4, categorised Gifts like the purchase, not paired into the Prime Space). Amazon's 18 Nov email: a refund for one JAJALUYA office chair (order 203-7859566-3020312, BEIXI-Store), reason "item not received". **Main £250.40** (Roxor Gaming +£50, Black Lion 2 × £10.57, Cloud £7.61, Tesco +£2). **Barclays £32.65** (HomeServe £40.57). Broadband pot paid Fibrely £32.99 (now £0). See [[Accounts]]. **Second pass (later 19 Nov):** still no finance email; Banktivity and divorce unchanged.
 
 **2026-11-18.** Two statement notices, no figures in either. (1) [[2026-11-16_natwest-statement-ready]]: NatWest's 16 Nov statement for card 0354 is ready. Banktivity shows **£20.51 interest**, so the card is **-£701.59**. Rupert downloaded the PDF later the same day: matches Banktivity, whole balance at 26.436%, **minimum £42.02 due 11 Dec, next £300 DD 11 Dec**, estimated interest next month £15.06. (2) **Halifax to Heather, 17 Nov:** the November statement for card 3123 is ready, next payment due **11 Dec 2026**. It should show the new standard rate and whether the £4,050 Virgin move has come off; needs Heather. Noted in [[Shared Debt]], not filed separately. Discarded: Barclays "Click to Pay" (both cards) and the Lloyds/Halifax 0% offer already logged on 17 Nov. Divorce unchanged (still its 16 Nov status). Banktivity, routine: **Main £177.16** (Co-op £26.74, Grover & Allen, Domino's £17.50, Tesco £16.40 and £12.95, Hhc * Oc Uk £44.99 categorised Medical/Healthcare, Five Bells £10.75, PayPal £6.99 Streaming), **Joint £20.74** (Tesco £74.90). No Amazon mis-pairing. See [[Accounts]].
 

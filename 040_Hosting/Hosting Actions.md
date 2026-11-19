@@ -6,6 +6,7 @@ claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-10 pebmarsh 0c6dfdff]]"
   - "[[2026-11-13 pebmarsh 5d0addd8]]"
+  - "[[2026-11-19 pebmarsh adf8362f]]"
 ---
 ## Hosting Actions
 
@@ -23,7 +24,7 @@ Open action points for the pebmarsh (hosting) project. This note is the only lis
 - [x] Tighten `_dmarc` from p=none to p=quarantine (Rupert, Cloudflare). #claude-action ✅ 2026-11-11
 - [ ] DMARC: check the Forward Email DMARC dashboard's Quarantined column for genuine mail; revert to p=none if anything real is caught. Early look 16 Nov: every pebmarsh.com report 11–16 Nov 100% pass, 0 quarantined (SPF 0% on Mailchimp rows is expected; DKIM aligned 100%); parishcouncil and courtyardstores have no reports (they send no mail). #claude-action 🔼 📅 2026-11-18
 - [ ] DMARC: consider tightening `_dmarc` from p=quarantine to p=reject (Forward Email's recommendation), if the 18 Nov check and the reports since are clean. Leave the subdomains' red DKIM/DMARC crosses in the Forward Email dashboard alone: they have no outbound sending, and the apex record covers them. #claude-action 🔽 📅 2026-12-02
-- [ ] PCP: switch the site's admin email from rupertthomas@gmail.com to Kate (she clicks the WordPress confirmation; example screenshot in [[Site - Pebmarsh Community Pub]]). 16 Nov: Kate plans to learn the site; Rupert offered half an hour to go through the basics. #claude-action 🔽
+- [ ] PCP: switch the site's admin email from rupertthomas@gmail.com to Kate (she clicks the WordPress confirmation; example screenshot in [[Site - Pebmarsh Community Pub]]). 16 Nov: Kate plans to learn the site; Rupert offered half an hour to go through the basics. 17 Nov: Kate will get in touch in the New Year (nothing before Christmas). #claude-action 🔽
 - [ ] End of December: delete the pcp.pebmarsh.com Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. #claude-action 📅 2026-12-31
 - [ ] PCP: <chair@pebmarshcommunitypub.com> forwarding awaits verification by <pcpshareholder@gmail.com>; tell Kate if it lapses. #claude-action 🔽
 - [ ] Watch for DreamHost's closure confirmation and any further charge. #claude-action 🔽
