@@ -5,6 +5,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-18 finance b010d7f2]]"
+  - "[[2026-11-18 finance 4367b86c]]"
 ---
 # Finance Actions
 
@@ -27,6 +28,7 @@ Open action points for the finance project. This note is the only list: the proj
 
 ## Decisions for Rupert
 
+- [ ] Amazon office chair: two £49.99 charges (31 Oct, 7 Nov) and two dispatch emails (2 Nov, 9 Nov), but only one refund so far (+£49.99 to Main 18 Nov, order 203-7859566-3020312, "item not received"). Did the other chair arrive? If not, chase Amazon for the second refund #claude-action 🔼
 - [ ] Capital One's fixed £100/month DD is on a dormant £0.00 card: switch it to "minimum"? #claude-action
 - [ ] Home Insurance £5.30 (Urban Jungle, 23 Oct) is filed under "Food Support" in Banktivity: re-categorise? #claude-action 🔽
 - [ ] 67 older daily notes still have the old "All Tasks" query, so they show `#claude-action` items: add `tags do not include #claude-action` to them too? (Template and 10 Nov note done.) #claude-action 🔽
