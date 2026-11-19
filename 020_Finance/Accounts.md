@@ -5,6 +5,7 @@ claude_sessions:
   - "[[2026-11-12 finance 97ec7114]]"
   - "[[2026-11-13 finance c0506440]]"
   - "[[2026-11-18 finance b010d7f2]]"
+  - "[[2026-11-18 finance 4367b86c]]"
 ---
 ## Account Catalogue
 
@@ -21,9 +22,9 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £177.16 | 2026-11-17 |
+| Starling - Main | £250.40 | 2026-11-19 |
 | Starling - Joint | £20.74 | 2026-11-17 |
-| Barclays - Current | £73.22 | 2026-11-13 |
+| Barclays - Current | £32.65 | 2026-11-19 |
 
 **Starling account identification (confirmed 17 Sept 2026).** Starling uses  
 a single sort code across its personal accounts, so the account *number* is  
@@ -494,7 +495,7 @@ is referenced elsewhere.
 | Gainsborough - Joint (unrelated to closed "Groceries - Joint" — see note above) | £130.00 | 2026-11-02 |
 | Starling - Spare Funds (was "Lucy Rent") | £333.00 | 2026-11-02 |
 | Starling - Westgate Rent | £1,000.00 | 2026-11-02 |
-| Starling - Broadband | £32.99 | 2026-11-02 |
+| Starling - Broadband | £0.00 | 2026-11-18 |
 | Starling - Home Insurance | £5.30 | 2026-11-02 |
 | Starling - Water | £0.00 | 2026-11-09 |
 | Starling - Council Tax | £0.00 | 2026-11-09 |
