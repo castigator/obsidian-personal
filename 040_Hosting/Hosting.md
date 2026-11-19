@@ -6,6 +6,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
 claude_sessions:
   - "[[2026-11-10 pebmarsh 0c6dfdff]]"
   - "[[2026-11-13 pebmarsh 5d0addd8]]"
+  - "[[2026-11-19 pebmarsh adf8362f]]"
 ---
 
 ## Hosting
@@ -42,7 +43,7 @@ Claude works on this from `~/workspace/gitlab/private/pebmarsh` (with `/refresh`
 ### Open Items
 
 - **DreamHost:** closed 6 Nov 2026; watch for the closure confirmation and make sure no further charge appears.
-- **Email** ([[Hosting Email]]): move done 4 Nov 2026. DMARC tightened to `p=quarantine` on 11 Nov 2026; check the Quarantined column on the Forward Email dashboard around 18 Nov. Early look 16 Nov 2026: every pebmarsh.com report 11–16 Nov (Google, Outlook, Enterprise Outlook, Yahoo) 100% pass, 0 quarantined, 0 rejected; SPF aligned 0% on the Mailchimp rows is expected (Mailchimp's own bounce domain), DKIM aligned 100%. parishcouncil and courtyardstores have no reports (no mail sent from them). Full check still on 18 Nov. Parish Council site emails now pass DKIM/DMARC via WordPress.com (6 Nov); pcp and parishcouncil SPF trimmed to Forward Email only.
+- **Email** ([[Hosting Email]]): move done 4 Nov 2026. DMARC tightened to `p=quarantine` on 11 Nov 2026; Early look 16 Nov 2026: every pebmarsh.com report 11–16 Nov (Google, Outlook, Enterprise Outlook, Yahoo) 100% pass, 0 quarantined, 0 rejected; SPF aligned 0% on the Mailchimp rows is expected (Mailchimp's own bounce domain), DKIM aligned 100%. parishcouncil and courtyardstores have no reports (no mail sent from them). Formal check 19 Nov 2026: reports 12–17 Nov all 100% pass, 0 quarantined, 0 rejected; `p=quarantine` stays, and `p=reject` is the next step to consider around 2 Dec. Parish Council site emails now pass DKIM/DMARC via WordPress.com (6 Nov); pcp and parishcouncil SPF trimmed to Forward Email only.
 - **PCP (6 Nov):** on Kate's WordPress.com site, pebmarshcommunitypub.com; pcp.pebmarsh.com retired. End of December: delete the pcp Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. Before that, the site's WPForms weekly summary (and possibly its admin email) must stop using admin@pcp.pebmarsh.com (Forward Email flagged it as possible phishing, 9 Nov; Rupert asked Kate to confirm the admin email change the same day; on 9 Nov she couldn't find the confirmation email). **Fixed 11 Nov 2026:** admin email set to rupertthomas@gmail.com, WPForms sends from noreply@pebmarshcommunitypub.com to pcpshareholder@gmail.com, summaries off. Nothing on the site uses a pcp.pebmarsh.com address now. See [[Site - Pebmarsh Community Pub]].
 - **FoPC (6 Nov):** on WordPress.com at **fopc.co.uk** (Belynda's account, Personal); migrated and archived to Drive. friendsofpebmarshchurch.uk redirects to it via a Cloudflare Redirect Rule (Belynda chose fopc.co.uk). Rupert is Administrator; forms now notify team@ only; unneeded plugins removed. See [[Site - Friends of Pebmarsh Church]].
 - **Parish Council: handed over 16 Nov 2026.** Shelley accepted the WordPress.com transfer (pebmarshparishclerk@gmail.com) and changed the admin email to that address. Plan (Personal, $9/month) is the council's, auto-renew on, renews 4 Dec; Rupert removed his own payment method and stays administrator. Rupert keeps the `parishcouncil` DNS records in Cloudflare. Nothing left to do. See [[Site - Parish Council]].
