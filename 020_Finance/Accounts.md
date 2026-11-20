@@ -23,7 +23,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £167.55 | 2026-11-20 |
+| Starling - Main | £65.47 | 2026-11-20 |
 | Starling - Joint | £20.74 | 2026-11-17 |
 | Barclays - Current | £32.65 | 2026-11-19 |
 
