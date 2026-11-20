@@ -10,7 +10,7 @@ claude_sessions:
 
 ## Hosting Correspondence Log
 
-**Last checked:** 2026-11-19
+**Last checked:** 2026-11-20
 
 Newest first. One line per email that matters; routine noise (backup succeeded, marketing) is not logged. Kept up to date by `/refresh`. Back to [[Hosting]].
 
