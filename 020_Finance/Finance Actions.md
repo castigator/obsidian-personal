@@ -6,6 +6,7 @@ claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-18 finance b010d7f2]]"
   - "[[2026-11-18 finance 4367b86c]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 # Finance Actions
 
@@ -14,6 +15,7 @@ Open action points for the finance project. This note is the only list: the proj
 ## Actions
 
 - [ ] Get the new Halifax standard rate (from 19 Nov 2026; Halifax said on 10 Nov it also follows the base-rate rise to 4.00%); needs Heather's November statement (ready in her Halifax inbox 17 Nov, payment due 11 Dec) #claude-action ⏫
+- [ ] Barclaycard 5002 November statement (ready 20 Nov, in Heather's app): new balance and December minimum; may change servicing (via divorce/Heather) #claude-action 🔼
 - [ ] Virgin/Halifax figures: BT fee, Virgin and Halifax balances, new minimums; may change November servicing (via divorce/Heather) #claude-action 🔼
 - [x] Read the ~16 Nov NatWest statement PDF: minimum, interest, next £300 DD date (last DD paid 10 Nov) #claude-action 🔼 📅 2026-11-18 ✅ 2026-11-18
 - [ ] Check the NatWest Space is refilled with £300 before the 11 Dec DD; then read the ~16 Dec statement #claude-action 📅 2026-12-10
@@ -28,7 +30,7 @@ Open action points for the finance project. This note is the only list: the proj
 
 ## Decisions for Rupert
 
-- [ ] Amazon office chair: two £49.99 charges (31 Oct, 7 Nov) and two dispatch emails (2 Nov, 9 Nov), but only one refund so far (+£49.99 to Main 18 Nov, order 203-7859566-3020312, "item not received"). Did the other chair arrive? If not, chase Amazon for the second refund #claude-action 🔼
+- [x] Amazon office chair: two £49.99 charges (31 Oct, 7 Nov) and two dispatch emails (2 Nov, 9 Nov), but only one refund so far (+£49.99 to Main 18 Nov, order 203-7859566-3020312, "item not received"). Did the other chair arrive? If not, chase Amazon for the second refund Resolved: the second chair arrived; the refund was for the cancelled first order, nothing more owed. #claude-action 🔼 ✅ 2026-11-20
 - [ ] Capital One's fixed £100/month DD is on a dormant £0.00 card: switch it to "minimum"? #claude-action
 - [ ] Home Insurance £5.30 (Urban Jungle, 23 Oct) is filed under "Food Support" in Banktivity: re-categorise? #claude-action 🔽
 - [ ] 67 older daily notes still have the old "All Tasks" query, so they show `#claude-action` items: add `tags do not include #claude-action` to them too? (Template and 10 Nov note done.) #claude-action 🔽

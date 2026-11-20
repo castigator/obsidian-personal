@@ -8,6 +8,7 @@ claude_sessions:
   - "[[2026-11-13 divorce 1847605e]]"
   - "[[2026-11-16 divorce 1847605e]]"
   - "[[2026-11-18 divorce 23f39b55]]"
+  - "[[2026-11-20 divorce f756cbb0]]"
 ---
 # Correspondence
 
@@ -18,7 +19,7 @@ the only copies — the git repo's `correspondence/` no longer exists (recoverab
 if ever needed, `git log -- correspondence/` in the divorce repo). New findings from `/refresh` are
 written straight here going forward, not to the repo.
 
-Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **19 Nov 2026** via direct
+Emails pulled from Gmail (rupert@pebmarsh.com). Last checked: **20 Nov 2026** via direct
 Gmail API — see note below. Covering April 2024 – November 2026.
 
 **OAuth token note (28 Jul 2026):** the Gmail API refresh token expired (`invalid_grant: Token has
@@ -147,6 +148,7 @@ Emails from/involving Heather Thomas (heather.heather.thomas@gmail.com / heather
 | 2026-11-16 | [heather-forwards-equity-sheet-to-work_LOCKH.md](heather/2026-11-16_heather-forwards-equity-sheet-to-work_LOCKH.md) 🔒H | Heather emails Rupert's **equity split sheet** from her Gmail to her pebmarsh mailbox, no message. **Identical to Rupert's copy, unedited** (diffed 18 Nov). Not her "figure work". Signal only. |
 | 2026-11-16 | [whatsapp-transcript.md](heather/whatsapp-transcript.md) | **WhatsApp 18:07:** Heather queries the sheet's mortgage £309,748 (30 Sep statement): "redemption value is £311,600 ish". Also 9 Nov 18:00: her figures used £550k, she'll send them and get updated pension values. Transcribed 18 Nov. |
 | 2026-11-17 | (not filed; see finance's Shared Debt note) 🔒H | Halifax **November statement ready** (3123), no figures; next payment due **11 Dec**. Should show the new standard rate and whether the £4,050 Virgin move came off. Same day: Lloyds-branded 0% offer to **30 Nov**, £1,472 available at 11 Nov, implying the Virgin move hadn't come off by then. |
+| 2026-11-20 | (not filed; figure-free notice) 🔒H | Barclaycard 5002 **November statement ready** in Heather's app, no figures in the email. First statement since £7,009.81 (20 Oct, min £195.47 due 16 Nov). New balance and December minimum only via Heather (WhatsApp); ask together with the Halifax November figures. |
 
 ### [subsidence/](subsidence/)
 

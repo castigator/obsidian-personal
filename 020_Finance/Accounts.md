@@ -6,6 +6,7 @@ claude_sessions:
   - "[[2026-11-13 finance c0506440]]"
   - "[[2026-11-18 finance b010d7f2]]"
   - "[[2026-11-18 finance 4367b86c]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 ## Account Catalogue
 
@@ -22,7 +23,7 @@ and prefer the figure in [[Shared Debt]] / [[Loans from Anne]] if more recent.
 
 | Account | Balance | As of |
 |---|---:|---|
-| Starling - Main | £250.40 | 2026-11-19 |
+| Starling - Main | £167.55 | 2026-11-20 |
 | Starling - Joint | £20.74 | 2026-11-17 |
 | Barclays - Current | £32.65 | 2026-11-19 |
 

@@ -4,6 +4,7 @@ claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-16 finance 7e77b214]]"
   - "[[2026-11-18 finance b010d7f2]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 # Shared Debt
 
@@ -74,6 +75,8 @@ Not a missed-payment penalty; Heather also flagged (WhatsApp 27 Aug) that flight
 put on this card, but the statement confirms that spend (£219.61) was paid off within 11 days
 (16→27 Jul) and isn't why the minimum rose. Full detail: vault (divorce project)
 `Correspondence/heather/whatsapp-transcript.md`, 27 Aug 2026 entries.
+
+**📩 20 Nov 2026: Barclaycard (5002) November statement is ready.** Heather's card. The email has no figures; the statement is in Heather's Barclaycard app. Needed for the new balance and December minimum.
 
 **📩 21 Oct 2026: Barclaycard (5002) October statement is ready.** Heather's card. The email has no figures. Heather emailed the statement on 24 Oct: £7,009.81, min £195.47 due 16 Nov (table above).
 
