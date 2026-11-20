@@ -5,6 +5,7 @@ claude_project: /Users/rupert.thomas/workspace/gitlab/private/pebmarsh
 claude_sessions:
   - "[[2026-11-10 pebmarsh 0c6dfdff]]"
   - "[[2026-11-13 pebmarsh 5d0addd8]]"
+  - "[[2026-11-19 pebmarsh adf8362f]]"
 ---
 
 ## Hosting Email
@@ -38,12 +39,12 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 
 | Address | Forwards to | Note |
 |---|---|---|
-| chris.nott@ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet) |
-| tricia.nott@ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet) |
-| swanny@ | swanny@brambles20.fsnet.co.uk | undeliverable (fsnet) |
-| heidi@ | heidi@hpage.fslife.co.uk | undeliverable (fslife) |
-| norman.brown@ | norm@beechcot.fslife.co.uk | undeliverable (fslife) |
-| terry@ | terry@the-barnes.freeserve.co.uk | undeliverable (freeserve) |
+| ~~chris.nott@~~ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet); **deleted at Forward Email 20 Nov 2026** |
+| ~~tricia.nott@~~ | chris@jwpnottfarms.fsnet.co.uk | undeliverable (fsnet); **deleted at Forward Email 20 Nov 2026** |
+| ~~swanny@~~ | swanny@brambles20.fsnet.co.uk | undeliverable (fsnet); **deleted at Forward Email 20 Nov 2026** |
+| ~~heidi@~~ | heidi@hpage.fslife.co.uk | undeliverable (fslife); **deleted at Forward Email 20 Nov 2026** |
+| ~~norman.brown@~~ | norm@beechcot.fslife.co.uk | undeliverable (fslife); **deleted at Forward Email 20 Nov 2026** |
+| ~~terry@~~ | terry@the-barnes.freeserve.co.uk | undeliverable (freeserve); **deleted at Forward Email 20 Nov 2026** |
 | dylan@ | dylan010299@gmail.com | was a mailbox until Nov 2026 |
 | gary.storrar@ | garystorrar@cvshipping.co.uk | |
 | harryness@ | maqj01@dial.pipex.com | |
@@ -72,6 +73,10 @@ Changes since 28 Oct (made by Rupert): `castigator@`, `private@` and `twitter@` 
 `bollox@ernis` was removed with the ernis domain on 29 Oct 2026. friendsofpebmarshchurch.uk, glanceboard and honeycode have no addresses.
 
 ### Follow-ups
+
+- **20 Nov 2026: the six dead old-ISP forwards deleted at Forward Email** (chris.nott@, tricia.nott@, swanny@, heidi@, norman.brown@, terry@; Rupert's decision). They had been disabled with a 550 reject since 2 Nov, had no send password, and the DMARC reports show nobody sending as pebmarsh.com from elsewhere, so nothing changes for anyone: mail to them still bounces. 17 addresses left on pebmarsh.com.
+- **noreply@ is in use: keep it.** The Pebmarsh Mailing List (Mailchimp) uses `noreply@pebmarsh.com` as both From and Reply-To, so replies to campaigns are accepted and silently discarded (noreply@ is disabled with code 250). **Decided 20 Nov 2026 (Rupert): leave it.** It's a broadcast list and he doesn't want replies; silently accepting them looks better than bouncing them. Don't delete noreply@ or change it to reject. webmaster@ (also 250, silent discard) is used by nothing found; kept for now.
+- **Usage check 20 Nov 2026:** no mail to jim@, linda@, mapletree@ or postmaster@ has reached Rupert's Gmail since 2 Nov. Outbound via Forward Email since the move: only rupert@ (38) and heather@ (1, 3 Nov); daisy@ and lucy@ have sent nothing. The only pebmarsh.com address on any website is mailinglist@ (pebmarsh.com).
 
 - **Checked 2 Nov 2026 (MX lookup):** 6 forwards go to domains whose name servers refuse every query, so no mail server can be found and mail almost certainly can't be delivered. The domains are still registered (with CSC, probably for EE), so this isn't proof the mailboxes are closed; a test email or asking the people would confirm. Affected: chris.nott@ and tricia.nott@ (fsnet), swanny@ (fsnet), heidi@ and norman.brown@ (fslife), terry@ (freeserve). Still deliverable: gary.storrar@ (cvshipping, Microsoft 365), harryness@ (pipex, now TalkTalk), ray.hales@ (btopenworld, BT), and roger@, roger.cuthbert@, mailinglist@ (cuthbert.uk.net, Freeola).
 

@@ -27,6 +27,7 @@ Open action points for the pebmarsh (hosting) project. This note is the only lis
 - [ ] PCP: switch the site's admin email from rupertthomas@gmail.com to Kate (she clicks the WordPress confirmation; example screenshot in [[Site - Pebmarsh Community Pub]]). 16 Nov: Kate plans to learn the site; Rupert offered half an hour to go through the basics. 17 Nov: Kate will get in touch in the New Year (nothing before Christmas). #claude-action 🔽
 - [ ] End of December: delete the pcp.pebmarsh.com Forward Email addresses (`chair@`, `admin@`, `rupert@`) and the pcp MX/TXT records. #claude-action 📅 2026-12-31
 - [ ] PCP: <chair@pebmarshcommunitypub.com> forwarding awaits verification by <pcpshareholder@gmail.com>; tell Kate if it lapses. #claude-action 🔽
+- [ ] Decide on jim@, linda@ and mapletree@ (pebmarsh.com): no mail since 2 Nov as of 20 Nov; delete if still nothing. #claude-action 🔽 📅 2026-12-31
 - [ ] Watch for DreamHost's closure confirmation and any further charge. #claude-action 🔽
 
 ### Open Questions
