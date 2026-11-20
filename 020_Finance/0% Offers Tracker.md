@@ -4,6 +4,7 @@ claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
   - "[[2026-11-13 finance c0506440]]"
   - "[[2026-11-16 finance 7e77b214]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 ## 0% Offers Tracker — Every Card, at a Glance
 
@@ -43,7 +44,7 @@ purchase debt; £52.55 of interest was charged on 15 Sept. Confirmed from the
 |---|---|---|---|---|---|
 | NatWest Mastercard (…0354) | 🚨 **No live offer — 0% balance was repaid, not expired** | **26.436%** (2.203% monthly) on the whole balance | n/a | £9,318.92 available (limit £10,000, balance £681.08 as of 10 Nov, Banktivity) | 🚨 **The most expensive live debt Rupert holds.** Being cleared by the £300/month DD (last paid 10 Nov). £52.55 interest charged 15 Sept. See [[NatWest Mastercard]] |
 | Tesco Clubcard (…2484) | Balance transfer *in* | 0% until **Feb 2028 statement** / 4.99% fee (min £5) | Request by **4 Dec 2026** (Nov 2026 letter, [[2026-11-16_tesco-balance-transfer-letter]]; recurring) | ~£1,500.00 available credit (limit £1,500, balance £0.00 as of 2 Nov, see [[Tesco Clubcard Credit Card]]) | **Available** — moves debt onto this card, doesn't produce cash |
-| M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £558.69 headroom (limit £2,000, balance £1,441.31 as of 2 Nov, Banktivity; used 28 Jul for the Atkins Dellow payment) | Headroom grows as the 0% balance is paid down at £175/month |
+| M&S Mastercard (…0265) | Balance transfer *in* | 0% for 12mo from transfer date / 3.49% fee (min £5) | Recurring monthly notice | £558.69 headroom (limit £2,000, balance £1,441.31, confirmed by the 13 Nov statement, BT still 0.00%, next £175 DD 8 Dec; used 28 Jul for the Atkins Dellow payment) | Headroom grows as the 0% balance is paid down at £175/month |
 | Capital One (…7498) | — | none current | — | £1,800 available (£0 balance) | No live offer; highest standard rate (30.34%) if a balance ever lands here |
 
 ### Shared-debt Cards (Heather's / Ann's — not Rupert's to Draw on Directly)

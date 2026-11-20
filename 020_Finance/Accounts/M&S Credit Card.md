@@ -2,6 +2,7 @@
 claude_project: /Users/rupert.thomas/workspace/gitlab/private/finance
 claude_sessions:
   - "[[2026-11-09 finance dfd038ee]]"
+  - "[[2026-11-19 finance f7a9a70f]]"
 ---
 # M&S Credit Card
 
@@ -16,6 +17,9 @@ claude_sessions:
   Originally set by the Atkins Dellow 0% balance-transfer plan executed
   28 Jul 2026 (£1,900 balance transfer + £66.31 fee, 3.49%). See
   [[Solicitor Payment 0% Plan]].
+- **13 Nov 2026 statement (latest) confirms the 0% is still live:** balance £1,441.31 (matches Banktivity; £175 DD applied
+  7 Nov), available £558.69, Balance Transfer 0.00%, estimated interest £0.00. Minimum £36.03, due **8 December 2026**;
+  next £175 DD collected **08/12/26**. See [[2026-11-13_ms-statement-0pc-confirmed]].
 - **13 Sept 2026 statement confirms the 0% is still live:** Balance
   Transfer rate shown as 0.00% (effective p.a.), estimated interest £0.00.
   Minimum payment £44.78, payment due date **8 October 2026**. Next £175
